@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   const ticker = document.getElementById("ticker");
   if (upcoming.length) {
     const items = upcoming
-      .map((e) => `<a href="exam.html?id=${encodeURIComponent(e.id)}">📅 ${esc(e.name)}: <b>${daysLeft(examTime(e))} din baaki</b> (${fmtDate(e.date)})</a>`)
+      .map((e) => `<a href="exam.html?id=${encodeURIComponent(e.id)}">📅 ${esc(e.name)}: <b>${daysLeft(examTime(e))} days left</b> (${fmtDate(e.date)})</a>`)
       .join("");
     ticker.innerHTML = `<span class="label">Exam Alert</span><div class="track">${items}${items}</div>`;
   } else ticker.remove();
@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   // Exam lists
   document.getElementById("upcoming").innerHTML = upcoming.length
     ? upcoming.map(examCardHTML).join("")
-    : `<p class="empty">Abhi koi upcoming exam nahi hai.</p>`;
+    : `<p class="empty">No upcoming exams right now.</p>`;
   if (past.length) {
     document.getElementById("past-wrap").classList.remove("hidden");
     document.getElementById("past").innerHTML = past.map(examCardHTML).join("");
@@ -49,5 +49,5 @@ document.addEventListener("DOMContentLoaded", async () => {
     : esc((site.author || site.name || "?")[0]);
   const socials = socialLinksHTML(site);
   document.getElementById("about-socials").innerHTML =
-    socials || `<p class="muted">Social media links jald aa rahe hain.</p>`;
+    socials || `<p class="muted">Social media links coming soon.</p>`;
 });

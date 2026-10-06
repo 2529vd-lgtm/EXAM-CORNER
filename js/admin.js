@@ -22,19 +22,19 @@ function status(msg, kind = "info") {
 }
 
 const PUBLISHED = (href) =>
-  `✅ Save ho gaya! Website par 1–2 minute mein dikhega${href ? `: <a href="${href}" target="_blank">dekhein</a>` : "."}`;
+  `✅ Saved! It will show on the website in 1–2 minutes${href ? `: <a href="${href}" target="_blank">view</a>` : "."}`;
 
 // Runs a save action with a busy button and a friendly error message.
 async function busy(btn, label, fn) {
   const old = btn.textContent;
   btn.disabled = true;
   btn.textContent = label;
-  status("⏳ Save ho raha hai… page band mat karein.");
+  status("⏳ Saving… please don't close this page.");
   try {
     await fn();
   } catch (e) {
     console.error(e);
-    const hint = e.status === 401 || e.status === 403 ? " Token galat hai ya uski permission kam hai. Logout karke naya token daalein." : "";
+    const hint = e.status === 401 || e.status === 403 ? " The token is wrong or doesn't have enough permission. Log out and enter a new token." : "";
     status(`❌ Error: ${esc(e.message)}.${hint}`, "err");
   } finally {
     btn.disabled = false;
@@ -50,8 +50,8 @@ function savedToken() {
 async function login(token, remember) {
   GH.token = token;
   const info = await GH.repoInfo();
-  if (!info) throw new Error("Repository nahi mili. Token banate waqt EXAM-CORNER repo chuna tha?");
-  if (!info.permissions || !info.permissions.push) throw new Error("Is token ke paas likhne ki permission nahi hai (Contents: Read and write chahiye).");
+  if (!info) throw new Error("Repository not found. Does your token have access to the EXAM-CORNER repo?");
+  if (!info.permissions || !info.permissions.push) throw new Error("This token can't write to the repo (it needs Contents: Read and write).");
   try {
     (remember ? localStorage : sessionStorage).setItem("ghToken", token);
   } catch (e) {}
@@ -88,8 +88,8 @@ function showTab(tab) {
 
 // ---------- Rich text editor (Markdown with toolbar + preview + uploads) ----------
 const TOOLS = [
-  ["H2", "Bada heading", (s) => `\n## ${s || "Heading"}\n`],
-  ["H3", "Chhota heading", (s) => `\n### ${s || "Sub-heading"}\n`],
+  ["H2", "Big heading", (s) => `\n## ${s || "Heading"}\n`],
+  ["H3", "Small heading", (s) => `\n### ${s || "Sub-heading"}\n`],
   ["B", "Bold", (s) => `**${s || "bold text"}**`],
   ["I", "Italic", (s) => `*${s || "italic text"}*`],
   ["• List", "Bullet list", (s) => "\n" + (s || "point").split("\n").map((l) => `- ${l}`).join("\n") + "\n"],
@@ -97,7 +97,7 @@ const TOOLS = [
   ["❝ Quote", "Quote / highlight box", (s) => `\n> ${s || "Important line"}\n`],
   ["🔗 Link", "Link", (s) => `[${s || "link text"}](https://)`],
   ["▦ Table", "Table", () => `\n| Column 1 | Column 2 |\n|---|---|\n| ... | ... |\n`],
-  ["🙈 Answer", "Answer jo click karne par dikhe (PYQ ke liye)", (s) => `\n<details><summary>Answer dekhein</summary>\n\n${s || "Answer yahan likhein"}\n\n</details>\n`],
+  ["🙈 Answer", "Answer that shows on click (for PYQs)", (s) => `\n<details><summary>Show answer</summary>\n\n${s || "Write the answer here"}\n\n</details>\n`],
   ["― Line", "Divider line", () => `\n---\n`],
 ];
 
@@ -105,11 +105,11 @@ function editorHTML(id, value, rows = 16) {
   return `<div class="editor" data-editor="${id}">
     <div class="editor-tools">
       ${TOOLS.map((t, i) => `<button type="button" class="icon-btn" data-tool="${i}" title="${esc(t[1])}">${esc(t[0])}</button>`).join("")}
-      <button type="button" class="icon-btn" data-upload="image" title="Photo upload karein">🖼️ Photo</button>
-      <button type="button" class="icon-btn" data-upload="file" title="PDF ya koi file upload karein">📎 PDF/File</button>
-      <button type="button" class="icon-btn" data-preview title="Kaisa dikhega">👁️ Preview</button>
+      <button type="button" class="icon-btn" data-upload="image" title="Upload a photo">🖼️ Photo</button>
+      <button type="button" class="icon-btn" data-upload="file" title="Upload a PDF or any file">📎 PDF/File</button>
+      <button type="button" class="icon-btn" data-preview title="See how it will look">👁️ Preview</button>
     </div>
-    <textarea id="${id}" rows="${rows}" placeholder="Yahan likhna shuru karein… (toolbar se heading, bold, list, photo add kar sakte hain)">${esc(value || "")}</textarea>
+    <textarea id="${id}" rows="${rows}" placeholder="Start writing here… (use the toolbar to add headings, bold, lists and photos)">${esc(value || "")}</textarea>
     <div class="preview prose hidden" id="${id}-preview"></div>
   </div>`;
 }
@@ -143,14 +143,14 @@ function setupEditors(root) {
           const path = await uploadFile(file);
           const isImg = file.type.startsWith("image/");
           insertAtCursor(ta, isImg ? `\n![${file.name}](${path})\n` : `\n[📄 ${file.name} (download/open)](${path})\n`);
-          status("✅ File upload ho gayi. Ab content save karna na bhoolein.", "ok");
+          status("✅ File uploaded. Don't forget to save.", "ok");
         });
       } else if (b.dataset.preview !== undefined) {
         const showing = !pv.classList.contains("hidden");
         pv.classList.toggle("hidden", showing);
         ta.classList.toggle("hidden", !showing);
         b.textContent = showing ? "👁️ Preview" : "✏️ Edit";
-        if (!showing) pv.innerHTML = previewHTML(ta.value) || "<p class='muted'>Kuch nahi likha.</p>";
+        if (!showing) pv.innerHTML = previewHTML(ta.value) || "<p class='muted'>Nothing written yet.</p>";
       }
     });
   });
@@ -167,11 +167,11 @@ function pickFile(accept) {
 }
 
 async function uploadFile(file) {
-  if (file.size > MAX_UPLOAD_MB * 1024 * 1024) throw new Error(`File ${MAX_UPLOAD_MB} MB se badi hai`);
+  if (file.size > MAX_UPLOAD_MB * 1024 * 1024) throw new Error(`File is larger than ${MAX_UPLOAD_MB} MB`);
   const base64 = await new Promise((resolve, reject) => {
     const r = new FileReader();
     r.onload = () => resolve(String(r.result).split(",")[1]);
-    r.onerror = () => reject(new Error("File padh nahi paye"));
+    r.onerror = () => reject(new Error("Could not read the file"));
     r.readAsDataURL(file);
   });
   const d = today();
@@ -188,7 +188,7 @@ function imageFieldHTML(id, label, value) {
   return `<div class="field">
     <label for="${id}">${label}</label>
     <div style="display:flex;gap:8px">
-      <input id="${id}" value="${esc(value || "")}" placeholder="Upload karein ya image link paste karein" />
+      <input id="${id}" value="${esc(value || "")}" placeholder="Upload, or paste an image link" />
       <button type="button" class="btn small ghost" data-image-upload="${id}">Upload</button>
     </div>
   </div>`;
@@ -201,7 +201,7 @@ function setupImageFields(root) {
       if (!file) return;
       await busy(b, "…", async () => {
         $(b.dataset.imageUpload).value = await uploadFile(file);
-        status("✅ Photo upload ho gayi. Ab Save/Publish dabayein.", "ok");
+        status("✅ Photo uploaded. Now click Save/Publish.", "ok");
       });
     })
   );
@@ -215,16 +215,16 @@ function examList() {
   $("view").innerHTML = `<div class="panel">
     <div style="display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:8px">
       <h2 style="margin:0">Exams (${list.length})</h2>
-      <button class="btn" id="new-exam">+ Naya exam</button>
+      <button class="btn" id="new-exam">+ New exam</button>
     </div>
-    <p class="help">Exam ka naam, date (countdown ke liye), syllabus aur subjects yahan set karein. Notes/PYQ/Mock "Study Material" tab se daalein.</p>
+    <p class="help">Set each exam's name, date (for the countdown), syllabus and subjects here. Add notes, PYQs and mock tests from the "Study Material" tab.</p>
     <ul class="admin-list">
       ${list.map((e) => `<li><div><b>${esc(e.name)}</b><div class="meta">${fmtDate(e.date)} · ${(e.subjects || []).length} subjects · ${DB.items.filter((i) => i.exam === e.id).length} items</div></div>
         <span class="actions">
           <a class="btn small ghost" href="exam.html?id=${encodeURIComponent(e.id)}" target="_blank">View</a>
           <button class="btn small ghost" data-edit="${esc(e.id)}">Edit</button>
           <button class="btn small outline" data-del="${esc(e.id)}">Delete</button>
-        </span></li>`).join("") || `<li class="muted">Abhi koi exam nahi hai.</li>`}
+        </span></li>`).join("") || `<li class="muted">No exams yet.</li>`}
     </ul>
   </div>`;
   $("new-exam").onclick = () => examForm(null);
@@ -233,15 +233,15 @@ function examList() {
     (b.onclick = () => {
       const ex = DB.exams.find((e) => e.id === b.dataset.del);
       const count = DB.items.filter((i) => i.exam === ex.id).length;
-      if (count) return status(`⚠️ "${esc(ex.name)}" mein ${count} notes/tests hain. Pehle unhe Study Material tab se delete karein.`, "err");
-      if (!confirm(`"${ex.name}" delete karein?`)) return;
+      if (count) return status(`⚠️ "${esc(ex.name)}" has ${count} notes/tests. Delete them from the Study Material tab first.`, "err");
+      if (!confirm(`Delete "${ex.name}"?`)) return;
       busy(b, "…", async () => {
         const data = await GH.updateJSON(PATHS.exams, { exams: [] }, (d) => {
           d.exams = d.exams.filter((x) => x.id !== ex.id);
         }, `Delete exam: ${ex.name}`);
         DB.exams = data.exams;
         examList();
-        status("🗑️ Exam delete ho gaya.", "ok");
+        status("🗑️ Exam deleted.", "ok");
       });
     })
   );
@@ -249,16 +249,16 @@ function examList() {
 
 function subjectRowHTML(s = {}) {
   return `<div class="subject-row" data-id="${esc(s.id || "")}">
-    <input class="subject-name" value="${esc(s.name || "")}" placeholder="Subject ka naam, jaise History" />
+    <input class="subject-name" value="${esc(s.name || "")}" placeholder="Subject name, e.g. History" />
     <button type="button" class="btn small outline" data-remove-subject>✕</button>
   </div>`;
 }
 
 function examForm(ex) {
   $("view").innerHTML = `<div class="panel">
-    <h2>${ex ? "Exam edit karein" : "Naya exam"}</h2>
+    <h2>${ex ? "Edit exam" : "New exam"}</h2>
     <div class="row">
-      <div class="field"><label for="e-name">Exam ka naam *</label><input id="e-name" value="${esc(ex?.name)}" placeholder="BPSC 72nd Prelims" /></div>
+      <div class="field"><label for="e-name">Exam name *</label><input id="e-name" value="${esc(ex?.name)}" placeholder="BPSC 72nd Prelims" /></div>
       <div class="field"><label for="e-full">Poora naam (optional)</label><input id="e-full" value="${esc(ex?.fullName)}" placeholder="Bihar Public Service Commission…" /></div>
     </div>
     <div class="row">
@@ -272,7 +272,7 @@ function examForm(ex) {
       <button type="button" class="btn small ghost" id="add-subject">+ Subject jodein</button>
     </div>
     <div style="display:flex;gap:8px;flex-wrap:wrap">
-      <button class="btn" id="e-save">${ex ? "Update karein" : "💾 Save karein"}</button>
+      <button class="btn" id="e-save">${ex ? "Update" : "💾 Save"}</button>
       <button class="btn ghost" id="e-cancel">Cancel</button>
     </div>
   </div>`;
@@ -284,7 +284,7 @@ function examForm(ex) {
     if (!b) return;
     const row = b.closest(".subject-row");
     const used = ex && row.dataset.id && DB.items.some((i) => i.exam === ex.id && i.subject === row.dataset.id);
-    if (used && !confirm("Is subject mein notes/tests hain. Hatane par wo 'General' mein dikhenge. Hatayein?")) return;
+    if (used && !confirm("This subject has notes/tests. If you remove it they will show under 'General'. Remove it?")) return;
     row.remove();
   });
   $("e-save").onclick = () => {
@@ -309,7 +309,7 @@ function examForm(ex) {
       syllabus: $("e-syllabus").value,
       subjects,
     };
-    if (!exam.name || !exam.date) return status("⚠️ Exam ka naam aur date zaroori hai.", "err");
+    if (!exam.name || !exam.date) return status("⚠️ Exam name and date are required.", "err");
     busy($("e-save"), "Saving…", async () => {
       const data = await GH.updateJSON(PATHS.exams, { exams: [] }, (d) => {
         const i = d.exams.findIndex((x) => x.id === exam.id);
@@ -330,7 +330,7 @@ let itemFilter = "";
 
 function itemList() {
   if (!DB.exams.length) {
-    $("view").innerHTML = `<div class="panel"><p>Pehle <b>Exams</b> tab mein ek exam banayein, phir uske notes yahan daalein.</p></div>`;
+    $("view").innerHTML = `<div class="panel"><p>First create an exam in the <b>Exams</b> tab, then add its notes here.</p></div>`;
     return;
   }
   const typeLabel = (t) => (ITEM_TYPES.find((x) => x.id === t) || {}).label || t;
@@ -338,9 +338,9 @@ function itemList() {
   $("view").innerHTML = `<div class="panel">
     <div style="display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:8px;flex-wrap:wrap">
       <h2 style="margin:0">Study Material (${list.length})</h2>
-      <button class="btn" id="new-item">+ Naya notes / PYQ / mock</button>
+      <button class="btn" id="new-item">+ New notes / PYQ / mock</button>
     </div>
-    <div class="field"><select id="item-filter"><option value="">Sab exams</option>
+    <div class="field"><select id="item-filter"><option value="">All exams</option>
       ${DB.exams.map((e) => `<option value="${esc(e.id)}" ${e.id === itemFilter ? "selected" : ""}>${esc(e.name)}</option>`).join("")}</select></div>
     <ul class="admin-list">
       ${list.map((i) => {
@@ -353,7 +353,7 @@ function itemList() {
             <button class="btn small ghost" data-edit="${esc(i.id)}">Edit</button>
             <button class="btn small outline" data-del="${esc(i.id)}">Delete</button>
           </span></li>`;
-      }).join("") || `<li class="muted">Abhi kuch nahi hai.</li>`}
+      }).join("") || `<li class="muted">Nothing here yet.</li>`}
     </ul>
   </div>`;
   $("item-filter").onchange = (e) => { itemFilter = e.target.value; itemList(); };
@@ -362,7 +362,7 @@ function itemList() {
   $("view").querySelectorAll("[data-del]").forEach((b) =>
     (b.onclick = () => {
       const it = DB.items.find((x) => x.id === b.dataset.del);
-      if (!confirm(`"${it.title}" delete karein?`)) return;
+      if (!confirm(`Delete "${it.title}"?`)) return;
       busy(b, "…", async () => {
         await GH.remove(PATHS.item(it), `Delete ${it.type}: ${it.title}`);
         const data = await GH.updateJSON(PATHS.items, { items: [] }, (d) => {
@@ -370,20 +370,20 @@ function itemList() {
         }, `Remove from study material index: ${it.title}`);
         DB.items = data.items;
         itemList();
-        status("🗑️ Delete ho gaya.", "ok");
+        status("🗑️ Deleted.", "ok");
       });
     })
   );
 }
 
 const TYPE_HELP = {
-  long: "Detail notes likhein. Heading, list, table, photo sab use kar sakte hain.",
-  short: "Revision ke liye chhote points likhein.",
-  mindmap: "Mind map ke liye: sabse upar <code># Topic</code>, phir <code>## Branch</code> aur unke neeche <code>- point</code> likhein. Ye apne aap mind map ban jayega. Ya sirf 🖼️ Photo button se mind map ki image upload kar dein.",
-  pyq: "Question likhein, aur answer ko <b>🙈 Answer</b> button se chhupa dein taaki padhne wala pehle khud soche. PDF bhi 📎 se upload kar sakte hain.",
+  long: "Write detailed notes. You can use headings, lists, tables and photos.",
+  short: "Write short points for revision.",
+  mindmap: "For a mind map: write <code># Topic</code> at the top, then <code>## Branch</code>, with <code>- point</code> lines under each branch. It becomes a mind map automatically. Or just upload a mind map image with the 🖼️ Photo button.",
+  pyq: "Write the question, and hide the answer with the <b>🙈 Answer</b> button so the reader thinks first. You can also upload a PDF with 📎.",
 };
 
-const MINDMAP_TEMPLATE = `# Topic ka naam
+const MINDMAP_TEMPLATE = `# Topic name
 ## Branch 1
 - Point 1
 - Point 2
@@ -400,7 +400,7 @@ async function itemForm(it) {
   let body = "";
   let test = { duration: 10, negative: 0, questions: [] };
   if (it) {
-    status("⏳ Load ho raha hai…");
+    status("⏳ Loading…");
     const f = await GH.read(PATHS.item(it));
     status("");
     if (f) {
@@ -412,7 +412,7 @@ async function itemForm(it) {
   const examId = it?.exam || itemFilter || DB.exams[0].id;
 
   $("view").innerHTML = `<div class="panel">
-    <h2>${it ? "Edit karein" : "Naya study material"}</h2>
+    <h2>${it ? "Edit" : "New study material"}</h2>
     <div class="row">
       <div class="field"><label for="i-exam">Exam *</label><select id="i-exam">
         ${DB.exams.map((e) => `<option value="${esc(e.id)}" ${e.id === examId ? "selected" : ""}>${esc(e.name)}</option>`).join("")}</select></div>
@@ -434,27 +434,27 @@ async function itemForm(it) {
     <div id="mock-box">
       <div class="row">
         <div class="field"><label for="m-duration">Time (minutes)</label><input type="number" min="1" id="m-duration" value="${esc(test.duration)}" /></div>
-        <div class="field"><label for="m-negative">Negative marking (galat answer par kitna katega)</label><input type="number" min="0" step="0.01" id="m-negative" value="${esc(test.negative)}" /></div>
+        <div class="field"><label for="m-negative">Negative marking (marks cut per wrong answer)</label><input type="number" min="0" step="0.01" id="m-negative" value="${esc(test.negative)}" /></div>
       </div>
       <details class="qbuild" style="margin-bottom:14px">
-        <summary><b>⚡ Bahut saare questions ek saath paste karein</b></summary>
-        <p class="help">Is format mein likhein (Word/WhatsApp se copy-paste bhi chalega):</p>
-        <pre class="help" style="background:var(--surface);padding:8px;border-radius:6px;overflow-x:auto">1. Question ka text?
+        <summary><b>⚡ Paste many questions at once</b></summary>
+        <p class="help">Use this format (copy-paste from Word or WhatsApp works too):</p>
+        <pre class="help" style="background:var(--surface);padding:8px;border-radius:6px;overflow-x:auto">1. Question text?
 A) Option 1
 B) Option 2
 C) Option 3
 D) Option 4
 Answer: B
-Explanation: Kyunki…</pre>
-        <textarea id="bulk" rows="8" placeholder="Questions yahan paste karein…"></textarea>
-        <button type="button" class="btn small" id="bulk-add" style="margin-top:8px">Questions jodein</button>
+Explanation: Because…</pre>
+        <textarea id="bulk" rows="8" placeholder="Paste questions here…"></textarea>
+        <button type="button" class="btn small" id="bulk-add" style="margin-top:8px">Add questions</button>
       </details>
       <div id="qlist"></div>
       <button type="button" class="btn small ghost" id="add-q">+ Ek question jodein</button>
     </div>
 
     <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:16px">
-      <button class="btn" id="i-save">${it ? "Update karein" : "🚀 Publish karein"}</button>
+      <button class="btn" id="i-save">${it ? "Update" : "🚀 Publish"}</button>
       <button class="btn ghost" id="i-cancel">Cancel</button>
     </div>
   </div>`;
@@ -484,12 +484,12 @@ Explanation: Kyunki…</pre>
   $("add-q").onclick = () => { mockQs.push({ q: "", options: ["", "", "", ""], answer: null, explanation: "" }); drawQuestions(); };
   $("bulk-add").onclick = () => {
     const parsed = parseQuestions($("bulk").value);
-    if (!parsed.length) return status("⚠️ Koi question samajh nahi aaya. Upar diya format check karein.", "err");
+    if (!parsed.length) return status("⚠️ Couldn't read any questions. Please check the format above.", "err");
     mockQs.push(...parsed);
     $("bulk").value = "";
     drawQuestions();
     const noAns = parsed.filter((q) => q.answer === null).length;
-    status(`✅ ${parsed.length} questions jud gaye.${noAns ? ` ⚠️ ${noAns} mein answer nahi mila, neeche sahi option chunein.` : ""}`, noAns ? "info" : "ok");
+    status(`✅ Added ${parsed.length} questions.${noAns ? ` ⚠️ No answer found for ${noAns}; pick the correct option below.` : ""}`, noAns ? "info" : "ok");
   };
 
   $("i-save").onclick = () => {
@@ -503,7 +503,7 @@ Explanation: Kyunki…</pre>
       summary: $("i-summary").value.trim(),
       date: $("i-date").value || today(),
     };
-    if (!meta.title) return status("⚠️ Title zaroori hai.", "err");
+    if (!meta.title) return status("⚠️ Title is required.", "err");
     let content;
     if (type === "mock") {
       const questions = [];
@@ -511,10 +511,10 @@ Explanation: Kyunki…</pre>
         const opts = q.options.map((o, i) => ({ o: o.trim(), i })).filter((x) => x.o);
         const ans = opts.findIndex((x) => x.i === q.answer);
         if (!q.q.trim() || opts.length < 2 || ans < 0)
-          return status(`⚠️ Question ${n + 1} adhoora hai: question, kam se kam 2 options aur sahi answer chunna zaroori hai.`, "err");
+          return status(`⚠️ Question ${n + 1} is incomplete: it needs the question, at least 2 options and the correct answer.`, "err");
         questions.push({ q: q.q.trim(), options: opts.map((x) => x.o), answer: ans, explanation: (q.explanation || "").trim() });
       }
-      if (!questions.length) return status("⚠️ Kam se kam ek question jodein.", "err");
+      if (!questions.length) return status("⚠️ Add at least one question.", "err");
       const duration = Math.max(1, Number($("m-duration").value) || questions.length);
       const negative = Math.max(0, Number($("m-negative").value) || 0);
       content = JSON.stringify({ duration, negative, questions }, null, 2) + "\n";
@@ -548,7 +548,7 @@ function drawQuestions() {
           ${q.options.map((o, i) => `<input type="radio" name="ans-${n}" data-ans="${i}" ${q.answer === i ? "checked" : ""} title="Sahi answer" />
             <input data-opt="${i}" value="${esc(o)}" placeholder="Option ${"ABCDEF"[i]}" />`).join("")}
         </div>
-        <p class="help">⬅️ Sahi answer ke aage wala gola chunein.</p>
+        <p class="help">⬅️ Select the circle next to the correct answer.</p>
         <input data-f="explanation" value="${esc(q.explanation)}" placeholder="Explanation (optional)" style="margin-top:6px" />
       </div>`
     )
@@ -620,23 +620,23 @@ function parseQuestions(text) {
 // Settings: site name, about, social media links
 // =====================================================================
 const SOCIAL_HINTS = {
-  instagram: "https://instagram.com/aapka_username",
-  youtube: "https://youtube.com/@aapka_channel",
-  facebook: "https://facebook.com/aapka_page",
-  x: "https://x.com/aapka_username",
-  telegram: "https://t.me/aapka_channel",
-  whatsapp: "Number (91XXXXXXXXXX) ya channel link",
-  linkedin: "https://linkedin.com/in/aapka_naam",
-  threads: "https://threads.net/@aapka_username",
-  github: "https://github.com/aapka_username",
-  email: "aapka@email.com",
+  instagram: "https://instagram.com/your_username",
+  youtube: "https://youtube.com/@your_channel",
+  facebook: "https://facebook.com/your_page",
+  x: "https://x.com/your_username",
+  telegram: "https://t.me/your_channel",
+  whatsapp: "Number (91XXXXXXXXXX) or channel link",
+  linkedin: "https://linkedin.com/in/your_name",
+  threads: "https://threads.net/@your_username",
+  github: "https://github.com/your_username",
+  email: "you@email.com",
 };
 
 function settingsForm() {
   const s = DB.site;
   $("view").innerHTML = `<div class="panel">
     <h2>🔗 Social media links</h2>
-    <p class="help" style="margin-bottom:12px">Jo link daalenge, uska logo website par dikhega (home page, har notes ke neeche aur footer mein). Khali chhodne par wo logo nahi dikhega.</p>
+    <p class="help" style="margin-bottom:12px">Each link you add shows its logo on the website (home page, below notes and in the footer). Leave a box empty to hide that logo.</p>
     ${SOCIALS.map((p) => `<div class="field" style="display:grid;grid-template-columns:44px 1fr;gap:10px;align-items:center">
       <span class="social" style="--brand:${p.color}">${ICONS[p.id]}</span>
       <div><label for="s-${p.id}" style="margin:0">${p.label}</label>
@@ -646,14 +646,14 @@ function settingsForm() {
   <div class="panel">
     <h2>Website settings</h2>
     <div class="row">
-      <div class="field"><label for="s-name">Website ka naam</label><input id="s-name" value="${esc(s.name)}" /></div>
-      <div class="field"><label for="s-author">Aapka naam (author)</label><input id="s-author" value="${esc(s.author)}" /></div>
+      <div class="field"><label for="s-name">Website name</label><input id="s-name" value="${esc(s.name)}" /></div>
+      <div class="field"><label for="s-author">Your name (author)</label><input id="s-author" value="${esc(s.author)}" /></div>
     </div>
-    <div class="field"><label for="s-tagline">Tagline (naam ke neeche)</label><input id="s-tagline" value="${esc(s.tagline)}" /></div>
-    ${imageFieldHTML("s-photo", "Aapki photo (About section)", s.photo)}
+    <div class="field"><label for="s-tagline">Tagline (below the name)</label><input id="s-tagline" value="${esc(s.tagline)}" /></div>
+    ${imageFieldHTML("s-photo", "Your photo (About section)", s.photo)}
     <div class="field"><label for="s-about">About me</label><textarea id="s-about" rows="5">${esc(s.about)}</textarea></div>
   </div>
-  <button class="btn" id="s-save">💾 Save karein</button>`;
+  <button class="btn" id="s-save">💾 Save</button>`;
   setupImageFields($("view"));
   $("s-save").onclick = () =>
     busy($("s-save"), "Saving…", async () => {
@@ -688,15 +688,15 @@ document.addEventListener("DOMContentLoaded", async () => {
   $("login-btn").onclick = () =>
     busy($("login-btn"), "Checking…", async () => {
       const token = $("token").value.trim();
-      if (!token) throw new Error("Token khali hai");
+      if (!token) throw new Error("Token is empty");
       await login(token, $("remember").checked);
     });
   const saved = savedToken();
   if (saved) {
-    status("⏳ Login ho raha hai…");
+    status("⏳ Logging in…");
     let remembered = false;
     try { remembered = !!localStorage.getItem("ghToken"); } catch (e) {}
     try { await login(saved, remembered); }
-    catch (e) { status(`Purana token kaam nahi kar raha (${esc(e.message)}). Naya token daalein.`, "err"); }
+    catch (e) { status(`The saved token isn't working (${esc(e.message)}). Please enter a new token.`, "err"); }
   }
 });

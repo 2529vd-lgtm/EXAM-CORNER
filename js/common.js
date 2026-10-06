@@ -139,7 +139,7 @@ async function renderChrome(active) {
 // ---------- Countdown ----------
 function countdownHTML(target) {
   const diff = target - Date.now();
-  if (diff <= 0) return `<span class="cd-done">Exam ho gaya ✅</span>`;
+  if (diff <= 0) return `<span class="cd-done">Exam is over ✅</span>`;
   const d = Math.floor(diff / 86400000);
   const h = Math.floor((diff / 3600000) % 24);
   const m = Math.floor((diff / 60000) % 60);

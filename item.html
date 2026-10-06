@@ -6,7 +6,7 @@
   <title>Notes</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Merriweather:wght@400;700;900&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/style.css?v=3" />
 </head>
 <body>
   <div id="site-header"></div>
@@ -17,13 +17,13 @@
 
   <div id="site-footer"></div>
 
-  <script src="js/vendor/marked.umd.js"></script>
-  <script src="js/vendor/purify.min.js"></script>
-  <script src="js/config.js"></script>
-  <script src="js/icons.js"></script>
-  <script src="js/common.js"></script>
-  <script src="js/share.js"></script>
-  <script src="js/mindmap.js"></script>
+  <script src="js/vendor/marked.umd.js?v=3"></script>
+  <script src="js/vendor/purify.min.js?v=3"></script>
+  <script src="js/config.js?v=3"></script>
+  <script src="js/icons.js?v=3"></script>
+  <script src="js/common.js?v=3"></script>
+  <script src="js/share.js?v=3"></script>
+  <script src="js/mindmap.js?v=3"></script>
   <script>
     document.addEventListener("DOMContentLoaded", async () => {
       const site = await renderChrome("home");
@@ -33,7 +33,7 @@
         loadJSON("content/exam-items.json", { items: [] }),
       ]);
       const item = items.find((i) => i.id === param("id"));
-      if (!item) return showError(reader, "Ye notes nahi mile.");
+      if (!item) return showError(reader, "Notes not found.");
       if (item.type === "mock") return location.replace(`mock.html?id=${encodeURIComponent(item.id)}`);
 
       const exam = exams.find((e) => e.id === item.exam) || { id: item.exam, name: item.exam, subjects: [] };
@@ -41,7 +41,7 @@
       const typeLabel = (ITEM_TYPES.find((t) => t.id === item.type) || {}).label || "";
       let body = "";
       try { body = await loadText(`content/exam-items/${item.id}.md`); }
-      catch (e) { return showError(reader, "Load nahi ho paya. Thodi der baad try karein."); }
+      catch (e) { return showError(reader, "Could not load this. Please try again in a little while."); }
       document.title = `${item.title} | ${site.name}`;
 
       const back = `exam.html?id=${encodeURIComponent(exam.id)}&view=material&subject=${encodeURIComponent(item.subject || "all")}&type=${item.type}`;
@@ -55,7 +55,7 @@
           <span class="meta"><span class="tag">${esc(typeLabel)}</span> ${fmtDate(item.date)}${isMap ? "" : " · " + readingTime(body)}</span>
           <span class="tools"><span id="font-controls"></span><button class="icon-btn" onclick="window.print()" title="Print / Save as PDF">🖨️</button></span>
         </div>
-        ${isMap ? `<div class="mindmap-wrap"><p class="help no-print">Zoom/drag kar sakte hain. Kisi point par click karke usse khol/band kar sakte hain.</p><svg class="mindmap" id="mindmap"></svg></div>` : ""}
+        ${isMap ? `<div class="mindmap-wrap"><p class="help no-print">You can zoom and drag. Click any point to open or close it.</p><svg class="mindmap" id="mindmap"></svg></div>` : ""}
         <div class="prose ${isMap ? "hidden" : ""}" id="prose">${renderMarkdown(body)}</div>
         ${shareHTML(item.title)}
         <p class="no-print"><a href="${back}">← Back to ${esc(exam.name)} ${esc(typeLabel)}</a></p>`;

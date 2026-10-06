@@ -6,7 +6,7 @@
   <title>Exam</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Merriweather:wght@400;700;900&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/style.css?v=3" />
 </head>
 <body>
   <div id="site-header"></div>
@@ -17,11 +17,11 @@
 
   <div id="site-footer"></div>
 
-  <script src="js/vendor/marked.umd.js"></script>
-  <script src="js/vendor/purify.min.js"></script>
-  <script src="js/config.js"></script>
-  <script src="js/icons.js"></script>
-  <script src="js/common.js"></script>
+  <script src="js/vendor/marked.umd.js?v=3"></script>
+  <script src="js/vendor/purify.min.js?v=3"></script>
+  <script src="js/config.js?v=3"></script>
+  <script src="js/icons.js?v=3"></script>
+  <script src="js/common.js?v=3"></script>
   <script>
     document.addEventListener("DOMContentLoaded", async () => {
       const site = await renderChrome("home");
@@ -31,7 +31,7 @@
         loadJSON("content/exam-items.json", { items: [] }),
       ]);
       const exam = exams.find((e) => e.id === param("id"));
-      if (!exam) return showError(main, "Ye exam nahi mila.");
+      if (!exam) return showError(main, "Exam not found.");
       document.title = `${exam.name} | ${site.name}`;
 
       const subjects = exam.subjects || [];
@@ -53,11 +53,11 @@
           <button class="tab" data-view="syllabus">📘 Syllabus</button>
           <button class="tab" data-view="material">📚 Subject-wise Study Material</button>
         </div>
-        <div id="syllabus" class="panel prose">${renderMarkdown(exam.syllabus || "Syllabus jald add hoga.")}</div>
+        <div id="syllabus" class="panel prose">${renderMarkdown(exam.syllabus || "Syllabus coming soon.")}</div>
         <div id="material">
-          <label>Subject chunein</label>
+          <label>Choose a subject</label>
           <div class="tabs" id="subject-tabs"></div>
-          <label>Kya padhna hai?</label>
+          <label>What do you want to study?</label>
           <div class="tabs" id="type-tabs"></div>
           <div class="grid" id="items"></div>
         </div>`;
@@ -99,7 +99,7 @@
                 </a>`;
               })
               .join("")
-          : `<p class="empty">Is subject mein abhi ${esc(ITEM_TYPES.find((t) => t.id === type).label)} nahi hai.</p>`;
+          : `<p class="empty">No ${esc(ITEM_TYPES.find((t) => t.id === type).label)} in this subject yet.</p>`;
       };
 
       main.addEventListener("click", (e) => {

@@ -9,10 +9,10 @@ document.addEventListener("DOMContentLoaded", async () => {
     loadJSON("content/exam-items.json", { items: [] }),
   ]);
   const meta = items.find((i) => i.id === param("id") && i.type === "mock");
-  if (!meta) return showError(root, "Ye mock test nahi mila.");
+  if (!meta) return showError(root, "Mock test not found.");
   let test;
   try { test = await loadJSON(`content/exam-items/${meta.id}.json`); }
-  catch (e) { return showError(root, "Test load nahi ho paya. Thodi der baad try karein."); }
+  catch (e) { return showError(root, "Could not load the test. Please try again in a little while."); }
 
   const exam = exams.find((e) => e.id === meta.exam) || { id: meta.exam, name: meta.exam, subjects: [] };
   const subject = (exam.subjects || []).find((s) => s.id === meta.subject);
@@ -40,11 +40,11 @@ document.addEventListener("DOMContentLoaded", async () => {
           <div><b>${negative ? "−" + negative : "0"}</b>Wrong</div>
         </div>
         <ul style="padding-left:20px;margin-bottom:16px" class="muted">
-          <li>Har question ka ek hi sahi answer hai.</li>
-          <li>Timer khatam hote hi test apne aap submit ho jayega.</li>
-          <li>"Mark for review" se question ko baad mein dekhne ke liye mark kar sakte hain.</li>
+          <li>Each question has only one correct answer.</li>
+          <li>The test is submitted automatically when the timer ends.</li>
+          <li>Use "Mark for review" to mark a question and come back to it later.</li>
         </ul>
-        ${qs.length ? `<button class="btn" id="start">▶ Start Test</button>` : `<p class="empty">Is test mein abhi questions nahi hain.</p>`}
+        ${qs.length ? `<button class="btn" id="start">▶ Start Test</button>` : `<p class="empty">This test has no questions yet.</p>`}
       </div>`;
     const start = document.getElementById("start");
     if (start) start.onclick = begin;
@@ -77,7 +77,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     document.getElementById("clear").onclick = () => { answers[current] = null; drawQuestion(); drawPalette(); };
     document.getElementById("submit").onclick = () => {
       const left = answers.filter((a) => a === null).length;
-      if (confirm(left ? `${left} question(s) ka answer nahi diya. Phir bhi submit karein?` : "Test submit karein?")) finish();
+      if (confirm(left ? `You haven't answered ${left} question(s). Submit anyway?` : "Submit the test?")) finish();
     };
     document.getElementById("palette").onclick = (e) => {
       const b = e.target.closest("button[data-i]");
@@ -95,7 +95,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const el = document.getElementById("timer");
     el.textContent = `⏱ ${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`;
     el.classList.toggle("low", left < 60000);
-    if (left <= 0) { alert("Time khatam! Test submit ho raha hai."); finish(); }
+    if (left <= 0) { alert("Time's up! Submitting your test."); finish(); }
   }
 
   function go(i) {
@@ -165,7 +165,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             <div class="meta">Q${i + 1} · ${status}</div>
             <div class="qtext">${md(q.q)}</div>
             ${q.options
-              .map((o, j) => `<div class="option ${j === c ? "correct" : j === a ? "wrong" : ""}"><span><b>${LETTERS[j]}.</b> ${esc(o)}${j === c ? " ✔" : ""}${j === a && j !== c ? " (aapka answer)" : ""}</span></div>`)
+              .map((o, j) => `<div class="option ${j === c ? "correct" : j === a ? "wrong" : ""}"><span><b>${LETTERS[j]}.</b> ${esc(o)}${j === c ? " ✔" : ""}${j === a && j !== c ? " (your answer)" : ""}</span></div>`)
               .join("")}
             ${q.explanation ? `<div class="explain"><b>Explanation:</b> ${md(q.explanation)}</div>` : ""}
           </div>`;
