@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const items = upcoming
       .map((e) => `<a href="exam.html?id=${encodeURIComponent(e.id)}">📅 ${esc(e.name)}: <b>${daysLeft(examTime(e))} days left</b> (${fmtDate(e.date)})</a>`)
       .join("");
-    ticker.innerHTML = `<span class="label">Exam Alert</span><div class="track">${items}${items}</div>`;
+    ticker.innerHTML = `<span class="label">Exam Alert</span><div class="track-wrap"><div class="track">${items}${items}</div></div>`;
   } else ticker.remove();
 
   // Exam lists
