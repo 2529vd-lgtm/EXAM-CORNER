@@ -1,4 +1,9 @@
 
+[📄 Day10_Statistical_Methods_Notes.pdf (download/open)](uploads/2026/10/muwi7rw3-day10-statistical-methods-notes.pdf)
+
+[📄 Day09_Unit9_Indian_Economy_II_Notes.pdf (download/open)](uploads/2026/10/muwi81em-day09-unit9-indian-economy-ii-notes.pdf)
+
+[📄 Day08_Unit8_Handwritten_Notes.pdf (download/open)](uploads/2026/10/muwi845l-day08-unit8-handwritten-notes.pdf)
 [📄 Day01_Unit1_Handwritten_Notes.pdf (download/open)](uploads/2026/10/muwhuicj-day01-unit1-handwritten-notes.pdf)
 
 [📄 Day02_Unit2_Macro_Handwritten_Notes.pdf (download/open)](uploads/2026/10/muwhus17-day02-unit2-macro-handwritten-notes.pdf)
