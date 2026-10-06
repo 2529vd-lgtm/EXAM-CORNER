@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Home</title>
+  <meta name="description" content="Exam Corner: competitive exams ka countdown, syllabus, subject-wise notes, mind maps, PYQs aur mock tests." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Merriweather:wght@400;700;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div id="site-header"></div>
+
+  <main>
+    <div class="container">
+      <div class="masthead" id="masthead"></div>
+      <div class="ticker" id="ticker"></div>
+    </div>
+
+    <section class="container">
+      <div class="section-head"><h2>🎯 Upcoming exams</h2></div>
+      <p class="page-sub">Kisi bhi exam par click karein: syllabus, subject-wise notes (long, short, mind map), PYQ aur mock test.</p>
+      <div class="grid" id="upcoming"></div>
+    </section>
+
+    <section class="container hidden" id="past-wrap">
+      <div class="section-head"><h2>Past exams</h2></div>
+      <div class="grid" id="past"></div>
+    </section>
+
+    <section class="container" id="about">
+      <div class="section-head"><h2>About</h2></div>
+      <div class="about">
+        <div class="avatar" id="avatar"></div>
+        <div>
+          <h3 id="about-name" style="font-family:var(--serif);font-size:1.5rem"></h3>
+          <div class="prose" id="about-text" style="font-size:1rem"></div>
+          <h4 style="margin-top:12px">Follow me</h4>
+          <div class="socials" id="about-socials"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div id="site-footer"></div>
+
+  <script src="js/vendor/marked.umd.js"></script>
+  <script src="js/vendor/purify.min.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/icons.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/home.js"></script>
+</body>
+</html>
