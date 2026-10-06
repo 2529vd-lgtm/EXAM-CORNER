@@ -1,7 +1,6 @@
-// Study timer: a digital countdown you set yourself. It keeps running across
+// Study timer: a digital countdown you set yourself (hours, minutes, seconds). It keeps running across
 // pages and reloads because the end time is saved in this browser.
 const TIMER_KEY = "studyTimer";
-const TIMER_PRESETS = [15, 25, 45, 60, 90, 120];
 
 function timerLoad() {
   try { return JSON.parse(localStorage.getItem(TIMER_KEY)) || {}; } catch (e) { return {}; }
@@ -40,11 +39,8 @@ function setupStudyTimer(el) {
     <div class="st-display" id="st-display" aria-live="polite">00:00:00</div>
     <div class="st-set" id="st-set">
       <label>Hours<input type="number" id="st-h" min="0" max="23" value="0" inputmode="numeric" /></label>
-      <label>Minutes<input type="number" id="st-m" min="0" max="59" value="25" inputmode="numeric" /></label>
+      <label>Minutes<input type="number" id="st-m" min="0" max="59" value="0" inputmode="numeric" /></label>
       <label>Seconds<input type="number" id="st-s" min="0" max="59" value="0" inputmode="numeric" /></label>
-    </div>
-    <div class="st-presets" id="st-presets">
-      ${TIMER_PRESETS.map((m) => `<button type="button" class="btn small ghost" data-min="${m}">${m < 60 ? m + " min" : m / 60 + " hr"}</button>`).join("")}
     </div>
     <div class="st-actions">
       <button type="button" class="btn" id="st-start">▶ Start</button>
@@ -66,7 +62,6 @@ function setupStudyTimer(el) {
     display.classList.toggle("low", running && left <= 60000);
     $("st-start").textContent = running ? "⏸ Pause" : state.left != null ? "▶ Resume" : "▶ Start";
     $("st-set").classList.toggle("hidden", running || state.left != null);
-    $("st-presets").classList.toggle("hidden", running || state.left != null);
     $("st-label").textContent = state.done ? "Time's up! 🎉" : running ? "Running…" : state.left != null ? "Paused" : "";
     document.title = running ? `${fmtClock(left)} ⏱️ ${document.title.replace(/^\d\d:\d\d:\d\d ⏱️ /, "")}` : document.title.replace(/^\d\d:\d\d:\d\d ⏱️ /, "");
   };
@@ -82,14 +77,6 @@ function setupStudyTimer(el) {
     } catch (e) {}
   };
 
-  $("st-presets").addEventListener("click", (e) => {
-    const m = e.target.closest("[data-min]")?.dataset.min;
-    if (!m) return;
-    $("st-h").value = Math.floor(m / 60);
-    $("st-m").value = m % 60;
-    $("st-s").value = 0;
-    draw();
-  });
   el.querySelectorAll("#st-set input").forEach((i) => i.addEventListener("input", draw));
 
   $("st-start").onclick = () => {
