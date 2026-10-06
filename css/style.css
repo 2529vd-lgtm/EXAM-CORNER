@@ -312,3 +312,27 @@ footer { border-top: 1px solid var(--border); padding: 24px 0; text-align: cente
   #site-header, #site-footer, .byline .tools, .share, .no-print { display: none !important; }
   body { background: #fff; color: #000; }
 }
+
+/* ---------- Study timer ---------- */
+.study-timer { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 18px; }
+.st-head { display: flex; justify-content: space-between; align-items: center; gap: 8px; margin-bottom: 8px; }
+.st-label { font-size: 0.85rem; font-weight: 600; }
+.st-display {
+  font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; font-variant-numeric: tabular-nums;
+  font-size: clamp(2.2rem, 9vw, 3.2rem); font-weight: 800; letter-spacing: 0.04em; text-align: center;
+  background: #111317; color: #4cff8f; border-radius: 8px; padding: 10px 6px; margin-bottom: 12px;
+  text-shadow: 0 0 10px rgba(76, 255, 143, 0.45);
+}
+.st-display.low { color: #ffb84c; text-shadow: 0 0 10px rgba(255, 184, 76, 0.45); }
+.st-display.done { color: #ff5a60; text-shadow: 0 0 10px rgba(255, 90, 96, 0.5); animation: st-blink 1s steps(2, start) infinite; }
+@keyframes st-blink { to { visibility: hidden; } }
+@media (prefers-reduced-motion: reduce) { .st-display.done { animation: none; } }
+.st-set { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 10px; }
+.st-set label { font-size: 0.78rem; font-weight: 600; color: var(--muted); display: flex; flex-direction: column; gap: 4px; }
+.st-set input { text-align: center; font-size: 1.05rem; padding: 6px; }
+.st-presets { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+.st-actions { display: flex; gap: 8px; }
+.st-actions .btn { flex: 1; justify-content: center; }
+.hero-row { display: grid; grid-template-columns: 1fr minmax(260px, 340px); gap: 20px; align-items: start; margin-bottom: 24px; }
+.hero-row .exam-hero { margin-bottom: 0; }
+@media (max-width: 760px) { .hero-row { grid-template-columns: 1fr; } }

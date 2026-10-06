@@ -6,7 +6,7 @@
   <title>Exam</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Merriweather:wght@400;700;900&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="css/style.css?v=4" />
+  <link rel="stylesheet" href="css/style.css?v=5" />
 </head>
 <body>
   <div id="site-header"></div>
@@ -17,11 +17,12 @@
 
   <div id="site-footer"></div>
 
-  <script src="js/vendor/marked.umd.js?v=4"></script>
-  <script src="js/vendor/purify.min.js?v=4"></script>
-  <script src="js/config.js?v=4"></script>
-  <script src="js/icons.js?v=4"></script>
-  <script src="js/common.js?v=4"></script>
+  <script src="js/vendor/marked.umd.js?v=5"></script>
+  <script src="js/vendor/purify.min.js?v=5"></script>
+  <script src="js/config.js?v=5"></script>
+  <script src="js/icons.js?v=5"></script>
+  <script src="js/common.js?v=5"></script>
+  <script src="js/timer.js?v=5"></script>
   <script>
     document.addEventListener("DOMContentLoaded", async () => {
       const site = await renderChrome("home");
@@ -42,12 +43,15 @@
 
       main.innerHTML = `
         <div class="breadcrumb"><a href="index.html">Exam Corner</a> › ${esc(exam.name)}</div>
+        <div class="hero-row">
         <div class="exam-hero">
           <h1 class="page-title">${esc(exam.name)}</h1>
           ${exam.fullName ? `<p class="muted">${esc(exam.fullName)}</p>` : ""}
           <p style="margin:10px 0 6px"><b>Exam date:</b> ${fmtDate(exam.date, { weekday: "long", day: "numeric", month: "long", year: "numeric" })}${exam.time ? `, ${esc(exam.time)}` : ""}</p>
           <div class="countdown big" data-countdown="${examTime(exam).toISOString()}"></div>
           ${exam.description ? `<div class="prose" style="font-size:0.98rem;margin-top:14px">${renderMarkdown(exam.description)}</div>` : ""}
+        </div>
+        <div id="study-timer"></div>
         </div>
         <div class="tabs" id="view-tabs">
           <button class="tab" data-view="syllabus">📘 Syllabus</button>
@@ -62,6 +66,7 @@
           <div class="grid" id="items"></div>
         </div>`;
       startCountdowns();
+      setupStudyTimer(document.getElementById("study-timer"));
 
       const syncURL = () => {
         const p = new URLSearchParams({ id: exam.id });

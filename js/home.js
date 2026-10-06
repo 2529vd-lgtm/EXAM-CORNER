@@ -40,6 +40,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     document.getElementById("past").innerHTML = past.map(examCardHTML).join("");
   }
   startCountdowns();
+  setupStudyTimer(document.getElementById("study-timer"));
 
   // About + socials
   document.getElementById("about-name").textContent = site.author || site.name;
