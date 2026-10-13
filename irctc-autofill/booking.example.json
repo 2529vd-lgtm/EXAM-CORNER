@@ -1,0 +1,19 @@
+{
+  "journey": {
+    "from": "NEW DELHI - NDLS",
+    "to": "MUMBAI CENTRAL - MMCT",
+    "date": "25/12/2026",
+    "class": "3A",
+    "quota": "GENERAL"
+  },
+  "passengers": [
+    {"name": "Rahul Sharma", "age": 30, "gender": "M", "berth": "Lower"},
+    {"name": "Anita Sharma", "age": 28, "gender": "F", "berth": "No Preference"}
+  ],
+  "mobile": "9876543210",
+  "options": {
+    "autoUpgrade": false,
+    "confirmBerthsOnly": false,
+    "paymentMode": "UPI"
+  }
+}
