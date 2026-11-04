@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "bm-start-pattern",
+      "exam": "bpsc-mains-economics",
+      "subject": "start",
+      "type": "long",
+      "title": "BPSC Mains: which exams have Economics, pattern and answer writing",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "bm-your-mains-notes",
+      "exam": "bpsc-mains-economics",
+      "subject": "start",
+      "type": "short",
+      "title": "Your Gemini notes: BPSC Mains high-yield (10 questions)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "bm-your-prelims-notes",
+      "exam": "bpsc-mains-economics",
+      "subject": "start",
+      "type": "short",
+      "title": "Your Gemini notes: BPSC Prelims 75 high-yield points",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "bm-eco-syllabus",
+      "exam": "bpsc-mains-economics",
+      "subject": "eco",
+      "type": "long",
+      "title": "Economics (Mains): syllabus mapped to full notes",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "bm-eco-bihar-economy",
+      "exam": "bpsc-mains-economics",
+      "subject": "eco",
+      "type": "long",
+      "title": "Bihar Economy: complete notes (2026 data)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "bm-eco-practice",
+      "exam": "bpsc-mains-economics",
+      "subject": "eco",
+      "type": "pyq",
+      "title": "Economics Mains: 8 practice questions with answer frameworks",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "bm-bihar-test",
+      "exam": "bpsc-mains-economics",
+      "subject": "eco",
+      "type": "mock",
+      "title": "Bihar Economy & BPSC facts: 20 solved MCQs",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "bm-gs1-notes",
+      "exam": "bpsc-mains-economics",
+      "subject": "gs1",
+      "type": "long",
+      "title": "GS-I: culture, modern history, current events, statistics",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "bm-gs2-notes",
+      "exam": "bpsc-mains-economics",
+      "subject": "gs2",
+      "type": "long",
+      "title": "GS-II: polity, economy & geography of Bihar and India, S&T",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "bm-gs-practice",
+      "exam": "bpsc-mains-economics",
+      "subject": "gs1",
+      "type": "pyq",
+      "title": "GS-I & GS-II: 10 practice questions with answer frameworks",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "bm-essay-guide",
+      "exam": "bpsc-mains-economics",
+      "subject": "essay",
+      "type": "long",
+      "title": "Essay: structure, model outline and topic bank",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "bm-hindi-guide",
+      "exam": "bpsc-mains-economics",
+      "subject": "hindi",
+      "type": "long",
+      "title": "सामान्य हिन्दी: पाठ्यक्रम, व्याकरण और अभ्यास",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
       "id": "ape-start-plan",
       "exam": "asst-prof-economics",
       "subject": "start",

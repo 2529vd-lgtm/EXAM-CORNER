@@ -1,0 +1,226 @@
+{
+ "duration": 20,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "Bihar's GSDP growth at current prices in 2024-25 (Bihar Economic Survey 2025-26) was:",
+   "options": [
+    "13.1%",
+    "9.8%",
+    "17.9%",
+    "8.6%"
+   ],
+   "answer": 0,
+   "explanation": "13.1% at current prices; 8.6% at constant prices. India's current-price growth was 9.8%."
+  },
+  {
+   "q": "Bihar's per-capita GSDP at current prices in 2024-25 was about:",
+   "options": [
+    "₹76,490",
+    "₹40,973",
+    "₹46,412",
+    "₹1,05,000"
+   ],
+   "answer": 0,
+   "explanation": "₹76,490 (current); ₹40,973 at constant prices."
+  },
+  {
+   "q": "Bihar was the first state to give women 50% reservation in panchayats, in:",
+   "options": [
+    "2016",
+    "2011",
+    "2006",
+    "1993"
+   ],
+   "answer": 2,
+   "explanation": "Bihar Panchayat Raj Act, 2006."
+  },
+  {
+   "q": "Liquor prohibition in Bihar began on:",
+   "options": [
+    "2 October 2016",
+    "15 August 2017",
+    "5 April 2016",
+    "1 April 2015"
+   ],
+   "answer": 2,
+   "explanation": "Under the Bihar Prohibition and Excise Act, 2016."
+  },
+  {
+   "q": "Which district is famous for Shahi Litchi (GI tag)?",
+   "options": [
+    "Darbhanga",
+    "Muzaffarpur",
+    "Bhagalpur",
+    "Gaya"
+   ],
+   "answer": 1,
+   "explanation": "Shahi Litchi of Muzaffarpur got a GI tag in 2018."
+  },
+  {
+   "q": "Bihar's 4th Agriculture Road Map covers:",
+   "options": [
+    "2023–28",
+    "2012–17",
+    "2017–22",
+    "2008–12"
+   ],
+   "answer": 0,
+   "explanation": "Earlier maps: 2008–12, 2012–17, 2017–22."
+  },
+  {
+   "q": "Jeevika in Bihar is mainly a programme for:",
+   "options": [
+    "Industrial parks",
+    "Tax collection",
+    "Road construction",
+    "Women's self-help groups and livelihoods"
+   ],
+   "answer": 3,
+   "explanation": "Bihar Rural Livelihoods Promotion Society, started 2006 with World Bank support."
+  },
+  {
+   "q": "According to the Bihar caste survey (2023), the largest group was:",
+   "options": [
+    "Unreserved",
+    "OBC",
+    "SC",
+    "EBC (Extremely Backward Classes)"
+   ],
+   "answer": 3,
+   "explanation": "EBC 36.01%, OBC 27.12%, SC 19.65%, unreserved 15.52%, ST 1.68%."
+  },
+  {
+   "q": "The Kosi river is known as:",
+   "options": [
+    "Sorrow of Bihar",
+    "Ganga of the north",
+    "Lifeline of Magadh",
+    "Son of Himalaya"
+   ],
+   "answer": 0,
+   "explanation": "Because of frequent floods and shifting course."
+  },
+  {
+   "q": "Bihar's first Ramsar site is:",
+   "options": [
+    "Nagi Dam",
+    "Barela Lake",
+    "Kanwar (Kabartal) Lake, Begusarai",
+    "Nakti Dam"
+   ],
+   "answer": 2,
+   "explanation": "Kabartal was declared a Ramsar site in 2020."
+  },
+  {
+   "q": "The APMC Act in Bihar was repealed in:",
+   "options": [
+    "2016",
+    "2006",
+    "1991",
+    "2020"
+   ],
+   "answer": 1,
+   "explanation": "Bihar abolished regulated mandis in 2006."
+  },
+  {
+   "q": "Saat Nischay (first) was launched in:",
+   "options": [
+    "2010",
+    "2020",
+    "2025",
+    "2015"
+   ],
+   "answer": 3,
+   "explanation": "Saat Nischay-2 followed in 2020; Saat Nischay-3 frames the 2026-27 budget."
+  },
+  {
+   "q": "Bihar's budget for 2026-27 is about:",
+   "options": [
+    "₹3.17 lakh crore",
+    "₹4.38 lakh crore",
+    "₹2.79 lakh crore",
+    "₹3.47 lakh crore"
+   ],
+   "answer": 3,
+   "explanation": "₹3,47,589.76 crore, presented on 3 Feb 2026."
+  },
+  {
+   "q": "Bihar's multidimensional poverty (NITI Aayog MPI 2023) fell from 51.89% to:",
+   "options": [
+    "11.28%",
+    "45.00%",
+    "24.82%",
+    "33.76%"
+   ],
+   "answer": 3,
+   "explanation": "2015-16 to 2019-21; still the highest among states."
+  },
+  {
+   "q": "Champaran Satyagraha took place in:",
+   "options": [
+    "1919",
+    "1915",
+    "1917",
+    "1921"
+   ],
+   "answer": 2,
+   "explanation": "Gandhi's first satyagraha in India."
+  },
+  {
+   "q": "Bihar Provincial Kisan Sabha was founded by Swami Sahajanand Saraswati in:",
+   "options": [
+    "1936",
+    "1929",
+    "1942",
+    "1919"
+   ],
+   "answer": 1,
+   "explanation": "The All India Kisan Sabha was formed in 1936."
+  },
+  {
+   "q": "Nalanda Mahavihara was founded by:",
+   "options": [
+    "Kumaragupta I",
+    "Dharmapala",
+    "Harsha",
+    "Ashoka"
+   ],
+   "answer": 0,
+   "explanation": "Dharmapala founded Vikramshila."
+  },
+  {
+   "q": "Urbanisation in Bihar (Census 2011) was about:",
+   "options": [
+    "31.2%",
+    "18.5%",
+    "22.0%",
+    "11.3%"
+   ],
+   "answer": 3,
+   "explanation": "Among the lowest in India."
+  },
+  {
+   "q": "Bihar's outstanding debt on 31 March 2025 was about what share of GSDP?",
+   "options": [
+    "50%",
+    "22%",
+    "29%",
+    "37.7%"
+   ],
+   "answer": 3,
+   "explanation": "₹3,74,134 crore = 37.7% of GSDP."
+  },
+  {
+   "q": "In BPSC CCE Mains, General Hindi is:",
+   "options": [
+    "100 marks, qualifying",
+    "Not part of Mains",
+    "200 marks, merit",
+    "300 marks, merit"
+   ],
+   "answer": 0,
+   "explanation": "A minimum (reported 30 marks) is needed for other papers to be evaluated."
+  }
+ ]
+}

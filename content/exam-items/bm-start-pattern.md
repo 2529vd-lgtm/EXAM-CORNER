@@ -1,0 +1,42 @@
+## BPSC exams that have a Mains, and where Economics comes in
+
+| Exam | Mains papers | Economics? |
+|---|---|---|
+| **BPSC CCE** (Combined Competitive Exam, 63rd–71st and next) | General Hindi (qualifying, 100) · **GS-I (300)** · **GS-II (300)** · **Essay (300)** · Optional | **Economics is one of the optional subjects.** In recent cycles the optional is reported as **100 marks, objective and qualifying** (not counted in merit). Earlier cycles (up to 68th) had a 300-mark descriptive optional. |
+| **BPSC Auditor / Assistant Audit Officer (AAO) Mains** | General Hindi · GS-I · GS-II · Optional (300 marks, 3 h, as reported) | **Economics is an optional**, along with Commerce (some sources also list Mathematics and Statistics). |
+| Other BPSC exams with a Mains (ASO, CDPO, departmental exams) | usually General Hindi + GS + subject paper | check the notification; Economics appears mainly in GS-II (Indian Economy and Bihar) |
+
+> ⚠️ The CCE optional rules changed recently and sources differ. Always confirm the current pattern in the official notification on [bpsc.bihar.gov.in](https://bpsc.bihar.gov.in).
+>
+> **If you can tell me what "DSO" and "APO" stand for (e.g. District Statistical Officer, Assistant Prosecution Officer), I will add their papers here too.**
+
+## CCE Mains in one view
+
+| Paper | Marks | What counts |
+|---|---|---|
+| General Hindi | 100 | qualifying (minimum 30) |
+| GS-I | 300 | merit |
+| GS-II | 300 | merit |
+| Essay | 300 | merit (three essays) |
+| Optional (e.g. Economics) | 100 (recent) | qualifying |
+| Interview | 120 | merit |
+
+## How this section is organised
+1. **Economics (Mains)**: syllabus mapped to full notes, **Bihar Economy** notes, practice questions with answer frameworks, and an objective test.
+2. **GS-I**: Indian culture, modern history (Bihar focus), current events, statistics & data interpretation.
+3. **GS-II**: polity, Indian & Bihar economy and geography, science & technology.
+4. **Essay**: structure, model outline, topic bank.
+5. **General Hindi**: syllabus and practice, in Hindi.
+6. **Your uploads**: your own Gemini revision notes are linked under "Start Here".
+
+## Answer-writing rules for BPSC Mains
+- **Read the directive word**: *discuss* (both sides), *examine* (causes and effects), *critically analyse* (judge with evidence), *comment* (your view with reasons).
+- **Structure**: intro (2–3 lines with a fact) → body with sub-headings → **Bihar angle** → way forward → conclusion.
+- **Always add Bihar data**: GSDP growth, per-capita income, a state scheme (Saat Nischay, Jeevika, Jal-Jeevan-Hariyali), or a district example.
+- **Use diagrams** in Economics and Geography answers (flow charts, maps of Bihar's rivers, simple graphs).
+- **Time**: about 7–8 minutes for a long answer; never leave a question.
+
+## About old question papers
+The papers you uploaded are **coaching test series** (Eduteria, Lekhni 3.0, Prahar). They are useful for practice, but they are not BPSC's official papers, and some are scanned images. Official Mains papers since 2015 (63rd–71st CCE, Auditor) are needed to add every real previous question here. If you upload those PDFs, each question will be added with a model answer.
+
+**Note:** coaching test series are usually paid, copyrighted material. Keeping them in a public repository can be a problem; consider removing them or making the repository private.
