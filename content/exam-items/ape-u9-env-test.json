@@ -1,0 +1,171 @@
+{
+ "duration": 18,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "Coase theorem (1960) suggests externalities can be solved through:",
+   "options": [
+    "Quotas only",
+    "Bargaining with clear property rights",
+    "Nationalisation",
+    "Pigouvian taxes"
+   ],
+   "answer": 1,
+   "explanation": "With low transaction costs, bargaining is efficient."
+  },
+  {
+   "q": "Hotelling rule says that the rent of an exhaustible resource rises at:",
+   "options": [
+    "The growth rate of GDP",
+    "Zero",
+    "The rate of inflation",
+    "The rate of interest"
+   ],
+   "answer": 3,
+   "explanation": "Harold Hotelling (1931)."
+  },
+  {
+   "q": "The travel cost method is a:",
+   "options": [
+    "Stated preference method",
+    "Production function method",
+    "Revealed preference method",
+    "Cost–benefit ratio"
+   ],
+   "answer": 2,
+   "explanation": "It infers value from what people spend to visit a site."
+  },
+  {
+   "q": "Contingent valuation asks people about:",
+   "options": [
+    "Their travel costs",
+    "Their willingness to pay or accept",
+    "Medical expenses",
+    "House prices"
+   ],
+   "answer": 1,
+   "explanation": "It is a survey-based stated preference method."
+  },
+  {
+   "q": "Environmental Kuznets curve shows the relation between pollution and income as:",
+   "options": [
+    "Flat",
+    "Inverted U",
+    "Linear rising",
+    "U-shaped"
+   ],
+   "answer": 1,
+   "explanation": "Pollution first rises then falls as income grows."
+  },
+  {
+   "q": "India's net-zero target year announced at COP26 is:",
+   "options": [
+    "2060",
+    "2047",
+    "2070",
+    "2050"
+   ],
+   "answer": 2,
+   "explanation": "Part of the 'Panchamrit' commitments."
+  },
+  {
+   "q": "The Kyoto Protocol was adopted in:",
+   "options": [
+    "2005",
+    "2015",
+    "1997",
+    "1992"
+   ],
+   "answer": 2,
+   "explanation": "Adopted 1997; in force 2005."
+  },
+  {
+   "q": "'Tragedy of the commons' was written by:",
+   "options": [
+    "Elinor Ostrom",
+    "Pigou",
+    "Ronald Coase",
+    "Garrett Hardin"
+   ],
+   "answer": 3,
+   "explanation": "Garrett Hardin, Science (1968)."
+  },
+  {
+   "q": "Replacement level total fertility rate is:",
+   "options": [
+    "1.0",
+    "2.5",
+    "3.0",
+    "2.1"
+   ],
+   "answer": 3,
+   "explanation": "About 2.1 children per woman."
+  },
+  {
+   "q": "India's TFR according to NFHS-5 is:",
+   "options": [
+    "2.2",
+    "1.8",
+    "2.4",
+    "2.0"
+   ],
+   "answer": 3,
+   "explanation": "Below replacement level."
+  },
+  {
+   "q": "Malthus' theory says population grows in:",
+   "options": [
+    "Logistic curve",
+    "Constant rate",
+    "Arithmetic progression",
+    "Geometric progression"
+   ],
+   "answer": 3,
+   "explanation": "Food supply grows in arithmetic progression."
+  },
+  {
+   "q": "Sex ratio in NFHS-5 was:",
+   "options": [
+    "943",
+    "1020",
+    "933",
+    "1000"
+   ],
+   "answer": 1,
+   "explanation": "Females per 1000 males; Census 2011 gave 943."
+  },
+  {
+   "q": "Tradable pollution permits are cost-effective because:",
+   "options": [
+    "The government sets each firm's emissions",
+    "Pollution falls to zero",
+    "They raise government revenue",
+    "Firms with low abatement cost abate more"
+   ],
+   "answer": 3,
+   "explanation": "Trade equalises marginal abatement costs across firms."
+  },
+  {
+   "q": "Brundtland Report is titled:",
+   "options": [
+    "Our Common Future",
+    "Silent Spring",
+    "Limits to Growth",
+    "Small is Beautiful"
+   ],
+   "answer": 0,
+   "explanation": "1987, World Commission on Environment and Development."
+  },
+  {
+   "q": "Dependency ratio is:",
+   "options": [
+    "(0–14 + 65+) / 15–64",
+    "Births / deaths",
+    "Urban / rural",
+    "Working-age / dependents"
+   ],
+   "answer": 0,
+   "explanation": "Dependents per working-age person."
+  }
+ ]
+}

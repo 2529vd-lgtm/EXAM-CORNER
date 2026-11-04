@@ -1,0 +1,171 @@
+{
+ "duration": 18,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "If TR = 100Q − 2Q² and TC = 20Q + Q², profit-maximising output is:",
+   "options": [
+    "25",
+    "13.33",
+    "20",
+    "10"
+   ],
+   "answer": 1,
+   "explanation": "π = 80Q − 3Q²; dπ/dQ = 80 − 6Q = 0 gives Q = 13.33."
+  },
+  {
+   "q": "For Q = 20P⁻², price elasticity of demand is:",
+   "options": [
+    "−1",
+    "Varies with P",
+    "−2",
+    "−20"
+   ],
+   "answer": 2,
+   "explanation": "For Q = aP⁻ᵇ elasticity is constant at −b."
+  },
+  {
+   "q": "With U = x^0.4 y^0.6 and income ₹1000, Px = ₹10, demand for x is:",
+   "options": [
+    "100",
+    "60",
+    "40",
+    "400"
+   ],
+   "answer": 2,
+   "explanation": "x = αM/Px = 0.4 × 1000/10 = 40."
+  },
+  {
+   "q": "In the Lagrangian consumer problem, λ measures:",
+   "options": [
+    "Total utility",
+    "Marginal utility of good x",
+    "Marginal utility of money income",
+    "Price ratio"
+   ],
+   "answer": 2,
+   "explanation": "λ is the shadow price of the budget constraint, the marginal utility of income."
+  },
+  {
+   "q": "Q = AL^0.6 K^0.5 shows:",
+   "options": [
+    "Cannot say",
+    "Constant returns",
+    "Increasing returns",
+    "Decreasing returns"
+   ],
+   "answer": 2,
+   "explanation": "α + β = 1.1 > 1, so increasing returns to scale."
+  },
+  {
+   "q": "Hawkins–Simon conditions relate to:",
+   "options": [
+    "Linear programming",
+    "Cobweb model",
+    "Input–output analysis",
+    "Game theory"
+   ],
+   "answer": 2,
+   "explanation": "All principal minors of (I − A) must be positive for a viable solution."
+  },
+  {
+   "q": "Demand functions are homogeneous of degree:",
+   "options": [
+    "0",
+    "1",
+    "−1",
+    "2"
+   ],
+   "answer": 0,
+   "explanation": "Doubling all prices and income leaves demand unchanged (no money illusion)."
+  },
+  {
+   "q": "If P = 50 − 2Q and market price is 30, consumer surplus is:",
+   "options": [
+    "100",
+    "300",
+    "200",
+    "50"
+   ],
+   "answer": 0,
+   "explanation": "Q = 10; CS = ½ × 10 × (50 − 30) = 100."
+  },
+  {
+   "q": "The simplex method was developed by:",
+   "options": [
+    "Koopmans",
+    "Kantorovich",
+    "Dantzig",
+    "Leontief"
+   ],
+   "answer": 2,
+   "explanation": "George Dantzig, 1947."
+  },
+  {
+   "q": "For a function z = f(x, y), a maximum requires f_xx < 0 and:",
+   "options": [
+    "f_xy = 0",
+    "f_yy > 0",
+    "f_xx f_yy − f_xy² < 0",
+    "f_xx f_yy − f_xy² > 0"
+   ],
+   "answer": 3,
+   "explanation": "The Hessian determinant must be positive."
+  },
+  {
+   "q": "Euler's theorem with constant returns implies:",
+   "options": [
+    "Output is exactly exhausted by marginal product payments",
+    "Profits are maximum",
+    "MC = AC",
+    "Factors earn less than output"
+   ],
+   "answer": 0,
+   "explanation": "L·MPL + K·MPK = Q when the function is homogeneous of degree 1."
+  },
+  {
+   "q": "In the cobweb model Qd = a − bP(t), Qs = c + dP(t−1), the path converges if:",
+   "options": [
+    "d < b",
+    "b = 0",
+    "d = b",
+    "d > b"
+   ],
+   "answer": 0,
+   "explanation": "Price oscillations shrink when supply responds less than demand to price."
+  },
+  {
+   "q": "The determinant of [4 2; 3 5] is:",
+   "options": [
+    "20",
+    "14",
+    "−14",
+    "26"
+   ],
+   "answer": 1,
+   "explanation": "4 × 5 − 2 × 3 = 14."
+  },
+  {
+   "q": "Elasticity of substitution of a Leontief (fixed proportions) function is:",
+   "options": [
+    "Negative",
+    "1",
+    "0",
+    "∞"
+   ],
+   "answer": 2,
+   "explanation": "Inputs cannot be substituted at all."
+  },
+  {
+   "q": "In a zero-sum game, a saddle point exists when:",
+   "options": [
+    "There are mixed strategies only",
+    "Maximin = minimax",
+    "Maximin < minimax",
+    "Maximin > minimax"
+   ],
+   "answer": 1,
+   "explanation": "The value of the game equals both, and pure strategies are optimal."
+  }
+ ]
+}

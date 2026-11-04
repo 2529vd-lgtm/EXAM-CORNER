@@ -1,0 +1,171 @@
+{
+ "duration": 18,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "For two positive numbers, AM = 10 and HM = 6.4. GM is:",
+   "options": [
+    "9",
+    "7",
+    "8.2",
+    "8"
+   ],
+   "answer": 3,
+   "explanation": "GM² = AM × HM = 64, so GM = 8."
+  },
+  {
+   "q": "If byx = 0.8 and bxy = 0.2, the correlation coefficient is:",
+   "options": [
+    "0.4",
+    "0.8",
+    "0.5",
+    "0.16"
+   ],
+   "answer": 0,
+   "explanation": "r = √(0.8 × 0.2) = √0.16 = 0.4 (positive because both coefficients are positive)."
+  },
+  {
+   "q": "For a Poisson distribution:",
+   "options": [
+    "Mean = variance",
+    "Variance = 0",
+    "Mean > variance",
+    "Mean < variance"
+   ],
+   "answer": 0,
+   "explanation": "Both mean and variance equal λ."
+  },
+  {
+   "q": "Which index number satisfies both time reversal and factor reversal tests?",
+   "options": [
+    "Marshall–Edgeworth",
+    "Fisher",
+    "Laspeyres",
+    "Paasche"
+   ],
+   "answer": 1,
+   "explanation": "Fisher's ideal index √(L × P) satisfies both reversal tests."
+  },
+  {
+   "q": "Under the Gauss–Markov assumptions, OLS estimators are:",
+   "options": [
+    "BLUE",
+    "Consistent but biased",
+    "Maximum likelihood only",
+    "Unbiased only"
+   ],
+   "answer": 0,
+   "explanation": "Best Linear Unbiased Estimators. Normality is not needed for this result."
+  },
+  {
+   "q": "A Durbin–Watson statistic close to 0 indicates:",
+   "options": [
+    "No autocorrelation",
+    "Strong positive autocorrelation",
+    "Strong negative autocorrelation",
+    "Heteroscedasticity"
+   ],
+   "answer": 1,
+   "explanation": "d ≈ 2(1 − ρ); ρ near +1 gives d near 0."
+  },
+  {
+   "q": "The White test is used to detect:",
+   "options": [
+    "Multicollinearity",
+    "Autocorrelation",
+    "Heteroscedasticity",
+    "Structural break"
+   ],
+   "answer": 2,
+   "explanation": "White's general test regresses squared residuals on regressors, squares and cross-products."
+  },
+  {
+   "q": "With 4 seasons and an intercept, how many seasonal dummies should be used?",
+   "options": [
+    "5",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "explanation": "m − 1 = 3; using 4 causes the dummy variable trap (perfect multicollinearity)."
+  },
+  {
+   "q": "The empirical relation among mean, median and mode is:",
+   "options": [
+    "Mode = 3 Median − 2 Mean",
+    "Mean = 3 Median − 2 Mode",
+    "Mode = 2 Median − 3 Mean",
+    "Median = 3 Mode − 2 Mean"
+   ],
+   "answer": 0,
+   "explanation": "Karl Pearson's empirical relation for moderately skewed data."
+  },
+  {
+   "q": "Type I error means:",
+   "options": [
+    "Rejecting a false null",
+    "Accepting a false null",
+    "Rejecting a true null",
+    "Accepting a true null"
+   ],
+   "answer": 2,
+   "explanation": "Its probability is the significance level α."
+  },
+  {
+   "q": "Which method is used when the regressor is correlated with the error term?",
+   "options": [
+    "Cochrane–Orcutt",
+    "WLS",
+    "Instrumental variables / 2SLS",
+    "OLS"
+   ],
+   "answer": 2,
+   "explanation": "IV methods give consistent estimates under endogeneity."
+  },
+  {
+   "q": "Variance of a binomial distribution with n = 100 and p = 0.2 is:",
+   "options": [
+    "16",
+    "4",
+    "80",
+    "20"
+   ],
+   "answer": 0,
+   "explanation": "npq = 100 × 0.2 × 0.8 = 16."
+  },
+  {
+   "q": "If R² = 0.9, n = 21 and k = 3 (including intercept), adjusted R² is:",
+   "options": [
+    "0.95",
+    "0.85",
+    "0.889",
+    "0.9"
+   ],
+   "answer": 2,
+   "explanation": "1 − (1 − 0.9)(20/18) = 1 − 0.111 = 0.889."
+  },
+  {
+   "q": "A leptokurtic distribution has β₂:",
+   "options": [
+    "< 3",
+    "= 0",
+    "> 3",
+    "= 3"
+   ],
+   "answer": 2,
+   "explanation": "Leptokurtic (peaked) curves have kurtosis above 3."
+  },
+  {
+   "q": "Spurious regression is suspected when:",
+   "options": [
+    "DW = 2",
+    "t-values are small",
+    "R² > DW",
+    "R² < DW"
+   ],
+   "answer": 2,
+   "explanation": "Granger–Newbold rule of thumb: R² greater than the DW statistic with non-stationary series."
+  }
+ ]
+}

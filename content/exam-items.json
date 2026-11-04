@@ -1,6 +1,501 @@
 {
   "items": [
     {
+      "id": "ape-start-plan",
+      "exam": "asst-prof-economics",
+      "subject": "start",
+      "type": "long",
+      "title": "Start here: 5-day plan and top-1% strategy",
+      "summary": "Exam pattern, 5-day and 30-day plans, how to score 90%+.",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-start-directory",
+      "exam": "asst-prof-economics",
+      "subject": "start",
+      "type": "long",
+      "title": "State-wise Assistant Professor & PGT Economics exams",
+      "summary": "North India first (UP, Bihar, MP, Haryana, Delhi, Rajasthan), then all states and central exams.",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-start-books",
+      "exam": "asst-prof-economics",
+      "subject": "start",
+      "type": "short",
+      "title": "Book list (English and Hindi medium)",
+      "summary": "Standard books unit-wise and free official sources.",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-start-formulas",
+      "exam": "asst-prof-economics",
+      "subject": "start",
+      "type": "short",
+      "title": "Formula sheet: all 10 units",
+      "summary": "Every formula on one page for last-day revision.",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u1-micro-notes",
+      "exam": "asst-prof-economics",
+      "subject": "micro",
+      "type": "long",
+      "title": "Micro Economics: complete notes with diagrams",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u1-micro-map",
+      "exam": "asst-prof-economics",
+      "subject": "micro",
+      "type": "mindmap",
+      "title": "Micro Economics: mind map",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u1-micro-test",
+      "exam": "asst-prof-economics",
+      "subject": "micro",
+      "type": "mock",
+      "title": "Micro Economics: 15 solved MCQs (PYQ pattern)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u2-macro-notes",
+      "exam": "asst-prof-economics",
+      "subject": "macro",
+      "type": "long",
+      "title": "Macro Economics: complete notes with diagrams",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u2-macro-map",
+      "exam": "asst-prof-economics",
+      "subject": "macro",
+      "type": "mindmap",
+      "title": "Macro Economics: mind map",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u2-macro-test",
+      "exam": "asst-prof-economics",
+      "subject": "macro",
+      "type": "mock",
+      "title": "Macro Economics: 15 solved MCQs (PYQ pattern)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u3-stats-notes",
+      "exam": "asst-prof-economics",
+      "subject": "stats",
+      "type": "long",
+      "title": "Statistics & Econometrics: complete notes with diagrams",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u3-stats-map",
+      "exam": "asst-prof-economics",
+      "subject": "stats",
+      "type": "mindmap",
+      "title": "Statistics & Econometrics: mind map",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u3-stats-test",
+      "exam": "asst-prof-economics",
+      "subject": "stats",
+      "type": "mock",
+      "title": "Statistics & Econometrics: 15 solved MCQs (PYQ pattern)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u4-maths-notes",
+      "exam": "asst-prof-economics",
+      "subject": "maths",
+      "type": "long",
+      "title": "Mathematical Economics: complete notes with diagrams",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u4-maths-map",
+      "exam": "asst-prof-economics",
+      "subject": "maths",
+      "type": "mindmap",
+      "title": "Mathematical Economics: mind map",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u4-maths-test",
+      "exam": "asst-prof-economics",
+      "subject": "maths",
+      "type": "mock",
+      "title": "Mathematical Economics: 15 solved MCQs (PYQ pattern)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u5-intl-notes",
+      "exam": "asst-prof-economics",
+      "subject": "intl",
+      "type": "long",
+      "title": "International Economics: complete notes with diagrams",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u5-intl-map",
+      "exam": "asst-prof-economics",
+      "subject": "intl",
+      "type": "mindmap",
+      "title": "International Economics: mind map",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u5-intl-test",
+      "exam": "asst-prof-economics",
+      "subject": "intl",
+      "type": "mock",
+      "title": "International Economics: 15 solved MCQs (PYQ pattern)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u6-public-notes",
+      "exam": "asst-prof-economics",
+      "subject": "public",
+      "type": "long",
+      "title": "Public Economics: complete notes with diagrams",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u6-public-map",
+      "exam": "asst-prof-economics",
+      "subject": "public",
+      "type": "mindmap",
+      "title": "Public Economics: mind map",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u6-public-test",
+      "exam": "asst-prof-economics",
+      "subject": "public",
+      "type": "mock",
+      "title": "Public Economics: 15 solved MCQs (PYQ pattern)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u7-money-notes",
+      "exam": "asst-prof-economics",
+      "subject": "money",
+      "type": "long",
+      "title": "Money & Banking: complete notes with diagrams",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u7-money-map",
+      "exam": "asst-prof-economics",
+      "subject": "money",
+      "type": "mindmap",
+      "title": "Money & Banking: mind map",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u7-money-test",
+      "exam": "asst-prof-economics",
+      "subject": "money",
+      "type": "mock",
+      "title": "Money & Banking: 15 solved MCQs (PYQ pattern)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u8-growth-notes",
+      "exam": "asst-prof-economics",
+      "subject": "growth",
+      "type": "long",
+      "title": "Growth & Development: complete notes with diagrams",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u8-growth-map",
+      "exam": "asst-prof-economics",
+      "subject": "growth",
+      "type": "mindmap",
+      "title": "Growth & Development: mind map",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u8-growth-test",
+      "exam": "asst-prof-economics",
+      "subject": "growth",
+      "type": "mock",
+      "title": "Growth & Development: 15 solved MCQs (PYQ pattern)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u9-env-notes",
+      "exam": "asst-prof-economics",
+      "subject": "env",
+      "type": "long",
+      "title": "Environment & Demography: complete notes with diagrams",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u9-env-map",
+      "exam": "asst-prof-economics",
+      "subject": "env",
+      "type": "mindmap",
+      "title": "Environment & Demography: mind map",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u9-env-test",
+      "exam": "asst-prof-economics",
+      "subject": "env",
+      "type": "mock",
+      "title": "Environment & Demography: 15 solved MCQs (PYQ pattern)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u10-indian-notes",
+      "exam": "asst-prof-economics",
+      "subject": "indian",
+      "type": "long",
+      "title": "Indian Economy: complete notes with diagrams",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u10-indian-map",
+      "exam": "asst-prof-economics",
+      "subject": "indian",
+      "type": "mindmap",
+      "title": "Indian Economy: mind map",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-u10-indian-test",
+      "exam": "asst-prof-economics",
+      "subject": "indian",
+      "type": "mock",
+      "title": "Indian Economy: 15 solved MCQs (PYQ pattern)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-full-mock-1",
+      "exam": "asst-prof-economics",
+      "subject": "start",
+      "type": "mock",
+      "title": "Full-length mock 1: 90 Economics questions (UPESSC pattern)",
+      "summary": "90 questions in 90 minutes, −0.33 for a wrong answer (same ratio as 3 marks / −1).",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-pyq-ugc-net-micro-economics-pyq-2018-2025",
+      "exam": "asst-prof-economics",
+      "subject": "micro",
+      "type": "pyq",
+      "title": "UGC NET Micro Economics PYQs 2018–2025 (PDF)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-pyq-unit-02-macro-pyq",
+      "exam": "asst-prof-economics",
+      "subject": "macro",
+      "type": "pyq",
+      "title": "UGC NET PYQs: Macro Economics (PDF)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-pyq-unit-03-development-planning-pyq",
+      "exam": "asst-prof-economics",
+      "subject": "growth",
+      "type": "pyq",
+      "title": "UGC NET PYQs: Development & Planning (PDF)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-pyq-unit-04-growth-pyq",
+      "exam": "asst-prof-economics",
+      "subject": "growth",
+      "type": "pyq",
+      "title": "UGC NET PYQs: Growth (PDF)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-pyq-unit-05-money-banking-pyq",
+      "exam": "asst-prof-economics",
+      "subject": "money",
+      "type": "pyq",
+      "title": "UGC NET PYQs: Money & Banking (PDF)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-pyq-unit-06-public-finance-pyq",
+      "exam": "asst-prof-economics",
+      "subject": "public",
+      "type": "pyq",
+      "title": "UGC NET PYQs: Public Finance (PDF)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-pyq-unit-07-international-pyq",
+      "exam": "asst-prof-economics",
+      "subject": "intl",
+      "type": "pyq",
+      "title": "UGC NET PYQs: International Economics (PDF)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-pyq-unit-08-indian-economy-i-pyq",
+      "exam": "asst-prof-economics",
+      "subject": "indian",
+      "type": "pyq",
+      "title": "UGC NET PYQs: Indian Economy I (PDF)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-pyq-unit-09-indian-economy-ii-pyq",
+      "exam": "asst-prof-economics",
+      "subject": "indian",
+      "type": "pyq",
+      "title": "UGC NET PYQs: Indian Economy II (PDF)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-pyq-unit-10-statistics-maths-econometrics-pyq",
+      "exam": "asst-prof-economics",
+      "subject": "stats",
+      "type": "pyq",
+      "title": "UGC NET PYQs: Statistics, Maths & Econometrics (PDF)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-pyq-unit-11-other-topics-pyq",
+      "exam": "asst-prof-economics",
+      "subject": "env",
+      "type": "pyq",
+      "title": "UGC NET PYQs: Other topics (PDF)",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-cur-survey",
+      "exam": "asst-prof-economics",
+      "subject": "current",
+      "type": "long",
+      "title": "Economic Survey 2025-26: highlights",
+      "summary": "FY26 growth 7.4%, FY27 projection 6.8–7.2%, consumption, inflation.",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-cur-union-budget",
+      "exam": "asst-prof-economics",
+      "subject": "current",
+      "type": "long",
+      "title": "Union Budget 2026-27: highlights",
+      "summary": "₹53.47 lakh crore spending, 4.3% fiscal deficit, 16th FC 41%.",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-cur-state-budgets",
+      "exam": "asst-prof-economics",
+      "subject": "current",
+      "type": "long",
+      "title": "State budgets 2026-27: compare North India",
+      "summary": "UP, Rajasthan, MP, Bihar, Haryana, Delhi side by side.",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-cur-budget-uttar-pradesh",
+      "exam": "asst-prof-economics",
+      "subject": "current",
+      "type": "short",
+      "title": "Uttar Pradesh Budget 2026-27",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-cur-budget-bihar",
+      "exam": "asst-prof-economics",
+      "subject": "current",
+      "type": "short",
+      "title": "Bihar Budget 2026-27",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-cur-budget-madhya-pradesh",
+      "exam": "asst-prof-economics",
+      "subject": "current",
+      "type": "short",
+      "title": "Madhya Pradesh Budget 2026-27",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-cur-budget-rajasthan",
+      "exam": "asst-prof-economics",
+      "subject": "current",
+      "type": "short",
+      "title": "Rajasthan Budget 2026-27",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-cur-budget-haryana",
+      "exam": "asst-prof-economics",
+      "subject": "current",
+      "type": "short",
+      "title": "Haryana Budget 2026-27",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
+      "id": "ape-cur-budget-delhi",
+      "exam": "asst-prof-economics",
+      "subject": "current",
+      "type": "short",
+      "title": "Delhi Budget 2026-27",
+      "summary": "",
+      "date": "2026-11-04"
+    },
+    {
       "id": "unit-1-10-mv5fgiuo",
       "exam": "uphesc-muw863p7",
       "subject": "",

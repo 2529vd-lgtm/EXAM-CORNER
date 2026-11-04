@@ -1,0 +1,996 @@
+{
+ "duration": 90,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "Which method is used when the regressor is correlated with the error term?",
+   "options": [
+    "Cochrane–Orcutt",
+    "WLS",
+    "Instrumental variables / 2SLS",
+    "OLS"
+   ],
+   "answer": 2,
+   "explanation": "[Statistics & Econometrics] IV methods give consistent estimates under endogeneity."
+  },
+  {
+   "q": "The paradox of thrift implies that an increase in the saving propensity may:",
+   "options": [
+    "Reduce income without raising total saving",
+    "Raise investment",
+    "Leave income unchanged",
+    "Raise total saving"
+   ],
+   "answer": 0,
+   "explanation": "[Macro Economics] Higher saving lowers demand and income; total saving may not rise (it can even fall if investment is induced)."
+  },
+  {
+   "q": "In a liquidity trap:",
+   "options": [
+    "LM is horizontal; monetary policy is ineffective",
+    "LM is vertical; fiscal policy is ineffective",
+    "IS is vertical; monetary policy is effective",
+    "Both policies are equally effective"
+   ],
+   "answer": 0,
+   "explanation": "[Macro Economics] At very low interest rates money demand is infinitely elastic, so extra money is just held; only fiscal policy works."
+  },
+  {
+   "q": "A leptokurtic distribution has β₂:",
+   "options": [
+    "< 3",
+    "= 0",
+    "> 3",
+    "= 3"
+   ],
+   "answer": 2,
+   "explanation": "[Statistics & Econometrics] Leptokurtic (peaked) curves have kurtosis above 3."
+  },
+  {
+   "q": "Fisher effect states that:",
+   "options": [
+    "Real rate = nominal rate + inflation",
+    "Nominal rate = real rate + expected inflation",
+    "Money is neutral in short run",
+    "Velocity is constant"
+   ],
+   "answer": 1,
+   "explanation": "[Money & Banking] i = r + πᵉ."
+  },
+  {
+   "q": "The 'voting with the feet' model is by:",
+   "options": [
+    "Musgrave",
+    "Oates",
+    "Tiebout",
+    "Lindahl"
+   ],
+   "answer": 2,
+   "explanation": "[Public Economics] Charles Tiebout (1956): local public goods and mobility."
+  },
+  {
+   "q": "The permanent income hypothesis predicts that a one-time lottery win will be:",
+   "options": [
+    "Fully invested in bonds",
+    "Paid as tax",
+    "Fully consumed",
+    "Mostly saved"
+   ],
+   "answer": 3,
+   "explanation": "[Macro Economics] Transitory income has a very low MPC; it is mostly saved and spread over time."
+  },
+  {
+   "q": "With 4 seasons and an intercept, how many seasonal dummies should be used?",
+   "options": [
+    "5",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "explanation": "[Statistics & Econometrics] m − 1 = 3; using 4 causes the dummy variable trap (perfect multicollinearity)."
+  },
+  {
+   "q": "In the Harrod–Domar model, if s = 24% and v = 4, growth rate is:",
+   "options": [
+    "20%",
+    "28%",
+    "96%",
+    "6%"
+   ],
+   "answer": 3,
+   "explanation": "[Growth & Development] g = s/v = 24/4 = 6%."
+  },
+  {
+   "q": "Union Budget 2026-27 fiscal deficit target is:",
+   "options": [
+    "4.4% of GDP",
+    "5.1% of GDP",
+    "4.3% of GDP",
+    "3.0% of GDP"
+   ],
+   "answer": 2,
+   "explanation": "[Public Economics] Down from 4.4% (RE) in 2025-26."
+  },
+  {
+   "q": "The 'impossible trinity' says a country cannot simultaneously have:",
+   "options": [
+    "Free trade, tariffs and quotas",
+    "Floating rate, inflation targeting and fiscal policy",
+    "Low inflation, high growth and full employment",
+    "Fixed exchange rate, free capital flows and independent monetary policy"
+   ],
+   "answer": 3,
+   "explanation": "[International Economics] Only two of the three can be chosen at a time."
+  },
+  {
+   "q": "Income terms of trade is defined as:",
+   "options": [
+    "(Px/Pm)·Qx",
+    "Qm/Qx",
+    "(Px/Pm)·Zx",
+    "Px/Pm"
+   ],
+   "answer": 0,
+   "explanation": "[International Economics] Dorrance's income TOT measures the capacity to import."
+  },
+  {
+   "q": "Trade diversion in a customs union means:",
+   "options": [
+    "Imports shift from a lower-cost outsider to a higher-cost member",
+    "Imports shift from a higher-cost member to a lower-cost outsider",
+    "Domestic production replaced by member imports",
+    "Exports rise to non-members"
+   ],
+   "answer": 0,
+   "explanation": "[International Economics] Viner (1950): trade diversion reduces welfare."
+  },
+  {
+   "q": "Kitchin cycles last about:",
+   "options": [
+    "45–60 years",
+    "7–11 years",
+    "15–25 years",
+    "3–4 years"
+   ],
+   "answer": 3,
+   "explanation": "[Macro Economics] Kitchin: short inventory cycles of about 40 months."
+  },
+  {
+   "q": "The golden rule of capital accumulation requires:",
+   "options": [
+    "MPK = n + δ",
+    "MPK = 0",
+    "s = 1",
+    "k = 0"
+   ],
+   "answer": 0,
+   "explanation": "[Growth & Development] Phelps: steady-state consumption per worker is maximised."
+  },
+  {
+   "q": "The first bank nationalisation (14 banks) happened in:",
+   "options": [
+    "1955",
+    "1991",
+    "1969",
+    "1980"
+   ],
+   "answer": 2,
+   "explanation": "[Money & Banking] July 1969; six more in 1980."
+  },
+  {
+   "q": "The Cambridge cash balance equation is:",
+   "options": [
+    "Y = C + I",
+    "M = kPY",
+    "MV = PT",
+    "M = L1 + L2"
+   ],
+   "answer": 1,
+   "explanation": "[Money & Banking] k is the fraction of income held as money (k = 1/V)."
+  },
+  {
+   "q": "The 16th Finance Commission was chaired by:",
+   "options": [
+    "Vijay Kelkar",
+    "N.K. Singh",
+    "Arvind Panagariya",
+    "Y.V. Reddy"
+   ],
+   "answer": 2,
+   "explanation": "[Public Economics] Arvind Panagariya; award period 2026–31; states' share kept at 41%."
+  },
+  {
+   "q": "Which pair is correctly matched?",
+   "options": [
+    "Sales maximisation – Baumol",
+    "Revealed preference – Hicks",
+    "Contract curve – Marshall",
+    "Monopolistic competition – Joan Robinson"
+   ],
+   "answer": 0,
+   "explanation": "[Micro Economics] Baumol gave sales-revenue maximisation. Monopolistic competition is Chamberlin's; revealed preference is Samuelson's; the contract curve is Edgeworth's."
+  },
+  {
+   "q": "According to the Tendulkar method, poverty in India in 2011-12 was:",
+   "options": [
+    "21.9%",
+    "37.2%",
+    "29.5%",
+    "11.28%"
+   ],
+   "answer": 0,
+   "explanation": "[Growth & Development] Rangarajan gave 29.5% for the same year."
+  },
+  {
+   "q": "India's TFR according to NFHS-5 is:",
+   "options": [
+    "2.2",
+    "1.8",
+    "2.4",
+    "2.0"
+   ],
+   "answer": 3,
+   "explanation": "[Environment & Demography] Below replacement level."
+  },
+  {
+   "q": "The theory of comparative advantage was given by:",
+   "options": [
+    "Heckscher",
+    "J.S. Mill",
+    "David Ricardo",
+    "Adam Smith"
+   ],
+   "answer": 2,
+   "explanation": "[International Economics] Ricardo (1817), Principles of Political Economy and Taxation."
+  },
+  {
+   "q": "The 'Market for Lemons' (1970) deals with:",
+   "options": [
+    "Adverse selection",
+    "Price discrimination",
+    "Moral hazard",
+    "Signalling by education"
+   ],
+   "answer": 0,
+   "explanation": "[Micro Economics] Akerlof showed hidden quality information before trade (adverse selection) can make markets collapse."
+  },
+  {
+   "q": "In the Cournot duopoly with zero costs and linear demand, total industry output is what fraction of the competitive output?",
+   "options": [
+    "1/2",
+    "2/3",
+    "3/4",
+    "1/3"
+   ],
+   "answer": 1,
+   "explanation": "[Micro Economics] Each firm produces 1/3 of the competitive output, so together 2/3."
+  },
+  {
+   "q": "FEMA replaced FERA in:",
+   "options": [
+    "1999",
+    "1973",
+    "1991",
+    "2002"
+   ],
+   "answer": 0,
+   "explanation": "[Indian Economy] Foreign Exchange Management Act, 1999."
+  },
+  {
+   "q": "PM-KISAN gives eligible farmers per year:",
+   "options": [
+    "₹6,000",
+    "₹12,000",
+    "₹4,000",
+    "₹10,000"
+   ],
+   "answer": 0,
+   "explanation": "[Indian Economy] In three equal instalments of ₹2,000."
+  },
+  {
+   "q": "Malthus' theory says population grows in:",
+   "options": [
+    "Logistic curve",
+    "Constant rate",
+    "Arithmetic progression",
+    "Geometric progression"
+   ],
+   "answer": 3,
+   "explanation": "[Environment & Demography] Food supply grows in arithmetic progression."
+  },
+  {
+   "q": "Elasticity of substitution of a Cobb–Douglas production function is:",
+   "options": [
+    "1",
+    "∞",
+    "0",
+    "Equal to α + β"
+   ],
+   "answer": 0,
+   "explanation": "[Micro Economics] Cobb–Douglas always has σ = 1, whatever the returns to scale."
+  },
+  {
+   "q": "'Tragedy of the commons' was written by:",
+   "options": [
+    "Elinor Ostrom",
+    "Pigou",
+    "Ronald Coase",
+    "Garrett Hardin"
+   ],
+   "answer": 3,
+   "explanation": "[Environment & Demography] Garrett Hardin, Science (1968)."
+  },
+  {
+   "q": "The WTO came into existence on:",
+   "options": [
+    "1 July 1995",
+    "1 January 1995",
+    "1 January 1948",
+    "15 April 1994"
+   ],
+   "answer": 1,
+   "explanation": "[International Economics] The Marrakesh Agreement was signed on 15 April 1994; WTO started on 1 January 1995."
+  },
+  {
+   "q": "NITI Aayog was set up on:",
+   "options": [
+    "15 March 1950",
+    "1 April 2015",
+    "1 January 2015",
+    "15 August 2014"
+   ],
+   "answer": 2,
+   "explanation": "[Indian Economy] It replaced the Planning Commission by a cabinet resolution."
+  },
+  {
+   "q": "If TR = 100Q − 2Q² and TC = 20Q + Q², profit-maximising output is:",
+   "options": [
+    "25",
+    "13.33",
+    "20",
+    "10"
+   ],
+   "answer": 1,
+   "explanation": "[Mathematical Economics] π = 80Q − 3Q²; dπ/dQ = 80 − 6Q = 0 gives Q = 13.33."
+  },
+  {
+   "q": "The Kyoto Protocol was adopted in:",
+   "options": [
+    "2005",
+    "2015",
+    "1997",
+    "1992"
+   ],
+   "answer": 2,
+   "explanation": "[Environment & Demography] Adopted 1997; in force 2005."
+  },
+  {
+   "q": "Arrow's impossibility theorem does NOT include which condition?",
+   "options": [
+    "Lump-sum transfers",
+    "Pareto principle",
+    "Non-dictatorship",
+    "Independence of irrelevant alternatives"
+   ],
+   "answer": 0,
+   "explanation": "[Micro Economics] Arrow's conditions: unrestricted domain, Pareto, IIA, non-dictatorship (and transitivity). Lump-sum transfers are from the second welfare theorem."
+  },
+  {
+   "q": "Consumer equilibrium in indifference curve analysis requires:",
+   "options": [
+    "Budget line cutting the IC",
+    "MRSxy = Py/Px",
+    "MUx = MUy",
+    "MRSxy = Px/Py with the IC convex to the origin"
+   ],
+   "answer": 3,
+   "explanation": "[Micro Economics] Tangency (MRS = price ratio) is the first-order condition; convexity of the IC is the second-order condition."
+  },
+  {
+   "q": "Coase theorem requires:",
+   "options": [
+    "Government taxation",
+    "Perfect competition in all markets",
+    "Clearly defined property rights and low transaction costs",
+    "Public ownership"
+   ],
+   "answer": 2,
+   "explanation": "[Public Economics] Then private bargaining reaches an efficient outcome."
+  },
+  {
+   "q": "National income (NNP at factor cost) equals:",
+   "options": [
+    "GNP + NFIA",
+    "NNP at market prices − net indirect taxes",
+    "GDP − subsidies",
+    "GDP at market prices − depreciation"
+   ],
+   "answer": 1,
+   "explanation": "[Macro Economics] NNP at FC = NNP at MP − (indirect taxes − subsidies)."
+  },
+  {
+   "q": "Variance of a binomial distribution with n = 100 and p = 0.2 is:",
+   "options": [
+    "16",
+    "4",
+    "80",
+    "20"
+   ],
+   "answer": 0,
+   "explanation": "[Statistics & Econometrics] npq = 100 × 0.2 × 0.8 = 16."
+  },
+  {
+   "q": "Ricardian equivalence is associated with:",
+   "options": [
+    "Keynes",
+    "Barro",
+    "Hicks",
+    "Tobin"
+   ],
+   "answer": 1,
+   "explanation": "[Macro Economics] Robert Barro (1974): debt-financed tax cuts do not raise consumption because people save for future taxes."
+  },
+  {
+   "q": "Basel III introduced:",
+   "options": [
+    "Three pillars for the first time",
+    "Deposit insurance",
+    "Only credit risk weights",
+    "Capital conservation buffer, leverage ratio and liquidity ratios (LCR, NSFR)"
+   ],
+   "answer": 3,
+   "explanation": "[Money & Banking] Three pillars came with Basel II; Basel III added buffers and liquidity rules."
+  },
+  {
+   "q": "For two positive numbers, AM = 10 and HM = 6.4. GM is:",
+   "options": [
+    "9",
+    "7",
+    "8.2",
+    "8"
+   ],
+   "answer": 3,
+   "explanation": "[Statistics & Econometrics] GM² = AM × HM = 64, so GM = 8."
+  },
+  {
+   "q": "In a zero-sum game, a saddle point exists when:",
+   "options": [
+    "There are mixed strategies only",
+    "Maximin = minimax",
+    "Maximin < minimax",
+    "Maximin > minimax"
+   ],
+   "answer": 1,
+   "explanation": "[Mathematical Economics] The value of the game equals both, and pure strategies are optimal."
+  },
+  {
+   "q": "Under perfect capital mobility and a fixed exchange rate (Mundell–Fleming), which policy is effective?",
+   "options": [
+    "Fiscal policy",
+    "Neither",
+    "Monetary policy",
+    "Both equally"
+   ],
+   "answer": 0,
+   "explanation": "[Macro Economics] Monetary expansion causes outflows that force the central bank to reverse it; fiscal expansion attracts inflows and is accommodated."
+  },
+  {
+   "q": "The Leontief paradox (1953) found that the USA exported:",
+   "options": [
+    "Capital-intensive goods",
+    "Only agricultural goods",
+    "Only services",
+    "Labour-intensive goods"
+   ],
+   "answer": 3,
+   "explanation": "[International Economics] Contrary to H–O, US exports were relatively labour-intensive."
+  },
+  {
+   "q": "Sex ratio in NFHS-5 was:",
+   "options": [
+    "943",
+    "1020",
+    "933",
+    "1000"
+   ],
+   "answer": 1,
+   "explanation": "[Environment & Demography] Females per 1000 males; Census 2011 gave 943."
+  },
+  {
+   "q": "The determinant of [4 2; 3 5] is:",
+   "options": [
+    "20",
+    "14",
+    "−14",
+    "26"
+   ],
+   "answer": 1,
+   "explanation": "[Mathematical Economics] 4 × 5 − 2 × 3 = 14."
+  },
+  {
+   "q": "Two-gap model was given by:",
+   "options": [
+    "Prebisch and Singer",
+    "Myrdal",
+    "Lewis and Ranis",
+    "Chenery and Strout"
+   ],
+   "answer": 3,
+   "explanation": "[Growth & Development] Saving gap and foreign exchange gap (1966)."
+  },
+  {
+   "q": "Demand functions are homogeneous of degree:",
+   "options": [
+    "0",
+    "1",
+    "−1",
+    "2"
+   ],
+   "answer": 0,
+   "explanation": "[Mathematical Economics] Doubling all prices and income leaves demand unchanged (no money illusion)."
+  },
+  {
+   "q": "Which is NOT a reason for a downward-sloping AD curve?",
+   "options": [
+    "Ratchet effect",
+    "Pigou wealth effect",
+    "Keynes interest-rate effect",
+    "Exchange-rate effect"
+   ],
+   "answer": 0,
+   "explanation": "[Macro Economics] The ratchet effect belongs to Duesenberry's consumption theory, not to AD."
+  },
+  {
+   "q": "The Union Budget is presented under Article:",
+   "options": [
+    "110",
+    "280",
+    "266",
+    "112"
+   ],
+   "answer": 3,
+   "explanation": "[Indian Economy] Annual Financial Statement."
+  },
+  {
+   "q": "If MPC = 0.8, the investment multiplier is:",
+   "options": [
+    "5",
+    "4",
+    "1.25",
+    "8"
+   ],
+   "answer": 0,
+   "explanation": "[Macro Economics] k = 1/(1 − MPC) = 1/0.2 = 5."
+  },
+  {
+   "q": "The simplex method was developed by:",
+   "options": [
+    "Koopmans",
+    "Kantorovich",
+    "Dantzig",
+    "Leontief"
+   ],
+   "answer": 2,
+   "explanation": "[Mathematical Economics] George Dantzig, 1947."
+  },
+  {
+   "q": "Wagner's law states that:",
+   "options": [
+    "Public expenditure falls as economy grows",
+    "Debt should be repaid in booms",
+    "Public expenditure grows faster than national income",
+    "Taxes rise during wars"
+   ],
+   "answer": 2,
+   "explanation": "[Public Economics] Adolph Wagner's law of increasing state activity."
+  },
+  {
+   "q": "Which is a club good?",
+   "options": [
+    "National defence",
+    "Cable TV",
+    "Fish in the ocean",
+    "Bread"
+   ],
+   "answer": 1,
+   "explanation": "[Public Economics] Excludable but non-rival (up to capacity)."
+  },
+  {
+   "q": "The absorption approach to BoP was given by:",
+   "options": [
+    "Sidney Alexander",
+    "Harry Johnson",
+    "Gottfried Haberler",
+    "Robert Mundell"
+   ],
+   "answer": 0,
+   "explanation": "[International Economics] Alexander (1952): trade balance = output − absorption."
+  },
+  {
+   "q": "Q = AL^0.6 K^0.5 shows:",
+   "options": [
+    "Cannot say",
+    "Constant returns",
+    "Increasing returns",
+    "Decreasing returns"
+   ],
+   "answer": 2,
+   "explanation": "[Mathematical Economics] α + β = 1.1 > 1, so increasing returns to scale."
+  },
+  {
+   "q": "If price elasticity of demand is 2 and price is ₹40, marginal revenue is:",
+   "options": [
+    "₹60",
+    "₹20",
+    "₹40",
+    "₹80"
+   ],
+   "answer": 1,
+   "explanation": "[Micro Economics] MR = P(1 − 1/e) = 40(1 − 1/2) = ₹20."
+  },
+  {
+   "q": "The New Industrial Policy was announced on:",
+   "options": [
+    "15 August 1991",
+    "1 April 1991",
+    "6 April 1980",
+    "24 July 1991"
+   ],
+   "answer": 3,
+   "explanation": "[Indian Economy] Along with the Union Budget 1991-92."
+  },
+  {
+   "q": "Replacement level total fertility rate is:",
+   "options": [
+    "1.0",
+    "2.5",
+    "3.0",
+    "2.1"
+   ],
+   "answer": 3,
+   "explanation": "[Environment & Demography] About 2.1 children per woman."
+  },
+  {
+   "q": "Hawkins–Simon conditions relate to:",
+   "options": [
+    "Linear programming",
+    "Cobweb model",
+    "Input–output analysis",
+    "Game theory"
+   ],
+   "answer": 2,
+   "explanation": "[Mathematical Economics] All principal minors of (I − A) must be positive for a viable solution."
+  },
+  {
+   "q": "Under the Gauss–Markov assumptions, OLS estimators are:",
+   "options": [
+    "BLUE",
+    "Consistent but biased",
+    "Maximum likelihood only",
+    "Unbiased only"
+   ],
+   "answer": 0,
+   "explanation": "[Statistics & Econometrics] Best Linear Unbiased Estimators. Normality is not needed for this result."
+  },
+  {
+   "q": "If byx = 0.8 and bxy = 0.2, the correlation coefficient is:",
+   "options": [
+    "0.4",
+    "0.8",
+    "0.5",
+    "0.16"
+   ],
+   "answer": 0,
+   "explanation": "[Statistics & Econometrics] r = √(0.8 × 0.2) = √0.16 = 0.4 (positive because both coefficients are positive)."
+  },
+  {
+   "q": "The GST Council is provided for under Article:",
+   "options": [
+    "279A",
+    "280",
+    "270",
+    "246A"
+   ],
+   "answer": 0,
+   "explanation": "[Public Economics] Article 279A, inserted by the 101st Amendment (2016)."
+  },
+  {
+   "q": "Hotelling rule says that the rent of an exhaustible resource rises at:",
+   "options": [
+    "The growth rate of GDP",
+    "Zero",
+    "The rate of inflation",
+    "The rate of interest"
+   ],
+   "answer": 3,
+   "explanation": "[Environment & Demography] Harold Hotelling (1931)."
+  },
+  {
+   "q": "The VB-G RAM G Act, which replaced MGNREGA from 1 July 2026, guarantees how many days of rural work?",
+   "options": [
+    "150",
+    "120",
+    "100",
+    "125"
+   ],
+   "answer": 3,
+   "explanation": "[Indian Economy] Raised from 100 to 125 days per household per year."
+  },
+  {
+   "q": "Critical minimum effort thesis was given by:",
+   "options": [
+    "Myrdal",
+    "Leibenstein",
+    "Rostow",
+    "Nelson"
+   ],
+   "answer": 1,
+   "explanation": "[Growth & Development] Harvey Leibenstein (1957)."
+  },
+  {
+   "q": "Endogenous growth theory based on R&D and ideas is linked with:",
+   "options": [
+    "Domar",
+    "Kaldor",
+    "Solow",
+    "Romer"
+   ],
+   "answer": 3,
+   "explanation": "[Growth & Development] Paul Romer (1990); Nobel 2018."
+  },
+  {
+   "q": "Which committee recommended the flexible inflation targeting framework (2014)?",
+   "options": [
+    "Urjit Patel",
+    "Narasimham",
+    "Tarapore",
+    "Bimal Jalan"
+   ],
+   "answer": 0,
+   "explanation": "[Money & Banking] Urjit Patel Committee report, January 2014."
+  },
+  {
+   "q": "Coase theorem (1960) suggests externalities can be solved through:",
+   "options": [
+    "Quotas only",
+    "Bargaining with clear property rights",
+    "Nationalisation",
+    "Pigouvian taxes"
+   ],
+   "answer": 1,
+   "explanation": "[Environment & Demography] With low transaction costs, bargaining is efficient."
+  },
+  {
+   "q": "For Q = 20P⁻², price elasticity of demand is:",
+   "options": [
+    "−1",
+    "Varies with P",
+    "−2",
+    "−20"
+   ],
+   "answer": 2,
+   "explanation": "[Mathematical Economics] For Q = aP⁻ᵇ elasticity is constant at −b."
+  },
+  {
+   "q": "Brundtland Report is titled:",
+   "options": [
+    "Our Common Future",
+    "Silent Spring",
+    "Limits to Growth",
+    "Small is Beautiful"
+   ],
+   "answer": 0,
+   "explanation": "[Environment & Demography] 1987, World Commission on Environment and Development."
+  },
+  {
+   "q": "Primary deficit is:",
+   "options": [
+    "Fiscal deficit − interest payments",
+    "Fiscal deficit + interest",
+    "Total expenditure − tax revenue",
+    "Revenue deficit − interest"
+   ],
+   "answer": 0,
+   "explanation": "[Public Economics] It shows borrowing for current needs excluding past interest."
+  },
+  {
+   "q": "The Monetary Policy Committee has how many members?",
+   "options": [
+    "7",
+    "4",
+    "5",
+    "6"
+   ],
+   "answer": 3,
+   "explanation": "[Money & Banking] Three from RBI (incl. Governor) and three external members."
+  },
+  {
+   "q": "The HDI uses which mean to combine its three indices (since 2010)?",
+   "options": [
+    "Arithmetic",
+    "Weighted arithmetic",
+    "Geometric",
+    "Harmonic"
+   ],
+   "answer": 2,
+   "explanation": "[Growth & Development] Geometric mean, so a low value in one dimension cannot be fully offset."
+  },
+  {
+   "q": "An advance is classified as NPA when dues are overdue for more than:",
+   "options": [
+    "90 days",
+    "180 days",
+    "60 days",
+    "30 days"
+   ],
+   "answer": 0,
+   "explanation": "[Money & Banking] The 90-day norm."
+  },
+  {
+   "q": "Spurious regression is suspected when:",
+   "options": [
+    "DW = 2",
+    "t-values are small",
+    "R² > DW",
+    "R² < DW"
+   ],
+   "answer": 2,
+   "explanation": "[Statistics & Econometrics] Granger–Newbold rule of thumb: R² greater than the DW statistic with non-stationary series."
+  },
+  {
+   "q": "Lerner's index of monopoly power equals:",
+   "options": [
+    "(P − MC)/MC",
+    "MR/MC",
+    "(P − AC)/P",
+    "(P − MC)/P"
+   ],
+   "answer": 3,
+   "explanation": "[Micro Economics] L = (P − MC)/P = 1/|ed| at profit maximum."
+  },
+  {
+   "q": "The kinked demand curve model explains:",
+   "options": [
+    "Excess capacity",
+    "Collusion stability",
+    "Price discrimination",
+    "Price rigidity in oligopoly"
+   ],
+   "answer": 3,
+   "explanation": "[Micro Economics] Sweezy (1939): rivals match price cuts but not rises, giving a kink and a gap in MR, so price stays rigid."
+  },
+  {
+   "q": "In the cobweb model Qd = a − bP(t), Qs = c + dP(t−1), the path converges if:",
+   "options": [
+    "d < b",
+    "b = 0",
+    "d = b",
+    "d > b"
+   ],
+   "answer": 0,
+   "explanation": "[Mathematical Economics] Price oscillations shrink when supply responds less than demand to price."
+  },
+  {
+   "q": "Which theory explains intra-industry trade?",
+   "options": [
+    "H–O",
+    "Ricardian",
+    "New trade theory (Krugman)",
+    "Mercantilism"
+   ],
+   "answer": 2,
+   "explanation": "[International Economics] Economies of scale and love of variety give two-way trade in similar goods."
+  },
+  {
+   "q": "A Durbin–Watson statistic close to 0 indicates:",
+   "options": [
+    "No autocorrelation",
+    "Strong positive autocorrelation",
+    "Strong negative autocorrelation",
+    "Heteroscedasticity"
+   ],
+   "answer": 1,
+   "explanation": "[Statistics & Econometrics] d ≈ 2(1 − ρ); ρ near +1 gives d near 0."
+  },
+  {
+   "q": "The floor of RBI's LAF corridor since 2022 is the:",
+   "options": [
+    "Bank rate",
+    "Reverse repo",
+    "Standing Deposit Facility",
+    "MSF"
+   ],
+   "answer": 2,
+   "explanation": "[Money & Banking] SDF = repo − 25 bps; it does not need collateral."
+  },
+  {
+   "q": "Economic Survey 2025-26 projects FY27 real GDP growth at:",
+   "options": [
+    "6.3–6.8%",
+    "5.5–6%",
+    "6.8–7.2%",
+    "7.5–8%"
+   ],
+   "answer": 2,
+   "explanation": "[Indian Economy] Tabled 29 January 2026."
+  },
+  {
+   "q": "Broad money M3 equals:",
+   "options": [
+    "M1 + time deposits with banks",
+    "Currency + reserves",
+    "M1 + post office savings",
+    "M0 + demand deposits"
+   ],
+   "answer": 0,
+   "explanation": "[Money & Banking] M3 = M1 + net time deposits of banks."
+  },
+  {
+   "q": "Gini coefficient is calculated from the Lorenz curve as:",
+   "options": [
+    "A/(A + B)",
+    "(A + B)/A",
+    "B/(A + B)",
+    "A/B"
+   ],
+   "answer": 0,
+   "explanation": "[Growth & Development] A = area between equality line and Lorenz curve; A + B = total area under the line."
+  },
+  {
+   "q": "MSP is announced on the recommendation of:",
+   "options": [
+    "NITI Aayog",
+    "CACP",
+    "FCI",
+    "NABARD"
+   ],
+   "answer": 1,
+   "explanation": "[Indian Economy] Commission for Agricultural Costs and Prices (1965)."
+  },
+  {
+   "q": "In the Solow model, a higher saving rate raises in the long run:",
+   "options": [
+    "Population growth",
+    "Level of per-capita income",
+    "Rate of depreciation",
+    "Growth rate of per-capita income"
+   ],
+   "answer": 1,
+   "explanation": "[Growth & Development] Steady-state growth depends only on technical progress."
+  },
+  {
+   "q": "Exchange rate overshooting model was given by:",
+   "options": [
+    "Mundell",
+    "Cassel",
+    "Fleming",
+    "Dornbusch"
+   ],
+   "answer": 3,
+   "explanation": "[International Economics] Rudiger Dornbusch (1976), with sticky goods prices."
+  },
+  {
+   "q": "The four Labour Codes came into force on:",
+   "options": [
+    "1 April 2020",
+    "21 November 2025",
+    "1 July 2017",
+    "26 January 2024"
+   ],
+   "answer": 1,
+   "explanation": "[Indian Economy] Notified for implementation on 21 Nov 2025."
+  },
+  {
+   "q": "'Equal marginal sacrifice' principle leads to:",
+   "options": [
+    "Poll tax",
+    "Most progressive taxation",
+    "Regressive taxation",
+    "Proportional taxation"
+   ],
+   "answer": 1,
+   "explanation": "[Public Economics] Least aggregate sacrifice: tax the richest first until incomes are equal at the top."
+  }
+ ]
+}

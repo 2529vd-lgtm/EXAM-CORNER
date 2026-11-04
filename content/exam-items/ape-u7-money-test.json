@@ -1,0 +1,171 @@
+{
+ "duration": 18,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "Fisher's quantity theory equation is:",
+   "options": [
+    "M = kPY",
+    "MV = PT",
+    "M/P = L(Y, r)",
+    "MV = PY + T"
+   ],
+   "answer": 1,
+   "explanation": "Transactions version: MV = PT."
+  },
+  {
+   "q": "The Cambridge cash balance equation is:",
+   "options": [
+    "Y = C + I",
+    "M = kPY",
+    "MV = PT",
+    "M = L1 + L2"
+   ],
+   "answer": 1,
+   "explanation": "k is the fraction of income held as money (k = 1/V)."
+  },
+  {
+   "q": "Baumol–Tobin model implies the income elasticity of transactions demand for money is:",
+   "options": [
+    "1",
+    "2",
+    "0.5",
+    "0"
+   ],
+   "answer": 2,
+   "explanation": "Square-root rule: M ∝ √(Y)."
+  },
+  {
+   "q": "If currency–deposit ratio c = 0.2 and reserve ratio r = 0.1, the money multiplier is:",
+   "options": [
+    "2",
+    "6",
+    "5",
+    "4"
+   ],
+   "answer": 3,
+   "explanation": "m = (1 + c)/(c + r) = 1.2/0.3 = 4."
+  },
+  {
+   "q": "Broad money M3 equals:",
+   "options": [
+    "M1 + time deposits with banks",
+    "Currency + reserves",
+    "M1 + post office savings",
+    "M0 + demand deposits"
+   ],
+   "answer": 0,
+   "explanation": "M3 = M1 + net time deposits of banks."
+  },
+  {
+   "q": "RBI's inflation target (2026–31) is:",
+   "options": [
+    "5% with 3–7% band",
+    "4% with 2–6% band",
+    "6% fixed",
+    "3% with 1–5% band"
+   ],
+   "answer": 1,
+   "explanation": "Retained by gazette notification of 25 March 2026."
+  },
+  {
+   "q": "The floor of RBI's LAF corridor since 2022 is the:",
+   "options": [
+    "Bank rate",
+    "Reverse repo",
+    "Standing Deposit Facility",
+    "MSF"
+   ],
+   "answer": 2,
+   "explanation": "SDF = repo − 25 bps; it does not need collateral."
+  },
+  {
+   "q": "An advance is classified as NPA when dues are overdue for more than:",
+   "options": [
+    "90 days",
+    "180 days",
+    "60 days",
+    "30 days"
+   ],
+   "answer": 0,
+   "explanation": "The 90-day norm."
+  },
+  {
+   "q": "Basel III introduced:",
+   "options": [
+    "Three pillars for the first time",
+    "Deposit insurance",
+    "Only credit risk weights",
+    "Capital conservation buffer, leverage ratio and liquidity ratios (LCR, NSFR)"
+   ],
+   "answer": 3,
+   "explanation": "Three pillars came with Basel II; Basel III added buffers and liquidity rules."
+  },
+  {
+   "q": "The first bank nationalisation (14 banks) happened in:",
+   "options": [
+    "1955",
+    "1991",
+    "1969",
+    "1980"
+   ],
+   "answer": 2,
+   "explanation": "July 1969; six more in 1980."
+  },
+  {
+   "q": "Who gave the modern quantity theory of money (1956)?",
+   "options": [
+    "Patinkin",
+    "Friedman",
+    "Tobin",
+    "Keynes"
+   ],
+   "answer": 1,
+   "explanation": "Milton Friedman, 'The Quantity Theory of Money: A Restatement'."
+  },
+  {
+   "q": "The Monetary Policy Committee has how many members?",
+   "options": [
+    "7",
+    "4",
+    "5",
+    "6"
+   ],
+   "answer": 3,
+   "explanation": "Three from RBI (incl. Governor) and three external members."
+  },
+  {
+   "q": "Fisher effect states that:",
+   "options": [
+    "Real rate = nominal rate + inflation",
+    "Nominal rate = real rate + expected inflation",
+    "Money is neutral in short run",
+    "Velocity is constant"
+   ],
+   "answer": 1,
+   "explanation": "i = r + πᵉ."
+  },
+  {
+   "q": "Which committee recommended the flexible inflation targeting framework (2014)?",
+   "options": [
+    "Urjit Patel",
+    "Narasimham",
+    "Tarapore",
+    "Bimal Jalan"
+   ],
+   "answer": 0,
+   "explanation": "Urjit Patel Committee report, January 2014."
+  },
+  {
+   "q": "Gresham's law says:",
+   "options": [
+    "Bad money drives out good",
+    "Money is neutral",
+    "Good money drives out bad",
+    "Velocity is stable"
+   ],
+   "answer": 0,
+   "explanation": "People hoard the better money and spend the worse."
+  }
+ ]
+}

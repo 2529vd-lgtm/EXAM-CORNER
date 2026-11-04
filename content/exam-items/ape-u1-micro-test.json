@@ -1,0 +1,171 @@
+{
+ "duration": 18,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "For a Giffen good, which statement is correct?",
+   "options": [
+    "It is a normal good with an upward-sloping demand",
+    "Substitution effect is positive",
+    "Income effect is positive and weaker than substitution effect",
+    "It is inferior and the income effect outweighs the substitution effect"
+   ],
+   "answer": 3,
+   "explanation": "A Giffen good is inferior, and its (perverse) income effect is larger than the always-negative substitution effect, so demand slopes upward."
+  },
+  {
+   "q": "Consumer equilibrium in indifference curve analysis requires:",
+   "options": [
+    "Budget line cutting the IC",
+    "MRSxy = Py/Px",
+    "MUx = MUy",
+    "MRSxy = Px/Py with the IC convex to the origin"
+   ],
+   "answer": 3,
+   "explanation": "Tangency (MRS = price ratio) is the first-order condition; convexity of the IC is the second-order condition."
+  },
+  {
+   "q": "Hicksian substitution effect keeps which of the following constant?",
+   "options": [
+    "Prices of other goods only",
+    "Money income",
+    "Purchasing power",
+    "Real income measured as utility level"
+   ],
+   "answer": 3,
+   "explanation": "Hicks compensates to keep the consumer on the same indifference curve (same utility). Slutsky keeps purchasing power constant."
+  },
+  {
+   "q": "If price elasticity of demand is 2 and price is ₹40, marginal revenue is:",
+   "options": [
+    "₹60",
+    "₹20",
+    "₹40",
+    "₹80"
+   ],
+   "answer": 1,
+   "explanation": "MR = P(1 − 1/e) = 40(1 − 1/2) = ₹20."
+  },
+  {
+   "q": "A monopolist will never operate where demand is:",
+   "options": [
+    "Perfectly elastic",
+    "Inelastic",
+    "Elastic",
+    "Unit elastic at maximum profit"
+   ],
+   "answer": 1,
+   "explanation": "With ed < 1, MR is negative, but MC is positive, so MR = MC cannot hold there."
+  },
+  {
+   "q": "The kinked demand curve model explains:",
+   "options": [
+    "Excess capacity",
+    "Collusion stability",
+    "Price discrimination",
+    "Price rigidity in oligopoly"
+   ],
+   "answer": 3,
+   "explanation": "Sweezy (1939): rivals match price cuts but not rises, giving a kink and a gap in MR, so price stays rigid."
+  },
+  {
+   "q": "In the Cournot duopoly with zero costs and linear demand, total industry output is what fraction of the competitive output?",
+   "options": [
+    "1/2",
+    "2/3",
+    "3/4",
+    "1/3"
+   ],
+   "answer": 1,
+   "explanation": "Each firm produces 1/3 of the competitive output, so together 2/3."
+  },
+  {
+   "q": "Which pair is correctly matched?",
+   "options": [
+    "Sales maximisation – Baumol",
+    "Revealed preference – Hicks",
+    "Contract curve – Marshall",
+    "Monopolistic competition – Joan Robinson"
+   ],
+   "answer": 0,
+   "explanation": "Baumol gave sales-revenue maximisation. Monopolistic competition is Chamberlin's; revealed preference is Samuelson's; the contract curve is Edgeworth's."
+  },
+  {
+   "q": "Elasticity of substitution of a Cobb–Douglas production function is:",
+   "options": [
+    "1",
+    "∞",
+    "0",
+    "Equal to α + β"
+   ],
+   "answer": 0,
+   "explanation": "Cobb–Douglas always has σ = 1, whatever the returns to scale."
+  },
+  {
+   "q": "The shutdown point of a competitive firm is at the minimum of:",
+   "options": [
+    "MC",
+    "AVC",
+    "AC",
+    "AFC"
+   ],
+   "answer": 1,
+   "explanation": "Below minimum AVC the firm cannot even cover variable costs, so it shuts down in the short run."
+  },
+  {
+   "q": "Lerner's index of monopoly power equals:",
+   "options": [
+    "(P − MC)/MC",
+    "MR/MC",
+    "(P − AC)/P",
+    "(P − MC)/P"
+   ],
+   "answer": 3,
+   "explanation": "L = (P − MC)/P = 1/|ed| at profit maximum."
+  },
+  {
+   "q": "Pareto optimality in exchange requires:",
+   "options": [
+    "MRS equal for all consumers",
+    "MRS = MRT",
+    "P = MC in all markets",
+    "MRTS equal for all producers"
+   ],
+   "answer": 0,
+   "explanation": "Exchange efficiency: every consumer has the same MRS between any two goods (a point on the contract curve)."
+  },
+  {
+   "q": "The 'Market for Lemons' (1970) deals with:",
+   "options": [
+    "Adverse selection",
+    "Price discrimination",
+    "Moral hazard",
+    "Signalling by education"
+   ],
+   "answer": 0,
+   "explanation": "Akerlof showed hidden quality information before trade (adverse selection) can make markets collapse."
+  },
+  {
+   "q": "Quasi-rent is a concept given by:",
+   "options": [
+    "Marshall",
+    "Joan Robinson",
+    "Ricardo",
+    "J.B. Clark"
+   ],
+   "answer": 0,
+   "explanation": "Marshall: short-run earnings of fixed factors over and above variable cost."
+  },
+  {
+   "q": "Arrow's impossibility theorem does NOT include which condition?",
+   "options": [
+    "Lump-sum transfers",
+    "Pareto principle",
+    "Non-dictatorship",
+    "Independence of irrelevant alternatives"
+   ],
+   "answer": 0,
+   "explanation": "Arrow's conditions: unrestricted domain, Pareto, IIA, non-dictatorship (and transitivity). Lump-sum transfers are from the second welfare theorem."
+  }
+ ]
+}

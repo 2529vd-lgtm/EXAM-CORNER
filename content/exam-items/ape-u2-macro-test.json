@@ -1,0 +1,171 @@
+{
+ "duration": 18,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "If MPC = 0.8, the investment multiplier is:",
+   "options": [
+    "5",
+    "4",
+    "1.25",
+    "8"
+   ],
+   "answer": 0,
+   "explanation": "k = 1/(1 − MPC) = 1/0.2 = 5."
+  },
+  {
+   "q": "The balanced budget multiplier is:",
+   "options": [
+    "1",
+    "0",
+    "1/(1 − c)",
+    "c/(1 − c)"
+   ],
+   "answer": 0,
+   "explanation": "Haavelmo: equal rise in G and T raises Y by the same amount, so the multiplier is 1."
+  },
+  {
+   "q": "The relative income hypothesis was given by:",
+   "options": [
+    "Friedman",
+    "Keynes",
+    "Duesenberry",
+    "Modigliani"
+   ],
+   "answer": 2,
+   "explanation": "Duesenberry (1949): consumption depends on income relative to others and on past peak income (ratchet effect)."
+  },
+  {
+   "q": "In a liquidity trap:",
+   "options": [
+    "LM is horizontal; monetary policy is ineffective",
+    "LM is vertical; fiscal policy is ineffective",
+    "IS is vertical; monetary policy is effective",
+    "Both policies are equally effective"
+   ],
+   "answer": 0,
+   "explanation": "At very low interest rates money demand is infinitely elastic, so extra money is just held; only fiscal policy works."
+  },
+  {
+   "q": "Under perfect capital mobility and a fixed exchange rate (Mundell–Fleming), which policy is effective?",
+   "options": [
+    "Fiscal policy",
+    "Neither",
+    "Monetary policy",
+    "Both equally"
+   ],
+   "answer": 0,
+   "explanation": "Monetary expansion causes outflows that force the central bank to reverse it; fiscal expansion attracts inflows and is accommodated."
+  },
+  {
+   "q": "Tobin's q is the ratio of:",
+   "options": [
+    "Profit to capital",
+    "Bond price to interest rate",
+    "Market value of firms to replacement cost of capital",
+    "Investment to saving"
+   ],
+   "answer": 2,
+   "explanation": "q > 1 means installing capital adds more value than it costs, so firms invest."
+  },
+  {
+   "q": "The long-run Phillips curve according to Friedman and Phelps is:",
+   "options": [
+    "Upward sloping",
+    "Downward sloping",
+    "Horizontal",
+    "Vertical at the natural rate of unemployment"
+   ],
+   "answer": 3,
+   "explanation": "With adaptive expectations, any inflation rate is consistent with the natural rate in the long run."
+  },
+  {
+   "q": "Ricardian equivalence is associated with:",
+   "options": [
+    "Keynes",
+    "Barro",
+    "Hicks",
+    "Tobin"
+   ],
+   "answer": 1,
+   "explanation": "Robert Barro (1974): debt-financed tax cuts do not raise consumption because people save for future taxes."
+  },
+  {
+   "q": "Kitchin cycles last about:",
+   "options": [
+    "45–60 years",
+    "7–11 years",
+    "15–25 years",
+    "3–4 years"
+   ],
+   "answer": 3,
+   "explanation": "Kitchin: short inventory cycles of about 40 months."
+  },
+  {
+   "q": "National income (NNP at factor cost) equals:",
+   "options": [
+    "GNP + NFIA",
+    "NNP at market prices − net indirect taxes",
+    "GDP − subsidies",
+    "GDP at market prices − depreciation"
+   ],
+   "answer": 1,
+   "explanation": "NNP at FC = NNP at MP − (indirect taxes − subsidies)."
+  },
+  {
+   "q": "The policy ineffectiveness proposition is associated with:",
+   "options": [
+    "Post-Keynesians",
+    "New Classical economists (Sargent–Wallace)",
+    "New Keynesians",
+    "Monetarists"
+   ],
+   "answer": 1,
+   "explanation": "With rational expectations and flexible prices, anticipated monetary policy does not affect real output."
+  },
+  {
+   "q": "Which is NOT a reason for a downward-sloping AD curve?",
+   "options": [
+    "Ratchet effect",
+    "Pigou wealth effect",
+    "Keynes interest-rate effect",
+    "Exchange-rate effect"
+   ],
+   "answer": 0,
+   "explanation": "The ratchet effect belongs to Duesenberry's consumption theory, not to AD."
+  },
+  {
+   "q": "The paradox of thrift implies that an increase in the saving propensity may:",
+   "options": [
+    "Reduce income without raising total saving",
+    "Raise investment",
+    "Leave income unchanged",
+    "Raise total saving"
+   ],
+   "answer": 0,
+   "explanation": "Higher saving lowers demand and income; total saving may not rise (it can even fall if investment is induced)."
+  },
+  {
+   "q": "Okun's law relates:",
+   "options": [
+    "Unemployment and output gap",
+    "Wages and prices",
+    "Interest and investment",
+    "Inflation and money supply"
+   ],
+   "answer": 0,
+   "explanation": "About 2–3% of output is lost for each 1 percentage point of unemployment above the natural rate."
+  },
+  {
+   "q": "The permanent income hypothesis predicts that a one-time lottery win will be:",
+   "options": [
+    "Fully invested in bonds",
+    "Paid as tax",
+    "Fully consumed",
+    "Mostly saved"
+   ],
+   "answer": 3,
+   "explanation": "Transitory income has a very low MPC; it is mostly saved and spread over time."
+  }
+ ]
+}

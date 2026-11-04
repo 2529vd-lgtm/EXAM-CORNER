@@ -1,0 +1,171 @@
+{
+ "duration": 18,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "The theory of comparative advantage was given by:",
+   "options": [
+    "Heckscher",
+    "J.S. Mill",
+    "David Ricardo",
+    "Adam Smith"
+   ],
+   "answer": 2,
+   "explanation": "Ricardo (1817), Principles of Political Economy and Taxation."
+  },
+  {
+   "q": "According to the Heckscher–Ohlin theorem, a capital-abundant country exports:",
+   "options": [
+    "Primary goods only",
+    "Capital-intensive goods",
+    "Goods with increasing returns",
+    "Labour-intensive goods"
+   ],
+   "answer": 1,
+   "explanation": "Countries export goods that use their abundant factor intensively."
+  },
+  {
+   "q": "The Leontief paradox (1953) found that the USA exported:",
+   "options": [
+    "Capital-intensive goods",
+    "Only agricultural goods",
+    "Only services",
+    "Labour-intensive goods"
+   ],
+   "answer": 3,
+   "explanation": "Contrary to H–O, US exports were relatively labour-intensive."
+  },
+  {
+   "q": "Rybczynski theorem assumes:",
+   "options": [
+    "Free factor mobility across countries",
+    "Increasing returns",
+    "Constant commodity prices",
+    "Constant factor prices only"
+   ],
+   "answer": 2,
+   "explanation": "At constant goods prices, a rise in one factor raises output of the good intensive in it and reduces the other."
+  },
+  {
+   "q": "Income terms of trade is defined as:",
+   "options": [
+    "(Px/Pm)·Qx",
+    "Qm/Qx",
+    "(Px/Pm)·Zx",
+    "Px/Pm"
+   ],
+   "answer": 0,
+   "explanation": "Dorrance's income TOT measures the capacity to import."
+  },
+  {
+   "q": "Marshall–Lerner condition for devaluation to improve trade balance is:",
+   "options": [
+    "ex = em",
+    "em > ex",
+    "ex + em < 1",
+    "|ex| + |em| > 1"
+   ],
+   "answer": 3,
+   "explanation": "The sum of the (absolute) export and import demand elasticities must exceed one."
+  },
+  {
+   "q": "The absorption approach to BoP was given by:",
+   "options": [
+    "Sidney Alexander",
+    "Harry Johnson",
+    "Gottfried Haberler",
+    "Robert Mundell"
+   ],
+   "answer": 0,
+   "explanation": "Alexander (1952): trade balance = output − absorption."
+  },
+  {
+   "q": "The 'impossible trinity' says a country cannot simultaneously have:",
+   "options": [
+    "Free trade, tariffs and quotas",
+    "Floating rate, inflation targeting and fiscal policy",
+    "Low inflation, high growth and full employment",
+    "Fixed exchange rate, free capital flows and independent monetary policy"
+   ],
+   "answer": 3,
+   "explanation": "Only two of the three can be chosen at a time."
+  },
+  {
+   "q": "Trade diversion in a customs union means:",
+   "options": [
+    "Imports shift from a lower-cost outsider to a higher-cost member",
+    "Imports shift from a higher-cost member to a lower-cost outsider",
+    "Domestic production replaced by member imports",
+    "Exports rise to non-members"
+   ],
+   "answer": 0,
+   "explanation": "Viner (1950): trade diversion reduces welfare."
+  },
+  {
+   "q": "Product life cycle theory of trade was given by:",
+   "options": [
+    "Linder",
+    "Krugman",
+    "Vernon",
+    "Posner"
+   ],
+   "answer": 2,
+   "explanation": "Raymond Vernon (1966)."
+  },
+  {
+   "q": "Immiserising growth was explained by:",
+   "options": [
+    "Prebisch",
+    "Johnson",
+    "Singer",
+    "Bhagwati"
+   ],
+   "answer": 3,
+   "explanation": "Jagdish Bhagwati (1958): export-led growth can worsen welfare through falling terms of trade."
+  },
+  {
+   "q": "The WTO came into existence on:",
+   "options": [
+    "1 July 1995",
+    "1 January 1995",
+    "1 January 1948",
+    "15 April 1994"
+   ],
+   "answer": 1,
+   "explanation": "The Marrakesh Agreement was signed on 15 April 1994; WTO started on 1 January 1995."
+  },
+  {
+   "q": "Exchange rate overshooting model was given by:",
+   "options": [
+    "Mundell",
+    "Cassel",
+    "Fleming",
+    "Dornbusch"
+   ],
+   "answer": 3,
+   "explanation": "Rudiger Dornbusch (1976), with sticky goods prices."
+  },
+  {
+   "q": "Effective rate of protection is high when:",
+   "options": [
+    "Tariff on output is higher than on inputs (tariff escalation)",
+    "Tariff on inputs is higher than on output",
+    "Both tariffs are equal",
+    "There are no imported inputs"
+   ],
+   "answer": 0,
+   "explanation": "ERP = (t − a·tᵢ)/(1 − a); low input tariffs with high output tariffs raise effective protection."
+  },
+  {
+   "q": "Which theory explains intra-industry trade?",
+   "options": [
+    "H–O",
+    "Ricardian",
+    "New trade theory (Krugman)",
+    "Mercantilism"
+   ],
+   "answer": 2,
+   "explanation": "Economies of scale and love of variety give two-way trade in similar goods."
+  }
+ ]
+}

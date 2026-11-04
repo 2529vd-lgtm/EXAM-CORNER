@@ -1,0 +1,171 @@
+{
+ "duration": 18,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "In the Harrod–Domar model, if s = 24% and v = 4, growth rate is:",
+   "options": [
+    "20%",
+    "28%",
+    "96%",
+    "6%"
+   ],
+   "answer": 3,
+   "explanation": "g = s/v = 24/4 = 6%."
+  },
+  {
+   "q": "Knife-edge instability is a feature of:",
+   "options": [
+    "Harrod–Domar model",
+    "Romer model",
+    "Solow model",
+    "Lewis model"
+   ],
+   "answer": 0,
+   "explanation": "Any gap between actual and warranted growth widens."
+  },
+  {
+   "q": "In the Solow model, a higher saving rate raises in the long run:",
+   "options": [
+    "Population growth",
+    "Level of per-capita income",
+    "Rate of depreciation",
+    "Growth rate of per-capita income"
+   ],
+   "answer": 1,
+   "explanation": "Steady-state growth depends only on technical progress."
+  },
+  {
+   "q": "The golden rule of capital accumulation requires:",
+   "options": [
+    "MPK = n + δ",
+    "MPK = 0",
+    "s = 1",
+    "k = 0"
+   ],
+   "answer": 0,
+   "explanation": "Phelps: steady-state consumption per worker is maximised."
+  },
+  {
+   "q": "'Unlimited supplies of labour' (1954) is by:",
+   "options": [
+    "Lewis",
+    "Nurkse",
+    "Rostow",
+    "Hirschman"
+   ],
+   "answer": 0,
+   "explanation": "W. Arthur Lewis, dual-sector model."
+  },
+  {
+   "q": "Backward and forward linkages are associated with:",
+   "options": [
+    "Nurkse",
+    "Leibenstein",
+    "Hirschman",
+    "Rosenstein-Rodan"
+   ],
+   "answer": 2,
+   "explanation": "A.O. Hirschman, The Strategy of Economic Development (1958), unbalanced growth."
+  },
+  {
+   "q": "Critical minimum effort thesis was given by:",
+   "options": [
+    "Myrdal",
+    "Leibenstein",
+    "Rostow",
+    "Nelson"
+   ],
+   "answer": 1,
+   "explanation": "Harvey Leibenstein (1957)."
+  },
+  {
+   "q": "Endogenous growth theory based on R&D and ideas is linked with:",
+   "options": [
+    "Domar",
+    "Kaldor",
+    "Solow",
+    "Romer"
+   ],
+   "answer": 3,
+   "explanation": "Paul Romer (1990); Nobel 2018."
+  },
+  {
+   "q": "The HDI uses which mean to combine its three indices (since 2010)?",
+   "options": [
+    "Arithmetic",
+    "Weighted arithmetic",
+    "Geometric",
+    "Harmonic"
+   ],
+   "answer": 2,
+   "explanation": "Geometric mean, so a low value in one dimension cannot be fully offset."
+  },
+  {
+   "q": "Gini coefficient is calculated from the Lorenz curve as:",
+   "options": [
+    "A/(A + B)",
+    "(A + B)/A",
+    "B/(A + B)",
+    "A/B"
+   ],
+   "answer": 0,
+   "explanation": "A = area between equality line and Lorenz curve; A + B = total area under the line."
+  },
+  {
+   "q": "In the FGT poverty index, α = 1 gives:",
+   "options": [
+    "Head-count ratio",
+    "Squared poverty gap",
+    "Sen index",
+    "Poverty gap index"
+   ],
+   "answer": 3,
+   "explanation": "α = 0 head count; α = 1 poverty gap; α = 2 severity."
+  },
+  {
+   "q": "According to the Tendulkar method, poverty in India in 2011-12 was:",
+   "options": [
+    "21.9%",
+    "37.2%",
+    "29.5%",
+    "11.28%"
+   ],
+   "answer": 0,
+   "explanation": "Rangarajan gave 29.5% for the same year."
+  },
+  {
+   "q": "Rostow's take-off stage requires investment of more than:",
+   "options": [
+    "5% of NI",
+    "20% of NI",
+    "10% of NI",
+    "25% of NI"
+   ],
+   "answer": 2,
+   "explanation": "Plus a leading sector and supportive institutions."
+  },
+  {
+   "q": "Harris–Todaro model says rural–urban migration depends on:",
+   "options": [
+    "Actual urban wage",
+    "Expected urban income",
+    "Rural land holding",
+    "Urban unemployment only"
+   ],
+   "answer": 1,
+   "explanation": "Expected income = urban wage × probability of getting a job."
+  },
+  {
+   "q": "Two-gap model was given by:",
+   "options": [
+    "Prebisch and Singer",
+    "Myrdal",
+    "Lewis and Ranis",
+    "Chenery and Strout"
+   ],
+   "answer": 3,
+   "explanation": "Saving gap and foreign exchange gap (1966)."
+  }
+ ]
+}

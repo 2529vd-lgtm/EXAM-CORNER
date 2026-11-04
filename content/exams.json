@@ -121,6 +121,65 @@
       "description": "",
       "syllabus": "",
       "subjects": []
+    },
+    {
+      "id": "asst-prof-economics",
+      "name": "Assistant Professor in Economics",
+      "fullName": "Assistant Professor & PGT Economics: UPESSC, all states, UGC NET",
+      "date": "2026-11-19",
+      "time": "",
+      "description": "One place to prepare for **Assistant Professor (Economics)** and **PGT Economics** exams in every state, with UGC NET Economics as the base.\n\n**Start with the subject \"Start Here\"**: it has the 5-day plan, the state-wise exam list (North India first), the book list and the formula sheet. Then go unit by unit: each unit has long notes with diagrams, a mind map and a solved practice test. \"Current Economy 2026\" has the Economic Survey, the Union Budget and state budgets.\n\n⚠️ The countdown uses the reported UPESSC written exam date (19 Nov 2026). Check [upessc.up.gov.in](https://upessc.up.gov.in) for the official date.",
+      "syllabus": "## Exam pattern: UPESSC Assistant Professor (Advt. 04/2026)\n\n| Part | Questions | Marks |\n|---|---|---|\n| General Knowledge | 30 | 90 |\n| Economics (subject) | 90 | 270 |\n| **Written total** | **120** | **360** (3 marks each) |\n| Interview | | 40 |\n\n- Objective (MCQ), 2 hours. Reported negative marking: −1 for a wrong answer.\n- Written exam: **19–20 November 2026** (as reported; confirm on [upessc.up.gov.in](https://upessc.up.gov.in)).\n\n> ⚠️ Numbers above are collected from news and coaching sites on 4 Nov 2026. Always check the official notification.\n\n## Economics syllabus (UGC NET Economics, code 01)\n\nMost Assistant Professor exams (UPESSC, MPPSC, RPSC, HPSC, BPSC) follow this UGC NET syllabus closely. PGT exams use a simpler version of the same topics.\n\n### Unit 1: Micro Economics\nTheory of demand (utility, indifference curves, revealed preference, Slutsky), production and costs, market structures (perfect competition, monopoly, monopolistic competition, oligopoly), game theory, factor pricing, general equilibrium and welfare economics, economics of information.\n\n### Unit 2: Macro Economics\nNational income accounting, consumption and investment functions, Keynesian and classical models, IS–LM and IS–LM–BP, aggregate demand and supply, inflation and unemployment (Phillips curve), business cycles, rational expectations and new classical/new Keynesian ideas, money demand and supply.\n\n### Unit 3: Statistics and Econometrics\nProbability and distributions, sampling, hypothesis testing, correlation and regression, OLS and the classical linear regression model, multicollinearity, heteroscedasticity, autocorrelation, dummy variables, simultaneous equations, time series basics, index numbers.\n\n### Unit 4: Mathematical Economics\nSets, functions, differentiation and optimisation (constrained, Lagrange), matrices and input–output analysis, linear programming, difference and differential equations, game theory.\n\n### Unit 5: International Economics\nTrade theories (Ricardo, Heckscher–Ohlin, Stolper–Samuelson, Rybczynski, new trade theory), terms of trade, tariffs and quotas, balance of payments, exchange rate theories and regimes, open-economy macro (Mundell–Fleming), WTO and trade blocs.\n\n### Unit 6: Public Economics\nMarket failure, public goods and externalities, public choice, theories of public expenditure, taxation (incidence, efficiency, optimal taxation), budget and deficits, public debt, fiscal federalism and Finance Commissions, GST.\n\n### Unit 7: Money and Banking\nTheories of money demand and supply, high-powered money and the money multiplier, RBI and monetary policy tools, inflation targeting, banking structure and reforms, financial markets, NBFCs, financial inclusion.\n\n### Unit 8: Growth and Development Economics\nGrowth models (Harrod–Domar, Solow, endogenous growth), development theories (Lewis, big push, balanced vs unbalanced growth, dependency), poverty and inequality measures, human development, institutions.\n\n### Unit 9: Environmental Economics and Demography\nEnvironment as a public good, externalities and Pigouvian tax, Coase theorem, valuation methods, sustainable development, climate policy; demographic transition, population theories, census and NFHS data, migration.\n\n### Unit 10: Indian Economy\nPlanning and NITI Aayog, agriculture, industry and services, economic reforms since 1991, poverty and unemployment, inflation, fiscal and monetary policy in India, external sector, recent Economic Survey and Budget.\n",
+      "subjects": [
+        {
+          "id": "start",
+          "name": "Start Here"
+        },
+        {
+          "id": "micro",
+          "name": "Unit 1: Micro"
+        },
+        {
+          "id": "macro",
+          "name": "Unit 2: Macro"
+        },
+        {
+          "id": "stats",
+          "name": "Unit 3: Statistics & Econometrics"
+        },
+        {
+          "id": "maths",
+          "name": "Unit 4: Mathematical Economics"
+        },
+        {
+          "id": "intl",
+          "name": "Unit 5: International"
+        },
+        {
+          "id": "public",
+          "name": "Unit 6: Public Economics"
+        },
+        {
+          "id": "money",
+          "name": "Unit 7: Money & Banking"
+        },
+        {
+          "id": "growth",
+          "name": "Unit 8: Growth & Development"
+        },
+        {
+          "id": "env",
+          "name": "Unit 9: Environment & Demography"
+        },
+        {
+          "id": "indian",
+          "name": "Unit 10: Indian Economy"
+        },
+        {
+          "id": "current",
+          "name": "Current Economy 2026"
+        }
+      ]
     }
   ]
 }

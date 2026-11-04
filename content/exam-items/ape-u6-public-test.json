@@ -1,0 +1,171 @@
+{
+ "duration": 18,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "Efficient provision of a pure public good requires:",
+   "options": [
+    "MRS = MRT for each person",
+    "MRT = 0",
+    "MRS = 0",
+    "ΣMRS = MRT"
+   ],
+   "answer": 3,
+   "explanation": "Samuelson condition: sum of marginal benefits equals marginal cost."
+  },
+  {
+   "q": "Wagner's law states that:",
+   "options": [
+    "Public expenditure falls as economy grows",
+    "Debt should be repaid in booms",
+    "Public expenditure grows faster than national income",
+    "Taxes rise during wars"
+   ],
+   "answer": 2,
+   "explanation": "Adolph Wagner's law of increasing state activity."
+  },
+  {
+   "q": "The displacement effect in public spending was given by:",
+   "options": [
+    "Musgrave",
+    "Colin Clark",
+    "Dalton",
+    "Peacock and Wiseman"
+   ],
+   "answer": 3,
+   "explanation": "Peacock & Wiseman (1961), UK data."
+  },
+  {
+   "q": "A tax burden falls mainly on buyers when:",
+   "options": [
+    "Demand is more elastic than supply",
+    "Supply is perfectly inelastic",
+    "Both are perfectly elastic",
+    "Demand is less elastic than supply"
+   ],
+   "answer": 3,
+   "explanation": "The less elastic side bears more of the tax."
+  },
+  {
+   "q": "Fiscal deficit equals:",
+   "options": [
+    "Fiscal deficit − interest",
+    "Revenue deficit − grants for capital assets",
+    "Revenue expenditure − revenue receipts",
+    "Total expenditure − total receipts excluding borrowings"
+   ],
+   "answer": 3,
+   "explanation": "It measures the total borrowing requirement of the government."
+  },
+  {
+   "q": "Primary deficit is:",
+   "options": [
+    "Fiscal deficit − interest payments",
+    "Fiscal deficit + interest",
+    "Total expenditure − tax revenue",
+    "Revenue deficit − interest"
+   ],
+   "answer": 0,
+   "explanation": "It shows borrowing for current needs excluding past interest."
+  },
+  {
+   "q": "Coase theorem requires:",
+   "options": [
+    "Government taxation",
+    "Perfect competition in all markets",
+    "Clearly defined property rights and low transaction costs",
+    "Public ownership"
+   ],
+   "answer": 2,
+   "explanation": "Then private bargaining reaches an efficient outcome."
+  },
+  {
+   "q": "The 16th Finance Commission was chaired by:",
+   "options": [
+    "Vijay Kelkar",
+    "N.K. Singh",
+    "Arvind Panagariya",
+    "Y.V. Reddy"
+   ],
+   "answer": 2,
+   "explanation": "Arvind Panagariya; award period 2026–31; states' share kept at 41%."
+  },
+  {
+   "q": "The GST Council is provided for under Article:",
+   "options": [
+    "279A",
+    "280",
+    "270",
+    "246A"
+   ],
+   "answer": 0,
+   "explanation": "Article 279A, inserted by the 101st Amendment (2016)."
+  },
+  {
+   "q": "Ramsey's optimal commodity tax rule says tax rates should be:",
+   "options": [
+    "Highest on necessities only for equity",
+    "Uniform on all goods",
+    "Inversely proportional to demand elasticities",
+    "Proportional to income"
+   ],
+   "answer": 2,
+   "explanation": "Inverse elasticity rule minimises deadweight loss."
+  },
+  {
+   "q": "'Equal marginal sacrifice' principle leads to:",
+   "options": [
+    "Poll tax",
+    "Most progressive taxation",
+    "Regressive taxation",
+    "Proportional taxation"
+   ],
+   "answer": 1,
+   "explanation": "Least aggregate sacrifice: tax the richest first until incomes are equal at the top."
+  },
+  {
+   "q": "Which is a club good?",
+   "options": [
+    "National defence",
+    "Cable TV",
+    "Fish in the ocean",
+    "Bread"
+   ],
+   "answer": 1,
+   "explanation": "Excludable but non-rival (up to capacity)."
+  },
+  {
+   "q": "Median voter theorem is associated with:",
+   "options": [
+    "Buchanan only",
+    "Arrow",
+    "Black and Downs",
+    "Pigou"
+   ],
+   "answer": 2,
+   "explanation": "Duncan Black (1948) and Anthony Downs (1957)."
+  },
+  {
+   "q": "Union Budget 2026-27 fiscal deficit target is:",
+   "options": [
+    "4.4% of GDP",
+    "5.1% of GDP",
+    "4.3% of GDP",
+    "3.0% of GDP"
+   ],
+   "answer": 2,
+   "explanation": "Down from 4.4% (RE) in 2025-26."
+  },
+  {
+   "q": "The 'voting with the feet' model is by:",
+   "options": [
+    "Musgrave",
+    "Oates",
+    "Tiebout",
+    "Lindahl"
+   ],
+   "answer": 2,
+   "explanation": "Charles Tiebout (1956): local public goods and mobility."
+  }
+ ]
+}

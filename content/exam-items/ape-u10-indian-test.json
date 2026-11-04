@@ -1,0 +1,171 @@
+{
+ "duration": 18,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "The Second Five-Year Plan was based on:",
+   "options": [
+    "Gandhian model",
+    "Rao–Manmohan model",
+    "Harrod–Domar model",
+    "Mahalanobis model"
+   ],
+   "answer": 3,
+   "explanation": "Emphasis on heavy and capital goods industries."
+  },
+  {
+   "q": "NITI Aayog was set up on:",
+   "options": [
+    "15 March 1950",
+    "1 April 2015",
+    "1 January 2015",
+    "15 August 2014"
+   ],
+   "answer": 2,
+   "explanation": "It replaced the Planning Commission by a cabinet resolution."
+  },
+  {
+   "q": "Plan holiday period was:",
+   "options": [
+    "1961–66",
+    "1990–92",
+    "1978–80",
+    "1966–69"
+   ],
+   "answer": 3,
+   "explanation": "Three annual plans after the Third Plan."
+  },
+  {
+   "q": "MSP is announced on the recommendation of:",
+   "options": [
+    "NITI Aayog",
+    "CACP",
+    "FCI",
+    "NABARD"
+   ],
+   "answer": 1,
+   "explanation": "Commission for Agricultural Costs and Prices (1965)."
+  },
+  {
+   "q": "The New Industrial Policy was announced on:",
+   "options": [
+    "15 August 1991",
+    "1 April 1991",
+    "6 April 1980",
+    "24 July 1991"
+   ],
+   "answer": 3,
+   "explanation": "Along with the Union Budget 1991-92."
+  },
+  {
+   "q": "WPI in India is compiled by:",
+   "options": [
+    "Office of the Economic Adviser, DPIIT",
+    "RBI",
+    "NSO",
+    "Labour Bureau"
+   ],
+   "answer": 0,
+   "explanation": "Base year 2011-12."
+  },
+  {
+   "q": "Which plan aimed at 'faster and more inclusive growth'?",
+   "options": [
+    "10th",
+    "9th",
+    "12th",
+    "11th"
+   ],
+   "answer": 3,
+   "explanation": "11th Plan (2007–12). The 12th added 'sustainable'."
+  },
+  {
+   "q": "The VB-G RAM G Act, which replaced MGNREGA from 1 July 2026, guarantees how many days of rural work?",
+   "options": [
+    "150",
+    "120",
+    "100",
+    "125"
+   ],
+   "answer": 3,
+   "explanation": "Raised from 100 to 125 days per household per year."
+  },
+  {
+   "q": "FEMA replaced FERA in:",
+   "options": [
+    "1999",
+    "1973",
+    "1991",
+    "2002"
+   ],
+   "answer": 0,
+   "explanation": "Foreign Exchange Management Act, 1999."
+  },
+  {
+   "q": "Economic Survey 2025-26 projects FY27 real GDP growth at:",
+   "options": [
+    "6.3–6.8%",
+    "5.5–6%",
+    "6.8–7.2%",
+    "7.5–8%"
+   ],
+   "answer": 2,
+   "explanation": "Tabled 29 January 2026."
+  },
+  {
+   "q": "The Union Budget is presented under Article:",
+   "options": [
+    "110",
+    "280",
+    "266",
+    "112"
+   ],
+   "answer": 3,
+   "explanation": "Annual Financial Statement."
+  },
+  {
+   "q": "PM-KISAN gives eligible farmers per year:",
+   "options": [
+    "₹6,000",
+    "₹12,000",
+    "₹4,000",
+    "₹10,000"
+   ],
+   "answer": 0,
+   "explanation": "In three equal instalments of ₹2,000."
+  },
+  {
+   "q": "Under NFSA 2013, coverage is up to:",
+   "options": [
+    "50% rural and 75% urban",
+    "75% rural and 50% urban population",
+    "100% rural",
+    "67% of all households equally"
+   ],
+   "answer": 1,
+   "explanation": "About two-thirds of the population overall."
+  },
+  {
+   "q": "Which pair is correct?",
+   "options": [
+    "Narasimham – tax reforms",
+    "Tarapore – disinvestment",
+    "Malhotra – insurance reforms",
+    "Chelliah – banking reforms"
+   ],
+   "answer": 2,
+   "explanation": "R.N. Malhotra Committee (1994) on insurance."
+  },
+  {
+   "q": "The four Labour Codes came into force on:",
+   "options": [
+    "1 April 2020",
+    "21 November 2025",
+    "1 July 2017",
+    "26 January 2024"
+   ],
+   "answer": 1,
+   "explanation": "Notified for implementation on 21 Nov 2025."
+  }
+ ]
+}
