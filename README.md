@@ -18,6 +18,10 @@ Open **`/admin.html`** on the live site (or use the "Admin" link in the footer) 
 
 Every save becomes a commit in this repo. The live site updates 1–2 minutes later.
 
+## Auto-upload from your Windows laptop
+
+`tools/windows-sync/` watches your Downloads folder and puts new PDFs (for example from ChatGPT or Gemini scheduled actions) on the site by itself. It's free. See [tools/windows-sync/README.md](tools/windows-sync/README.md) (in Hindi) for setup.
+
 ## Where things live
 
 | Path | What it is |

@@ -1,0 +1,17 @@
+{
+  "repoUrl": "https://github.com/2529vd-lgtm/EXAM-CORNER.git",
+  "branch": "claude/keen-bohr-dtwqeo",
+  "repoFolder": "%USERPROFILE%\\ExamCorner\\site",
+  "siteUrl": "https://2529vd-lgtm.github.io/EXAM-CORNER/",
+  "watchFolders": ["DOWNLOADS"],
+  "askForEveryNewPdf": true,
+  "checkEverySeconds": 10,
+  "examAliases": {
+    "UPSC": "upsc-cse-prelims-2027",
+    "BPSC": "bpsc-prelims",
+    "UPPCS": "uppcs-prelims-muzmgozu",
+    "UPESSC": "uphesc-muw863p7",
+    "BSSC": "bssc-bso-cgl-04-muwjbaf6",
+    "AUDITOR": "bpsc-auditor-mains-muzmbvuh"
+  }
+}
