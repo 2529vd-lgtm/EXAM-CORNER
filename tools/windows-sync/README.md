@@ -39,7 +39,7 @@ EC_<EXAM>_<SUBJECT>_<TYPE>_<Title>.pdf
 उदाहरण:
 - `EC_UPSC_polity_long_Fundamental_Rights.pdf` → UPSC › Polity › Long Notes
 - `EC_BPSC_current-affairs_short_4_Nov_2026.pdf` → BPSC › Current Affairs › Short Notes
-- `EC_UPESSC_general_pyq_Unit_5.pdf` → UPESSC › General › PYQ
+- `EC_UPESSC_upessc_pyq_Unit_5.pdf` → Assistant Professor in Economics › UPESSC: your notes & PYQs › PYQ
 
 ### ChatGPT / Gemini के scheduled action में यह line जोड़ दें
 
