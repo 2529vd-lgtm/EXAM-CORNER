@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>BPSC Prelims - Handwritten Revision Notes</title>
+  <!-- Handwritten Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Kalam:wght@400;700&family=Patrick+Hand&display=swap" rel="stylesheet">
+
+  <style>
+    @page {
+      size: A4;
+      margin: 15mm 15mm 15mm 20mm;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: #f4ede2;
+      font-family: 'Patrick Hand', 'Kalam', cursive;
+      font-size: 17px;
+      line-height: 28px;
+      color: #1a2a44; /* Blue ballpoint pen ink color */
+    }
+
+    /* Print / PDF Trigger Button (Screen only) */
+    .no-print {
+      position: fixed;
+      top: 15px;
+      right: 25px;
+      z-index: 999;
+      background: #1a5276;
+      color: #fff;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 6px;
+      font-family: sans-serif;
+      font-size: 14px;
+      font-weight: bold;
+      cursor: pointer;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.25);
+    }
+    .no-print:hover {
+      background: #113853;
+    }
+
+    /* Notebook Page Container */
+    .notebook-page {
+      max-width: 800px;
+      margin: 25px auto;
+      background: #fffdf8;
+      padding: 40px 45px 50px 65px;
+      position: relative;
+      border: 1px solid #e2dac9;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+      /* Notebook Ruled Lines */
+      background-image: 
+        linear-gradient(90deg, transparent 48px, #e74c3c 49px, #e74c3c 50px, transparent 51px),
+        repeating-linear-gradient(transparent, transparent 27px, #d6e4f0 28px);
+      background-attachment: local;
+    }
+
+    h1 {
+      font-family: 'Caveat', cursive;
+      font-size: 34px;
+      text-align: center;
+      color: #b03a2e; /* Red pen title */
+      text-decoration: underline wavy #b03a2e 1.5px;
+      margin-bottom: 12px;
+      line-height: 38px;
+    }
+
+    .meta-subtitle {
+      text-align: center;
+      font-size: 15px;
+      color: #555;
+      margin-bottom: 25px;
+      font-family: 'Kalam', cursive;
+    }
+
+    h2 {
+      font-family: 'Caveat', cursive;
+      font-size: 26px;
+      color: #922b21;
+      margin-top: 25px;
+      margin-bottom: 8px;
+      border-bottom: 2px dashed #922b21;
+      display: inline-block;
+      padding-bottom: 2px;
+    }
+
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+
+    li {
+      position: relative;
+      padding-left: 22px;
+      margin-bottom: 6px;
+      text-align: justify;
+    }
+
+    li::before {
+      content: "✎";
+      position: absolute;
+      left: 0;
+      top: 0;
+      color: #b03a2e;
+      font-size: 14px;
+    }
+
+    strong {
+      color: #0b172a;
+      font-weight: 700;
+    }
+
+    .highlighter {
+      background: rgba(254, 249, 195, 0.7);
+      padding: 0 4px;
+      border-radius: 3px;
+    }
+
+    @media print {
+      body {
+        background: none;
+      }
+      .no-print {
+        display: none !important;
+      }
+      .notebook-page {
+        margin: 0;
+        max-width: 100%;
+        border: none;
+        box-shadow: none;
+        padding: 10px 20px 20px 50px;
+        page-break-after: always;
+      }
+      h2 {
+        page-break-after: avoid;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <button class="no-print" onclick="window.print()">📥 Download / Print as PDF</button>
+
+  <div class="notebook-page">
+    <h1>BPSC Prelims - 75 High-Yield Revision Notes</h1>
+    <div class="meta-subtitle">Handwritten-Style Rapid Revision • Blue Ink Lined Sheet</div>
+
+    <h2>1. Geography & Environment</h2>
+    <ul>
+      <li><strong>Strait of Hormuz:</strong> Links the <span class="highlighter">Persian Gulf with the Gulf of Oman</span> (leading into the Arabian Sea). World's premier oil transit corridor.</li>
+      <li><strong>Chumbi Valley Passes:</strong> <strong>Nathu La</strong> and <strong>Jelep La</strong> (Sikkim) connect India with the strategic Chumbi Valley in Tibet.</li>
+      <li><strong>San Andreas Fault:</strong> Prominent continental transform plate boundary between the <strong>Pacific Plate</strong> and the <strong>North American Plate</strong> in California.</li>
+      <li><strong>Land of Red River & Blue Hills:</strong> Traditional sobriquet for <strong>Assam</strong> (Red River = Brahmaputra; Blue Hills = surrounding peaks).</li>
+      <li><strong>Mouling National Park:</strong> Situated in <strong>Arunachal Pradesh</strong> (Upper Siang district).</li>
+      <li><strong>Arabian Sea Coastline:</strong> <strong>Gujarat</strong> possesses the longest coastline in India as well as along the Arabian Sea.</li>
+      <li><strong>Triveni Canal:</strong> Originates from the <strong>Gandak River</strong> in West Champaran, Bihar.</li>
+      <li><strong>Tilaiya Dam:</strong> Built across the <strong>Barakar River</strong> under the Damodar Valley Corporation (DVC).</li>
+      <li><strong>Atomic Minerals:</strong> Uranium, Thorium, Monazite, and Zircon are nuclear/atomic minerals; <strong>Lead</strong> is an ordinary base metal.</li>
+      <li><strong>Ramsar Convention:</strong> Signed on February 2, 1971, in <strong>Ramsar, Iran</strong> for wetland preservation.</li>
+      <li><strong>Minamata Disease:</strong> Neurological condition caused by bioaccumulation of toxic <strong>Methylmercury</strong>.</li>
+      <li><strong>Renuka Lake:</strong> Largest natural freshwater lake in <strong>Himachal Pradesh</strong> (Sirmaur district); Ramsar site.</li>
+      <li><strong>Rhine River:</strong> Heaviest used and busiest inland industrial waterway across Western Europe.</li>
+      <li><strong>Mount McKinley (Denali):</strong> Highest peak in North America (6,190 m), located in <strong>Alaska, USA</strong>.</li>
+      <li><strong>Normal Lapse Rate:</strong> Tropospheric temperature decreases at the standard rate of <span class="highlighter">6.5 °C per 1,000 meters (1 km)</span>.</li>
+      <li><strong>Nor'westers (Kalbaisakhi):</strong> Local convective pre-monsoon thunder-showers in <strong>West Bengal & Assam</strong>.</li>
+      <li><strong>Marina Beach:</strong> Located in <strong>Chennai</strong>; India's longest natural urban beach.</li>
+      <li><strong>UNESCO Sites in Bihar:</strong> <strong>Mahabodhi Temple Complex</strong> (Bodh Gaya, 2002) and <strong>Nalanda Mahavihara</strong> (2016).</li>
+      <li><strong>Bihar-UP Border (North to South):</strong> West Champaran → Gopalganj → Siwan → Saran → Bhojpur → Buxar → Kaimur → Rohtas.</li>
+      <li><strong>First OTEC Plant:</strong> Developed by NIOT at <strong>Kavaratti, Lakshadweep</strong> for ocean thermal desalination.</li>
+      <li><strong>Zoji La Pass:</strong> Connects <strong>Srinagar with Leh</strong> across the Great Himalayan range.</li>
+      <li><strong>Devprayag Confluence:</strong> Confluence of <strong>Alaknanda + Bhagirathi</strong> rivers, forming the official <strong>Ganga</strong>.</li>
+      <li><strong>Karewas:</strong> Lacustrine clay/silt terrace formations in the <strong>Kashmir Valley</strong>, ideal for saffron (zafran) farming.</li>
+      <li><strong>Mount Kilimanjaro:</strong> Dormant volcanic peak in Tanzania; highest mountain summit in <strong>Africa</strong> (5,895 m).</li>
+      <li><strong>Coal Reserves:</strong> <strong>Jharkhand</strong> holds the highest recoverable coal reserves in India.</li>
+      <li><strong>Bihar Census 2011:</strong> Population density is <span class="highlighter">1,106 per sq km</span> (highest in India); Sex ratio is <strong>918</strong>.</li>
+      <li><strong>Bihar Economic Survey:</strong> First published for the financial year <strong>2006–07</strong>.</li>
+    </ul>
+
+    <h2>2. History & National Movement</h2>
+    <ul>
+      <li><strong>Veer Kunwar Singh (1857):** The 80-year-old Zamindar of Jagdishpur led the revolt, joining mutineers at **Arrah** in July 1857.</li>
+      <li><strong>Deccan Riots (1875):</strong> Immediate trigger was extortion and exorbitant debt-interest bonds by immigrant moneylenders (<strong>Mahajans/Sahukars</strong>).</li>
+      <li><strong>Satyashodhak Samaj:</strong> Founded in 1873 by <strong>Jyotirao Phule</strong> in Maharashtra for the upliftment of oppressed classes.</li>
+      <li><strong>Central Assembly Bombing (1929):</strong> Bhagat Singh threw bombs on April 8, 1929, when he was <strong>a little more than 21 years old</strong>.</li>
+      <li><strong>Rowlatt Satyagraha:</strong> Protest against the Rowlatt Act & arrests of Dr. Kitchlew/Dr. Satyapal led to the <strong>Jallianwala Bagh Massacre</strong> (April 13, 1919).</li>
+      <li><strong>R.P. Dutt's Thesis:</strong> In *India Today*, <strong>Rajani Palme Dutt</strong> criticized INC as having a dual character—fighting yet collaborating with imperialism.</li>
+      <li><strong>Santhal Hool (1855–56):</strong> Massive tribal insurrection against British revenue agents and Mahajans led by <strong>Sidhu and Kanhu Murmu</strong>.</li>
+      <li><strong>1857 Critique:</strong> <strong>R.C. Majumdar</strong> concluded that 1857 was <em>"Neither first, nor national, nor a war of independence"</em>.</li>
+      <li><strong>1st INC Session (1885):</strong> Held in Bombay (Gokuldas Tejpal College), attended by <strong>72 delegates</strong>; presided by W.C. Bonnerjee.</li>
+      <li><strong>Servants of India Society:</strong> Established in 1905 by <strong>Gopal Krishna Gokhale</strong> in Pune.</li>
+      <li><strong>Champaran Satyagraha (1917):</strong> Gandhi's first civil disobedience in India against the oppressive <strong>Tinkathia system</strong> (3/20 indigo).</li>
+      <li><strong>Lahore Session (1929):</strong> Presided over by <strong>Jawaharlal Nehru</strong>; adopted the goal of <strong>Purna Swaraj</strong>.</li>
+      <li><strong>The Bengalee:</strong> Influential nationalist newspaper founded/edited by <strong>Surendranath Banerjee</strong>.</li>
+      <li><strong>Swaraj Party (1923):</strong> Formed by <strong>C.R. Das</strong> (President) and <strong>Motilal Nehru</strong> (Secretary) to obstruct councils from within.</li>
+      <li><strong>Belgaum Session (1924):</strong> The only INC annual session presided over by <strong>Mahatma Gandhi</strong>.</li>
+      <li><strong>Patna Salt Satyagraha (1930):</strong> Led by <strong>Ambika Kant Sinha</strong> at Nakhas Pond (Nakhas Pind).</li>
+    </ul>
+
+    <h2>3. Indian Polity & Constitution</h2>
+    <ul>
+      <li><strong>Article 17:</strong> Abolition of 'Untouchability' and penal prohibition of its practice.</li>
+      <li><strong>Article 32:</strong> Fundamental <strong>Right to Constitutional Remedies</strong>; described as the "Heart and Soul of the Constitution" by Dr. Ambedkar.</li>
+      <li><strong>Article 213 vs 123 (Ordinances):</strong> Article 213 empowers the <strong>Governor</strong>; Article 123 empowers the <strong>President</strong>.</li>
+      <li><strong>Article 280:</strong> Mandates the appointment of a <strong>Finance Commission</strong> every 5 years by the President.</li>
+      <li><strong>Article 352:</strong> Proclamation of <strong>National Emergency</strong> on grounds of War, External Aggression, or Armed Rebellion.</li>
+      <li><strong>Writ of Prohibition:</strong> Issued by higher judiciary to inferior courts/tribunals to stop them from exceeding jurisdiction.</li>
+      <li><strong>Presidential Eligibility:</strong> Minimum qualifying age is <strong>35 years</strong> (same for Vice-President & Governor).</li>
+      <li><strong>Rajya Sabha Maximum Strength:</strong> Capped at <strong>250 members</strong> (238 elected + 12 nominated by President).</li>
+      <li><strong>Joint Sitting of Parliament:</strong> Summoned under Article 108; presided over by the <strong>Speaker of the Lok Sabha</strong>.</li>
+      <li><strong>Directive Principles (DPSP):</strong> Borrowed from the <strong>Irish Constitution</strong> (Part IV).</li>
+      <li><strong>Local Self-Government:</strong> 1st Panchayati Raj launched on Oct 2, 1959, in <strong>Nagaur, Rajasthan</strong>. 73rd & 74th Amendments gave constitutional status to Panchayats & Municipalities.</li>
+    </ul>
+
+    <h2>4. General Science</h2>
+    <ul>
+      <li><strong>Bauxite:</strong> Primary natural ore from which <strong>Aluminium (Al)</strong> is extracted.</li>
+      <li><strong>Baking Soda:</strong> Chemically known as <strong>Sodium Bicarbonate (NaHCO₃)</strong>.</li>
+      <li><strong>Oil of Vitriol:</strong> Historical term for concentrated <strong>Sulphuric Acid (H₂SO₄)</strong>.</li>
+      <li><strong>pH of Pure Water:</strong> Neutral value of exactly <strong>7</strong> at 25 °C.</li>
+      <li><strong>Gravity (g):</strong> Maximum at Earth's <strong>Poles</strong> (~9.83 m/s²) and minimum at the Equator (~9.78 m/s²).</li>
+      <li><strong>Total Internal Reflection (TIR):</strong> The foundational physical principle behind <strong>Optical Fibers</strong> and mirages.</li>
+      <li><strong>Current & Resistance:</strong> Current is measured with an <strong>Ammeter</strong> in series; Resistance unit is <strong>Ohm (Ω)</strong>.</li>
+      <li><strong>Brass Alloy:</strong> Made of <strong>Copper (Cu) + Zinc (Zn)</strong>.</li>
+      <li><strong>Stomach Acid:</strong> Gastric glands secrete <strong>Hydrochloric Acid (HCl)</strong> to activate pepsin.</li>
+      <li><strong>Vitamin D:</strong> Synthesized photochemically in skin cells upon exposure to solar <strong>UV-B radiation</strong>.</li>
+      <li><strong>Mitochondria:</strong> Known as the "Powerhouse of the Cell"; primary site of cellular ATP production.</li>
+      <li><strong>RBC Formation (Erythropoiesis):</strong> Formed in healthy adults within the <strong>Red Bone Marrow</strong>.</li>
+      <li><strong>Universal Donor:</strong> <strong>O negative (O⁻)</strong> blood group (lacks A, B, and Rh surface antigens).</li>
+      <li><strong>Insulin Hormone:</strong> Synthesized by the <strong>β-cells</strong> of the Islets of Langerhans in the <strong>Pancreas</strong>.</li>
+      <li><strong>Ocean Acidification:</strong> Driven by dissolution of atmospheric <strong>Carbon Dioxide (CO₂)</strong> into oceanic waters.</li>
+    </ul>
+
+    <h2>5. Economic & Rural Models</h2>
+    <ul>
+      <li><strong>PURA Model:</strong> <em>Providing Urban Amenities to Rural Areas</em> was strongly championed by former President <strong>Dr. A.P.J. Abdul Kalam</strong>.</li>
+      <li><strong>Microfinance & SHGs:</strong> Pioneer of modern microcredit and Grameen model is Nobel laureate <strong>Muhammad Yunus</strong>.</li>
+    </ul>
+  </div>
+
+</body>
+</html>
