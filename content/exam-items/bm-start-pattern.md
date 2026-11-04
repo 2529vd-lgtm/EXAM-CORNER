@@ -2,13 +2,15 @@
 
 | Exam | Mains papers | Economics? |
 |---|---|---|
-| **BPSC CCE** (Combined Competitive Exam, 63rd–71st and next) | General Hindi (qualifying, 100) · **GS-I (300)** · **GS-II (300)** · **Essay (300)** · Optional | **Economics is one of the optional subjects.** In recent cycles the optional is reported as **100 marks, objective and qualifying** (not counted in merit). Earlier cycles (up to 68th) had a 300-mark descriptive optional. |
-| **BPSC Auditor / Assistant Audit Officer (AAO) Mains** | General Hindi · GS-I · GS-II · Optional (300 marks, 3 h, as reported) | **Economics is an optional**, along with Commerce (some sources also list Mathematics and Statistics). |
-| Other BPSC exams with a Mains (ASO, CDPO, departmental exams) | usually General Hindi + GS + subject paper | check the notification; Economics appears mainly in GS-II (Indian Economy and Bihar) |
+| **BPSC CCE** (Combined Competitive Exam) | General Hindi (qualifying, 100) · **GS-I (300)** · **GS-II (300)** · **Essay (300)** · Optional | Economics is one of the optional subjects. In recent CCE cycles the optional is reported as 100 marks and qualifying. **This is only for CCE.** |
+| **BPSC Auditor** | General Hindi (100, qualifying) · GS-I (300) · GS-II (300) · **subject paper (300)** | **Economics, 300 marks, descriptive, counted in merit.** Choice: Economics / Commerce / Mathematics / Statistics |
+| **District Statistical Officer (DSO) / Assistant Director** | General Hindi (100, qualifying) · GS-I (300) · GS-II (300) · **subject paper (300)** | **Economics, 300 marks, counted in merit.** Choice: Economics / Mathematics / Statistics. Latest: Advt. 38/2025; Mains 29–30 Jan 2026; result 10 Aug 2026 (reported) |
+| **Financial Administrative Officer (FAO) & equivalent (Finance Dept.)** | General Hindi (100, qualifying) · GS-I (300) · GS-II (300) · **subject paper (300)** | **Economics, 300 marks.** Choice: Commerce / Economics / Mathematics / Statistics (graduation must be in one of these). ⚠️ One coaching table calls this paper qualifying; check the notification |
+| Other BPSC exams with a Mains (ASO, CDPO, departmental exams) | usually General Hindi + GS + subject paper | Economics appears mainly in GS-II (Indian Economy and Bihar) |
 
 > ⚠️ The CCE optional rules changed recently and sources differ. Always confirm the current pattern in the official notification on [bpsc.bihar.gov.in](https://bpsc.bihar.gov.in).
 >
-> **If you can tell me what "DSO" and "APO" stand for (e.g. District Statistical Officer, Assistant Prosecution Officer), I will add their papers here too.**
+> **Main point:** in **Auditor, DSO and FAO**, Economics is a full **300-mark descriptive paper that decides your rank**. Prepare it like a main subject, not a qualifying paper.
 
 ## CCE Mains in one view
 
@@ -18,8 +20,20 @@
 | GS-I | 300 | merit |
 | GS-II | 300 | merit |
 | Essay | 300 | merit (three essays) |
-| Optional (e.g. Economics) | 100 (recent) | qualifying |
+| Optional (e.g. Economics) | 100 (recent CCE) | qualifying (CCE only) |
 | Interview | 120 | merit |
+
+## Auditor / DSO / FAO Mains in one view
+
+| Paper | Marks | What counts |
+|---|---|---|
+| General Hindi | 100 | qualifying |
+| GS-I | 300 | merit |
+| GS-II | 300 | merit |
+| **Economics** | **300** | **merit** (descriptive, 3 hours) |
+| Interview (where held) | 120 | merit |
+
+Economics is a third of your written merit marks. A strong Economics paper can decide selection.
 
 ## How this section is organised
 1. **Economics (Mains)**: syllabus mapped to full notes, **Bihar Economy** notes, practice questions with answer frameworks, and an objective test.

@@ -1,6 +1,6 @@
 ## BPSC Mains Economics: syllabus mapped to notes
 
-BPSC's Economics optional has two broad parts. Theory topics are the same as UGC NET, so the full notes from the **Assistant Professor in Economics** exam on this site are used. Bihar topics have their own notes here.
+In **Auditor, DSO and FAO Mains**, Economics is a **300-mark descriptive paper counted in merit** (in CCE it is an optional). The syllabus has two broad parts. Theory topics are the same as UGC NET, so the full notes from the **Assistant Professor in Economics** exam on this site are used. Bihar topics have their own notes here.
 
 ### Part I: Economic theory
 | BPSC topic | Read this |

@@ -1,5 +1,7 @@
 ## Economics Mains: practice questions with answer frameworks
 
+For **Auditor, DSO and FAO**, Economics is a 300-mark descriptive paper. Questions mix **theory** (with diagrams) and **Indian/Bihar economy**. Practise both kinds below.
+
 These are **practice questions in the BPSC Mains style**, written for this site (not copied from official papers). Each has a framework: write the full answer yourself in 7–8 minutes, then compare.
 
 <details><summary><b>Q1.</b> Bihar's GSDP has grown faster than India's for three years, yet its per-capita income is the lowest. Explain this paradox and suggest measures.</summary>
@@ -63,4 +65,64 @@ These are **practice questions in the BPSC Mains style**, written for this site 
 - Key numbers: total expenditure ≈ ₹53.47 lakh crore, capex ≈ ₹12.2 lakh crore, FD 4.3%.
 - For Bihar: higher tax devolution in absolute terms (41% share retained), capex in roads and rail (Varanasi–Siliguri high-speed corridor passes through Bihar), Makhana Board (announced 2025-26), food-processing support.
 - Concerns: interest burden, state's own capacity to absorb funds.
+</details>
+
+### Theory questions (with diagrams)
+
+<details><summary><b>Q9.</b> Explain consumer's equilibrium with the indifference curve technique. How does it differ from the cardinal approach?</summary>
+
+- Assumptions; IC properties; budget line; equilibrium MRSxy = Px/Py with convexity. **Draw the diagram.**
+- Cardinal: MUx/Px = MUy/Py, measurable utility, constant MU of money (Marshall).
+- Superiority of ordinal: no measurement needed, splits price effect into substitution and income effects, explains Giffen goods.
+- See [Micro notes](item.html?id=ape-u1-micro-notes).
+</details>
+
+<details><summary><b>Q10.</b> How is price and output determined under monopoly? Compare with perfect competition.</summary>
+
+- MR = MC, MC cutting from below; price from the demand curve; **diagram with DWL**.
+- Comparison: higher price, lower output, P > MC, supernormal profit possible, no supply curve.
+- Price discrimination (three degrees) and its conditions.
+</details>
+
+<details><summary><b>Q11.</b> Explain the Keynesian theory of income and employment. Why did Keynes reject Say's law?</summary>
+
+- Effective demand (AD = AS); consumption function; MEC and interest; multiplier; **Keynesian cross diagram**.
+- Under-employment equilibrium; wage rigidity; paradox of thrift.
+- Say's law fails because saving may not equal investment at full employment.
+</details>
+
+<details><summary><b>Q12.</b> What are the causes of inflation? Explain the measures to control it with reference to India.</summary>
+
+- Demand-pull, cost-push, structural (food, supply chains), imported inflation.
+- Measures: monetary (repo, CRR, OMO; flexible inflation targeting 4% ± 2% till 2031), fiscal (deficit control), supply-side (buffer stocks, imports, storage).
+- Recent: low CPI in 2025, repo raised to 5.50% in Oct 2026.
+</details>
+
+<details><summary><b>Q13.</b> Discuss the theory of comparative cost. What are its limitations?</summary>
+
+- Ricardo's example with opportunity costs; gains from trade; **diagram (PPF)**.
+- Limitations: labour theory of value, constant costs, two-country two-good, full employment, no transport costs.
+- Modern versions: H–O, new trade theory.
+</details>
+
+<details><summary><b>Q14.</b> What is deficit financing? Is it good for a developing economy?</summary>
+
+- Definitions: fiscal, revenue, primary, monetised deficit.
+- For: finances investment, uses idle resources (Keynes), capex multiplier.
+- Against: inflation, crowding out, debt trap, interest burden (over ₹14 lakh crore in Union Budget 2026-27).
+- FRBM, debt anchor; Union FD 4.3% (2026-27); Bihar FD 3% of GSDP.
+</details>
+
+<details><summary><b>Q15.</b> Explain the theories of rent: Ricardian and modern.</summary>
+
+- Ricardian: differential fertility, no-rent land, rent does not enter price.
+- Modern: economic rent = earnings − transfer earnings; quasi-rent (Marshall).
+- Example: land near Patna vs remote land; urban rent.
+</details>
+
+<details><summary><b>Q16.</b> Explain the concept and measurement of national income. What difficulties arise in India?</summary>
+
+- GDP, GNP, NNP at FC; product, income and expenditure methods.
+- Difficulties: large informal sector, non-monetised output, double counting, data gaps; base-year revision.
+- Bihar: GSDP ₹9.9 lakh crore (2024-25), per-capita ₹76,490.
 </details>
