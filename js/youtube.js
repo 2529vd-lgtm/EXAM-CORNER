@@ -68,7 +68,7 @@ function youtubeTab() {
 }
 
 // Lists the Flash models this key can use and returns them newest first.
-async function ytListFlash(key) {
+async function ytListFlash(key, includeLite) {
   const res = await fetch(`${GEMINI_API}/models?pageSize=200`, { headers: { "x-goog-api-key": key } });
   const data = await res.json().catch(() => ({}));
   if (!res.ok) {
@@ -78,7 +78,7 @@ async function ytListFlash(key) {
   }
   const ver = (m) => parseFloat((m.match(/^gemini-([\d.]+)/) || [])[1] || 0);
   return (data.models || [])
-    .filter((m) => (m.supportedGenerationMethods || []).includes("generateContent") && /flash/.test(m.name) && !/(image|tts|audio|live|lite|exp)/.test(m.name))
+    .filter((m) => (m.supportedGenerationMethods || []).includes("generateContent") && /flash/.test(m.name) && !(includeLite ? /(image|tts|audio|live|exp)/ : /(image|tts|audio|live|lite|exp)/).test(m.name))
     .map((m) => m.name.replace(/^models\//, ""))
     .sort((a, b) => ver(b) - ver(a) || (/preview/.test(a) - /preview/.test(b)));
 }
@@ -181,10 +181,33 @@ async function ytGenerate() {
         return await ytCallGemini(key, m, cleanUrl, prompt, false); // some models don't accept the low-resolution setting
       }
     };
+    // When Google's servers are busy (503), wait and retry; then fall back to another Flash model.
+    const runPatient = async (m) => {
+      const waits = [10, 25];
+      for (let i = 0; ; i++) {
+        try {
+          return await run(m);
+        } catch (e) {
+          if (!ytBusy(e) || i >= waits.length) throw e;
+          status(`⏳ Google के servers पर अभी भीड़ है। ${waits[i]} सेकंड रुककर फिर कोशिश कर रहे हैं (${i + 1}/${waits.length})…`);
+          await new Promise((r) => setTimeout(r, waits[i] * 1000));
+        }
+      }
+    };
     let out;
     try {
-      out = await run(model);
+      out = await runPatient(model);
     } catch (e) {
+      if (ytBusy(e)) {
+        const others = (await ytListFlash(key, true)).filter((m) => m !== model);
+        if (!others.length) throw e;
+        let lastErr = e;
+        for (const alt of others.slice(0, 2)) {
+          status(`⏳ <b>${esc(model)}</b> पर अभी भीड़ है, अब <b>${esc(alt)}</b> से बना रहे हैं…`);
+          try { out = await run(alt); break; } catch (e2) { lastErr = e2; if (!ytBusy(e2) && !ytRetiredModel(e2)) throw e2; }
+        }
+        if (!out) throw lastErr;
+      } else {
       if (!ytRetiredModel(e)) throw e;
       // The model was retired: switch to the one Gemini suggests, or the newest available, and try once more.
       const named = ((e.message.match(/use (?:models\/)?(gemini-[\w.-]+)/i) || [])[1] || "").replace(/[.-]+$/, "");
@@ -193,7 +216,8 @@ async function ytGenerate() {
       status(`⏳ Model <b>${esc(model)}</b> बंद हो गया है, अब <b>${esc(next)}</b> से बना रहे हैं…`);
       ytSet(YT_MODEL, next);
       if ($("yt-model")) $("yt-model").value = next;
-      out = await run(next);
+      out = await runPatient(next);
+      }
     }
     if (out.ok === false) throw new Error(`यह video पढ़ाई वाली class नहीं लगती: ${out.reason || ""}`);
     ytResult = { out, url: cleanUrl, parts, nMcq };
@@ -205,6 +229,7 @@ async function ytGenerate() {
     if (e.status === 400) hint = " Video public है न? बहुत लंबी (2–3 घंटे) class हो तो छोटी class से कोशिश करें।";
     if (e.status === 403 || e.status === 401) hint = " API key गलत है या बंद है। नई key बनाकर डालें।";
     if (e.status === 404) hint = " Model का नाम पुराना हो सकता है। <b>Key जाँचें</b> दबाएँ, नया model अपने आप चुन लिया जाएगा।";
+    if (ytBusy(e)) hint = " Google के servers पर अभी भीड़ है (यह आपकी key की गलती नहीं)। 5–10 मिनट बाद फिर कोशिश करें।";
     if (e.status === 429) hint = " आज की free सीमा पूरी हो गई या बहुत जल्दी-जल्दी request गई। थोड़ी देर बाद कोशिश करें।";
     if (e instanceof SyntaxError) hint = " Gemini का जवाब अधूरा आया। एक बार फिर कोशिश करें।";
     status(`❌ ${esc(e.message)}${hint}`, "err");
@@ -212,6 +237,11 @@ async function ytGenerate() {
     btn.disabled = false;
     btn.textContent = old;
   }
+}
+
+// True when Google's servers are overloaded for a while (not a quota problem).
+function ytBusy(e) {
+  return e.status === 503 || e.status === 500 || /high demand|overloaded|try again later|unavailable/i.test(e.message || "");
 }
 
 // True when Gemini says the chosen model is retired or unknown.
