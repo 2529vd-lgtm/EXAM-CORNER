@@ -1,0 +1,1535 @@
+{
+ "duration": 167,
+ "negative": 0,
+ "questions": [
+  {
+   "q": "Which of the following statements about rational expectations is false?  \n*[UGC NET December 2018 · Q.62]*",
+   "options": [
+    "It assumes that people take account of all information.",
+    "It assumes that on an average the forecasts made by the public are correct.",
+    "It implies that the expected changes in demand have no effect on unemployment.",
+    "It implies that unexpected changes in demand have long lasting effect on both unemployment and price level."
+   ],
+   "answer": 3,
+   "explanation": "Under rational expectations unexpected demand changes affect output only temporarily, not for long."
+  },
+  {
+   "q": "Which amongst the following is/are correct for the Keynesian model?  \n*[UGC NET December 2018 · Q.64]*",
+   "options": [
+    "It assumes full employment of resources.",
+    "It ignores the money market.",
+    "It is supply determined.",
+    "None of the above"
+   ],
+   "answer": 3,
+   "explanation": "The Keynesian model allows under-employment, includes the money market and is demand-determined."
+  },
+  {
+   "q": "According to New Classical Economics, Real Business Cycles are the result of which of the  \nfollowing?  \n(i) Innovations  \n(ii) Bad Weather  \n(iii) Tax Policy  \n(iv) Debt Policy  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.65]*",
+   "options": [
+    "(i) and (ii)",
+    "(i) and (iii)",
+    "(iii) and (iv)",
+    "(ii) and (iv)"
+   ],
+   "answer": 0,
+   "explanation": "Real business cycles come from real (supply) shocks such as innovations and weather."
+  },
+  {
+   "q": "Consider the following diagram and the statements:  \n(i) Saving is positively related to income.  \n(ii) Marginal propensity to save is positive, but less than 1.  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.66]*",
+   "options": [
+    "Only (i)",
+    "Both (i) and (ii)",
+    "Only (ii)",
+    "Neither (i) nor (ii)"
+   ],
+   "answer": 1,
+   "explanation": "A normal saving function rises with income and has 0 < MPS < 1."
+  },
+  {
+   "q": "An increase in the level of government spending, other things being equal, will in the IS-LM  \nmodel  \n*[UGC NET December 2018 · Q.67]*",
+   "options": [
+    "Increase interest rates, shifting the LM curve to the left",
+    "Increase the level of equilibrium income at all interest rates, shifting the IS curve right",
+    "Lower interest rates, shifting the LM curve to the right",
+    "Always move an economy to full employment"
+   ],
+   "answer": 1,
+   "explanation": "Higher G shifts IS right, raising income at every interest rate."
+  },
+  {
+   "q": "In a hypothetical economy, the rate of growth of nominal GDP is 15% per annum, the annual  \nrate of growth of GDP deflator is 5%. If the population is growing at the rate of growth of 2% per  \nannum, what will be the annual rate of growth of per capita real GDP?  \n*[UGC NET December 2018 · Q.68]*",
+   "options": [
+    "8%",
+    "10%",
+    "3%",
+    "7%"
+   ],
+   "answer": 0,
+   "explanation": "Real growth = 15 − 5 = 10%; per-capita real growth ≈ 10 − 2 = 8%."
+  },
+  {
+   "q": "On which of the following do Keynesians and Monetarists agree?  \n*[UGC NET December 2018 · Q.72]*",
+   "options": [
+    "The most important cause of demand shocks is changes in supply.",
+    "The demand for money is interest elastic.",
+    "Output deviates at times from the potential output because of demand shocks.",
+    "When there is recessionary gap, flexible wages will retrieve the labour market to equilibrium quickly."
+   ],
+   "answer": 2,
+   "explanation": "Both schools accept that demand shocks can push output away from potential in the short run."
+  },
+  {
+   "q": "Which of the following will result in the 'crowding in' effect in the economy?  \n(i) Public borrowings to finance spending on infrastructure  \n(ii) Public borrowings to finance spending on salaries and wages  \n(iii) Public borrowings to finance spending on health and education  \n(iv) Public borrowings to finance spending on skill development  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.90]*",
+   "options": [
+    "(i), (ii) and (iii)",
+    "(iii) and (iv)",
+    "(i), (iii) and (iv)",
+    "(i) and (ii)"
+   ],
+   "answer": 2,
+   "explanation": "Productive public investment (infrastructure, health, education, skills) raises private returns: crowding in."
+  },
+  {
+   "q": "Given below are two statements, one labelled as Assertion (A) and the other labelled as  \nReason (R). Read the statements and choose the correct answer using the code given below.  \nAssertion (A): Business-cycles according to new classical economics are monetary in nature.  \nReason (R): These are the result of the fall in real wage rates.  \n*[UGC NET December 2018 · Q.131]*",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+    "(A) is true, but (R) is false.",
+    "(A) is false, but (R) is true. Passage / data for Q.63-65 (June 2019 S1) Direction: Read the passage given below and answer the questions that follow it: Suppose that for a particular economy for some time period, investment was equal to 100, government expenditure was equal to 75, net taxes were fixed at 100 and consumption (C) was given by the consumption function: C = 25 + 0.8 YD, where YD is disposable income and Y is GDP."
+   ],
+   "answer": 2,
+   "explanation": "Lucas-type new classical cycles come from monetary surprises; they are not caused by falling real wages."
+  },
+  {
+   "q": "What is the level of equilibrium income (Y)?  \n*[UGC NET June 2019 S1 · Q.63]*",
+   "options": [
+    "700",
+    "600",
+    "850",
+    "800"
+   ],
+   "answer": 1,
+   "explanation": "Y = 25 + 0.8(Y − 100) + 100 + 75 → 0.2Y = 120 → Y = 600."
+  },
+  {
+   "q": "What is the value of the government expenditure multiplier (ΔY/ΔG)?  \n*[UGC NET June 2019 S1 · Q.64]*",
+   "options": [
+    "5",
+    "4",
+    "6",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": "Government spending multiplier = 1/(1 − 0.8) = 5."
+  },
+  {
+   "q": "What is the value of tax multiplier (ΔY/ΔT)?  \n*[UGC NET June 2019 S1 · Q.65]*",
+   "options": [
+    "−3",
+    "−2",
+    "−5",
+    "−4"
+   ],
+   "answer": 3,
+   "explanation": "Tax multiplier = −0.8/0.2 = −4."
+  },
+  {
+   "q": "Match List-I with List-II:  \nList - I List - II  \n(a) Accelerator and multiplier interaction (i) Modigliani, Ando and Brumberg  \n(b) Cambridge approach (ii) Akerlof and Yellen  \n(c) Life cycle hypothesis (iii) Paul Samuelson  \n(d) Efficiency wage model (iv) Alfred Marshal and A. C. Pigou  \nChoose the correct option from those given below:  \n*[UGC NET June 2019 S1 · Q.66]*",
+   "options": [
+    "(a)-(i); (b)-(iv); (c)-(ii); (d)-(iii)",
+    "(a)-(iii); (b)-(iv); (c)-(i); (d)-(ii)",
+    "(a)-(ii); (b)-(i); (c)-(iii); (d)-(iv)",
+    "(a)-(iv); (b)-(iii); (c)-(ii); (d)-(i)"
+   ],
+   "answer": 1,
+   "explanation": "Samuelson; Marshall and Pigou; Modigliani–Ando–Brumberg; Akerlof–Yellen."
+  },
+  {
+   "q": "An increase in money supply will increase the demand for goods and services by  \n*[UGC NET June 2019 S1 · \nQ.67]*",
+   "options": [
+    "reducing government spending",
+    "lowering the interest rate so that investment spending increases",
+    "raising interest rate so that investment spending reduces",
+    "increasing government spending on goods and services"
+   ],
+   "answer": 1,
+   "explanation": "More money lowers interest rates, which raises investment and demand."
+  },
+  {
+   "q": "The long-term chronic unemployment arising from imbalance between the skills and other  \ncharacteristics of workers in the market and the needs of employers is known as  \n*[UGC NET June 2019 S1 · Q.68]*",
+   "options": [
+    "cyclical unemployment",
+    "frictional unemployment",
+    "structural unemployment",
+    "seasonal unemployment"
+   ],
+   "answer": 2,
+   "explanation": "Mismatch of skills and job needs = structural unemployment."
+  },
+  {
+   "q": "As income falls, consumption declines but proportionately less than the decrease in income  \nbecause the consumer desires to sustain previous standard of living. This is called  \n*[UGC NET June 2019 S1 · Q.69]*",
+   "options": [
+    "ratchet effect",
+    "wealth effect",
+    "demonstration effect",
+    "income effect"
+   ],
+   "answer": 0,
+   "explanation": "Consumption resists falling with income (past peak standard): Duesenberry's ratchet effect."
+  },
+  {
+   "q": "In efficiency wage model, the real wage is set to  \n*[UGC NET June 2019 S1 · Q.70]*",
+   "options": [
+    "minimise the efficiency of worker per rupee of real wages received",
+    "clear the labour market",
+    "not to clear the labour market",
+    "maximise the efficiency of worker per rupee of real wages received"
+   ],
+   "answer": 3,
+   "explanation": "Efficiency wage minimises cost per efficiency unit: maximise effort per rupee (Solow condition)."
+  },
+  {
+   "q": "By 'financial crowding out' economists mean  \n*[UGC NET June 2019 S1 · Q.71]*",
+   "options": [
+    "credit rationing",
+    "what the government borrows cannot be used for private investment",
+    "government borrowings drive up interest rate",
+    "Reserve Bank of India controls on commercial bank lendings"
+   ],
+   "answer": 2,
+   "explanation": "Financial crowding out: government borrowing pushes up interest rates and reduces private investment."
+  },
+  {
+   "q": "Assume that an economy begins in macroeconomic equilibrium, then taxes are significantly  \ndecreased. As a result of this change  \n*[UGC NET June 2019 S1 · Q.73]*",
+   "options": [
+    "there is expansion and deflation in the economy",
+    "there is recession and deflation in the economy",
+    "there is expansion and inflation in the economy",
+    "there is stagflation in the economy"
+   ],
+   "answer": 2,
+   "explanation": "A tax cut raises aggregate demand: output and prices rise."
+  },
+  {
+   "q": "The rational expectations hypothesis suggests that the forecasts that people make  \nconcerning future inflation rates  \n*[UGC NET June 2019 S1 · Q.74]*",
+   "options": [
+    "consistently overestimates the actual rate of inflation in the future",
+    "are always correct",
+    "consistently underestimates the actual rate of inflation in the future",
+    "are correct on an average but are subject to errors that are distributed randomly"
+   ],
+   "answer": 3,
+   "explanation": "Rational expectations are right on average, with random errors."
+  },
+  {
+   "q": "Given the saving function S = −20 + 0.2Y and autonomous investment (I) = Rs. 100 million,  \nthe equilibrium level of consumption would be:  \n*[UGC NET December 2019 S1 · Q.55]*",
+   "options": [
+    "500",
+    "600",
+    "400",
+    "700"
+   ],
+   "answer": 0,
+   "explanation": "S = I → −20 + 0.2Y = 100 → Y = 600; C = Y − S = 600 − 100 = 500."
+  },
+  {
+   "q": "For which of the following consumption function, the value of the income multiplier K = 4?  \n*[UGC NET December 2019 S1 · Q.56]*",
+   "options": [
+    "C = 100 + .5Y",
+    "C = 50 + .8Y",
+    "C = 200 + .75Y",
+    "C = 50 + .4Y"
+   ],
+   "answer": 2,
+   "explanation": "k = 1/(1 − 0.75) = 4."
+  },
+  {
+   "q": "Autonomous investment could be attributed to:  \n(a) Level of technology  \n(b) Expectation  \n(c) Level of national income  \nChoose the correct option:  \n*[UGC NET December 2019 S1 · Q.93]*",
+   "options": [
+    "(a) and (c) only",
+    "(b) and (c) only",
+    "(a) and (b) only",
+    "(a), (b) and (c)"
+   ],
+   "answer": 2,
+   "explanation": "Autonomous investment depends on technology and expectations, not on income."
+  },
+  {
+   "q": "Under which of the following approaches Phillips Curve Analysis holds good?  \n(a) Adaptive expectation  \n(b) Rational expectation  \nChoose the correct option:  \n*[UGC NET December 2019 S1 · \nQ.94]*",
+   "options": [
+    "Only (a)",
+    "Only (b)",
+    "Both (a) and (b)",
+    "Neither (a) nor (b)"
+   ],
+   "answer": 0,
+   "explanation": "A Phillips trade-off exists (short run) with adaptive expectations; rational expectations remove it."
+  },
+  {
+   "q": "Match the following:  \nList - I List - II  \n(a) Marginalist Revolution (i) Samuelson  \n(b) Multiplier-Accelerator model (ii) J.R. Hicks  \n(c) IS-LM curves (iii) Jevons  \n(d) Real Business Cycle (iv) Robert J. Barro  \nChoose the correct option from those given below:  \n*[UGC NET December 2019 S1 · Q.112]*",
+   "options": [
+    "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+    "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+    "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+    "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
+   ],
+   "answer": 0,
+   "explanation": "Jevons (marginalist revolution), Samuelson (multiplier–accelerator), Hicks (IS–LM), Barro (new classical / RBC)."
+  },
+  {
+   "q": "Identify the correct chronological order of the following:  \n(a) Hayek Theory of Investment  \n(b) Fisher Theory of Investment  \n(c) Jorgenson's Theory of Investment  \n(d) Markowitz Theory of Investment  \nSelect the correct option from those given below:  \n*[UGC NET December 2019 S1 · Q.122]*",
+   "options": [
+    "(b), (a), (d), (c)",
+    "(d), (b), (c), (a)",
+    "(c), (a), (b), (d)",
+    "(a), (c), (d), (b)"
+   ],
+   "answer": 0,
+   "explanation": "Fisher (1930) → Hayek (1941) → Markowitz (1952) → Jorgenson (1963)."
+  },
+  {
+   "q": "Given below are two statements — one is labelled as Assertion (A) and the other is labelled  \nas Reason (R):  \nAssertion (A): In classical model, investment demand is regarded as autonomous of changes in  \nincome or employment  \nReason (R): It is wage price flexibility which brings full employment in the classical model  \nIn the light of the above two statements, choose the correct option:  \n*[UGC NET December 2019 S1 · Q.132]*",
+   "options": [
+    "Both (A) and (R) are true and (R) is correct explanation of (A)",
+    "Both (A) and (R) are true and (R) is not correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 1,
+   "explanation": "Classical investment depends on interest, not income; full employment comes from wage–price flexibility, a separate point."
+  },
+  {
+   "q": "Absolute income hypothesis explains  \n*[UGC NET June 2020 S2 · Q.64]*",
+   "options": [
+    "Consumer behavior",
+    "Producer behavior",
+    "Inflation",
+    "Government expenditure"
+   ],
+   "answer": 0,
+   "explanation": "Keynes's absolute income hypothesis explains consumption."
+  },
+  {
+   "q": "The government multiplier is given by (where c = MPC and t = tax rate)  \n*[UGC NET June 2020 S2 · Q.66]*",
+   "options": [
+    "1 / [1 − (c − t)]",
+    "1 / [(1 − c)t]",
+    "1 / (1 − c − t)",
+    "1 / [1 − c(1 − t)]"
+   ],
+   "answer": 3,
+   "explanation": "With proportional tax t, the multiplier is 1/[1 − c(1 − t)]."
+  },
+  {
+   "q": "Arrange the following in chronological order  \n(A) Rational Expectation Doctrine  \n(B) Keynesian Economics  \n(C) Monetarism  \n(D) Classical Economics  \nChoose the correct answer from the options given below  \n*[UGC NET June 2020 S2 · Q.67]*",
+   "options": [
+    "B, D, C, A",
+    "A, D, C, B",
+    "A, B, C, D",
+    "D, B, C, A"
+   ],
+   "answer": 3,
+   "explanation": "Classical → Keynesian → Monetarism → Rational expectations."
+  },
+  {
+   "q": "IS and LM curve analysis explain  \n(A) Product market equilibrium  \n(B) Money market equilibrium  \n(C) Capital market equilibrium  \n(D) Foreign trade equilibrium  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.68]*",
+   "options": [
+    "A and C only",
+    "A and D only",
+    "A and B only",
+    "C and D only"
+   ],
+   "answer": 2,
+   "explanation": "IS: goods market; LM: money market."
+  },
+  {
+   "q": "Which of the following situations represents an economic investment in the national income  \ncalculation?  \n(A) Buying a newly constructed house for self-occupation  \n(B) Buying of new shares  \n(C) Buying a new car by a publishing house for delivering books  \n(D) Buying a new car by a household  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.69]*",
+   "options": [
+    "A, B and C only",
+    "A, B, C and D only",
+    "A, C and D only",
+    "A and C only"
+   ],
+   "answer": 3,
+   "explanation": "New houses and business vehicles are investment; shares are financial, a household car is consumption."
+  },
+  {
+   "q": "What is the value of the equilibrium level of income for the data given below for an  \neconomy?  \nC = 50 + 0.8 Yd; t = 20%; I = 100; G = 30  \n*[UGC NET June 2020 S2 · Q.70]*",
+   "options": [
+    "400",
+    "300",
+    "500",
+    "600"
+   ],
+   "answer": 2,
+   "explanation": "Y = 50 + 0.8(0.8Y) + 100 + 30 → 0.36Y = 180 → Y = 500."
+  },
+  {
+   "q": "GDP expressed in terms of current prices is called  \n*[UGC NET June 2020 S2 · Q.72]*",
+   "options": [
+    "Real GDP",
+    "Net Domestic Product",
+    "Nominal GDP",
+    "Gross National Product"
+   ],
+   "answer": 2,
+   "explanation": "GDP at current prices is nominal GDP."
+  },
+  {
+   "q": "Which of the following equations represent national income identity?  \n(A) Y = C + I + X  \n(B) Y = C + I + G + S  \n(C) Y = C + I + G + (X − M)  \n(D) Y = C + I + G + M  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.73]*",
+   "options": [
+    "A only",
+    "C only",
+    "B, C and D only",
+    "A, B and D only"
+   ],
+   "answer": 1,
+   "explanation": "Y = C + I + G + (X − M)."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Permanent Income Hypothesis (I) F. Modigliani  \n(B) Relative Income Hypothesis (II) J. M. Keynes  \n(C) Absolute Income Hypothesis (III) M. Friedman  \n(D) Life Cycle Hypothesis (IV) J. Dusenberry  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.74]*",
+   "options": [
+    "A - II, B - III, C - IV, D - I",
+    "A - I, B - IV, C - III, D - II",
+    "A - III, B - II, C - I, D - IV",
+    "A - III, B - IV, C - II, D - I"
+   ],
+   "answer": 3,
+   "explanation": "Friedman, Duesenberry, Keynes, Modigliani."
+  },
+  {
+   "q": "What type of relationship the Phillips curve postulates between the rate of unemployment  \nand the rate of increase of money wages?  \n*[UGC NET December 2020 · Q.6]*",
+   "options": [
+    "Inverse",
+    "Direct",
+    "Direct and proportional",
+    "Inverse and proportional"
+   ],
+   "answer": 0,
+   "explanation": "Phillips found an inverse (non-linear) relation."
+  },
+  {
+   "q": "Which one of the following correctly describes the concept of 'Super Multiplier'?  \n*[UGC NET December 2020 \n· Q.8]*",
+   "options": [
+    "Investment multiplier",
+    "Money multiplier",
+    "Interaction between multiplier and accelerator",
+    "Employment multiplier"
+   ],
+   "answer": 2,
+   "explanation": "Super multiplier (Hicks) combines multiplier and accelerator."
+  },
+  {
+   "q": "Given: I = 50 + 0.2Y; S = −150 + 0.4Y; G = 50, where I = Investment, S = Savings, G =  \nGovernment Expenditure, Y = National Income. What is the equilibrium level of national income?  \n*[UGC NET December 2020 · Q.9]*",
+   "options": [
+    "2500",
+    "1250",
+    "250",
+    "1500"
+   ],
+   "answer": 1,
+   "explanation": "I + G = S → 100 + 0.2Y = −150 + 0.4Y → Y = 1,250."
+  },
+  {
+   "q": "The independence of real variables from changes in money supply and nominal variables is  \ncalled:  \n*[UGC NET December 2020 · Q.10]*",
+   "options": [
+    "Keynesian dichotomy",
+    "Classical dichotomy",
+    "Money illusion",
+    "Money multiplier"
+   ],
+   "answer": 1,
+   "explanation": "Separation of real and nominal variables: classical dichotomy."
+  },
+  {
+   "q": "Which of the following functions will result in an investment multiplier of value 4?  \n(A) C = 50 + .25Y  \n(B) C = 50 + .75Y  \n(C) S = −50 + .25Y  \n(D) I = 50 + .75Y  \nChoose the correct answer from the options given below:  \n*[UGC NET December \n2020 · Q.44]*",
+   "options": [
+    "A and C only",
+    "C and D only",
+    "A and D only",
+    "B and C only"
+   ],
+   "answer": 3,
+   "explanation": "MPC = 0.75 (B) or MPS = 0.25 (C) gives a multiplier of 4."
+  },
+  {
+   "q": "Consider the following statements about the rational expectations model:  \n(A) Monetary policy cannot affect output and employment  \n(B) Unanticipated changes will not affect real variables in the very short run  \n(C) There is equilibrium in the markets  \n(D) Economic agents use all relevant available information to form their expectations  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.56]*",
+   "options": [
+    "A, C and D only",
+    "A, B and C only",
+    "B, C and D only",
+    "A, B, C and D"
+   ],
+   "answer": 0,
+   "explanation": "Systematic policy is ineffective, markets clear, agents use all information; surprises do affect output."
+  },
+  {
+   "q": "In the context of investments, which of the following statement(s) is/are CORRECT?  \n(A) According to the accelerator model, investment demand is proportional to change in income  \n(B) The higher the real interest rate, the higher is the rental cost of capital  \n(C) Investment is a stock variable  \n(D) The real rate of interest is equal to the nominal rate of interest plus the inflation rate  \nChoose the correct answer from the options given below:  \n*[UGC NET December \n2020 · Q.57]*",
+   "options": [
+    "A and B only",
+    "A and D only",
+    "B and C only",
+    "C and D only"
+   ],
+   "answer": 0,
+   "explanation": "Accelerator: I ∝ ΔY; higher real rate raises rental cost. Investment is a flow; real rate = nominal − inflation."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Menu cost (I) Monetary Policy  \n(B) Quantitative Easing (II) Inflation  \n(C) Pump Priming (III) Phillips curve  \n(D) Trade-off between inflation and (IV) Fiscal policy  \nunemployment  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.67]*",
+   "options": [
+    "A - II, B - I, C - IV, D - III",
+    "A - I, B - II, C - III, D - IV",
+    "A - III, B - IV, C - I, D - II",
+    "A - IV, B - III, C - II, D - I"
+   ],
+   "answer": 0,
+   "explanation": "Menu cost: inflation; quantitative easing: monetary policy; pump priming: fiscal policy; trade-off: Phillips curve."
+  },
+  {
+   "q": "Arrange the following business cycles in ascending order in terms of their approximate  \nduration.  \n(A) Kondratiev cycle  \n(B) Kitchin cycle  \n(C) Juglar cycle  \n(D) Kuznets cycle  \nChoose the correct answer from the options given below  \n*[UGC NET December 2020 · Q.77]*",
+   "options": [
+    "C, B, A, D",
+    "B, C, D, A",
+    "A, C, B, D",
+    "D, A, C, B"
+   ],
+   "answer": 1,
+   "explanation": "Kitchin (3–4 yr) < Juglar (7–11) < Kuznets (15–25) < Kondratiev (45–60)."
+  },
+  {
+   "q": "\"Menu Cost\" is a concept used in  \n*[UGC NET December 2021 · Q.6]*",
+   "options": [
+    "Classical economics",
+    "Neo-classical economics",
+    "New-Keynesian economics",
+    "Keynesian economics"
+   ],
+   "answer": 2,
+   "explanation": "Menu costs explain sticky prices in New Keynesian economics."
+  },
+  {
+   "q": "Real and nominal income is calculated respectively at  \n*[UGC NET December 2021 · Q.7]*",
+   "options": [
+    "Current and constant prices",
+    "Constant and current prices",
+    "Constant and constant prices",
+    "Current and current prices"
+   ],
+   "answer": 1,
+   "explanation": "Real at constant prices, nominal at current prices."
+  },
+  {
+   "q": "What will be the aggregate Domestic Income NDP (FC) of the economy for 2022-23, if GDP  \n(Market Price) = 27,654 Crores; Depreciation = 2847 crores; Indirect taxes less subsidies = 2160  \ncrores?  \n*[UGC NET December 2021 · Q.8]*",
+   "options": [
+    "24,807",
+    "22,647",
+    "26,967",
+    "28,467"
+   ],
+   "answer": 1,
+   "explanation": "NDP at FC = 27,654 − 2,847 − 2,160 = 22,647 crore."
+  },
+  {
+   "q": "The irrelevance of money for real variables in the classical system is called  \n*[UGC NET December 2021 · Q.10]*",
+   "options": [
+    "Fiscal neutrality",
+    "Monetary neutrality",
+    "Exchange rate neutrality",
+    "Technological neutrality"
+   ],
+   "answer": 1,
+   "explanation": "Money affecting only nominal variables = neutrality of money."
+  },
+  {
+   "q": "In the Mundell-Fleming model, under floating exchange rate, which policy is more effective to  \ninfluence aggregate income?  \n*[UGC NET December 2021 · Q.22]*",
+   "options": [
+    "Fiscal policy",
+    "Monetary policy",
+    "Exchange rate policy",
+    "None of the above"
+   ],
+   "answer": 1,
+   "explanation": "Mundell–Fleming: under floating rates with capital mobility, monetary policy works, fiscal policy is crowded out by the exchange rate."
+  },
+  {
+   "q": "When MPC = 0.75, a decrease in taxes Rs. 20 crore will increase GDP by  \n*[UGC NET December 2021 · Q.25]*",
+   "options": [
+    "Rs. 200 crores",
+    "Rs. 100 crores",
+    "Rs. 600 crores",
+    "Rs. 800 crores"
+   ],
+   "answer": 2,
+   "explanation": "Tax multiplier = −0.75/0.25 = −3. Option (3) ₹600 crore fits a ₹200 crore tax cut (the paper likely had a typo)."
+  },
+  {
+   "q": "Which of the following are correct with respect to IS-LM model?  \n(A) The LM schedule slopes upward to the right.  \n(B) The LM schedule will shift to the left with an increase in quantity of money  \n(C) The LM schedule gives equilibrium in the money market  \n(D) The IS schedule will shift to the left when there is an increase in government expenditure  \n(E) The IS schedule will shift to the right when taxes are reduced  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET December 2021 · Q.42]*",
+   "options": [
+    "(A), (C), (E) only",
+    "(A), (B), (C), (D) only",
+    "(A), (C) only",
+    "(B), (D), (C), (E) only"
+   ],
+   "answer": 0,
+   "explanation": "LM slopes upward and shows money-market equilibrium; tax cuts shift IS right. More money shifts LM right; more G shifts IS right."
+  },
+  {
+   "q": "Match List I with List II:  \nList - I List - II  \n(A) Absolute Income Hypothesis (I) Milton Friedman  \n(B) Relative Income Hypothesis (II) J.M. Keynes  \n(C) Permanent Income Hypothesis (III) James Dusenberry  \n(D) Life Cycle Hypothesis (IV) Franco Modigliani  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2021 · Q.67]*",
+   "options": [
+    "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+    "(A)-(II), (B)-(III), (C)-(I), (D)-(IV)",
+    "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+    "(A)-(III), (B)-(II), (C)-(I), (D)-(IV)"
+   ],
+   "answer": 1,
+   "explanation": "Keynes, Duesenberry, Friedman, Modigliani."
+  },
+  {
+   "q": "Match List I with List II:  \nList - I List - II  \n(A) Money supply and price level in an economy (I) A.W. Phillips  \nare in direct proportion  \n(B) Inverse relationship between (II) Fisher  \nunemployment and rate of wage inflation  \n(C) Profit as reward for innovation (III) Robert Lucas  \n(D) Policy ineffective proposition (IV) Joseph Schumpeter  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2021 · Q.68]*",
+   "options": [
+    "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+    "(A)-(III), (B)-(II), (C)-(I), (D)-(IV)",
+    "(A)-(II), (B)-(IV), (C)-(III), (D)-(I)",
+    "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)"
+   ],
+   "answer": 0,
+   "explanation": "Fisher (quantity theory), Phillips, Schumpeter (innovation profit), Lucas (policy ineffectiveness)."
+  },
+  {
+   "q": "Arrange the different schools of thought in a sequence of their occurrence starting from the  \noldest.  \n(A) Physiocrats  \n(B) Keynesian economics  \n(C) Classical economics  \n(D) New Keynesian economics  \n(E) Monetarist Counter revolution  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2021 · Q.76]*",
+   "options": [
+    "(A), (B), (C), (E), (D)",
+    "(A), (C), (E), (B), (D)",
+    "(A), (B), (E), (C), (D)",
+    "(A), (C), (B), (E), (D)"
+   ],
+   "answer": 3,
+   "explanation": "Physiocrats → Classical → Keynesian → Monetarist → New Keynesian."
+  },
+  {
+   "q": "The Sticky-Price Model is  \n*[UGC NET December 2022 S1 · Q.8]*",
+   "options": [
+    "The upward sloping short run aggregate supply curve",
+    "The upward sloping long run aggregate supply curve",
+    "The downward sloping short run Aggregate Demand curve",
+    "The downward sloping long run Aggregate Demand curve"
+   ],
+   "answer": 0,
+   "explanation": "Sticky prices give an upward-sloping short-run AS curve."
+  },
+  {
+   "q": "Macroeconomics distinguishes between real economy and  \n*[UGC NET December 2022 S1 · Q.10]*",
+   "options": [
+    "Virtual economy",
+    "Monetary economy",
+    "Normative economy",
+    "Underground economy"
+   ],
+   "answer": 1,
+   "explanation": "Macroeconomics separates the real economy from the monetary economy."
+  },
+  {
+   "q": "In accelerator theory, capital output ratio is assumed to be  \n*[UGC NET December 2022 S1 · Q.11]*",
+   "options": [
+    "Increasing",
+    "Independent from level of National income",
+    "Decreasing",
+    "Constant"
+   ],
+   "answer": 3,
+   "explanation": "The accelerator assumes a constant capital–output ratio."
+  },
+  {
+   "q": "Government spending is  \n*[UGC NET December 2022 S1 · Q.12]*",
+   "options": [
+    "a second element of autonomous expenditure.",
+    "to be controlled by policy makers.",
+    "does not depend directly on the level of income.",
+    "All of the above"
+   ],
+   "answer": 3,
+   "explanation": "G is autonomous, set by policy, and does not depend directly on income."
+  },
+  {
+   "q": "Which of the following formula is used to measure the tax multiplier:  \n*[UGC NET December 2022 S1 · Q.26]*",
+   "options": [
+    "−MPC / (1 − MPC)",
+    "1 / (1 − MPC)",
+    "(1 − MPC) / MPC",
+    "(2 − MPC) / MPC"
+   ],
+   "answer": 0,
+   "explanation": "Tax multiplier = −MPC/(1 − MPC)."
+  },
+  {
+   "q": "The money supply in the IS-LM model is assumed to be  \n*[UGC NET December 2022 S1 · Q.28]*",
+   "options": [
+    "Real narrow money",
+    "Nominal money supply",
+    "Nominal Broad money",
+    "Real money supply"
+   ],
+   "answer": 3,
+   "explanation": "The LM curve uses a fixed real money supply M/P."
+  },
+  {
+   "q": "Which of the following two economists are associated with the problem of time  \ninconsistency?  \n*[UGC NET December 2022 S1 · Q.29]*",
+   "options": [
+    "J. M. Keynes and Joan Robinson",
+    "Kydland and Prescott",
+    "Baumol and Tobin",
+    "Friedman and Schwartz"
+   ],
+   "answer": 1,
+   "explanation": "Kydland and Prescott (1977): time inconsistency of optimal plans."
+  },
+  {
+   "q": "Which of the following are correct about loanable fund theory?  \n(A) Dishoarding is a major source of supply of loanable funds.  \n(B) Demand for hoarding is inversely related to the interest rate.  \n(C) Equality between demand and supply of loanable funds is the only condition required for a  \nstable equilibrium.  \n(D) Wicksell was one of the propounders of the theory.  \n(E) It introduced monetary factors into the theory of interest.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.42]*",
+   "options": [
+    "A, B and D only",
+    "C, D and E only",
+    "B, D and E only",
+    "A, D and E only"
+   ],
+   "answer": 3,
+   "explanation": "Loanable funds: dishoarding adds supply; Wicksell and Robertson; it brings monetary factors into interest theory. (Answer key may vary.)"
+  },
+  {
+   "q": "For the computation of National income by the product method, which of the following  \nsectors are considered:  \n(A) Registered manufacturing  \n(B) Agricultural and allied activities  \n(C) Mining and quarrying  \n(D) Unregistered manufacturing  \n(E) Non-monetised activities  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.45]*",
+   "options": [
+    "A, B and C only",
+    "B and C only",
+    "A, B, C and D only",
+    "B, C and D only"
+   ],
+   "answer": 2,
+   "explanation": "Product method covers registered and unregistered manufacturing, agriculture and mining."
+  },
+  {
+   "q": "Which of the following statements are correct?  \n(A) According to the accelerator model, investment demand is proportional to the change in  \nGDP.  \n(B) The real rate of interest is the nominal rate of interest plus the inflation rate.  \n(C) The higher the real interest rate, the higher is the rental cost of capital.  \n(D) Investment is a stock concept.  \n(E) Residential investment is low when mortgage interest rates are high.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.46]*",
+   "options": [
+    "B, C and D only",
+    "A, C and E only",
+    "A, B and E only",
+    "C, D and E only"
+   ],
+   "answer": 1,
+   "explanation": "Accelerator, rental cost rising with real interest, and housing falling with high mortgage rates. Investment is a flow; real = nominal − inflation."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) A. W. Phillips (I) Trade off between wage and  \nunemployment  \n(B) Findley Shiraz (II) Money illusion  \n(C) Modigliani (III) Life cycle hypothesis  \n(D) Pigou (IV) Taxable capacity  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.67]*",
+   "options": [
+    "A - II, B - I, C - III, D - IV",
+    "A - I, B - IV, C - III, D - II",
+    "A - I, B - II, C - III, D - IV",
+    "A - III, B - IV, C - I, D - II"
+   ],
+   "answer": 1,
+   "explanation": "Phillips trade-off, Findlay Shirras taxable capacity, Modigliani life cycle, Pigou (money illusion / real balance)."
+  },
+  {
+   "q": "Given below are two statements, one is labelled as Assertion (A) and the other is labelled as  \nReason (R).  \nAssertion (A): Partisan theory views macroeconomic policy outcomes as the result of  \nideologically motivated decisions by leaders of different political parties.  \nReason (R): The parties represent constituencies with different preferences concerning  \nmacroeconomic variables.  \nIn light of the above statements, choose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.89]*",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A).",
+    "(A) is true but (R) is false.",
+    "(A) is false but (R) is true."
+   ],
+   "answer": 0,
+   "explanation": "Partisan theory (Hibbs): parties serve constituencies with different preferences on inflation and unemployment."
+  },
+  {
+   "q": "Given below are two statements:  \nStatement I: Supply side policies are long term measures to increase the productive capacity of  \nthe economy leading to an outward shift in the production possibility curve.  \nStatement II: Privatisation is the act of selling state owned assets in order to increase  \ncompetition, productivity and efficiency.  \nIn light of the above statements, choose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.90]*",
+   "options": [
+    "Both Statement I and Statement II are true.",
+    "Both Statement I and Statement II are false.",
+    "Statement I is true but Statement II is false.",
+    "Statement I is false but Statement II is true."
+   ],
+   "answer": 0,
+   "explanation": "Both statements are standard definitions."
+  },
+  {
+   "q": "The Keynes's animal spirits are closely associated with  \n*[UGC NET December 2022 S2 · Q.8]*",
+   "options": [
+    "Past investment",
+    "Current investment",
+    "Aggregate income",
+    "Aggregate expenditure"
+   ],
+   "answer": 1,
+   "explanation": "Animal spirits drive current investment decisions."
+  },
+  {
+   "q": "In the Mundell-Fleming model, the monetary policy will be more effective when there is  \n*[UGC NET December 2022 S2 · Q.9]*",
+   "options": [
+    "Perfect capital mobility and flexible exchange rate",
+    "Perfect capital mobility and fixed exchange rate",
+    "Imperfect capital mobility and flexible exchange rate",
+    "Imperfect capital mobility and fixed exchange rate"
+   ],
+   "answer": 0,
+   "explanation": "Monetary policy is most effective with perfect capital mobility and flexible exchange rates."
+  },
+  {
+   "q": "The chain-weighted index is  \n*[UGC NET December 2022 S2 · Q.11]*",
+   "options": [
+    "The total market value of goods and services produced in each year",
+    "The percentage growth in real GDP",
+    "A method for calculating changes in prices that used an average of base year from neighbouring years",
+    "An Index that measures how the prices of goods and services included in GDP change."
+   ],
+   "answer": 2,
+   "explanation": "A chain-weighted index uses an average of neighbouring years as the base."
+  },
+  {
+   "q": "If the consumption function passes through the origin and APC = MPC then it must be:  \n*[UGC NET December 2022 S2 · Q.12]*",
+   "options": [
+    "Linear without any intercept",
+    "Non linear without any intercept",
+    "Linear with a negative intercept on the income axis",
+    "Linear with a positive intercept on the consumption axis"
+   ],
+   "answer": 0,
+   "explanation": "APC = MPC at every level only for a straight line through the origin (C = bY)."
+  },
+  {
+   "q": "In context of monetary policy, the sacrifice ratio refers to the  \n*[UGC NET December 2022 S2 · Q.29]*",
+   "options": [
+    "Interest cost arising because of crowding out effect",
+    "Loss of real value of money at the face of increasing inflation",
+    "Output cost of reducing inflation",
+    "Labour cost raising minimum wage"
+   ],
+   "answer": 2,
+   "explanation": "Sacrifice ratio = output lost per point of disinflation."
+  },
+  {
+   "q": "Rational expectations views include:  \n(A) The market clearing rational expectations do not approach to the Phillips curve  \n(B) Rational expectation as a theory of expectations  \n(C) An emphasis on the credibility of policy makers  \n(D) A preference for policy making rules rather than discretion  \n(E) Generally insists that markets do not clear rapidly.  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.44]*",
+   "options": [
+    "B, C and D only",
+    "A and E only",
+    "A, B, C, D and E",
+    "A, D and E only"
+   ],
+   "answer": 0,
+   "explanation": "Rational expectations as a theory, policy credibility and rules over discretion; RE models assume markets clear quickly."
+  },
+  {
+   "q": "How do adverse technology shocks affect labour demand and supply?  \n(A) Decrease the demand for labour  \n(B) Both real wage and employment fall  \n(C) Real wage increases and employment falls  \n(D) Real wage falls and employment increases  \n(E) Adverse effect on market equilibrium.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.46]*",
+   "options": [
+    "A, C and D only",
+    "B, D and E only",
+    "A, B, C and D only",
+    "A, B and E only"
+   ],
+   "answer": 3,
+   "explanation": "An adverse technology shock lowers labour demand: real wage and employment both fall."
+  },
+  {
+   "q": "Given below are two statements:  \nStatement I: When the level of investment is itself determined within the system then the  \neffectiveness of monetary policy is enhanced by an elastic investment and inelastic liquidity  \npreference schedule, whereas the opposite holds for the effectiveness of fiscal policy.  \nStatement II: Monetary policy, by accommodating fiscal policy may forestall the crowding out  \neffect.  \nIn the light of the above statements, choose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.87]*",
+   "options": [
+    "Both Statement I and Statement II are true",
+    "Both Statement I and Statement II are false",
+    "Statement I is true but Statement II is false",
+    "Statement I is false but Statement II is true"
+   ],
+   "answer": 0,
+   "explanation": "Monetary policy is stronger with elastic investment and inelastic money demand (fiscal the opposite); accommodation prevents crowding out."
+  },
+  {
+   "q": "Given below are two statements:  \nStatement I: The IS curve is negatively sloped because an increase in the interest rate reduces  \nplanned investment spending and therefore reduces the equilibrium level of income.  \nStatement II: The smaller the multiplier and the less sensitive investment spending is to  \nchanges in the interest rate, the steeper is the IS curve.  \nIn the light of the above statements, choose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.90]*",
+   "options": [
+    "Both Statement I and Statement II are correct",
+    "Both Statement I and Statement II are incorrect",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct"
+   ],
+   "answer": 0,
+   "explanation": "Both statements describe the IS curve correctly."
+  },
+  {
+   "q": "Taylor's Rule tells,  \n*[UGC NET June 2023 · Q.55]*",
+   "options": [
+    "how monetary authority sets interest rate in response to economic activity",
+    "how monetary authority maintains bank rate",
+    "how monetary authority maintains exchange rate",
+    "how government decides the tax rate to increase the tax base."
+   ],
+   "answer": 0,
+   "explanation": "Taylor rule: the policy rate responds to inflation and output gaps."
+  },
+  {
+   "q": "Given the income multiplier formula m = 1/(1 − MPC), lower the marginal propensity to save,  \n*[UGC NET June 2023 · Q.57]*",
+   "options": [
+    "Higher will be the multiplier effect",
+    "Lower will be the multiplier effect",
+    "Multiplier will become infinite",
+    "Multiplier will become zero"
+   ],
+   "answer": 0,
+   "explanation": "Lower MPS → larger 1/MPS multiplier."
+  },
+  {
+   "q": "In the national income identity Y = C + I + G, investment (I) is a function of,  \n*[UGC NET June 2023 · Q.58]*",
+   "options": [
+    "Real Income",
+    "Nominal Income",
+    "Real Interest Rate",
+    "Nominal Interest Rate"
+   ],
+   "answer": 2,
+   "explanation": "Investment depends on the real interest rate."
+  },
+  {
+   "q": "Which one of the following is not correct about LM schedule?  \n*[UGC NET June 2023 · Q.59]*",
+   "options": [
+    "The LM schedule slopes upward to the right.",
+    "The LM schedule will be relatively flat (steep) if the interest elasticity of money demand is relatively high (low).",
+    "The LM schedule will shift downward (upward) to the right (left) with an increase (decrease) in the quantity of money.",
+    "The LM schedule is the schedule giving the combinations of values of investment and interest rate that produce equilibrium in the money market."
+   ],
+   "answer": 3,
+   "explanation": "LM shows combinations of income and interest (not investment) that clear the money market."
+  },
+  {
+   "q": "When MPS is 0.25 and initial increase in autonomous spending is Rs. 100, then the  \nexpenditure multiplier and resultant increase in GDP respectively are :  \n*[UGC NET June 2023 · Q.75]*",
+   "options": [
+    "1, Rs. 100",
+    "0.75, Rs. 75",
+    "4, Rs. 400",
+    "1.33, Rs. 133"
+   ],
+   "answer": 2,
+   "explanation": "Multiplier = 1/0.25 = 4; GDP rises by ₹400."
+  },
+  {
+   "q": "Which of the following can be an equation representing the money market  \n*[UGC NET June 2023 · Q.77]*",
+   "options": [
+    "300 = 2Y − 1.5i",
+    "i = 150 − Y",
+    "Y = 100 − i",
+    "i = (150 − 2Y)/2"
+   ],
+   "answer": 0,
+   "explanation": "LM must slope upward: 300 = 2Y − 1.5i gives i rising with Y."
+  },
+  {
+   "q": "The concept of \"excess sensitivity\" and \"excess smoothness\" are explained by following  \nstatement(s).  \n(A) 'Excess sensitivity' refers to a situation where consumption over responds to temporary  \nincome shocks.  \n(B) 'Excess smoothness' refers to a situation where consumption under responds to temporary  \nincome changes.  \n(C) With excess sensitivity, anticipated rise in income is associated with relatively small change  \nin consumption.  \n(D) With excess smoothness, changes in aggregate income are associated with relatively large  \nchanges in aggregate consumption.  \n(E) 'Excess sensitivity' and 'Excess smoothness' are related to the empirical evidences of  \npermanent income hypothesis.  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · Q.94]*",
+   "options": [
+    "A, B, C, D only",
+    "A, B, C, E only",
+    "A, B, D only",
+    "A, B, E only"
+   ],
+   "answer": 3,
+   "explanation": "Excess sensitivity (over-response) and excess smoothness (under-response) are empirical puzzles for the permanent income hypothesis."
+  },
+  {
+   "q": "According to Tobin's Q theory of investment, when should a firm invest?  \n(A) there is increase in the price of output  \n(B) there is an increase in marginal product of capital  \n(C) there is an increase in rate of interest  \n(D) there is a decrease in rate of depreciation  \n(E) marginal benefit of investment exceeds marginal cost  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · Q.95]*",
+   "options": [
+    "B, C, D, E only",
+    "A, C, D, E only",
+    "A, B, D, E only",
+    "A, B, C, D only"
+   ],
+   "answer": 2,
+   "explanation": "q rises with higher output price, higher MPK, lower depreciation; invest when marginal benefit > cost. Higher interest lowers q."
+  },
+  {
+   "q": "Which of the following is/are true about paradox of thrift?  \n(A) Paradox of thrift was popularized by J. M. Keynes.  \n(B) It states that personal savings can be detrimental to overall economic growth.  \n(C) It shows the relationship between output growth and rate of unemployment.  \n(D) It shows the relationship between inflation and rate of interest.  \n(E) It states that individuals saving during an economic recession leads to fall in aggregate  \ndemand.  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · Q.96]*",
+   "options": [
+    "A, B, C only",
+    "B, C, D only",
+    "C, D, E only",
+    "A, B, E only"
+   ],
+   "answer": 3,
+   "explanation": "Keynes popularised it: more saving in a recession cuts demand and can harm growth."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Central Bank Loss Function (I) y_t = A − a·r_(t−1)  \n(B) Monetary Rule (MR) (II) π_t = π_(t−1) + α(y_t − y_e)  \n(C) Phillips Curve (PC) (III) (y_t − y_e) = −αβ(π_t − πT)  \n(D) Dynamic IS Curve (IV) L = (y_t − y_e)2 + β(π_t − πT)2  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2023 · Q.125]*",
+   "options": [
+    "A-II, B-III, C-IV, D-I",
+    "A-III, B-II, C-IV, D-I",
+    "A-IV, B-III, C-II, D-I",
+    "A-IV, B-III, C-I, D-II"
+   ],
+   "answer": 2,
+   "explanation": "Loss function (squared gaps), monetary rule, Phillips curve, dynamic IS (Carlin–Soskice)."
+  },
+  {
+   "q": "If the interest rate is exogenously determined by the Central Bank of some country and the  \nmoney supply is endogenously determined, the slope of the LM-curve in the interest rate-income  \nplane would be :  \n*[UGC NET December 2023 S1 · Q.86]*",
+   "options": [
+    "Positively sloped",
+    "Negatively sloped",
+    "Horizontal",
+    "Vertical"
+   ],
+   "answer": 2,
+   "explanation": "An interest-rate-setting central bank gives a horizontal LM curve."
+  },
+  {
+   "q": "An economy characterised by huge involuntary unemployment would have an aggregate  \nlabour supply curve in a real wage-labour supply plane that would be :  \n*[UGC NET December 2023 S1 · Q.90]*",
+   "options": [
+    "Positively sloped",
+    "Vertical",
+    "Flat",
+    "Negatively sloped"
+   ],
+   "answer": 2,
+   "explanation": "With mass involuntary unemployment labour is available at the going real wage: a flat supply curve."
+  },
+  {
+   "q": "Suppose an economy is in medium-run equilibrium. Now the government enacts a law,  \nmaking entry of new firms difficult, which increases the monopoly power of the existing firms.  \nWhich of the following statements are true about this change ?  \n(A) Output level will be lower in medium-run  \n(B) Output level will be lower in short-run  \n(C) Price level will be higher in medium-run  \n(D) Price level will be higher in short-run  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.95]*",
+   "options": [
+    "(A) and (C) Only",
+    "(B), (C) and (D) Only",
+    "(B) and (C) Only",
+    "(A), (B) (C) and (D) Only"
+   ],
+   "answer": 3,
+   "explanation": "Higher mark-ups raise prices and lower output in both the short and medium run (Blanchard)."
+  },
+  {
+   "q": "Consider the following statements about the Aggregate Demand (AD) relation under price  \nflexibility and say which ones are correct ?  \n(A) The AD curve will shift to the right if autonomous investment rises.  \n(B) The AD curve will shift to the right if net exports rise in an open economy.  \n(C) The AD curve will shift to the left if money supply contracts.  \n(D) As price rises, shifting the LM curve, the AD curve shifts to the left  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.102]*",
+   "options": [
+    "(A), (B), (C) Only",
+    "(B), (C), (D) Only",
+    "(A), (C), (D) Only",
+    "(A), (B), (C), (D)"
+   ],
+   "answer": 0,
+   "explanation": "Investment, net exports and money supply shift AD; a price change moves along AD."
+  },
+  {
+   "q": "Given the following statements about major schools of thought in macroeconomics, state  \nwhich ones are correct ?  \n(A) The Keynesians believed in wage and price flexibility and highlighted the role of aggregate  \nsupply.  \n(B) The monetarists highlighted the importance of money in the economic system and that of  \nexpectations in the analysis of inflation.  \n(C) The classical school believed in the invisible hand and the efficiency of the market  \nmechanism  \n(D) The new Keynesians make use of the assumption of imperfect markets in their frameworks.  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.103]*",
+   "options": [
+    "(B), (C), (D) Only",
+    "(A), (B), (C), (D)",
+    "(A), (C), (D) Only",
+    "(A), (B), (C) Only"
+   ],
+   "answer": 0,
+   "explanation": "Keynesians stressed wage–price rigidity and demand, not flexibility and supply."
+  },
+  {
+   "q": "Consider an economy with perfect capital mobility, fixed price level and flexible exchange  \nrate. Starting from equilibrium, suppose there is a monetary expansion. Which of the following are  \ntrue for the new equilibrium, as compared to the initial equilibrium ?  \n(A) Output will be higher  \n(B) Consumption will be higher  \n(C) Interest rate will be lower  \n(D) Interest rate will be higher  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.104]*",
+   "options": [
+    "(A) Only",
+    "(B) Only",
+    "(A) and (B) Only",
+    "(A) and (C) Only"
+   ],
+   "answer": 2,
+   "explanation": "Flexible rate, perfect mobility: monetary expansion depreciates the currency and raises output and consumption; the interest rate stays at the world level."
+  },
+  {
+   "q": "Match the following :  \nList - I List - II  \nList - I: Theory List - II: Economist(s) who gave it  \n(A) Permanent Income Hypothesis of (I) T. Sargent and N. Wallace  \nConsumption  \n(B) Life-cycle Hypothesis of Consumption (II) Milton Friedman  \n(C) Real Business Cycle Theory (III) Franco Modigliani  \n(D) Policy Ineffectiveness Proposition (IV) F. Kydland and E. Prescott  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.121]*",
+   "options": [
+    "A-III, B-II, C-I, D-IV",
+    "A-III, B-II, C-IV, D-I",
+    "A-II, B-III, C-IV, D-I",
+    "A-II, B-III, C-I, D-IV"
+   ],
+   "answer": 2,
+   "explanation": "Friedman, Modigliani, Kydland–Prescott, Sargent–Wallace."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \nList - I: Property List - II: Type of Curve  \n(A) Investment is unresponsive to interest rates (I) Relatively flat IS curve  \n(B) Money demand is perfectly elastic w.r.t. (II) Vertical LM curve  \ninterest rates  \n(C) Money demand is completely inelastic w.r.t. (III) Horizontal LM curve  \ninterest rates  \n(D) Investment is highly responsive to interest (IV) Vertical IS curve  \nrates  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.124]*",
+   "options": [
+    "A-IV, B-III, C-II, D-I",
+    "A-IV, B-II, C-III, D-I",
+    "A-I, B-III, C-II, D-IV",
+    "A-III, B-IV, C-I, D-II"
+   ],
+   "answer": 0,
+   "explanation": "Interest-insensitive investment → vertical IS; liquidity trap → horizontal LM; inelastic money demand → vertical LM; sensitive investment → flat IS."
+  },
+  {
+   "q": "Arrange the given schools of thought in macroeconomics in chronological order, from the  \noldest to most recent one.  \n(A) The Keynesian school  \n(B) The new classical school  \n(C) The classical school  \n(D) The new Keynesian school  \n(E) The monetarists  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.134]*",
+   "options": [
+    "(A), (D), (C), (B), (E)",
+    "(E), (C), (B), (A), (D)",
+    "(C), (B), (A), (D), (E)",
+    "(C), (A), (E), (B), (D)"
+   ],
+   "answer": 3,
+   "explanation": "Classical → Keynesian → Monetarist → New Classical → New Keynesian."
+  },
+  {
+   "q": "The rise in the nominal stock of money causes:  \n*[UGC NET August 2024 S1 · Q.52]*",
+   "options": [
+    "an increase in the equilibrium nominal interest rate and a decrease in equilibrium real income.",
+    "a reduction in the equilibrium nominal interest rate and an increase in equilibrium real income.",
+    "a reduction in the equilibrium nominal interest rate and a decrease in equilibrium real income.",
+    "an increase in the equilibrium nominal interest rate and an increase in the equilibrium real income."
+   ],
+   "answer": 1,
+   "explanation": "More money lowers the interest rate and raises real income (IS–LM)."
+  },
+  {
+   "q": "Suppose savings function is S = −5 + 0.3q, then find the correct answer from below:  \n*[UGC NET August \n2024 S1 · Q.66]*",
+   "options": [
+    "APC < MPC",
+    "APC = MPC",
+    "APS > MPS",
+    "APC > MPC"
+   ],
+   "answer": 3,
+   "explanation": "C = 5 + 0.7q: APC = 5/q + 0.7 > MPC = 0.7."
+  },
+  {
+   "q": "In the leakage-injection approach to income determination, an increase in lump-sum tax  \nceteris paribus shifts the  \n*[UGC NET August 2024 S1 · Q.69]*",
+   "options": [
+    "Investment plus govt. spending line upward",
+    "Investment plus govt. spending line downward",
+    "The savings plus tax line to the left",
+    "Increases the equilibrium level of income"
+   ],
+   "answer": 2,
+   "explanation": "A lump-sum tax raises the S + T (leakage) line, cutting equilibrium income."
+  },
+  {
+   "q": "The phrase 'demonstration effect' was coined by:  \n*[UGC NET August 2024 S1 · Q.75]*",
+   "options": [
+    "James Duesenberry",
+    "J.K. Galbraith",
+    "Joan Robinson",
+    "J.M. Keynes"
+   ],
+   "answer": 0,
+   "explanation": "James Duesenberry (relative income hypothesis)."
+  },
+  {
+   "q": "Gross domestic Product or GDP is defined as:  \n*[UGC NET August 2024 S1 · Q.88]*",
+   "options": [
+    "GDP = Aggregate Domestic Income + Indirect Taxes + Depreciation",
+    "GDP = Aggregate Domestic Income + Indirect Taxes − Depreciation",
+    "GDP = Aggregate Domestic Income + Depreciation − Indirect Taxes",
+    "GDP = Aggregate Domestic Income + Depreciation − Net Domestic Product (NDP)"
+   ],
+   "answer": 0,
+   "explanation": "GDP at MP = NDP at FC + net indirect taxes + depreciation."
+  },
+  {
+   "q": "The concept of efficiency wage theory was developed by:  \n*[UGC NET August 2024 S1 · Q.89]*",
+   "options": [
+    "Yellen and Stiglitz",
+    "Jan Tinbergen",
+    "Alfred Marshall",
+    "Vilfredo Pareto"
+   ],
+   "answer": 0,
+   "explanation": "Efficiency wage models: Shapiro–Stiglitz, Akerlof–Yellen."
+  },
+  {
+   "q": "Arrange the following in chronological order starting from earliest to latest:  \n(A) A.W. Phillips: The Phillips Curve  \n(B) J.M. Keynes: General Theory of Employment, Interest and Money  \n(C) Adam Smith: Theory of Growth  \n(D) John F. Muth: Rational Expectations Approach  \n(E) Robert M. Solow: Growth Model  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · \nQ.105]*",
+   "options": [
+    "(A), (B), (C), (D), (E)",
+    "(C), (B), (E), (A), (D)",
+    "(B), (A), (C), (E), (D)",
+    "(E), (D), (C), (B), (A)"
+   ],
+   "answer": 1,
+   "explanation": "Smith (1776) → Keynes (1936) → Solow (1956) → Phillips (1958) → Muth (1961)."
+  },
+  {
+   "q": "Inflation confers no benefits on society, but it imposes several real costs. What among the  \nfollowing are costs of inflation?  \n(A) Shoeleather costs associated with reduced money holdings  \n(B) Menu cost associated with more frequent adjustment of prices  \n(C) Increased variability of relative prices  \n(D) Unintended changes in tax liabilities due to nonindexation of the tax code  \n(E) Arbitrary redistribution of wealth associated with debts  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.107]*",
+   "options": [
+    "(A), (B), (C) only",
+    "(C), (D), (E) only",
+    "(B), (D), (A) only",
+    "(A), (B), (C), (D), (E)"
+   ],
+   "answer": 3,
+   "explanation": "All five are standard costs of inflation (Mankiw)."
+  },
+  {
+   "q": "Consider the following statements and identify the correct ones?  \n(A) According to the accelerator models, investment demand is proportional to the change in  \nGNP.  \n(B) The real rate is the nominal rate of interest plus the inflation.  \n(C) The higher the real interest rate, the higher is the rental cost of capital.  \n(D) Investment is a stock concept  \n(E) Rate of interest is a flow concept  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.110]*",
+   "options": [
+    "(B) and (C) only",
+    "(A) and (B) only",
+    "(A) and (C) only",
+    "(A), (B) and (C) only"
+   ],
+   "answer": 2,
+   "explanation": "Accelerator and the rental cost link are correct; real = nominal − inflation, and investment is a flow."
+  },
+  {
+   "q": "There is an inverse relationship between the rate of interest and the speculative Demand  \nfor Money. This is due to:  \n*[UGC NET December 2024 · Q.56]*",
+   "options": [
+    "Adaptive Expectation Hypothesis",
+    "Regressive Expectation Hypothesis",
+    "Rational Expectation Hypothesis",
+    "Relative Wage Hypothesis"
+   ],
+   "answer": 1,
+   "explanation": "Keynes: people expect interest to return to a normal rate (regressive expectations)."
+  },
+  {
+   "q": "Given the following statements about major schools of thought in macro economics, state  \nwhich ones are correct:  \n(A) The New Keynesians assume Rational Expectation and market imperfections and highlight  \nthe role of aggregate demand.  \n(B) The Monetarists assume Rational Expectation, non-competitive markets and highlight the  \nrole of monetary policy.  \n(C) The New Classicals assume Rational Expectation, competitive markets and highlight policy  \nirrelevance.  \n(D) The Classicals assume a competitive, and frictionless economy and highlight policy  \nineffectiveness.  \n(E) The Keynesians assume wage and price flexibility and highlight policy effectiveness.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.59]*",
+   "options": [
+    "A, C & D Only",
+    "A, B, C & D Only",
+    "B, C, D & E Only",
+    "C & D Only"
+   ],
+   "answer": 0,
+   "explanation": "Monetarists used adaptive expectations and competitive markets; Keynesians assumed rigidities."
+  },
+  {
+   "q": "Arrange in descending order the extent of crowding out effects as under:  \n(A) Classical Macro model  \n(B) Complete Keynesian system assuming general condition  \n(C) IS - LM framework assuming general conditions  \n(D) Simple Keynesian model  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.62]*",
+   "options": [
+    "A, B, C, D",
+    "B, A, C, D",
+    "B, C, D, A",
+    "A, B, D, C"
+   ],
+   "answer": 0,
+   "explanation": "Crowding out: classical (complete) > Keynesian with flexible prices > IS–LM > simple Keynesian (none)."
+  },
+  {
+   "q": "According to the Real Business Cycle School, in the absence of supply shock:  \n*[UGC NET December 2024 · \nQ.75]*",
+   "options": [
+    "There is only involuntary unemployment",
+    "There is only voluntary unemployment",
+    "There is both voluntary & involuntary unemployment simultaneously",
+    "There is no unemployment at all"
+   ],
+   "answer": 1,
+   "explanation": "RBC: without shocks, all unemployment is voluntary."
+  },
+  {
+   "q": "When Cd, Id & Gd stand for consumption expenditure, investment expenditure &  \ngovernment expenditure respectively, on domestically produced goods & services & X & M stand  \nfor aggregate values of export & import for a country, respectively, GDP is calculated as :  \n*[UGC NET December \n2024 · Q.90]*",
+   "options": [
+    "Cd + Id + Gd + X − M",
+    "C + I + Gd + X",
+    "Cd + Id + Gd − M",
+    "Cd + Id + Gd + X"
+   ],
+   "answer": 3,
+   "explanation": "With C, I, G measured on domestic goods only, add exports; imports are already excluded."
+  },
+  {
+   "q": "Marginal Efficiency of Capital (MEC) & Marginal Efficiency of Investment (MEI) converge  \nperfectly, when:  \n*[UGC NET December 2024 · Q.98]*",
+   "options": [
+    "Net rate of investment is positive",
+    "Net rate of investment is negative",
+    "Net rate of investment is zero",
+    "Net value of capital stock is zero"
+   ],
+   "answer": 2,
+   "explanation": "MEC and MEI coincide when net investment is zero (no rise in capital-goods prices)."
+  },
+  {
+   "q": "Match LIST-I with LIST-II  \nList - I List - II  \n(A) Expansionary monetary policy under (I) Policy is ineffective with only general  \nAdaptive Expectations. inflation.  \n(B) Anticipated expansionary monetary policy (II) Policy is ineffective with only general  \nunder Rational Expectations. deflation.  \n(C) Money wage cut during great depression. (III) Policy is effective in the short run,  \nalthough not in the long run.  \n(D) The presence of sizeable menu cost. (IV) Policy is effective with no general  \ninflation / deflation.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.100]*",
+   "options": [
+    "A-I, B-II, C-III, D-IV",
+    "A-II, B-I, C-III, D-IV",
+    "A-III, B-I, C-II, D-IV",
+    "A-III, B-I, C-IV, D-II"
+   ],
+   "answer": 2,
+   "explanation": "Adaptive: short-run effect only; anticipated under RE: only inflation; wage cuts in depression: only deflation; menu costs: real effects."
+  },
+  {
+   "q": "A continuous supply shock leads to:  \n*[UGC NET December 2024 · Q.104]*",
+   "options": [
+    "A continuous shift of Phillips Curve to the left such that unemployment & inflation both fall.",
+    "A continuous shift of Phillips Curve to the right such that unemployment & inflation both rise.",
+    "A continuous movement along the Phillips curve such that unemployment & inflation both fall.",
+    "A continuous movement along the Phillips curve such that unemployment falls & inflation rises."
+   ],
+   "answer": 1,
+   "explanation": "Repeated supply shocks shift the Phillips curve right: stagflation."
+  },
+  {
+   "q": "In the Keynesian system, an increase in money supply will increase the demand for goods &  \nservices by:  \n*[UGC NET December 2024 · Q.111]*",
+   "options": [
+    "Increasing consumption via Real Balance Effect",
+    "Increasing bond demand & thereby reducing the interest rate.",
+    "Reducing bond demand & thereby reducing the interest rate.",
+    "Increasing real wage & thereby increasing the transaction demand."
+   ],
+   "answer": 1,
+   "explanation": "Keynes: extra money buys bonds, bond prices rise, interest falls, investment rises."
+  },
+  {
+   "q": "In the IS - LM framework, under general recessionary condition, as government expenditure  \n(G) rises,  \n(A) As Bond price (pb) falls, rate of interest (r) rises, reducing the level of investment (I).  \n(B) Aggregate demand for commodities rises, raising the level of aggregate output & income  \n(Y).  \n(C) Fall in private investment (I) reduces aggregate income.  \n(D) People sell bond (b) to get money & hence bond supply (Bs) rises, reducing bond price (pb).  \n(E) Transaction demand for money (L1) rises, creating money demand greater than money  \nsupply (L > M).  \nChoose the correct answer from the options given below (correct sequence):  \n*[UGC NET December 2024 · Q.112]*",
+   "options": [
+    "A, B, C, D, E",
+    "B, E, D, A, C",
+    "B, D, E, C, A",
+    "E, B, A, D, C"
+   ],
+   "answer": 1,
+   "explanation": "G↑ → Y↑ → L1↑ (L > M) → bonds sold, prices fall → r↑, I↓ → income partly falls back."
+  },
+  {
+   "q": "Given the following statements, state which ones are correct:  \n(A) GDP is devoid of all types of double - counting.  \n(B) Donations are included in National Income  \n(C) Alms are included in Personal Income  \n(D) Inventory is included in investment  \n(E) Foreign workers' income is included in GNP but not in GDP  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.123]*",
+   "options": [
+    "A & C Only",
+    "A, C, D & E Only",
+    "C, D & E Only",
+    "C & D Only"
+   ],
+   "answer": 3,
+   "explanation": "Private transfers like alms enter personal income, and inventory change is investment; donations are transfers, and foreign workers' income in India is in GDP, not GNP."
+  },
+  {
+   "q": "Effective Demand Problem may arise even in a competitive market economy under Rational  \nExpectation, if there is:  \n*[UGC NET December 2024 · Q.126]*",
+   "options": [
+    "Perfect Foresight.",
+    "Coordination Failure.",
+    "Anticipated demand shock.",
+    "Unanticipated supply shock."
+   ],
+   "answer": 1,
+   "explanation": "Coordination failure can cause deficient demand even with rational expectations."
+  },
+  {
+   "q": "In the New Classical Macro Model without unanticipated shock, we may have -  \n(A) Voluntary unemployment  \n(B) Involuntary unemployment  \n(C) Disguised unemployment  \n(D) Cyclical unemployment  \n(E) Natural rate of unemployment  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · \nQ.137]*",
+   "options": [
+    "A & D Only",
+    "B & C Only",
+    "D & E Only",
+    "A & E Only"
+   ],
+   "answer": 3,
+   "explanation": "Without surprises, new classical models have only voluntary/natural-rate unemployment."
+  },
+  {
+   "q": "Arrange the introduction of the following concepts in chronological order (oldest to latest)  \n(A) Adaptive expectation hypothesis by Friedman.  \n(B) Relative income hypothesis by Duesenberry.  \n(C) Efficiency wage hypothesis by Stiglitz.  \n(D) Rational expectation hypothesis by Lucas.  \n(E) Effective demand problem by Kalecki  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.138]*",
+   "options": [
+    "E, A, B, C, D",
+    "B, A, E, C, D",
+    "B, A, D, C, E",
+    "E, B, A, D, C"
+   ],
+   "answer": 3,
+   "explanation": "Kalecki (1933) → Duesenberry (1949) → Friedman's adaptive expectations (1957) → Lucas (1972) → Shapiro–Stiglitz (1984)."
+  },
+  {
+   "q": "In the context of classical economics, an increase in money supply causes.  \n*[UGC NET June 2025 S2 · Q.55]*",
+   "options": [
+    "A shift in aggregate demand curve to the left",
+    "A shift in aggregate demand curve to the right",
+    "A shift in aggregate supply curve to the right",
+    "No change in aggregate demand and aggregate supply, only price increases"
+   ],
+   "answer": 1,
+   "explanation": "Classical: more money shifts AD right; with vertical AS only prices rise."
+  },
+  {
+   "q": "If the value of Keynesian investment multiplier is 4, which one of the following will be the  \ncorresponding saving function?  \n*[UGC NET June 2025 S2 · Q.56]*",
+   "options": [
+    "S = −4 + 0.4Y_D",
+    "S = −10 + 0.75Y_D",
+    "S = −12 + 0.25Y_D",
+    "S = −6 + 0.35Y_D"
+   ],
+   "answer": 2,
+   "explanation": "Multiplier 4 → MPS = 0.25."
+  },
+  {
+   "q": "Which of the following causes a positive output gap, where, output gap = Actual output −  \nPotential output?  \n*[UGC NET June 2025 S2 · Q.57]*",
+   "options": [
+    "Population growth",
+    "Technological progress",
+    "Overemployment of factors of production",
+    "Under utilization of resources"
+   ],
+   "answer": 2,
+   "explanation": "Actual output above potential means over-employment of resources."
+  },
+  {
+   "q": "If the marginal propensity to consume is 0.8 and initial increase in tax revenues by the  \ngovernment is Rs. 100, then the impact on national income would be:  \n*[UGC NET June 2025 S2 · Q.81]*",
+   "options": [
+    "National Income will increase by Rs. 100",
+    "National Income will increase by Rs. 500",
+    "National Income will decrease by Rs. 400",
+    "National Income will decrease by Rs. 100"
+   ],
+   "answer": 2,
+   "explanation": "Tax multiplier = −0.8/0.2 = −4 → income falls by ₹400."
+  },
+  {
+   "q": "Which of the following is likely to lead to a rise in the output cost of disinflation?  \n*[UGC NET June 2025 S2 · \nQ.83]*",
+   "options": [
+    "Inflation expectations become more accurate.",
+    "Sluggish response of wages and prices to monetary contraction.",
+    "Gradual policy response.",
+    "Rational expectations."
+   ],
+   "answer": 1,
+   "explanation": "Sticky wages and prices raise the output cost (sacrifice ratio) of disinflation."
+  },
+  {
+   "q": "According to Lucas Critique.  \n*[UGC NET June 2025 S2 · Q.84]*",
+   "options": [
+    "It assumes monetary policy not to be neutral with respect to real variables.",
+    "Drifting coefficients can make macro econometric models more reliable.",
+    "Keynesian models correctly consider the impact of policies on future expectations.",
+    "The stability of coefficients of models are important for policy predictions."
+   ],
+   "answer": 3,
+   "explanation": "Lucas: model coefficients change with policy, so stable coefficients cannot be assumed for policy evaluation."
+  },
+  {
+   "q": "According to classical economics, an increase in government deficit spending leads to.  \n(A) a shift in the demand for loanable fund to the right  \n(B) decline in interest rate  \n(C) increase in investment  \n(D) increase in saving equal to decline in consumption  \n(E) decrease in investment and consumption that balances the increase in government  \nspending.  \nChoose the correct answer from the options given below:  \n*[UGC NET June \n2025 S2 · Q.109]*",
+   "options": [
+    "A, B & D Only",
+    "A, D & E Only",
+    "A, B, C & D Only",
+    "C, D & E Only"
+   ],
+   "answer": 1,
+   "explanation": "Classical: deficits raise demand for loanable funds; interest rises and crowds out investment and consumption one-for-one."
+  },
+  {
+   "q": "Which of the followings are the effects of increase in government spending in IS-LM  \nframework in a closed economy?  \n(A) Increase in income by multiplier times government expenditure.  \n(B) Shift in IS curve to the right leading to disequilibrium in money market at given level of  \ninterest rate.  \n(C) Quantity of money demand will be higher.  \n(D) Interest rate will decrease.  \n(E) Private investment will increase leading to increase in aggregate demand.  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.110]*",
+   "options": [
+    "B, C & D Only",
+    "C, D & E Only",
+    "A, B & C Only",
+    "B, D & E Only"
+   ],
+   "answer": 2,
+   "explanation": "G↑ raises income by the multiplier, shifts IS right and raises money demand; interest rises, not falls."
+  },
+  {
+   "q": "Which of the followings are true about New Classical approach,  \n(A) The main protagonist was R.E. Lucas Jr.  \n(B) It is based on adaptive expectation.  \n(C) It was developed during 1950s.  \n(D) Complete wage and price flexibility.  \n(E) Difference between actual and expected price is a random error.  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.118]*",
+   "options": [
+    "A, B & E Only",
+    "A, D & E Only",
+    "B, C, D & E Only",
+    "A, B & D Only"
+   ],
+   "answer": 1,
+   "explanation": "Lucas; flexible wages and prices; expectation errors are random. It used rational expectations and came in the 1970s."
+  },
+  {
+   "q": "Which of following are not an assumptions of policy ineffectiveness propositions?  \n(A) Rational expectation  \n(B) Policy changes are not anticipated  \n(C) Economic agents have full information  \n(D) Nominal variables influence economic decision,  \n(E) Output and employment are at their natural level  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET June 2025 S2 \n· Q.119]*",
+   "options": [
+    "B & D Only",
+    "A, C & D Only",
+    "A, B, D & E Only",
+    "C, D & E Only"
+   ],
+   "answer": 0,
+   "explanation": "PIP assumes policy is anticipated and agents have no money illusion, so B and D are not its assumptions."
+  },
+  {
+   "q": "In case of balanced budget multiplier:  \n(A) Output increases less than the increase in government spending.  \n(B) Output increases more than the increase in government spending.  \n(C) Government spending and taxes are raised in equal amounts.  \n(D) The value of multiplier is equal to 1.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.66]*",
+   "options": [
+    "C and D Only",
+    "B and C Only",
+    "A, B and C Only",
+    "B and D Only"
+   ],
+   "answer": 0,
+   "explanation": "Equal rise in G and T; multiplier = 1."
+  },
+  {
+   "q": "Given GNP at market price Rs. 14400 crores, consumption Rs. 12000 crores, government  \npurchases Rs. 1200 crores, exports Rs. 1000 crores and imports Rs. 1500 crores, the value of  \ninvestment will be:  \n*[UGC NET December 2025 · Q.69]*",
+   "options": [
+    "Rs. 1200 Crores",
+    "Rs. 2000 Crores",
+    "Rs. 1500 Crores",
+    "Rs. 1700 Crores"
+   ],
+   "answer": 3,
+   "explanation": "14,400 = 12,000 + I + 1,200 + 1,000 − 1,500 → I = 1,700."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Debt-deflation theory (I) Falling price levels raises the income  \nlevels  \n(B) Pigou effect (II) A policy of announcing future monetary  \naction  \n(C) Forward guidance (III) The effects of unexpected fall in price  \nlevel could depress income  \n(D) Okun's law (IV) An inverse relationship between  \nunemployment and real GDP  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.73]*",
+   "options": [
+    "A-I, B-III, C-II, D-IV",
+    "A-III, B-II, C-IV, D-I",
+    "A-III, B-I, C-II, D-IV",
+    "A-IV, B-I, C-II, D-III"
+   ],
+   "answer": 2,
+   "explanation": "Debt-deflation (Fisher), Pigou effect, forward guidance, Okun's law."
+  },
+  {
+   "q": "(A) Innovation Theory of Business cycle was given by Jorgenson  \n(B) Pure Monetary Theory of Business cycle was given by Hawtrey  \n(C) Monetary-over-investment Theory of Business cycle was given by Clark  \n(D) Multiplier-Acceleration Interaction Theory of Business cycle was given by Samuelson  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.83]*",
+   "options": [
+    "A and B only",
+    "B and D only",
+    "A, B and C only",
+    "A and D only"
+   ],
+   "answer": 1,
+   "explanation": "Hawtrey (monetary) and Samuelson (multiplier–accelerator). Innovation is Schumpeter, over-investment Hayek."
+  },
+  {
+   "q": "Which one of the following is NOT true about rational expectation?  \n*[UGC NET December 2025 · Q.89]*",
+   "options": [
+    "Rational expectations theory has been developed by Hansen.",
+    "It is used in decision making by households, firms and labour for making their expectations about relevant variables.",
+    "The rational expectation uses all relevant information.",
+    "It is not an error free expectation."
+   ],
+   "answer": 0,
+   "explanation": "Rational expectations were developed by Muth (and Lucas), not Hansen."
+  },
+  {
+   "q": "Which one of the following is true for the phenomenon of Liquidity trap?  \n*[UGC NET December 2025 · Q.103]*",
+   "options": [
+    "The entire additional money supply is spent on buying bonds",
+    "The level of rate of interest is very high",
+    "The entire additional money supply is held by the public as idle cash balance",
+    "The interest rate will decrease from the point of liquidity trap"
+   ],
+   "answer": 2,
+   "explanation": "In a liquidity trap extra money is held as idle balances."
+  },
+  {
+   "q": "For the given information regarding an economy, the value of equilibrium level of income is:  \nC = 100 + 0.75Yd; G = 40; I = 60; t = 0.2. Here, C = consumption, Yd = disposable income, G =  \nGovt. expenditure, I = Investment, t = tax rate  \n*[UGC NET December 2025 · Q.110]*",
+   "options": [
+    "200",
+    "500",
+    "400",
+    "450"
+   ],
+   "answer": 1,
+   "explanation": "Y = 100 + 0.75(0.8Y) + 100 → 0.4Y = 200 → Y = 500."
+  },
+  {
+   "q": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as  \nReason (R).  \nAssertion (A): Deficit spending by the government leads to crowding out effect on private  \ninvestment.  \nReason (R): When the government finances its deficit by borrowing from the market, the bond  \nprices go up and the rate of interest falls.  \nIn the light of the above statements, choose the most appropriate answer from the options  \ngiven below:  \n*[UGC NET December 2025 · Q.115]*",
+   "options": [
+    "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+    "(A) is correct but (R) is not correct",
+    "(A) is not correct but (R) is correct"
+   ],
+   "answer": 2,
+   "explanation": "Deficit borrowing lowers bond prices and raises interest rates, crowding out investment."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Q theory (I) Unemployment and inflation  \n(B) Phillips curve (II) Unemployment and output  \n(C) Okun's Law (III) Investment  \n(D) Liquidity trap (IV) Demand for money and interest rate  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.116]*",
+   "options": [
+    "A-III, B-I, C-II, D-IV",
+    "A-I, B-II, C-IV, D-III",
+    "A-III, B-II, C-I, D-IV",
+    "A-II, B-IV, C-I, D-III"
+   ],
+   "answer": 0,
+   "explanation": "q: investment; Phillips: unemployment–inflation; Okun: unemployment–output; liquidity trap: money demand–interest."
+  },
+  {
+   "q": "Choose the correct statements:  \n(A) The 'q' theory emphasises that the investment increases when assets are valuable relative  \nto their reproduction cost.  \n(B) With a fixed exchange rate fiscal expansion under free capital mobility is completely  \nineffective in raising output.  \n(C) Under Investment tax credit, government pays part of the cost of investment.  \n(D) Under fixed exchange rate and perfect capital mobility a country cannot pursue an  \nindependent monetary policy.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.119]*",
+   "options": [
+    "B and D Only",
+    "A and D Only",
+    "A, C and D Only",
+    "A, B and C Only"
+   ],
+   "answer": 2,
+   "explanation": "q theory, investment tax credit and the impossible trinity are right; fiscal policy is fully effective under fixed rates."
+  }
+ ]
+}

@@ -1,0 +1,1095 @@
+{
+ "duration": 119,
+ "negative": 0,
+ "questions": [
+  {
+   "q": "The presumption that costly new knowledge would be undersupplied by the private sector is  \nbased on the essential characteristic of new knowledge.  \nIt is (A) ________ and (B) ________.  \n*[UGC NET December 2018 · Q.54]*",
+   "options": [
+    "(A) Non-rivalous (B) Non-excludable",
+    "(A) Non-rivalous (B) Excludable",
+    "(A) Rivalous (B) Non-excludable",
+    "(A) Rivalous (B) Excludable"
+   ],
+   "answer": 0,
+   "explanation": "Knowledge is non-rival and (partly) non-excludable, so private firms under-supply it."
+  },
+  {
+   "q": "In an economy with a linear homogeneous Cobb-Douglas production function, the share of  \ncapital and labour in total output are, respectively, 40% and 60%. The capital stock and labour  \nforce are growing, respectively, at 8% and 3% per annum. If the rate of growth of output is  \nrecorded as 7% per annum, then the rate of growth of Total Factor Productivity will be  \n*[UGC NET December 2018 \n· Q.69]*",
+   "options": [
+    "4%",
+    "11%",
+    "10%",
+    "2%"
+   ],
+   "answer": 3,
+   "explanation": "TFP growth = 7 − (0.4×8 + 0.6×3) = 7 − 5 = 2%."
+  },
+  {
+   "q": "In the basic neo-classical growth model, where does the growth equilibrium occur?  \n*[UGC NET December \n2018 · Q.92]*",
+   "options": [
+    "Where investment per worker is equal to savings per worker.",
+    "Where investment per worker equals depreciation of capital for worker.",
+    "Where investment per worker equals capital per worker.",
+    "Where capital per worker equals output per worker."
+   ],
+   "answer": 1,
+   "explanation": "Steady state: investment per worker = break-even (depreciation and dilution) investment."
+  },
+  {
+   "q": "Which of the following statements is/are correct about Uzawa's theorem?  \n*[UGC NET December 2018 · Q.94]*",
+   "options": [
+    "The growth rate of output per worker, consumption per worker and capital per worker are equal and constant over time.",
+    "The production function is linear homogeneous.",
+    "The technical progress is 'Harrod neutral' only.",
+    "All of the above"
+   ],
+   "answer": 3,
+   "explanation": "Uzawa: steady growth needs Harrod-neutral progress with CRS; per-worker output, consumption and capital grow at the same rate."
+  },
+  {
+   "q": "What is true for Neo-Classical growth model?  \n(i) Rate of interest and profit are flexible  \n(ii) Capital is heterogeneous  \n(iii) Perfect competition prevails  \n(iv) Capital and labour are substitutable  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.95]*",
+   "options": [
+    "(i), (iii) and (iv)",
+    "(i), (ii) and (iii)",
+    "(ii) and (iii)",
+    "All of the above"
+   ],
+   "answer": 0,
+   "explanation": "Solow–Swan: flexible factor prices, perfect competition, substitutable inputs; capital is homogeneous."
+  },
+  {
+   "q": "Which of the following Concept – Economist pairs is not correctly matched?  \n*[UGC NET December 2018 · Q.100]*",
+   "options": [
+    "Knife-edge Problem – Harrod Domar",
+    "Turnpike Conjecture – Dorfman, Samuelson and Solow",
+    "Super Multiplier – J.M. Keynes",
+    "Golden Rule of Accumulation – E.S. Phelps"
+   ],
+   "answer": 2,
+   "explanation": "The super multiplier is Hicks's, not Keynes's."
+  },
+  {
+   "q": "To compute the 'Index of Sustainable Economic Welfare', which of the following corrections  \nis/are made in the value of GDP?  \n*[UGC NET December 2018 · Q.117]*",
+   "options": [
+    "Subtract the monetary value of depreciation",
+    "Subtract the monetary value of loss due to floods and droughts",
+    "Subtract the monetary value of expenditure on defence",
+    "Subtract the costs of environmental degradation"
+   ],
+   "answer": 3,
+   "explanation": "ISEW subtracts environmental damage (and defensive spending) from consumption-based GDP."
+  },
+  {
+   "q": "Harrod's Growth model is given as under:  \nSt = αYt, 0 < α < 1  \nIt = β[Yt − Yt-1], β > 0  \nSt = It  \nwhere St = Savings, Yt = Income, It = Investment, t = time  \nIn this model for economic growth, the condition for economic growth is  \n*[UGC NET December 2018 · Q.137]*",
+   "options": [
+    "β/(β − α) > 1",
+    "β/(β − α) < 0",
+    "β/α > 0",
+    "β/(α − β) > 0"
+   ],
+   "answer": 0,
+   "explanation": "αYt = β(Yt − Yt−1) → Yt/Yt−1 = β/(β − α); growth needs this ratio > 1."
+  },
+  {
+   "q": "In J. Robinson's growth model, capital accumulation depends on  \n*[UGC NET June 2019 S1 · Q.106]*",
+   "options": [
+    "saving-income ratio",
+    "profit-wage relation and labour productivity",
+    "profit-income ratio and capital productivity",
+    "saving-investment ratio"
+   ],
+   "answer": 1,
+   "explanation": "Robinson: accumulation depends on profit (relative to wages) and labour productivity. (Answer key may vary.)"
+  },
+  {
+   "q": "Which one of the following growth models takes technology as exogenous variable?  \n*[UGC NET June 2019 \nS1 · Q.107]*",
+   "options": [
+    "Solow model",
+    "Robinson model",
+    "Lucas model",
+    "Todaro model"
+   ],
+   "answer": 0,
+   "explanation": "Solow treats technical progress as exogenous."
+  },
+  {
+   "q": "Who among the following is not associated with the endogenous growth theory?  \n*[UGC NET June 2019 S1 · \nQ.109]*",
+   "options": [
+    "Robert Solow",
+    "Paul Romer",
+    "Rebelo",
+    "Robert Lucas"
+   ],
+   "answer": 0,
+   "explanation": "Solow's model is exogenous; Romer, Lucas and Rebelo built endogenous growth."
+  },
+  {
+   "q": "Market failure occurs in case of most of the environmental goods, because  \n*[UGC NET June 2019 S1 · Q.114]*",
+   "options": [
+    "environmental goods are rival products",
+    "environmental goods are excludable products",
+    "environmental goods are non-rival in production",
+    "environmental goods are non-rival and non-excludable in consumption"
+   ],
+   "answer": 3,
+   "explanation": "Many environmental goods are non-rival and non-excludable (public goods)."
+  },
+  {
+   "q": "The 'hedonic price' method measures the value of environmental assets through  \n*[UGC NET June 2019 S1 · \nQ.116]*",
+   "options": [
+    "using 'existence' of an environmental asset",
+    "using linkages between variations of inhouse prices",
+    "using WTP to value of environmental asset",
+    "using WTA to value of environmental asset"
+   ],
+   "answer": 1,
+   "explanation": "Hedonic pricing infers value from house-price differences."
+  },
+  {
+   "q": "Harrod's growth model is given as under  \nSt = aYt, 0 < a < 1  \nIt = b[Yt − Yt−1], b > 0  \nSt ≡ It  \nIn this model, growth condition is  \n*[UGC NET December 2019 S1 · Q.64]*",
+   "options": [
+    "b/(b − a) > 0",
+    "b/(b − a) < 0",
+    "a/(b − a) > 0",
+    "a/(b − a) < 0"
+   ],
+   "answer": 0,
+   "explanation": "Yt = [b/(b − a)]·Yt−1; the growth condition needs a positive ratio (b > a)."
+  },
+  {
+   "q": "In which of the following models 'knife-edge' problem occur?  \n*[UGC NET December 2019 S1 · Q.80]*",
+   "options": [
+    "Kaldor",
+    "Solow",
+    "Harrod",
+    "Swan"
+   ],
+   "answer": 2,
+   "explanation": "Harrod's knife-edge instability."
+  },
+  {
+   "q": "Consider an economy with a linear homogeneous Cobb-Douglas production function with two  \ninputs-capital and labour. The share of capital and labour are, respectively, 1/3 and 2/3. The rates  \nof growth of capital and labour are, respectively 6% and 3% per annum. If the rate of growth of  \noutput is 6% per annum, what is the rate of growth of output due to Total Factor Productivity  \n(TFP)?  \n*[UGC NET December 2019 S1 · Q.81]*",
+   "options": [
+    "1%",
+    "2%",
+    "3%",
+    "4%"
+   ],
+   "answer": 1,
+   "explanation": "TFP = 6 − (⅓×6 + ⅔×3) = 6 − 4 = 2%."
+  },
+  {
+   "q": "Which of the following is not a feature of the contingent valuation method?  \n*[UGC NET December 2019 S1 · \nQ.84]*",
+   "options": [
+    "It is an economic non-market based valuation method",
+    "It is based on the maximum willingness to pay by the consumers",
+    "It is used only in case of air pollution",
+    "It is used under the condition of market failure"
+   ],
+   "answer": 2,
+   "explanation": "Contingent valuation is used for many environmental goods, not only air pollution."
+  },
+  {
+   "q": "Kaldor's growth model incorporates some of the following assumptions:  \n(a) Total savings include savings out of wages and savings out of profits  \n(b) Marginal propensity to save out of wages is equal to the marginal propensity to save out of  \nprofits  \n(c) Output consists of wages and profits  \n(d) There is less than full employment  \nChoose the correct option:  \n*[UGC NET December 2019 S1 · Q.105]*",
+   "options": [
+    "(a) and (b)",
+    "(b) and (c)",
+    "(c) and (d)",
+    "(a) and (c)"
+   ],
+   "answer": 3,
+   "explanation": "Kaldor: saving from wages and profits (different propensities) and output = wages + profits; full employment assumed."
+  },
+  {
+   "q": "Arrange the following in the chronological order in which these happened:  \n(a) Paris Climate Agreement  \n(b) Rio Earth Summit  \n(c) Brundtland Commission  \n(d) Kyoto protocol  \nChoose the correct option:  \n*[UGC NET December 2019 S1 · \nQ.129]*",
+   "options": [
+    "(a), (b), (c), (d)",
+    "(b), (d), (a), (c)",
+    "(d), (b), (c), (a)",
+    "(c), (b), (d), (a) Passage / data for Q.141-145 (December 2019 S1) Read the following passage and answer questions which follow: Industrialization and growth From the global perspective, there seems to be a close association across countries between living standards and the share of resource devoted to industrial activities, at least up to a certain point. In very poor countries there is virtually no industrial activity at all, while the middle- and high-income countries devote 20-40 per cent of resources to industry. Only three countries in the world have become rich on agriculture alone: Australia, New Zealand and Canada. In all other countries, living standards have risen rapidly only as resources have shifted out of agriculture into industry and sophisticated services. Furthermore, research also shows a close association across countries between the growth of industry and the growth of GDP; or more precisely, that GDP growth is faster the greater the excess of industrial growth relative to GDP growth; that is, when the share of industry in total GDP is rising the fastest. Figure shows this relationship across 131 developing countries over GDP is rising the fastest. Figure shows this relationship across 131 developing countries over the period 2000-2005, with GDP growth measured on the vertical axis and the growth of industry Association between growth of industry and growth of GDP on the horizontal axis. The scatter points represents the individual country observations. A line through the points with a slope less than unity shows that the greater the excess of industrial growth over GDP growth, the faster GDP seems to be. The point where this line cuts the 45-degree line gives the average growth rate that divides countries into those where the shares of industry is falling and are growing slowly, and those where the share of industry is rising and are growing fast. A linear equation fitted to the scatter points in Figure gives the following regression result: g = 2.529 + 0.394x r² = 0.507 The equation says that the country with industrial growth one percentage point above the average for all countries will have GDP growth of 0.394 percentage points above the average, and the point where the regression line cuts the 45-degree line is approximately 4.5 per cent. This rate of industry growth separates the slow-growing countries from the faster-growing countries. The question is: what is special about industry, and particularly manufacturing industry, which accounts for these empirical associations, and which makes industry 'the engine of growth'? Since differences in the growth of GDP are largely accounted for by differences in the rate of growth of labour productivity, there must be an association between the growth of industry and the growth of labour producitivity. This is to be expected for two main reasons. First, if there are increasing returns to scale in industry, both static an dynamic, a relation is to be expected between the growth of industrial output and the growth of labour productivity in industry. Static economies of scale refer to the economies of large-scale production whereby the mass production of commodities allows them to be produced at a lower average cost. Dynamic economies of scale refer to the induced effect that output growth has on capital accumulation and the embodiment of new technical progress in capital. Labour productivity also increases as output growth through 'learning by doing'. Second, if activities outside industry, such as agriculture and petty services, are subject to diminishing returns, with the marginal product of labour less than the average product, then if resources are drawn from these activities into industry as industry expands, the average product of labour will rise in non-industrial activities. These relationships between industrial growth, productivity growth and GDP growth are known in the growth and development literature as Kaldor's Growth Laws, named after the famous Cambridge economist (Lord) Nicholas Kaldor, who first enunciated them in the 1960s (Kaldor, 1966, 1967)"
+   ],
+   "answer": 3,
+   "explanation": "Brundtland (1987) → Rio (1992) → Kyoto (1997) → Paris (2015)."
+  },
+  {
+   "q": "Dynamic economies of scale do not include which one of the following:  \n*[UGC NET December 2019 S1 · Q.141]*",
+   "options": [
+    "Induced effect of output growth on capital accumulation",
+    "Improvement in quality of capital due to new technology",
+    "The Labour intensive sector will experience increasing returns will growth of output",
+    "A shift from less productive to more productive sector will lead to a rise in the average product of labour"
+   ],
+   "answer": 3,
+   "explanation": "Moving labour from low- to high-productivity sectors is a static reallocation gain, not a dynamic scale economy."
+  },
+  {
+   "q": "Consider the following statements.  \n(a) The association between growth of industry and growth of GDP, make industry the 'engine of  \ngrowth'  \n(b) Differences in GDP growth do not account for growth in labour productivity  \n(c) GDP growth rates are reflected in the growth rate of labour productivity  \n(d) The growth of industry is subject to increasing returns  \nChoose the correct option from below:  \n*[UGC NET December 2019 S1 · Q.142]*",
+   "options": [
+    "(a), (b) and (c)",
+    "(a) and (c) only",
+    "(b), (c) and (d)",
+    "(b) and (d) only"
+   ],
+   "answer": 1,
+   "explanation": "Industry is the engine of growth, and GDP growth differences show up in labour productivity growth."
+  },
+  {
+   "q": "Consider the following statements in relation to the figure.  \n(a) The 45° line would indicate equal correspondence between industrial growth rate and GDP  \ngrowth rate  \n(b) GDP growth rate is the cause of industrial growth rate  \n(c) The excess of industrial growth rate over GDP growth rate is fuelling more GDP  \n(d) The dividing line of slow and fast growing economies is the industrial growth rate of 3.9%  \nChoose the correct option:  \n*[UGC NET December 2019 S1 · Q.143]*",
+   "options": [
+    "Only (a) and (c) are true",
+    "Only (a) and (b) are true",
+    "Only (a), (b) and (d) are true",
+    "Only (b) and (d) are true"
+   ],
+   "answer": 0,
+   "explanation": "The 45° line shows equal growth and excess industrial growth fuels GDP; the dividing rate is about 4.5%, not 3.9%."
+  },
+  {
+   "q": "Which one of the following statement is not correct for middle and highly developed  \ncountries?  \n*[UGC NET December 2019 S1 · Q.144]*",
+   "options": [
+    "These devote on an average 30 percent of the resources to industrial activity",
+    "Growth of industrial activity involves shift of resources from agriculture to industry",
+    "Shift of resources is uniform between agriculture industry and higher order services for higher growth",
+    "Australia, Canada and New Zealand have developed due to growth of agriculture alone"
+   ],
+   "answer": 2,
+   "explanation": "The passage does not say the shift is uniform across agriculture, industry and services."
+  },
+  {
+   "q": "Which one of the following statement is correct?  \n*[UGC NET December 2019 S1 · Q.145]*",
+   "options": [
+    "There is a positive relation between living standard and resources denoted to industrial activity in few countries",
+    "There is a close association between living standards and resources utilized",
+    "The relation between the living standards and resources denoted to industrial activity is globally true",
+    "There is little association between living standards and resources utilized"
+   ],
+   "answer": 2,
+   "explanation": "The passage finds the association across countries globally (up to a point)."
+  },
+  {
+   "q": "According to traditional neoclassical growth theory, output growth results from  \n(A) Increase in labour quantity and quality  \n(B) Increase in capital  \n(C) Increase in exports  \n(D) Improvement in technology  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · \nQ.113]*",
+   "options": [
+    "A, B and C only",
+    "A and B only",
+    "B and C only",
+    "A, B and D only"
+   ],
+   "answer": 3,
+   "explanation": "Neoclassical growth: labour, capital and technology."
+  },
+  {
+   "q": "Given below are two statements  \nStatement I: The endogeneous growth theorists suggest, investment in human capital,  \ninnovation and knowledge leads to economic growth  \nStatement II: Investment in human capital, innovation and knowledge reduces the diminishing  \nreturns on investment  \nIn light of the above statements, choose the most appropriate answer from the options given  \nbelow  \n*[UGC NET June 2020 S2 · Q.114]*",
+   "options": [
+    "Both Statement I and Statement II are correct",
+    "Both Statement I and Statement II are incorrect",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct"
+   ],
+   "answer": 0,
+   "explanation": "Endogenous growth: human capital and knowledge offset diminishing returns."
+  },
+  {
+   "q": "A decision free framework to identify a country's most binding constraints on economic  \ngrowth is termed as  \n*[UGC NET June 2020 S2 · Q.115]*",
+   "options": [
+    "Growth paradigm",
+    "Growth diagnostics",
+    "Growth stimulus",
+    "Growth paradox"
+   ],
+   "answer": 1,
+   "explanation": "Growth diagnostics (Hausmann, Rodrik, Velasco): a decision-tree framework for binding constraints."
+  },
+  {
+   "q": "Arrange the following growth economists in chronological order of when they proposed their  \ntheories  \n(A) Harrod  \n(B) Schumpeter  \n(C) Rostow  \n(D) Solow  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.116]*",
+   "options": [
+    "B, A, C, D",
+    "C, D, B, A",
+    "A, C, D, B",
+    "D, B, A, C"
+   ],
+   "answer": 0,
+   "explanation": "Schumpeter (1911) → Harrod (1939) → Rostow (1956 take-off) → Solow (1956)."
+  },
+  {
+   "q": "A growth model in which there are diminishing returns on each factor of production but  \nconstant returns to scale and exogenous technological change that generates long term economic  \ngrowth is the  \n*[UGC NET June 2020 S2 · Q.117]*",
+   "options": [
+    "Leibenstein model",
+    "A. K. Sen model",
+    "Kalecki model",
+    "Solow model"
+   ],
+   "answer": 3,
+   "explanation": "Solow: diminishing returns to each factor, CRS, exogenous technical change."
+  },
+  {
+   "q": "Harrod-Domar considers a functional economic relationship in which the growth rate of the  \ngross domestic product depends  \n(A) Directly on the national net savings rate  \n(B) Inversely on the national capital-output ratio  \n(C) Directly on industrial growth  \n(D) Inversely on agricultural growth  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.120]*",
+   "options": [
+    "A and B only",
+    "A and C only",
+    "B and D only",
+    "C and D only Passage / data for Q.141-145 (June 2020 S2) Read the passage carefully and answer the questions that follows There is considerable evidence that some consumers are willing to pay more for green goods. Green goods are goods that are manufactured in an environmentally friendly way (e.g. wood products from sustainable forests, electricity produced from wind power) without a direct impact on a consumer. These are referred to as impure Public goods - a package of Private good and Public good. Why consumers are willing to pay more for these goods is complex. Whatever the reason, it is clear some consumers are willing to pay for green actions that do not benefit them directly. One example of green goods is 'green electricity'. Green power is simply electricity produced using renewable sources of energy. Of course, electricity itself is completely indistinguishable from non-green electricity. There are two ways in which consumers may buy green electricity; either by buying it directly or by contributing to the cost of building green electricity capacity. Consumers are clearly willing to spend more for green electricity and their preference for green production is indicated by the recent rise in popularity of retail carbon offsets. Offsets of emissions have long been used by firms to buy and sell the obligation to reduce emissions. In the USA, new emitters setting up a business in an urban area have to 'offset' their emission additions by finding (and paying) existing firms to reduce their emissions. In recent years, firms have used offsets to effectively reduce their emissions in order to provide a green image, particularly in the case of carbon emissions. The purchase of offsets by consumers is different when consumers buy offsets. They are making a purely voluntary contribution to the environment. Retail offsets are a way in which consumers can produce a green product from a brown product. For example, one can make his part of the flight carbon neutral by paying someone else to reduce his or her carbon emission. This is formalized in an offset market whereby sellers of offsets reduce emissions and then sell these 'reductions'."
+   ],
+   "answer": 0,
+   "explanation": "g = s/v: directly on saving, inversely on the capital–output ratio."
+  },
+  {
+   "q": "An example of green good is  \n(A) White paper  \n(B) Wind power  \n(C) Forest products  \n(D) Solar energy  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.141]*",
+   "options": [
+    "A and B only",
+    "B and C only",
+    "C and D only",
+    "B and D only"
+   ],
+   "answer": 1,
+   "explanation": "The passage's examples: wind power and wood from sustainable forests."
+  },
+  {
+   "q": "Green Electricity means  \n*[UGC NET June 2020 S2 · Q.142]*",
+   "options": [
+    "Electricity produced from renewable sources of energy",
+    "Electricity from Thermal plants",
+    "Electricity from Gas-powered plants",
+    "Hydro-power"
+   ],
+   "answer": 0,
+   "explanation": "Green power = electricity from renewable sources."
+  },
+  {
+   "q": "Impure Public goods are  \n*[UGC NET June 2020 S2 · Q.143]*",
+   "options": [
+    "Private goods",
+    "Public goods",
+    "A package of Public and Private goods",
+    "Harmful goods for the society"
+   ],
+   "answer": 2,
+   "explanation": "Impure public goods bundle a private good and a public good."
+  },
+  {
+   "q": "Offset of emissions are used  \n(A) To reduce emissions  \n(B) To provide green image  \n(C) For emission addition  \n(D) To satisfy consumer preferences  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.144]*",
+   "options": [
+    "A, B and C only",
+    "A, C and D only",
+    "A, B and D only",
+    "B, C and D only"
+   ],
+   "answer": 0,
+   "explanation": "Offsets reduce emissions, give a green image, and let new emitters offset additions."
+  },
+  {
+   "q": "The way in which consumers can produce a green product from a brown product  \n*[UGC NET June 2020 S2 · \nQ.145]*",
+   "options": [
+    "Monopoly",
+    "Retail offsets",
+    "Price discrimination",
+    "Fiscal deficit"
+   ],
+   "answer": 1,
+   "explanation": "Retail offsets turn a brown product into a green one."
+  },
+  {
+   "q": "Harrod-neutral technical progress is necessarily:  \n*[UGC NET December 2020 · Q.31]*",
+   "options": [
+    "Growth augmenting",
+    "Labour augmenting",
+    "Capital augmenting",
+    "Resource augmenting"
+   ],
+   "answer": 1,
+   "explanation": "Harrod-neutral progress is labour-augmenting."
+  },
+  {
+   "q": "Which among the following is NOT part of the neoclassical theory of growth?  \n*[UGC NET December 2020 · \nQ.32]*",
+   "options": [
+    "Swan Model",
+    "Meade's Model",
+    "Pasinetti Model",
+    "Solow Model"
+   ],
+   "answer": 2,
+   "explanation": "Pasinetti's model is post-Keynesian (Cambridge), not neoclassical."
+  },
+  {
+   "q": "Which of the following are true for the Environmental Kuznets Curve (EKC)?  \n(A) The relationship between Income and Environmental damages take the shape of an inverted  \nU  \n(B) EKC is applicable in case of irreversible environmental damage  \n(C) EKC holds true for global pollutants  \n(D) EKC hypothesis intends to represent a long term relationship between economic growth and  \npollution  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · \nQ.64]*",
+   "options": [
+    "A and B only",
+    "A and D only",
+    "C and D only",
+    "A, B, C and D"
+   ],
+   "answer": 1,
+   "explanation": "EKC: inverted U over the long run; it often fails for irreversible damage and global pollutants like CO₂."
+  },
+  {
+   "q": "Which of the following statement(s) is/are CORRECT for environmental evaluation?  \n(A) Travel cost method measures the recreational values of Environmental Resources  \n(B) Hedonic pricing is used for environmental amenities associated with property values  \n(C) Replacement cost method is used by substituting natural resources with a man-made  \nequipment  \n(D) Defensive expenditure deals with preventive measures  \nChoose the correct answer from the options given below:  \n*[UGC NET December \n2020 · Q.65]*",
+   "options": [
+    "A and B only",
+    "B and C only",
+    "C only",
+    "A, B, C and D"
+   ],
+   "answer": 3,
+   "explanation": "All four describe valuation methods correctly."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Conserving the Environment for benefit of (I) Indirect use value  \nthe future generation  \n(B) Search of Alternative fuels is necessary (II) Option Value  \nbecause traditional sources are non-renewable  \n(C) Wood from the forest is useful as timber (III) Bequest Value  \n(D) Insects are important as they help in (IV) Use Value  \npollination  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.74]*",
+   "options": [
+    "A - I, B - II, C - III, D - IV",
+    "A - III, B - II, C - IV, D - I",
+    "A - II, B - IV, C - I, D - III",
+    "A - III, B - IV, C - II, D - I"
+   ],
+   "answer": 1,
+   "explanation": "Bequest value, option value, (direct) use value, indirect use value."
+  },
+  {
+   "q": "Arrange the following United Nations Framework Convention on Climate Change (UNFCCC)  \nconferences in chronological order  \n(A) Copenhagen Conference  \n(B) Doha Conference  \n(C) Paris Conference  \n(D) Katowice Conference  \nChoose the correct answer from the options given below  \n*[UGC NET December 2020 · Q.83]*",
+   "options": [
+    "B, C, D, A",
+    "D, C, B, A",
+    "A, B, C, D",
+    "C, D, B, A"
+   ],
+   "answer": 2,
+   "explanation": "Copenhagen (2009) → Doha (2012) → Paris (2015) → Katowice (2018)."
+  },
+  {
+   "q": "Given below are two statements, one is labelled as Assertion A and the other is labelled as  \nReason R  \nAssertion A: New capital accumulation is the vehicle of technical progress  \nReason R: Technical progress is embodied in new machines  \nIn light of the above statements, choose the correct answer from the options given below  \n*[UGC NET December 2020 · Q.88]*",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is NOT the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0,
+   "explanation": "Embodied progress: new machines carry new technology."
+  },
+  {
+   "q": "In Harrod-Domar Model, if the growth rate of income is 8% and the capital output ratio is 4%  \nthen the saving rate must be  \n*[UGC NET December 2021 · Q.32]*",
+   "options": [
+    "32%",
+    "2%",
+    "36%",
+    "1/2%"
+   ],
+   "answer": 0,
+   "explanation": "s = g × v = 8 × 4 = 32%."
+  },
+  {
+   "q": "The change in welfare due to change in environmental quality is measured by  \n*[UGC NET December 2021 · \nQ.34]*",
+   "options": [
+    "Hedonic price function",
+    "Marginal implicit function",
+    "Marginal Willingness to Pay (WTP) function",
+    "Offer function"
+   ],
+   "answer": 2,
+   "explanation": "Welfare change is measured by the marginal willingness-to-pay function."
+  },
+  {
+   "q": "What are the primary goals of sustainability?  \n(A) The end of poverty and hunger  \n(B) Better standard of education and healthcare  \n(C) To achieve gender equality  \n(D) Sustainable economic growth  \n(E) To achieve both inter and intra generational equity  \nChoose the most appropriate answer from the options given below :  \n*[UGC NET December 2021 · Q.55]*",
+   "options": [
+    "(A), (B), (C) and (E) only",
+    "(A), (C), (D) and (E) only",
+    "(A), (B), (C) and (D) only",
+    "(A), (B), (C), (D) and (E) only"
+   ],
+   "answer": 3,
+   "explanation": "All five are core sustainability goals."
+  },
+  {
+   "q": "Arrange the following Environmental disasters chronologically in accordance of their  \noccurrence  \n(A) Bhopal Gas Tragedy  \n(B) Chernobye explosion  \n(C) London smog episodes  \n(D) Exxon Valdez  \n(E) The Threemile Island Nuclear Disaster  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.82]*",
+   "options": [
+    "(A), (D), (E), (C), (B)",
+    "(C), (E), (A), (B), (D)",
+    "(A), (C), (D), (E), (B)",
+    "(B), (C), (D), (A), (E)"
+   ],
+   "answer": 1,
+   "explanation": "London smog (1952) → Three Mile Island (1979) → Bhopal (1984) → Chernobyl (1986) → Exxon Valdez (1989)."
+  },
+  {
+   "q": "Given below are two statements : One is labelled as Assertion A and the other is labelled as  \nReason R  \nAssertion A : The Endogenous growth theory examines production function that shows  \nincreasing returns.  \nReason R : Increasing returns in Endogenous growth theory is due to specialization and  \ninvestment in knowledge capital and learning by doing.  \nIn the light of the above statements, choose the most appropriate answer from the options  \ngiven below :  \n*[UGC NET December 2021 · Q.88]*",
+   "options": [
+    "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+    "(A) is correct but (R) is not correct",
+    "(A) is not correct but (R) is correct"
+   ],
+   "answer": 0,
+   "explanation": "Endogenous growth gets increasing returns from knowledge, specialisation and learning by doing."
+  },
+  {
+   "q": "Which of the following criterion is used to judge the performance of instruments for  \nenvironmental policy?  \n*[UGC NET December 2022 S1 · Q.35]*",
+   "options": [
+    "Ensuring that for each firm the marginal abatement cost is equal to the marginal damage from pollution",
+    "Achieving equality of marginal abatement costs across polluters",
+    "Minimising the total cost of the externality to the society",
+    "All of the above"
+   ],
+   "answer": 3,
+   "explanation": "All three are criteria for judging environmental policy instruments."
+  },
+  {
+   "q": "Harrod-Domar classification of growth includes, which of the following?  \n(A) Natural growth rate  \n(B) Desired growth rate  \n(C) Warranted growth rate  \n(D) Possible growth rate  \n(E) Population growth rate  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.60]*",
+   "options": [
+    "A and B only",
+    "A and C only",
+    "A, B, C and E only",
+    "B, C and D only"
+   ],
+   "answer": 1,
+   "explanation": "Harrod's rates: actual, warranted and natural."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) COP-15 (I) Bali, Indonesia  \n(B) COP-21 (II) Sharm el-Sheikh, Egypt  \n(C) COP-13 (III) Copenhagen, Denmark  \n(D) COP-27 (IV) Paris, France  \n(List I: Conference of the Parties (COP) - UNFCCC; List II: Location)  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.74]*",
+   "options": [
+    "A - IV, B - I, C - II, D - III",
+    "A - III, B - IV, C - I, D - II",
+    "A - III, B - I, C - II, D - IV",
+    "A - IV, B - III, C - I, D - II"
+   ],
+   "answer": 1,
+   "explanation": "COP-15 Copenhagen, COP-21 Paris, COP-13 Bali, COP-27 Sharm el-Sheikh."
+  },
+  {
+   "q": "Which of the following is true in case of the non-marketed environmental resources?  \n*[UGC NET December \n2022 S2 · Q.25]*",
+   "options": [
+    "Non excludable and non-rival in consumption",
+    "Excludable but not rival in consumption",
+    "Excludable and rival in consumption",
+    "Non-excludable but rival in consumption"
+   ],
+   "answer": 0,
+   "explanation": "Non-marketed environmental resources are non-excludable and non-rival."
+  },
+  {
+   "q": "Which of the following is an example of depreciation of natural capital?  \n*[UGC NET December 2022 S2 · Q.35]*",
+   "options": [
+    "Restoring rivers rendered unusable due to dumping of industrial effluents",
+    "Representation of areas that have been cleared for years of open-cut mining",
+    "Pollution-control activities by the public sector such as municipal waste treatment",
+    "Detoxifying unusable soils for urban or rural development"
+   ],
+   "answer": 1,
+   "explanation": "Land cleared for open-cut mining is depleted natural capital; the others are restoration spending."
+  },
+  {
+   "q": "Which of the following are the features of Environmental Economics as a field of study ?  \n(A) It has its roots in the theory of externalities and public goods.  \n(B) It is based on neoclassical welfare theory  \n(C) It envisions human economy as a sub-system of the biosphere  \n(D) It engages with the law of transformations of matter and energy  \n(E) It focuses on finding the most efficient ways to reducing environmental damages.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.62]*",
+   "options": [
+    "A, B and C only",
+    "B, C and D only",
+    "A, B and E only",
+    "C, D and E only"
+   ],
+   "answer": 2,
+   "explanation": "Environmental economics: externalities and public goods, neoclassical welfare, efficient abatement. C and D describe ecological economics."
+  },
+  {
+   "q": "Which of the following are the essential features of weak sustainability ?  \n(A) It considers human-made capital and natural capital as close substitutes.  \n(B) It puts emphasis on the initial size of an economy since the size of the initial capital stock is  \nconsidered relevant.  \n(C) It requires from each generation to ensure that their actions do not compromise the  \nproductive capacity of the generations to follow  \n(D) the composition of the capital stock of an economy does not hold great significance  \n(E) It renders natural capital as an absolute necessity for sustaining net national income over an  \nindefinite period.  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.63]*",
+   "options": [
+    "A, C and D only",
+    "A, B and C only",
+    "C, D and E only",
+    "A, B and E only"
+   ],
+   "answer": 0,
+   "explanation": "Weak sustainability: substitutable capitals, non-declining total capital, composition unimportant."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Robert Solow (I) Neoclassical growth theory  \n(B) Paul Romer and Robert Lucas (II) Unemployment - Output  \n(C) Paul Samuelson (III) Endogenous growth theory  \n(D) Okun (IV) Foundation of Economic growth.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.67]*",
+   "options": [
+    "A-II, B-III, C-I, D-IV",
+    "A-I, B-II, C-III, D-IV",
+    "A-I, B-III, C-IV, D-II",
+    "A-III, B-I, C-II, D-IV"
+   ],
+   "answer": 2,
+   "explanation": "Solow: neoclassical growth; Romer and Lucas: endogenous; Samuelson: Foundations; Okun: unemployment–output."
+  },
+  {
+   "q": "Given below are two statements :  \nStatement I : Capital deepening is the process by which capital grows at a faster rate than  \nlabour and the capital labour ratio rises.  \nStatement II : The growth of output per worker is result of technological change which  \ndecreases output per worker for a given capital/labour ratio.  \nIn the light of the above statements, choose the most appropriate answer from the options  \ngiven below:  \n*[UGC NET December 2022 S2 · Q.88]*",
+   "options": [
+    "Both Statement I and Statement II are correct",
+    "Both Statement I and Statement II are incorrect",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct"
+   ],
+   "answer": 2,
+   "explanation": "Technical progress raises output per worker at a given K/L."
+  },
+  {
+   "q": "Suppose that a scarce resource, facing a constant demand, will be exhausted in 10 years. If  \nan alternative resource will be available at a price of $40 and if the interest rate is 10%, what must  \nbe the price of the scarce resource today -  \n*[UGC NET June 2023 · Q.52]*",
+   "options": [
+    "$55.50",
+    "$35.60",
+    "$24.40",
+    "$15.42"
+   ],
+   "answer": 3,
+   "explanation": "Hotelling: price today = 40/(1.1)^10 ≈ 15.42."
+  },
+  {
+   "q": "According to Robinson the term 'Golden Age' in the context of Harrod-Domar model is used  \nto emphasize  \n*[UGC NET June 2023 · Q.79]*",
+   "options": [
+    "Its mythical nature",
+    "Its superiority",
+    "Natural growth rate",
+    "Warranted growth rate"
+   ],
+   "answer": 0,
+   "explanation": "Joan Robinson called it a 'golden age' to stress its mythical, unlikely nature."
+  },
+  {
+   "q": "Which of the following defines ambient standards in an environmental policy  \n*[UGC NET June 2023 · Q.83]*",
+   "options": [
+    "a standard that specifies a pollution limit to be achieved but does not stipulate the technology.",
+    "a standard that designates the equipment or method to be used to achieve some abatement level.",
+    "a standard that designates the quality level of some element of the environment to be achieved.",
+    "none of the above."
+   ],
+   "answer": 2,
+   "explanation": "Ambient standards set the target quality of the environment itself."
+  },
+  {
+   "q": "Which of the following applies to the physical linkage approach for the valuation of  \nenvironmental benefits  \n*[UGC NET June 2023 · Q.84]*",
+   "options": [
+    "methods that assess responses immediately related to environmental changes.",
+    "methods that examine responses not about the environmental good itself but some set of market conditions related to it.",
+    "methods that estimate benefits using observations of behavior in actual markets.",
+    "methods that estimate benefits based on a technical relationship between an environmental resource and the user of that resource."
+   ],
+   "answer": 3,
+   "explanation": "Physical linkage methods use a technical relation between the resource and its user (dose–response)."
+  },
+  {
+   "q": "Defensive expenditure method is based on the understanding that  \n(A) the consumer spends money to ameliorate the damaging effects of the bad.  \n(B) the defensive expenditure undertaken reflects the consumer's willingness to pay to reduce  \nthe level of the bad.  \n(C) the observed defensive expenditure is an upper bound on the willingness to pay to avoid the  \nbad.  \n(D) the defensive expenditure provide no additional services other than provisioning the desired  \nenvironmental quality.  \n(E) the observed defensive expenditure is a lower bound on the willingness to pay to avoid the  \nbad.  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · Q.112]*",
+   "options": [
+    "A, B and C only",
+    "C, D and E only",
+    "A, B, C and D only",
+    "A, B, D and E only"
+   ],
+   "answer": 3,
+   "explanation": "Defensive spending reveals WTP and is a lower bound on it."
+  },
+  {
+   "q": "Which of the following constitutes India's strategy to combat climate change in the backdrop  \nof its stand at the 26th session of the conference of the Parties (COP 26) to the UNFCCC held in  \nGlasgow, U.K.  \n(A) phasing out of coal-based thermal power generation by 2030.  \n(B) reduction of the carbon intensity of Indian economy by 45 percent by 2030, over 2005  \nlevels.  \n(C) capping Indian economy total final energy consumption in absolute levels.  \n(D) achieving the target of net zero emissions for India by 2070.  \n(E) promoting lifestyle for environment to combat climate change.  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · Q.113]*",
+   "options": [
+    "A, B, D only",
+    "B, C, D only",
+    "B, D, E only",
+    "C, D, E only"
+   ],
+   "answer": 2,
+   "explanation": "India at COP26: 45% emission-intensity cut by 2030, net zero 2070, LiFE. No coal phase-out or energy cap."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Cost-effectiveness (I) a policy that directly regulates polluters  \nthrough the use of standards.  \n(B) Pollution permit trading system (II) an incentive based policy that  \nencourages conservation practices or  \npollution reduction technologies.  \n(C) Market approach (III) Requires that the least amount of  \nresources be used to achieve an objective.  \n(D) Command-and-control approach (IV) A market instrument that establishes a  \nmarket for rights to pollute.  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2023 · Q.116]*",
+   "options": [
+    "A-I, B-II, C-III, D-IV",
+    "A-III, B-IV, C-I, D-II",
+    "A-IV, B-III, C-II, D-I",
+    "A-III, B-IV, C-II, D-I Passage / data for Q.146-150 (June 2023) GDP growth is the most widely used macroeconomic indicator for adjudicating broad economic progress. The outcomes from decisions made on the basis of such an indicator have been repeatedly disappointing because of failures to detect resource uses that turn out to be unsustainable. Adjusted Net Savings (ANS) provides a complementary indicator to help in understanding the changes in wealth and not per capita wealth, by capturing some of the important policy-induced dynamics. Based on the conventions of the System of National Accounts (SNA), ANS is measured as Gross National Saving minus depreciation of produced capital, depletion of subsoil assets and timber resources, and air pollution damages to human health, plus a credit for expenditures on education. If ANS is negative, the country is running down its capital stocks and possibly reducing future material well-being. If ANS is positive the country is adding to wealth and future material well-being. When natural resource depletion is not used to invest in other assets in the wealth portfolio, countries gross saving might not be enough to compensate this depletion resulting in negative net savings. However, nations with higher GDP are far less likely to obtain negative ANS. It is argued that, if not a superior indicator of sustainability, ANS is useful to the extent that it can serve as an indicator of unsustainability. Hence, the estimates and conceptualization of ANS are not free from limitations."
+   ],
+   "answer": 3,
+   "explanation": "Cost-effectiveness: least resources; permits: market for rights; market approach: incentives; command-and-control: standards."
+  },
+  {
+   "q": "Adjusted Net Saving (ANS) is  \n*[UGC NET June 2023 · Q.146]*",
+   "options": [
+    "a proxy for change in per capita wealth",
+    "a stock variable",
+    "a flow variable",
+    "unable to capture policy-induced dynamics"
+   ],
+   "answer": 2,
+   "explanation": "ANS measures a change in wealth over a period: a flow."
+  },
+  {
+   "q": "Which of the following is not the constituent of ANS?  \n*[UGC NET June 2023 · Q.147]*",
+   "options": [
+    "Public expenditures on education",
+    "Air pollution damage",
+    "Depletion of metals and minerals",
+    "Loss of biodiversity"
+   ],
+   "answer": 3,
+   "explanation": "ANS covers education, pollution damage and mineral, energy and forest depletion, not biodiversity loss."
+  },
+  {
+   "q": "Which of the following explains the decline in ANS in countries with increasing GDP per  \ncapita?  \n*[UGC NET June 2023 · Q.148]*",
+   "options": [
+    "Increasing proportion of private investment in an economy",
+    "Depleted assets not offset by sufficient investment in human and physical capital",
+    "Increasing gross saving rates",
+    "Increasing production of renewable natural capital"
+   ],
+   "answer": 1,
+   "explanation": "Negative ANS when depletion is not offset by investment in other capital."
+  },
+  {
+   "q": "Which of the following reflects the shortcomings of ANS?  \n*[UGC NET June 2023 · Q.149]*",
+   "options": [
+    "It allows substitution between different forms of capital.",
+    "It is not a comprehensive indicator of per capita wealth.",
+    "It is influenced by the level of GDP of an economy.",
+    "All of the above"
+   ],
+   "answer": 3,
+   "explanation": "All three are standard criticisms of ANS."
+  },
+  {
+   "q": "The concept of ANS should at best be used to  \n*[UGC NET June 2023 · Q.150]*",
+   "options": [
+    "guide ecologically optimal sustainable scale",
+    "serve as an indicator of unsustainability",
+    "replace GDP as a measure of economic progress",
+    "None of the above"
+   ],
+   "answer": 1,
+   "explanation": "ANS is best used as an indicator of unsustainability."
+  },
+  {
+   "q": "In an economy real GDP has increased from $ 990 PPP to $ 1080 PPP during 2015 to 2020.  \nThe incremental capital output ratio is 2.5. The rate of investment is :  \n*[UGC NET December 2023 S1 · Q.60]*",
+   "options": [
+    "27.8 Percent",
+    "22.5 Percent",
+    "3.9 Percent",
+    "19.5 Percent"
+   ],
+   "answer": 1,
+   "explanation": "Growth ≈ (1080 − 990)/990 ≈ 9.1%; investment rate = ICOR × growth ≈ 2.5 × 9 ≈ 22.5%."
+  },
+  {
+   "q": "The Solow residual is :  \n*[UGC NET December 2023 S1 · Q.62]*",
+   "options": [
+    "The difference between the rate of growth of productivity and the rate of growth of inputs",
+    "The difference between the rate of growth of output and the rate of growth of saving",
+    "The difference between the rate of growth of output and the rate of growth of inputs",
+    "The difference between the golden rule level of consumption and the steady state level of consumption"
+   ],
+   "answer": 2,
+   "explanation": "Solow residual = output growth minus weighted input growth."
+  },
+  {
+   "q": "Endogenous growth theory assumes :  \n*[UGC NET December 2023 S1 · Q.64]*",
+   "options": [
+    "Increasing returns to scale and perfect competition",
+    "Decreasing returns to scale and perfect competition",
+    "Increasing returns to scale and imperfect competition",
+    "Decreasing returns to scale and imperfect competition"
+   ],
+   "answer": 2,
+   "explanation": "Endogenous growth models (Romer) use increasing returns and imperfect competition."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Ramsar Convention (I) Ozone layer depletion  \n(B) Basel Convention (II) Reduction of greenhouse gas emission  \n(C) Montreal Protocol (III) Conservation of wetlands  \n(D) Paris Agreement (IV) Control of trans-boundary movement of  \nhazardous wastes and disposal  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.116]*",
+   "options": [
+    "A-I, B-IV, C-III, D-II",
+    "A-III, B-I, C-II, D-IV",
+    "A-IV, B-I, C-III, D-II",
+    "A-III, B-IV, C-I, D-II"
+   ],
+   "answer": 3,
+   "explanation": "Ramsar: wetlands; Basel: hazardous waste; Montreal: ozone; Paris: GHG emissions."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Coase theorem (I) Property right, victim's pay and polluter  \npay principle  \n(B) Climate change (II) Lax environmental regulation, hidden  \nsubsidy  \n(C) Ecological dumping (III) Quantity restriction  \n(D) Tradable emission permit (IV) Global externality  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.117]*",
+   "options": [
+    "A-III, B-IV, C-II, D-I",
+    "A-I, B-IV, C-II, D-III",
+    "A-II, B-I, C-III, D-IV",
+    "A-III, B-IV, C-I, D-II"
+   ],
+   "answer": 1,
+   "explanation": "Coase: property rights; climate change: global externality; ecological dumping: lax regulation; permits: quantity restriction."
+  },
+  {
+   "q": "Under the Green Climate Fund of UNFCCC, what ratio of financial allocation between  \n'Adaptation' and 'Mitigation' activities is aimed?  \n*[UGC NET August 2024 S1 · Q.59]*",
+   "options": [
+    "25:75",
+    "40:60",
+    "50:50",
+    "75:25"
+   ],
+   "answer": 2,
+   "explanation": "The Green Climate Fund aims at a 50:50 split between adaptation and mitigation."
+  },
+  {
+   "q": "Arrange the following in correct chronological order starting from the earliest to the latest:  \n(A) Coase theorem  \n(B) Hotelling principle  \n(C) Nash equilibrium  \n(D) Kyoto Protocol  \n(E) Establishment of IUCN (International Union for Conservation of nature)  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.96]*",
+   "options": [
+    "(B), (E), (C), (A), (D)",
+    "(B), (E), (A), (C), (D)",
+    "(B), (A), (D), (E), (C)",
+    "(E), (B), (A), (C), (D)"
+   ],
+   "answer": 0,
+   "explanation": "Hotelling (1931) → IUCN (1948) → Nash (1950) → Coase (1960) → Kyoto (1997)."
+  },
+  {
+   "q": "Identify the correct statements from below:  \n(A) According to environmental valuation theory, option value = future use value + bequest  \nvalue + vicarious value  \n(B) Adverse selection leads to market failure  \n(C) Contingent valuation method is a type of cost benefit analysis  \n(D) Public good and common goods have same characteristics  \n(E) Internal rate of return is a criterion in cost benefit analysis  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.106]*",
+   "options": [
+    "(A) and (B) only",
+    "(A), (C), (D) only",
+    "(A), (B), (E) only",
+    "(C), (D), (E) only"
+   ],
+   "answer": 2,
+   "explanation": "Adverse selection causes market failure and IRR is a CBA criterion; option value is listed with A in the key."
+  },
+  {
+   "q": "Identify the correct statements from below:  \n(A) First UN conference on human environment was held in Norway in 1972.  \n(B) In I = PAT expression, P stands for poverty.  \n(C) Pollution tax was suggested by Pigou.  \n(D) Population growth follows a logistic distribution.  \n(E) Hedonic pricing is an environmental valuation method used in valuing tourism sites.  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.111]*",
+   "options": [
+    "(A), (D), (E) only",
+    "(C), (D), (E) only",
+    "(A), (B), (E) only",
+    "(C), (D) only"
+   ],
+   "answer": 3,
+   "explanation": "Pigou proposed pollution tax; population often follows logistic growth. Stockholm (1972) was in Sweden; P in I = PAT is population."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Travel cost method (I) Sustainable development  \n(B) Stern review (II) Exhaustible resources  \n(C) Brundtland commission report (III) Climate change  \n(D) User cost (IV) Environmental valuation  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.126]*",
+   "options": [
+    "(A)-(IV), (B)-(II), (C)-(I), (D)-(III)",
+    "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)",
+    "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)",
+    "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
+   ],
+   "answer": 2,
+   "explanation": "Travel cost: valuation; Stern: climate change; Brundtland: sustainable development; user cost: exhaustible resources."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Rachel Carson (I) Economics of Biodiversity  \n(B) Kenneth Boulding (II) Economics of coming spaceship earth  \n(C) G. Hardin (III) Silent spring  \n(D) Partha Dasgupta (IV) Tragedy of commons  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.132]*",
+   "options": [
+    "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+    "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+    "(A)-(IV), (B)-(II), (C)-(III), (D)-(I)",
+    "(A)-(III), (B)-(II), (C)-(IV), (D)-(I)"
+   ],
+   "answer": 3,
+   "explanation": "Carson: Silent Spring; Boulding: spaceship earth; Hardin: tragedy of the commons; Dasgupta: biodiversity review."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Montreal Protocol (I) Contingent valuation method  \n(B) Cop 28 (II) Control of CFC  \n(C) Rio+20 (III) Climate Conference  \n(D) Willingness to Accept (WTA) (IV) Sustainable Development  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.139]*",
+   "options": [
+    "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)",
+    "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+    "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)",
+    "(A)-(I), (B)-(II), (C)-(IV), (D)-(III)"
+   ],
+   "answer": 0,
+   "explanation": "Montreal: CFCs; COP 28: climate; Rio+20: sustainable development; WTA: contingent valuation."
+  },
+  {
+   "q": "The method used for estimation of price change of a house due to change in environment  \nlike starting of park, scenic beauty etc is :  \n*[UGC NET December 2024 · Q.51]*",
+   "options": [
+    "Travel cost method",
+    "Hedonic pricing method",
+    "Production function method",
+    "Contingent valuation method"
+   ],
+   "answer": 1,
+   "explanation": "Hedonic pricing for house prices."
+  },
+  {
+   "q": "Due to open - access to a property after it is over-used beyond its carrying capacity. Such a  \nsituation is called :  \n*[UGC NET December 2024 · Q.96]*",
+   "options": [
+    "Problem of tragedy of commons",
+    "Problem of market failure",
+    "Problem of externality",
+    "Problem of moral hazard"
+   ],
+   "answer": 0,
+   "explanation": "Over-use of open-access resources: tragedy of the commons."
+  },
+  {
+   "q": "Ecological Footprint means :  \n*[UGC NET December 2024 · Q.103]*",
+   "options": [
+    "Number of trees planted in a region per year.",
+    "Amount of ecological resources degraded in a country per year",
+    "Total areas of deep forest in a country",
+    "The amount of pressure that human puts on the natural resources available to them in their surrounding."
+   ],
+   "answer": 3,
+   "explanation": "Ecological footprint: human demand on nature's resources."
+  },
+  {
+   "q": "Endogenous Growth theory has been developed by :  \n(A) K. Arrow  \n(B) R. Barro  \n(C) P. Romer  \n(D) R. Solow  \n(E) G. Mankiw  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.113]*",
+   "options": [
+    "A, B, C, E Only",
+    "A, B, E Only",
+    "B, C, E Only",
+    "A, B, C Only"
+   ],
+   "answer": 3,
+   "explanation": "Arrow (learning by doing), Barro and Romer; Solow and Mankiw are neoclassical."
+  },
+  {
+   "q": "According to neoclassical growth theory, an increase in saving rate.  \n*[UGC NET June 2025 S2 · Q.85]*",
+   "options": [
+    "Raises the growth rate of output in the short run.",
+    "Increases long run growth rate of output.",
+    "Deceases the steady-state capital-labor ratio.",
+    "Decreases the long-run level of capital and output per head."
+   ],
+   "answer": 0,
+   "explanation": "Higher saving raises growth temporarily; long-run growth is unchanged, but k* and y* rise."
+  },
+  {
+   "q": "Which of the following is not correct about Harrod-Domar model of economic growth?  \n*[UGC NET June \n2025 S2 · Q.87]*",
+   "options": [
+    "The natural rate of growth is made up of growth of labor force and labor productivity.",
+    "If actual growth (g) is greater than warranted rate of growth (gw), g can continue to diverge from gw only until it hits natural growth rate (gn).",
+    "g can be greater than gn in the long-run.",
+    "Full employment of labor and capital require g = gw = gn"
+   ],
+   "answer": 2,
+   "explanation": "Actual growth cannot exceed the natural rate in the long run."
+  },
+  {
+   "q": "Arrange the following environmental conventions/summits in sequence starting from the  \noldest.  \n(A) Kyoto Protocol  \n(B) Minamata Convention  \n(C) Stockholm Convention  \n(D) UN-REDD  \n(E) Rio Summit  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.100]*",
+   "options": [
+    "E, A, C, D, B",
+    "E, C, A, B, D",
+    "C, E, A, D, B",
+    "A, B, C, D, E"
+   ],
+   "answer": 0,
+   "explanation": "Rio (1992) → Kyoto (1997) → Stockholm Convention (2001) → UN-REDD (2008) → Minamata (2013)."
+  },
+  {
+   "q": "In the context of neoclassical growth model, the effects of an increase in population growth  \nrate is/are.  \n(A) Reduction in steady-state level of capital per head  \n(B) Increase in per capita output  \n(C) Increase in steady state rate of growth of aggregate Output  \n(D) Decrease in capital-output ratio  \n(E) An inward shift in production possibility curve.  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.120]*",
+   "options": [
+    "A, B & C Only",
+    "B, C, D & E Only",
+    "A & C Only",
+    "C, D & E Only"
+   ],
+   "answer": 2,
+   "explanation": "Higher n lowers k* and raises steady-state growth of aggregate output."
+  },
+  {
+   "q": "Match List - I with List - II  \nList - I List - II  \nList-I (Concepts) List-II (their expression) (where, gm =  \nmanufacturing output growth, gGDP = GDP  \ngrowth, Pnm = productivity in outside  \nmanufacturing, Pm = Productivity in  \nmanufacturing)  \n(A) Kaldor's first law of growth (I) Pm = f(gm), f' > 0  \n(B) Kaldor's second law of growth (II) y* = −ε(u − u*)  \n(C) Kaldor's third law of growth (III) gGDP = f(gm), f' > 0  \n(D) Okun's law (IV) Pnm = f(gm), f' > 0  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.137]*",
+   "options": [
+    "A-IV, B-III, C-I, D-II",
+    "A-III, B-IV, C-I, D-II",
+    "A-III, B-I, C-IV, D-II",
+    "A-IV, B-III, C-II, D-I"
+   ],
+   "answer": 2,
+   "explanation": "Kaldor: GDP growth on manufacturing growth; Verdoorn productivity law; non-manufacturing productivity; Okun's law."
+  },
+  {
+   "q": "Match List - I with List - II  \nList - I List - II  \n(A) Inverted \"U\" hypothesis (I) Herman Daly  \n(B) Sustainable development (II) Garrett Hardin  \n(C) Ecological Economics (III) Simon Kuznets  \n(D) Tragedy of the commons (IV) Gro Harlen Brundtland  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.139]*",
+   "options": [
+    "A-IV, B-II, C-III, D-I",
+    "A-III, B-I, C-IV, D-II",
+    "A-III, B-IV, C-I, D-II",
+    "A-III, B-IV, C-II, D-I"
+   ],
+   "answer": 2,
+   "explanation": "Kuznets: inverted U; Brundtland: sustainable development; Daly: ecological economics; Hardin: commons."
+  },
+  {
+   "q": "The basic proposition of neo-classical growth theory are:  \n(A) The growth of output depends on the rate of growth of labour productivity  \n(B) The growth of output depends on the level of per capita income  \n(C) The ratio of savings and investment determines economic growth  \n(D) Only investment determines economic growth  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.59]*",
+   "options": [
+    "A and C only",
+    "A and B only",
+    "C and D only",
+    "B and C only"
+   ],
+   "answer": 0,
+   "explanation": "Output growth depends on labour productivity growth and on saving–investment."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Kenneth Bouilding (I) Pollution Tax  \n(B) Georgescu-Roegen (II) Spaceship Earth and Ecological Limits  \n(C) Elinor Ostrom (III) Managing Common Property Resources  \n(D) A.C. Pigou (IV) Energy as a limiting factor  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.63]*",
+   "options": [
+    "A-I, B-III, C-II, D-IV",
+    "A-III, B-II, C-I, D-IV",
+    "A-II, B-I, C-IV, D-III",
+    "A-II, B-IV, C-III, D-I"
+   ],
+   "answer": 3,
+   "explanation": "Boulding: spaceship earth; Georgescu-Roegen: energy (entropy); Ostrom: commons; Pigou: pollution tax."
+  },
+  {
+   "q": "The main feature of embodied technical progress is:  \n*[UGC NET December 2025 · Q.88]*",
+   "options": [
+    "Exogenous technical progress that is not dependent on capital accumulation is embodied progress.",
+    "Technical improvements that can only be introduced into the productive system by new investment is embodied progress.",
+    "Lop-sided productivity increase is embodied progress.",
+    "This is dependent on government support."
+   ],
+   "answer": 1,
+   "explanation": "Embodied progress enters only through new investment."
+  },
+  {
+   "q": "The development of economic growth theory in chronological order would be:  \n(A) Harrod Domar Growth Model  \n(B) Solow's Neoclassical Growth Model  \n(C) Endogenous Growth Theory  \n(D) Adam Smith's \"division of labour\" and \"increasing returns\" theory.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · \nQ.107]*",
+   "options": [
+    "D, C, B, A",
+    "D, B, C, A",
+    "D, A, B, C",
+    "B, D, A, C Passage / data for Q.141-145 (December 2025) For environmental assets, markets can fail if prices do not communicate society's desires and constraints accurately. The factors leading to habitat destruction and the loss of biodiversity originate in several sources of market failure. First, habitat destruction arises from public ownership of large areas of land with open access and limited government capacity to manage land. The economic incentives encourage the over exploitation of wildflife, timber, grazing lands and crop lands. Lack of secure land tenure provides little incentive to maintain the habitat necessary for biodiversity conservation. This is a case of non-rivalry and non-excludability that can destroy biodiversity as it itself does not have any price. Such market failures can be linked to incomplete markets. On the other hand, such situation could also happen from externality if some outside agent disturbs the natural eco-system. This could lead to a tragic end of the ecosystem unless there is a coordinated effort by the local people to save it."
+   ],
+   "answer": 2,
+   "explanation": "Smith → Harrod–Domar → Solow → endogenous growth."
+  },
+  {
+   "q": "Incomplete markets for biodiversity occurs because:  \n*[UGC NET December 2025 · Q.141]*",
+   "options": [
+    "Biodiversity does not have a value to society",
+    "Failure to institute well-defined property rights on the forest having biodiversity",
+    "The forest resource is open for all to exploit",
+    "No one is willing to pay money to save biodiversity in forest"
+   ],
+   "answer": 1,
+   "explanation": "Lack of well-defined property rights leaves biodiversity without a market."
+  },
+  {
+   "q": "A Common Property Resource (CPR) can survive only under:  \n*[UGC NET December 2025 · Q.142]*",
+   "options": [
+    "Strict Property Rules",
+    "Taxation",
+    "Credible Commitment to the collective living on the CPR",
+    "Non-exclusion"
+   ],
+   "answer": 2,
+   "explanation": "CPRs survive with credible commitment by the user community (Ostrom)."
+  },
+  {
+   "q": "The concept of \"Tragedy of Commons\" was founded by:  \n*[UGC NET December 2025 · Q.143]*",
+   "options": [
+    "Robert Solow",
+    "Harold Hotelling",
+    "Ganret Hardin",
+    "Partha Dasgupta"
+   ],
+   "answer": 2,
+   "explanation": "Garrett Hardin (1968)."
+  },
+  {
+   "q": "Public goods do not have the following property:  \n*[UGC NET December 2025 · Q.144]*",
+   "options": [
+    "Non-rival",
+    "Non-excludable",
+    "Common property resources controlled by locals",
+    "Free goods"
+   ],
+   "answer": 2,
+   "explanation": "Common property controlled by locals is not a feature of public goods."
+  },
+  {
+   "q": "Asymmetric information about a resource occurs when there is:  \n*[UGC NET December 2025 · Q.145]*",
+   "options": [
+    "Government intervention",
+    "Non-rivalry",
+    "Non-excludability",
+    "Moral hazard and adverse selection"
+   ],
+   "answer": 3,
+   "explanation": "Asymmetric information appears as moral hazard and adverse selection."
+  }
+ ]
+}

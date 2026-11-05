@@ -1,0 +1,721 @@
+{
+ "duration": 78,
+ "negative": 0,
+ "questions": [
+  {
+   "q": "According to Schumpeter Theory of Development, which of the following statements is  \ncorrect?  \n*[UGC NET December 2018 · Q.93]*",
+   "options": [
+    "The expansion of economic output is limited by the real savings of the economy.",
+    "Democracy enhances the efficiency of an economic system.",
+    "All the above are correct",
+    "None of the above are correct"
+   ],
+   "answer": 3,
+   "explanation": "Schumpeter: innovation is financed by bank credit, not limited by real saving; democracy is not part of the theory."
+  },
+  {
+   "q": "Technological dualism means  \n*[UGC NET December 2018 · Q.96]*",
+   "options": [
+    "Prevalence of different production functions in the industrial sector in underdeveloped countries",
+    "Prevalence of different technologies in agricultural sector in underdeveloped countries",
+    "Prevalence of different production functions in the advanced and traditional sectors in underdeveloped countries",
+    "Prevalence of different production functions in domestic and export sectors of underdeveloped countries"
+   ],
+   "answer": 2,
+   "explanation": "Technological dualism (Higgins): different production functions in the advanced and traditional sectors."
+  },
+  {
+   "q": "Match List I with List II and choose the correct answer from the code given below:  \nList - I List - II  \n(a) Absorptive capacity of capital (i) M. Kalecki  \n(b) Technological dualism (ii) A.O. Hirschman  \n(c) Physical quality of life index (iii) D. Morris  \n(d) Permissive and compulsive sequences of (iv) B. Higgins  \nexpanding industries  \n*[UGC NET December 2018 \n· Q.97]*",
+   "options": [
+    "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+    "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+    "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+    "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
+   ],
+   "answer": 3,
+   "explanation": "Absorptive capacity: Kalecki; technological dualism: Higgins; PQLI: Morris D. Morris; permissive and compulsive sequences: Hirschman."
+  },
+  {
+   "q": "The original interpretation of balanced growth relates to  \n*[UGC NET December 2018 · Q.98]*",
+   "options": [
+    "All sectors growing at the same rate",
+    "Absence of shortages or excesses",
+    "Equal amount to investment in all sectors",
+    "Large scale expansion of activities to overcome divergence between private and social benefits"
+   ],
+   "answer": 3,
+   "explanation": "Rosenstein-Rodan's original idea: large coordinated investment to capture external economies (private vs social benefit gap)."
+  },
+  {
+   "q": "Which of the following is considered as the third stage in the Rostow's Stages of Economic  \nGrowth model?  \n*[UGC NET December 2018 · Q.101]*",
+   "options": [
+    "High mass consumption",
+    "Traditional society",
+    "Pre-conditions for a take-off",
+    "Take-off"
+   ],
+   "answer": 3,
+   "explanation": "Traditional society → preconditions → take-off (third stage)."
+  },
+  {
+   "q": "Which of the following is/are true for Karl Marx's Theory of Economic Development?  \n*[UGC NET December \n2018 · Q.102]*",
+   "options": [
+    "Relations in production change independently.",
+    "Mode of production changes independently.",
+    "Both above",
+    "None of the above"
+   ],
+   "answer": 3,
+   "explanation": "For Marx, relations and modes of production change together through the forces of production; neither changes independently."
+  },
+  {
+   "q": "Planning from below is known as  \n*[UGC NET December 2018 · Q.121]*",
+   "options": [
+    "Centralised planning",
+    "Functional planning",
+    "Decentralised planning",
+    "Structural planning"
+   ],
+   "answer": 2,
+   "explanation": "Planning from below = decentralised planning."
+  },
+  {
+   "q": "Given below are two statements, one labelled as Assertion (A) and the other labelled as  \nReason (R). Read the statements and choose the correct answer using the code given below.  \nAssertion (A): In the P.N. Rosenstein-Rodan's model, the positive role of indivisibilities in  \nproduction has been analysed.  \nReason (R): Removal of indivisibilities leads to constant returns to scale in production.  \n*[UGC NET December 2018 · Q.134]*",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+    "(A) is true, but (R) is false.",
+    "(A) is false, but (R) is true."
+   ],
+   "answer": 1,
+   "explanation": "Rosenstein-Rodan stressed indivisibilities (increasing returns); R is a separate point, not the explanation."
+  },
+  {
+   "q": "Match List-I with List-II :  \nList - I List - II  \n(a) Theory of big push (i) J. H. Boeke  \n(b) Warranted rate of growth (ii) Paul Romer  \n(c) Social dualism (iii) Rosenstein-Rodan  \n(d) Endogenous growth theory (iv) R. F. Harrod  \nChoose the correct option from those given below :  \n*[UGC NET June 2019 S1 · Q.105]*",
+   "options": [
+    "(a)-(ii); (b)-(iii); (c)-(iv); (d)-(i)",
+    "(a)-(iii); (b)-(i); (c)-(iv); (d)-(ii)",
+    "(a)-(iii); (b)-(iv); (c)-(i); (d)-(ii)",
+    "(a)-(iv); (b)-(ii); (c)-(iii); (d)-(i)"
+   ],
+   "answer": 2,
+   "explanation": "Big push: Rosenstein-Rodan; warranted growth: Harrod; social dualism: Boeke; endogenous growth: Romer."
+  },
+  {
+   "q": "The IRR is the discount rate that equates the project NPV to _____ and benefit-cost ratio to  \n_____.  \n*[UGC NET June 2019 S1 · Q.115]*",
+   "options": [
+    "1, 0",
+    "0, 1",
+    "0, 0",
+    "1, 1"
+   ],
+   "answer": 1,
+   "explanation": "At the IRR, NPV = 0 and the benefit–cost ratio = 1."
+  },
+  {
+   "q": "Who is the author of the book 'Freedom as Development'?  \n*[UGC NET December 2019 S1 · Q.82]*",
+   "options": [
+    "Gunnar Myrdal",
+    "F.A. Von Hayek",
+    "Amartya Sen",
+    "Paul A. Samuelson"
+   ],
+   "answer": 2,
+   "explanation": "Amartya Sen, 'Development as Freedom' (1999)."
+  },
+  {
+   "q": "Who among the following economists are associated with the 'Balanced Growth' doctrine?  \n(a) W.A. Lewis  \n(b) H.W. Singer  \n(c) R. Nelson  \n(d) Ragnar Nurkse  \nChoose the correct option:  \n*[UGC NET December 2019 S1 · Q.106]*",
+   "options": [
+    "(a) and (d)",
+    "(c) and (d)",
+    "(a) and (b)",
+    "(b) and (c)"
+   ],
+   "answer": 0,
+   "explanation": "Lewis and Nurkse supported balanced growth (with Rosenstein-Rodan)."
+  },
+  {
+   "q": "Consider the following statements about the social cost-benefit analysis for viability of  \nprojects. Which of the following are true for this analysis?  \n(a) IRR should be greater than Social Discount Rate  \n(b) NPV should be equal to zero  \n(c) Shadow prices are used for calculation of benefits and costs  \nChoose the most appropriate option for those given below:  \n*[UGC NET December 2019 S1 · Q.107]*",
+   "options": [
+    "(a) and (c)",
+    "(a) and (b)",
+    "(b) and (c)",
+    "(a) only"
+   ],
+   "answer": 0,
+   "explanation": "Accept a project if IRR > social discount rate, valuing costs and benefits at shadow prices."
+  },
+  {
+   "q": "Given below are two statements, one is labelled as Assertion A and the other is labelled as  \nReason R  \nAssertion A: According to Walt W. Rostow, the Principle Strategy of Development necessary for  \ntake-off was the mobilization of domestic and foreign savings  \nReason R: Mobilization of domestic and foreign savings is necessary to generate sufficient  \ninvestment to accelerate economic growth  \nIn light of the above statements, choose the correct answer from the options given below  \n*[UGC NET June 2020 S2 · Q.112]*",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is NOT the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0,
+   "explanation": "Rostow: take-off needs investment above 10% of national income, which needs mobilised savings."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Critical Minimum Effort Theory (I) C. P. Blacker  \n(B) Neo-Classical Growth Model (II) W. W. Rostow  \n(C) Demographic Transition Theory (III) R. Solow  \n(D) Age of High Mass Consumption (IV) H. Leibenstein  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.119]*",
+   "options": [
+    "A - II, B - I, C - III, D - IV",
+    "A - III, B - IV, C - II, D - I",
+    "A - I, B - II, C - IV, D - III",
+    "A - IV, B - III, C - I, D - II"
+   ],
+   "answer": 3,
+   "explanation": "Leibenstein, Solow, Blacker (demographic stages), Rostow."
+  },
+  {
+   "q": "Given below are two statements  \nStatement I: Industrialization strategy advocates trade and development to overcome market  \nfailures through government policy  \nStatement II: It encourages technology transfer and exports of progressively more advanced  \nproducts  \nIn light of the above statements, choose the correct answer from the options given below  \n*[UGC NET June 2020 S2 · Q.126]*",
+   "options": [
+    "Both Statement I and Statement II are false",
+    "Statement I is true but Statement II is false",
+    "Statement I is false but Statement II is true",
+    "Both Statement I and Statement II are true"
+   ],
+   "answer": 3,
+   "explanation": "The industrialisation strategy uses policy to fix market failures and moves exports up the technology ladder."
+  },
+  {
+   "q": "Human Development Index (HDI) currently, as published by the UNDP is calculated by using  \nwhich of the following?  \n*[UGC NET December 2020 · Q.30]*",
+   "options": [
+    "Geometric Mean",
+    "Arithmetic Mean",
+    "Harmonic Mean",
+    "Quadratic Mean"
+   ],
+   "answer": 0,
+   "explanation": "HDI uses the geometric mean of the three dimension indices (since 2010)."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Adam Smith (I) Theory of Big Push  \n(B) R. Rodan (II) Traditional Society  \n(C) W. W. Rostow (III) Reserve army of labour  \n(D) Karl Marx (IV) Division of labour  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.73]*",
+   "options": [
+    "A - IV, B - I, C - II, D - III",
+    "A - II, B - III, C - I, D - IV",
+    "A - III, B - II, C - IV, D - I",
+    "A - I, B - IV, C - III, D - II"
+   ],
+   "answer": 0,
+   "explanation": "Smith: division of labour; Rosenstein-Rodan: big push; Rostow: traditional society; Marx: reserve army."
+  },
+  {
+   "q": "Arrange the following in chronological order in which they were introduced:  \n(A) SDGs  \n(B) MPI  \n(C) PQLI  \n(D) HDI  \nChoose the correct answer from the options given below  \n*[UGC NET December 2020 · \nQ.82]*",
+   "options": [
+    "D, C, A, B",
+    "C, D, B, A",
+    "C, B, A, D",
+    "D, C, B, A"
+   ],
+   "answer": 1,
+   "explanation": "PQLI (1979) → HDI (1990) → MPI (2010) → SDGs (2015)."
+  },
+  {
+   "q": "The hypothesis of cumulative causation as an explanation of the backwardness of developing  \nnations is associated with  \n*[UGC NET December 2021 · Q.30]*",
+   "options": [
+    "Ragnar Nurkse",
+    "Gunnar Myrdal",
+    "Arthus Lewis",
+    "Fei and Ranis"
+   ],
+   "answer": 1,
+   "explanation": "Gunnar Myrdal: circular cumulative causation."
+  },
+  {
+   "q": "Basic characteristics of an under developed economy  \n(A) A low level of technology and poor human capital  \n(B) Higher level of GDP and percapita income  \n(C) A high proportion of the labour force engaged in agriculture and low agriculture productivity  \n(D) A high proportion of domestic expenditure on food  \n(E) Higher incidence of poverty  \nChoose the most appropriate answer from the options given below :  \n*[UGC NET December 2021 · Q.45]*",
+   "options": [
+    "(A), (C), (D), (E) only",
+    "(A), (C), (B), (E) only",
+    "(B), (D), (E) only",
+    "(B) only"
+   ],
+   "answer": 0,
+   "explanation": "Under-development: low technology, farm-heavy labour force, high food share, high poverty; GDP and per-capita income are low."
+  },
+  {
+   "q": "Which of the following hold good for Lewis model of development?  \n(A) Unlimited supply of labour  \n(B) Marginal productivity of labour in the subsistence sector is equal to, or less than, subsistence  \nwage  \n(C) Dual economy with a modern sector and a subsistence sector  \n(D) Agricultural sector subject to increasing returns  \n(E) Model that explains the crucial role of capitalist surplus in the development process  \nChoose the more appropriate answer from the options given below :  \n*[UGC NET December 2021 · Q.46]*",
+   "options": [
+    "(A), (B), (C), (E) only",
+    "(A), (B), (D), (E) only",
+    "(B), (C), (D), (E) only",
+    "(A), (C), (D), (E) only"
+   ],
+   "answer": 0,
+   "explanation": "Lewis: dual economy, unlimited labour, MP of labour at or below subsistence, capitalist surplus drives growth."
+  },
+  {
+   "q": "Match List I with List II :  \nList - I List - II  \n(A) Rural-Urban migration (I) Arthur Lewis  \n(B) Economic development with unlimited (II) Gunnar myrdal  \nsupply of labour  \n(C) Process of cumulative causation (III) Raul Prebisch  \n(D) Decline in terms of trade of primary (IV) Harris-Todaro  \ncommodities  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.71]*",
+   "options": [
+    "(A)-(I), (B)-(IV), (C)-(II), (D)-(III)",
+    "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)",
+    "(A)-(I), (B)-(IV), (C)-(III), (D)-(II)",
+    "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)"
+   ],
+   "answer": 1,
+   "explanation": "Harris–Todaro, Lewis, Myrdal, Prebisch."
+  },
+  {
+   "q": "Arrange the countries based on descending order of Human Development Index Value in  \n2019.  \n(A) Norway  \n(B) Bangladesh  \n(C) India  \n(D) China  \n(E) Nepal  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.77]*",
+   "options": [
+    "(A), (D), (C), (B), (E)",
+    "(D), (A), (B), (E), (C)",
+    "(A), (D), (B), (C), (E)",
+    "(A), (D), (B), (E), (C)"
+   ],
+   "answer": 0,
+   "explanation": "HDI 2019: Norway 0.957, China 0.761, India 0.645, Bangladesh 0.632, Nepal 0.602."
+  },
+  {
+   "q": "Given below are two statements :  \nStatement I : Dualism refer to economic and social divisions in an economy, such as difference  \nin the level of technology between sectors or regions, differences in the degree of geographic  \ndevelopment and differences in social customs and attitudes.  \nStatement II : The developing countries in the early stage of development experience dualism,  \nwhich have implications for future pattern and pace of development.  \nIn the light of the above statements, choose the most correct answer from the options given  \nbelow :  \n*[UGC NET December 2021 · Q.87]*",
+   "options": [
+    "Both Statement I and Statement II are true",
+    "Both Statement I and Statement II are false",
+    "Statement I is true but Statement II is false",
+    "Statement I is false but Statement II is true"
+   ],
+   "answer": 0,
+   "explanation": "Both statements describe dualism correctly."
+  },
+  {
+   "q": "Which institution has published the Human Development Report annually since 1990?  \n*[UGC NET December 2022 S1 · Q.21]*",
+   "options": [
+    "International Monetary Fund",
+    "World Bank",
+    "Asian Development Bank",
+    "United National Development Programme"
+   ],
+   "answer": 3,
+   "explanation": "UNDP, since 1990."
+  },
+  {
+   "q": "Which Five year plan proposed to make India, \"Self-reliant and Self generating economy\"?  \n*[UGC NET December 2022 S1 · Q.22]*",
+   "options": [
+    "IInd Five year plan",
+    "IIIrd Five year plan",
+    "IVth Five year plan",
+    "Vth Five year plan"
+   ],
+   "answer": 1,
+   "explanation": "The Third Plan aimed at a self-reliant and self-generating economy."
+  },
+  {
+   "q": "\"Under-developed countries are the slums of the world economy\", is a statement given by  \n*[UGC NET December 2022 S1 · Q.31]*",
+   "options": [
+    "Keynes",
+    "G. Myrdal",
+    "Adam Smith",
+    "Cairncross"
+   ],
+   "answer": 3,
+   "explanation": "A.K. Cairncross called under-developed countries the slums of the world economy."
+  },
+  {
+   "q": "The greater the divergence between the shadow price and the market price:  \n*[UGC NET December 2022 S1 · \nQ.32]*",
+   "options": [
+    "the greater the need for social cost-benefit analysis in public investment decisions.",
+    "the lesser the need for social cost-benefit analysis in public investment decisions.",
+    "then there will be no social benefit in public investments.",
+    "then the social cost will be minimum."
+   ],
+   "answer": 0,
+   "explanation": "The bigger the gap between shadow and market prices, the more social cost–benefit analysis is needed."
+  },
+  {
+   "q": "The faster growth and more equal distribution of income can be examined simultaneously by  \n*[UGC NET December 2022 S2 · Q.31]*",
+   "options": [
+    "Gini ratio",
+    "Poverty-weighted growth rate",
+    "Kuznet curve",
+    "None of the above"
+   ],
+   "answer": 1,
+   "explanation": "Poverty-weighted growth rates combine growth and distribution."
+  },
+  {
+   "q": "Which of the followings are the indicators of Human Development Index ?  \n(A) Real GDP per capita  \n(B) Adult literacy rate combined with enrolment ratio  \n(C) Life expectancy at birth  \n(D) Malnutrition under five  \n(E) IMR under five.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · \nQ.53]*",
+   "options": [
+    "A, B and E only",
+    "B, C and D only",
+    "A, B and C only",
+    "C, D and E only"
+   ],
+   "answer": 2,
+   "explanation": "Original HDI: real GDP per capita, adult literacy with enrolment, and life expectancy."
+  },
+  {
+   "q": "Choose the correct statement for Schumpeter's theory of development.  \n(A) Development is financed by real saving.  \n(B) Capitalism keeps its character intact overtime  \n(C) Development is evolutionary  \n(D) Development creates inflation  \n(E) Unlimited Supply of labour.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.61]*",
+   "options": [
+    "A and B only",
+    "C and D only",
+    "A, B, C and D only",
+    "None of the above"
+   ],
+   "answer": 3,
+   "explanation": "Schumpeter: credit-financed, discontinuous development; capitalism eventually decays; no unlimited labour."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Karl Marx (I) Division of Labour  \n(B) Adam Smith (II) Big Push Theory  \n(C) R. Rodan (III) Traditional Society  \n(D) W.W. Rostow (IV) Reserve army.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.73]*",
+   "options": [
+    "A-III, B-II, C-I, D-IV",
+    "A-IV, B-I, C-III, D-II",
+    "A-I, B-III, C-IV, D-II",
+    "A-IV, B-I, C-II, D-III"
+   ],
+   "answer": 3,
+   "explanation": "Marx: reserve army; Smith: division of labour; Rosenstein-Rodan: big push; Rostow: traditional society."
+  },
+  {
+   "q": "The book entitled, \"Why Nations Fail: The Origin of Power, Prosperity and Poverty\" has been  \nwritten by,  \n*[UGC NET June 2023 · Q.71]*",
+   "options": [
+    "Abhijit Banerjee",
+    "Daron Acemoglu and James A. Robinson",
+    "Amartya Sen",
+    "Joseph Stiglitz"
+   ],
+   "answer": 1,
+   "explanation": "Daron Acemoglu and James A. Robinson (2012)."
+  },
+  {
+   "q": "Which is not a dimension of Human Development Index (HDI)?  \n*[UGC NET June 2023 · Q.80]*",
+   "options": [
+    "Ability to lead a long and healthy life",
+    "Ability to acquire knowledge",
+    "Ability to achieve decent standard of living",
+    "Ability to access clean environment"
+   ],
+   "answer": 3,
+   "explanation": "HDI dimensions: long and healthy life, knowledge, decent standard of living."
+  },
+  {
+   "q": "The idea of creative destruction is associated with  \n*[UGC NET June 2023 · Q.81]*",
+   "options": [
+    "Marx",
+    "Adam Smith",
+    "Ricardo",
+    "Schumpeter"
+   ],
+   "answer": 3,
+   "explanation": "Schumpeter's creative destruction."
+  },
+  {
+   "q": "Gunnar Myrdal is author of  \n(A) Asian Drama  \n(B) An American Dilemma  \n(C) Theory of Economic Development  \n(D) Principles of Political Economy  \n(E) Economic Theory and underdeveloped regions  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · Q.104]*",
+   "options": [
+    "A, B and C only",
+    "A, C and D only",
+    "A, B and D only",
+    "A, B and E only"
+   ],
+   "answer": 3,
+   "explanation": "Asian Drama, An American Dilemma, Economic Theory and Under-developed Regions."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Kuznet (I) Innovation and Entrepreneurship  \n(B) Nurkse (II) Balanced growth theory  \n(C) Leibenstein (III) Inverted U-curve hypothesis  \n(D) Schumpeter (IV) Critical minimum effort thesis  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2023 · Q.119]*",
+   "options": [
+    "A-I, B-IV, C-III, D-II",
+    "A-III, B-II, C-IV, D-I",
+    "A-IV, B-III, C-II, D-I",
+    "A-II, B-I, C-IV, D-III"
+   ],
+   "answer": 1,
+   "explanation": "Kuznets: inverted U; Nurkse: balanced growth; Leibenstein: critical minimum effort; Schumpeter: innovation."
+  },
+  {
+   "q": "Give below are two statements :  \nStatement - I : Division of labour is the starting point of Smith's theory of economic growth.  \nStatement - II : It is division of labour that results in the greatest improvement in the productive  \npower of labours.  \nIn the light of the above statements, choose the correct answer from the options given below:  \n*[UGC NET June 2023 · Q.140]*",
+   "options": [
+    "Both Statement I and Statement II are true.",
+    "Both Statement I and Statement II are false.",
+    "Statement I is true but Statement II is false.",
+    "Statement I is false but Statement II is true."
+   ],
+   "answer": 0,
+   "explanation": "Smith begins with the division of labour as the main source of productivity."
+  },
+  {
+   "q": "Which of the following dimensions is included in HPI - 2 (Human Poverty Index - 2)  \n*[UGC NET December \n2023 S1 · Q.61]*",
+   "options": [
+    "Gender Inequalities",
+    "Financial Inclusion",
+    "Social Inclusion",
+    "Economic Inclusion"
+   ],
+   "answer": 2,
+   "explanation": "HPI-2 (for rich countries) adds social exclusion (long-term unemployment)."
+  },
+  {
+   "q": "World Hunger Index (WHI) includes :  \n(A) Child mortality with weight 1/3  \n(B) Child stunting with weight 1/3  \n(C) Undernourishment with weight 1/3  \n(D) Child wasting with weight 1/6  \n(E) Child mortality with weight 1/6  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.91]*",
+   "options": [
+    "(A), (B) and (C) Only",
+    "(A), (C) and (D) Only",
+    "(B), (C) and (E) Only",
+    "(D) and (E) Only"
+   ],
+   "answer": 1,
+   "explanation": "Global Hunger Index: undernourishment 1/3, child mortality 1/3, stunting 1/6, wasting 1/6."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Demographic Transition (I) Dualism  \n(B) Stages of growth (II) Take-off  \n(C) Rural-urban migration decision (III) Replacement Rate  \n(D) Female labour force participation rate (IV) Backward bending labour supply curve  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.119]*",
+   "options": [
+    "A-I, B-II, C-III, D-IV",
+    "A-IV, B-I, C-III, D-II",
+    "A-III, B-II, C-I, D-IV",
+    "A-IV, B-I, C-II, D-III"
+   ],
+   "answer": 2,
+   "explanation": "Demographic transition: replacement rate; stages: take-off; rural–urban migration: dualism; female LFPR: backward-bending supply."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Unequal Exchange (I) A. Hirshman  \n(B) The development of underdevelopment (II) G. Myrdal  \n(C) Backward and forward linkage effect (III) A. Emmanuel  \n(D) Backwash effect (IV) G. Frank  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.122]*",
+   "options": [
+    "A-II, B-III, C-I, D-IV",
+    "A-III, B-I, C-IV, D-II",
+    "A-III, B-IV, C-I, D-II",
+    "A-II, B-IV, C-III, D-I"
+   ],
+   "answer": 2,
+   "explanation": "Emmanuel, Frank, Hirschman, Myrdal."
+  },
+  {
+   "q": "Arrange the following chronologically starting from the oldest.  \n(A) Theory of Big Push  \n(B) The accumulation of capital  \n(C) Theory of cumulative causation  \n(D) Unbalanced growth  \n(E) Development with unlimited supplies of labour  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.133]*",
+   "options": [
+    "(E), (A), (C), (B), (D)",
+    "(A), (E), (B), (C), (D)",
+    "(E), (B), (A), (D), (C)",
+    "(A), (B), (E), (C), (D)"
+   ],
+   "answer": 1,
+   "explanation": "Big push (1943) → Lewis (1954) → Robinson's Accumulation of Capital (1956) → Myrdal (1957) → Hirschman (1958)."
+  },
+  {
+   "q": "Given below are two statements :  \nStatement (I) : Human Development is a process of enlarging peoples' choices.  \nStatement (II) : Human Development Index (HDI) is based on the following indicators : Life  \nexpectancy at birth, expected years of schooling, mean years of schooling & Gross domestic  \nproduct per capita at dollar PPP.  \nIn the light of the above statements, choose the most appropriate answer from the options  \ngiven below :  \n*[UGC NET December 2023 S1 · Q.138]*",
+   "options": [
+    "Both Statement I and Statement II are correct",
+    "Both Statement I and Statement II are incorrect",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct"
+   ],
+   "answer": 2,
+   "explanation": "HDI now uses GNI (not GDP) per capita."
+  },
+  {
+   "q": "In the Human development report 2023/2024, out of total 193 countries included under the  \nHuman Development Index, in which of the following groups maximum number of countries have  \nbeen classified on the basis of their Human Development Index Values?  \n*[UGC NET August 2024 S1 · Q.51]*",
+   "options": [
+    "Very high human development",
+    "High human development",
+    "Medium human development",
+    "Low human development"
+   ],
+   "answer": 0,
+   "explanation": "HDR 2023/24: the very-high group was the largest."
+  },
+  {
+   "q": "Consider the following statements:  \n(A) Ecological footprint is a measure of human demand on entire ecosystem  \n(B) Top down approach to development focuses stress on community participation  \n(C) Millennium Development Goals (MDGs) were assumed to be achieved by year 2016  \n(D) Sustainable Development Goals (SDGs) comprises 17 goals  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.118]*",
+   "options": [
+    "(A), (D) only",
+    "(A), (B), (D) only",
+    "(A), (C), (D) only",
+    "(A), (B), (C), (D)"
+   ],
+   "answer": 0,
+   "explanation": "Ecological footprint and 17 SDGs are right; top-down excludes participation, and MDGs were due by 2015."
+  },
+  {
+   "q": "Consider the following sustainable development goals and their objectives and say which  \nones are correctly matched?  \n(A) Goal 7 : Affordable and clean energy  \n(B) Goal 10 : Climate action  \n(C) Goal 13 : Reduced inequality  \n(D) Goal 14 : Life below water  \n(E) Goal 15 : Life on land  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.119]*",
+   "options": [
+    "(B), (C), (D) only",
+    "(C), (D), (E) only",
+    "(B), (C), (E) only",
+    "(A), (D), (E) only"
+   ],
+   "answer": 3,
+   "explanation": "Goal 7 clean energy, 14 life below water, 15 life on land. Goal 10 is reduced inequalities and 13 climate action."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) PQLI (I) Amartya Sen  \n(B) HDI (II) Mehbub-Ul-Haque  \n(C) Capability Approach to Development (III) Alkire and Foster  \n(D) Multi-Dimensional Poverty Index (IV) Morris D. Morris  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.138]*",
+   "options": [
+    "(A)-(IV), (B)-(II), (C)-(I), (D)-(III)",
+    "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+    "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+    "(A)-(IV), (B)-(I), (C)-(III), (D)-(II)"
+   ],
+   "answer": 0,
+   "explanation": "Morris (PQLI), Mahbub ul Haq (HDI), Sen (capabilities), Alkire–Foster (MPI)."
+  },
+  {
+   "q": "Harris - Todaro framework discusses.  \nChoose the correct answer from the options given below.  \n*[UGC NET December 2024 · Q.53]*",
+   "options": [
+    "Pushed migration",
+    "Pulled migration",
+    "Structural Transformation",
+    "The informal economy"
+   ],
+   "answer": 1,
+   "explanation": "Harris–Todaro: migrants are pulled by expected urban income. (Answer key may vary.)"
+  },
+  {
+   "q": "Arrange the following from earlier to latest:  \n(A) The logic of Investment Planning - Sukhamoy Chakravarti  \n(B) Choice of Techniques - Amartya Sen  \n(C) Shadow Price - Jan Tinbergen  \n(D) The Tragedy of the Commons - G. Hardin  \n(E) Marginal Utility - Alfred Marshall  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.78]*",
+   "options": [
+    "A, B, C, D, E",
+    "E, C, A, B, D",
+    "B, A, D, C, E",
+    "C, B, A, E, D"
+   ],
+   "answer": 1,
+   "explanation": "Marshall (1890) → Tinbergen → Chakravarty (1959) → Sen (1960) → Hardin (1968)."
+  },
+  {
+   "q": "Big Push theory considers a process of development that essentially depends on :  \n*[UGC NET December \n2024 · Q.85]*",
+   "options": [
+    "Comprehensive planning",
+    "Free - market without any government intervention",
+    "Well - defined private property rights.",
+    "Political democracy"
+   ],
+   "answer": 0,
+   "explanation": "The big push needs comprehensive planning of complementary investments."
+  },
+  {
+   "q": "Match LIST-I with LIST-II  \nList - I List - II  \n(A) Adam Smith (I) Size of the market  \n(B) David Ricardo (II) Natural resource constraint  \n(C) Karl Marx (III) Forces of production  \n(D) Amartya Sen (IV) Freedom of choice  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.122]*",
+   "options": [
+    "A-I, B-II, C-III, D-IV",
+    "A-IV, B-I, C-III, D-II",
+    "A-IV, B-III, C-II, D-I",
+    "A-I, B-II, C-IV, D-III Passage / data for Q.146-150 (December 2024) \"Given her personal characteristics, social background economic circumstances, etc., a person has the ability to do (or be) certain things that she has reason value. The reason for valuation can be direct (the functioning involved may directly enrich her life, such as being well – nourished or being healthy) or indirect (the functioning involved may contribute to further production, or command a price in the market). The human capital perspective can – in principle – be defined very broadly to cover both types of valuation, but it is typically defined – by convention – primarily in terms of indirect value : human qualities that can be employed as \"capital\" in production in the way physical capital is. In this sense, the borrower view of human capital approach fits into the more inclusive perspective of human capability which can cover both direct & indirect consequences of human abilities. Consider an example, If education makes a person more efficient in commodity production, then this is clearly an enhancement of human capital. This can add to the value of production in the economy & also to the income of the person who has been educated. But even with the same level of income, a person may benefit from education, in reading, communicating, arguing, in being able to choose in a more informed way, in being taken more seriously by others, & so on. The benefits of education thus, exceeds its role as human capital in commodity production. The broader human – capability perspective would record – and value – these additional roles.\""
+   ],
+   "answer": 0,
+   "explanation": "Smith: market size; Ricardo: land constraint; Marx: forces of production; Sen: freedom of choice."
+  },
+  {
+   "q": "Considering the above paragraphs, mark the correct alternative : Education for an individual  \nenhances :  \n*[UGC NET December 2024 · Q.146]*",
+   "options": [
+    "Human capability but not human capital",
+    "Human capital but not human capability",
+    "Both human capability and human capital",
+    "Neither human capability, nor human capital"
+   ],
+   "answer": 2,
+   "explanation": "The passage says education raises both human capital and capability."
+  },
+  {
+   "q": "Human Capability & Human Capital are related in the following way :  \n*[UGC NET December 2024 · Q.147]*",
+   "options": [
+    "These are completely separated concepts.",
+    "Former is a much larger super-set of the latter.",
+    "Latter is a significantly larger super-set of the former.",
+    "These are almost similar concepts."
+   ],
+   "answer": 1,
+   "explanation": "Capability is the broader concept that includes human capital."
+  },
+  {
+   "q": "Considering the above paragraphs, mark the correct alternative : The concept of Human -  \ncapability relates to :  \n*[UGC NET December 2024 · Q.148]*",
+   "options": [
+    "Informed choice",
+    "Per capita income",
+    "productive efficiency",
+    "Economic Growth"
+   ],
+   "answer": 0,
+   "explanation": "Capability covers informed choice, beyond production."
+  },
+  {
+   "q": "Considering the above paragraphs, mark the correct alternative : individuals value certain  \ndoings & beings, having direct impact, such as :  \n*[UGC NET December 2024 · Q.149]*",
+   "options": [
+    "Being efficient in production",
+    "Contribution to national wealth",
+    "Enrichment of Life",
+    "Enjoying utility enhancement"
+   ],
+   "answer": 2,
+   "explanation": "Direct value: enrichment of life (being nourished, healthy)."
+  },
+  {
+   "q": "Considering the above paragraphs, mark the correct alternative : Which of the following  \nconcepts is not related to Human Capability :  \n*[UGC NET December 2024 · Q.150]*",
+   "options": [
+    "Being healthy",
+    "Being argumentative",
+    "Being socially accepted",
+    "Being authoritative"
+   ],
+   "answer": 3,
+   "explanation": "Being authoritative is not among the capabilities discussed."
+  },
+  {
+   "q": "The idea of constructing poverty-weighted indices of growth is.  \n*[UGC NET June 2025 S2 · Q.86]*",
+   "options": [
+    "To give at least equal weight to all income groups in society.",
+    "To achieve high growth rate.",
+    "To facilitate foreign trade on equal basis.",
+    "To assign more value or weight on income group of richest population and no weight on lower-income group."
+   ],
+   "answer": 0,
+   "explanation": "Poverty-weighted indices give at least equal weight to every group (more to the poor)."
+  },
+  {
+   "q": "Arrange the following publications in chronological order starting from the oldest to the  \nlatest.  \n(A) \"Theory of Economic Growth\" by Arthur Lewis  \n(B) \"A Contribution to the Theory of Economic Growth\" by Robert Solow  \n(C) \"The Stages of Economic Growth: A Non Communist Manifesto\" by Walt Rostow  \n(D) \"Asian Drama: An Inquiry into the Poverty of Nations\" by Gunnar Myrdal  \n(E) \"Strategy of Economic Development\" by Albert Hirschman  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.99]*",
+   "options": [
+    "A, E, B, C, D",
+    "E, B, C, D, A",
+    "C, D, B, E, A",
+    "A, B, E, C, D"
+   ],
+   "answer": 3,
+   "explanation": "Lewis (1955) → Solow (1956) → Hirschman (1958) → Rostow (1960) → Myrdal (1968)."
+  },
+  {
+   "q": "According to Rostow, any industry can play the role of leading sector in the take-off stage  \nprovided following conditions are met.  \n(A) The market for the product is expanding rapidly  \n(B) The leading sector generates secondary expansion  \n(C) The sector has an adequate and continual supply of capital from ploughed-back profits.  \n(D) Introduction of new techniques into the sector to increase productivity  \n(E) Changes in industrial structure should be structural ones  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.121]*",
+   "options": [
+    "B, C, D & E Only",
+    "A, D & E Only",
+    "A, C & D Only",
+    "A, B, C & D Only"
+   ],
+   "answer": 3,
+   "explanation": "Rostow's leading sector: expanding market, secondary expansion, ploughed-back profits and new techniques."
+  },
+  {
+   "q": "The Human Development Index (HDI) is used to rank countries based on:  \n*[UGC NET December 2025 · Q.60]*",
+   "options": [
+    "Life expectancy at Birth, Adult Illiteracy Rate and the percentage of population without access to safe water.",
+    "Real Per Capita Income, Percentage of Underweight children under 5 years and percentage of population not expected to survive to the age of 40.",
+    "Life Expectancy at Birth, Educational attainment and Real per capita Income at purchasing Power Parity.",
+    "Income Inequality and percentage of population living in urban areas."
+   ],
+   "answer": 2,
+   "explanation": "HDI: life expectancy, education and income per capita at PPP."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Harrod and Domor (I) Constancy of the capital output ratio  \n(B) Lucas and Romer (II) Dual economy with a capitalist and  \nnon-capitalist sector  \n(C) Arthur Lewis (III) Investment as a double edged sword  \n(D) Michael Todaro (IV) Rural-Urban migration  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.81]*",
+   "options": [
+    "A-IV, B-III, C-I, D-II",
+    "A-III, B-I, C-II, D-IV",
+    "A-I, B-II, C-III, D-IV",
+    "A-II, B-IV, C-III, D-I"
+   ],
+   "answer": 1,
+   "explanation": "Harrod–Domar: investment's dual role; endogenous growth listed with constant capital–output ratio (by elimination); Lewis: dual economy; Todaro: migration."
+  },
+  {
+   "q": "The origin of \"Big-Push\" theory of development is based on:  \n*[UGC NET December 2025 · Q.93]*",
+   "options": [
+    "Unbalanced Economic Growth",
+    "Low Level Equilibrium Trap and Critical Minimum Effort",
+    "Kaldor's Growth Laws",
+    "Harrod's Knife-edged Instability"
+   ],
+   "answer": 1,
+   "explanation": "The big push rests on the idea of a minimum effort needed to escape the low-level trap."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Amartya Sen (I) Rise and fall of inequality with economic  \ngrowth  \n(B) Simon Kuznets (II) Circulative and cumulative causation of  \neconomic underdevelopment  \n(C) Gunar Myrdal (III) Geographic pattern of economic  \ndevelopment  \n(D) Paul Krugman (IV) Entitlements, capabilities and freedom  \nof choice  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.101]*",
+   "options": [
+    "A-II, B-IV, C-I, D-III",
+    "A-III, B-II, C-IV, D-I",
+    "A-I, B-II, C-III, D-IV",
+    "A-IV, B-I, C-II, D-III"
+   ],
+   "answer": 3,
+   "explanation": "Sen: entitlements and capabilities; Kuznets: inequality over growth; Myrdal: cumulative causation; Krugman: economic geography."
+  }
+ ]
+}

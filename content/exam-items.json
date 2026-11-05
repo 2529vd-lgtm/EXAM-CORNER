@@ -19,6 +19,60 @@
       "date": "2026-11-06"
     },
     {
+      "id": "ape-pyqsolved-macro",
+      "exam": "asst-prof-economics",
+      "subject": "macro",
+      "type": "pyq",
+      "title": "Macro Economics: UGC NET PYQs 2018–2025, solved (139 Qs)",
+      "summary": "All 142 questions from the PDF with answers and explanations.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pyqsolved-macro-test",
+      "exam": "asst-prof-economics",
+      "subject": "macro",
+      "type": "mock",
+      "title": "Macro Economics: solved PYQ test (139 Qs)",
+      "summary": "Real UGC NET questions, timed, with explanations after submitting.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pyqsolved-devplan",
+      "exam": "asst-prof-economics",
+      "subject": "growth",
+      "type": "pyq",
+      "title": "Development & Planning: UGC NET PYQs 2018–2025, solved (65 Qs)",
+      "summary": "All 66 questions from the PDF with answers and explanations.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pyqsolved-devplan-test",
+      "exam": "asst-prof-economics",
+      "subject": "growth",
+      "type": "mock",
+      "title": "Development & Planning: solved PYQ test (65 Qs)",
+      "summary": "Real UGC NET questions, timed, with explanations after submitting.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pyqsolved-growth",
+      "exam": "asst-prof-economics",
+      "subject": "growth",
+      "type": "pyq",
+      "title": "Growth Economics: UGC NET PYQs 2018–2025, solved (99 Qs)",
+      "summary": "All 101 questions from the PDF with answers and explanations.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pyqsolved-growth-test",
+      "exam": "asst-prof-economics",
+      "subject": "growth",
+      "type": "mock",
+      "title": "Growth Economics: solved PYQ test (99 Qs)",
+      "summary": "Real UGC NET questions, timed, with explanations after submitting.",
+      "date": "2026-11-06"
+    },
+    {
       "id": "ape-pdf-day01-unit1-handwritten-notes",
       "exam": "asst-prof-economics",
       "subject": "micro",
