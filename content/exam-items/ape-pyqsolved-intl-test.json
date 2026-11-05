@@ -1,0 +1,1568 @@
+{
+ "duration": 170,
+ "negative": 0,
+ "questions": [
+  {
+   "q": "Global Competitiveness Report is released by which of the following organisations?  \n*[UGC NET December \n2018 · Q.104]*",
+   "options": [
+    "World Trade Organisation",
+    "World Economic Forum",
+    "European Union",
+    "World Bank"
+   ],
+   "answer": 1,
+   "explanation": "World Economic Forum."
+  },
+  {
+   "q": "Balance of payments on capital account does not include  \n*[UGC NET December 2018 · Q.106]*",
+   "options": [
+    "Balancing foreign direct investment",
+    "Foreign portfolio investment",
+    "Net income transfers",
+    "Government loans to foreign governments"
+   ],
+   "answer": 2,
+   "explanation": "Income transfers are current-account items."
+  },
+  {
+   "q": "If (K/L)_A > (K/L)_B, then  \n*[UGC NET December 2018 · Q.108]*",
+   "options": [
+    "Country A is labour abundant",
+    "Country A is having cheap labour",
+    "Country A is capital abundant",
+    "Capital is dear in country A"
+   ],
+   "answer": 2,
+   "explanation": "Higher K/L means capital-abundant (physical definition)."
+  },
+  {
+   "q": "Opportunity cost theory assumes that  \n*[UGC NET December 2018 · Q.109]*",
+   "options": [
+    "Labour is the only factor of production.",
+    "Labour is homogeneous.",
+    "Cost of commodity is equal to labour cost only.",
+    "None of the above"
+   ],
+   "answer": 3,
+   "explanation": "Haberler's opportunity cost theory drops the labour theory of value."
+  },
+  {
+   "q": "Historically the terms of trade of the developing countries have been unfavourable due to the  \nfact that when income in developed countries rises, the demand for primary goods declines  \nbecause  \n*[UGC NET December 2018 · Q.110]*",
+   "options": [
+    "Income elasticity of demand for primary goods is low.",
+    "Income elasticity of demand for primary goods is zero.",
+    "Income elasticity of demand for primary goods is high.",
+    "Price elasticity of demand for primary goods is high."
+   ],
+   "answer": 0,
+   "explanation": "Low income elasticity of demand for primary goods (Engel's law)."
+  },
+  {
+   "q": "Consider the following statements in the context of the New Trade Theory:  \n(i) It explains why countries trade in similar goods.  \n(ii) It assumes free trade.  \n(iii) It assumes that trade takes place in monopolistic conditions.  \n(iv) It exploits the economies of scale in production.  \nWhich of the above statements are correct?  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.111]*",
+   "options": [
+    "(i), (iii) and (iv)",
+    "(ii) and (iv)",
+    "(i) and (iii)",
+    "(i) and (ii)"
+   ],
+   "answer": 0,
+   "explanation": "New trade theory: intra-industry trade, monopolistic competition, scale economies."
+  },
+  {
+   "q": "Intellectual Property Rights include  \n*[UGC NET December 2018 · Q.112]*",
+   "options": [
+    "Patents",
+    "Copyrights",
+    "Trademark",
+    "All of the above"
+   ],
+   "answer": 3,
+   "explanation": "Patents, copyrights and trademarks are all IPRs."
+  },
+  {
+   "q": "Which of the following is the appropriate measure of openness of the economy?  \n*[UGC NET December 2018 · \nQ.113]*",
+   "options": [
+    "Exports/Imports",
+    "Exports − Imports",
+    "(Exports + Imports)/GDP",
+    "(Exports − Imports)/Population"
+   ],
+   "answer": 2,
+   "explanation": "Openness = (X + M)/GDP."
+  },
+  {
+   "q": "A foreign exchange risk involves the transaction exposure, the accounting exposure and  \n*[UGC NET June \n2019 S1 · Q.75]*",
+   "options": [
+    "the translation exposure",
+    "the flexibility exposure",
+    "the rigidity exposure",
+    "the economic exposure"
+   ],
+   "answer": 3,
+   "explanation": "Transaction, accounting (translation) and economic exposure."
+  },
+  {
+   "q": "Three pillars of the Asia-Pacific Economic Cooperation (APEC) are  \n(a) trade and investment liberalization  \n(b) business facilitation  \n(c) economic and technical cooperation  \n(d) military cooperation  \nChoose the correct option :  \n*[UGC NET June 2019 S1 · Q.76]*",
+   "options": [
+    "(a), (b), (d)",
+    "(a), (b), (c)",
+    "(a), (c), (d)",
+    "(b), (c), (d)"
+   ],
+   "answer": 1,
+   "explanation": "APEC pillars: liberalisation, facilitation, economic–technical cooperation."
+  },
+  {
+   "q": "The excess supply of a commodity above the no-trade equilibrium price gives one nation's  \n*[UGC NET June 2019 S1 · Q.77]*",
+   "options": [
+    "import demand for the commodity",
+    "export supply and import demand for the commodity",
+    "export supply of the commodity",
+    "import supply of the commodity"
+   ],
+   "answer": 2,
+   "explanation": "Excess supply above autarky price = export supply."
+  },
+  {
+   "q": "Which one of the following items is included in the Capital Account of the balance of  \npayments of a country?  \n*[UGC NET June 2019 S1 · Q.78]*",
+   "options": [
+    "Investment income",
+    "Invisibles",
+    "Commercial borrowings",
+    "Private transfer"
+   ],
+   "answer": 2,
+   "explanation": "Commercial borrowings are capital-account items."
+  },
+  {
+   "q": "In the Balance of Payments Account, the transfer payments are included in which one of the  \nfollowing?  \n*[UGC NET June 2019 S1 · Q.79]*",
+   "options": [
+    "Capital Account",
+    "Service Account",
+    "Current Account",
+    "Official Reserves Account"
+   ],
+   "answer": 2,
+   "explanation": "Transfers are in the current account."
+  },
+  {
+   "q": "According to Marshall-Lerner condition for the foreign exchange market to be stable, the sum  \nof the elasticities of demand for imports and the demand for exports should be  \n*[UGC NET June 2019 S1 · Q.82]*",
+   "options": [
+    "less than 1",
+    "equal to zero",
+    "equal to 1",
+    "more than 1"
+   ],
+   "answer": 3,
+   "explanation": "Sum of import and export demand elasticities > 1."
+  },
+  {
+   "q": "The commodity or Net Barter Terms of trade are represented by the formula  \n*[UGC NET June 2019 S1 · Q.83]*",
+   "options": [
+    "(quantity of exports / quantity of imports) × 100",
+    "(price × quantity of exports / price × quantity of imports) × 100",
+    "(volume of exports / volume of imports) × 100",
+    "(price index of exports / price index of imports) × 100"
+   ],
+   "answer": 3,
+   "explanation": "Price index of exports / price index of imports × 100."
+  },
+  {
+   "q": "'Immiserizing growth' is the term given by  \n*[UGC NET June 2019 S1 · Q.84]*",
+   "options": [
+    "Amartya Sen",
+    "N. Kaldor",
+    "Paul Krugman",
+    "Jagdish Bhagwati"
+   ],
+   "answer": 3,
+   "explanation": "Jagdish Bhagwati (1958)."
+  },
+  {
+   "q": "Under TRIPS protection for copyrights is for  \n*[UGC NET June 2019 S1 · Q.126]*",
+   "options": [
+    "20 years after death of the author",
+    "30 years after death of the author",
+    "40 years after death of the author",
+    "50 years after death of the author"
+   ],
+   "answer": 3,
+   "explanation": "TRIPS: life of the author + 50 years."
+  },
+  {
+   "q": "If in a given situation, Px = 170, Pm = 190 and Zx = 152, then which of the following will be  \nthe value of Single Factoral Terms of Trade (Ts):  \n*[UGC NET December 2019 S1 · Q.67]*",
+   "options": [
+    "136",
+    "148",
+    "84",
+    "116"
+   ],
+   "answer": 0,
+   "explanation": "Ts = (170/190) × 152 = 136."
+  },
+  {
+   "q": "Which trade policy results in the government levying both a specific tariff and an advalorem  \ntariff on imported goods?  \n*[UGC NET December 2019 S1 · Q.68]*",
+   "options": [
+    "Effective tariff",
+    "Revenue tariff",
+    "Compound tariff",
+    "Nominal tariff"
+   ],
+   "answer": 2,
+   "explanation": "Compound tariff."
+  },
+  {
+   "q": "Heckscher-Ohlin trade model maintains that:  \n*[UGC NET December 2019 S1 · Q.69]*",
+   "options": [
+    "Comparative advantage determines the distribution of the gains from trade",
+    "A country exports goods for which its resource endowments are most suited",
+    "Absolute Advantage Theory determines the distribution of the gains from trade",
+    "The division of labour is limited by the size of the world market"
+   ],
+   "answer": 1,
+   "explanation": "Countries export goods suited to their factor endowments."
+  },
+  {
+   "q": "A tax of Rs. 20 per unit of imported cheese would be an example of a/an:  \n*[UGC NET December 2019 S1 · \nQ.70]*",
+   "options": [
+    "Compound tariff",
+    "Specific tariff",
+    "Effective tariff",
+    "Advalorem tariff"
+   ],
+   "answer": 1,
+   "explanation": "Specific tariff."
+  },
+  {
+   "q": "For oil importing countries, the increase in oil prices in 1970's and mid 2000 contributed to  \nwhich of the following:  \n(a) Improving terms of trade  \n(b) Balance of trade deficits  \n(c) Price inflation  \n(d) Constrained economic growth  \nChoose the correct answer from the codes given below:  \n*[UGC NET December 2019 S1 · Q.99]*",
+   "options": [
+    "(a), (b) and (c) only",
+    "(b), (c) and (d) only",
+    "(c), (d) and (a) only",
+    "(a) and (d) only"
+   ],
+   "answer": 1,
+   "explanation": "Oil shocks worsened terms of trade, trade balances, inflation and growth for importers."
+  },
+  {
+   "q": "Which one of the following institutions is related with the Green/Blue Box Subsidies?  \n(a) United Nations  \n(b) World Bank  \n(c) World Tourism Organization  \n(d) World Trade Organization  \nChoose the correct option from those given below:  \n*[UGC NET December \n2019 S1 · Q.109]*",
+   "options": [
+    "(a) and (d)",
+    "(b) and (d)",
+    "Only (d)",
+    "Only (b)"
+   ],
+   "answer": 2,
+   "explanation": "Green/blue box subsidies are WTO concepts."
+  },
+  {
+   "q": "Match the following:  \nList - I List - II  \n(a) Forward Exchange (i) A device of covering exchange risk  \nagainst the price rise of foreign currency  \n(b) Hedging (ii) A contract to buy and sell foreign  \nexchange against another currency at some  \nfixed rate in the future at a price agreed  \nupon now  \n(c) Arbitrage (iii) The movement of exchange rate  \nbetween two limits set by the cost of moving  \ngold from one country to another  \n(d) Specie point (iv) A mechanism which makes two markets  \nthat are physically separate, a single market  \nin the economic sense.  \nChoose the correct option from those given below:  \n*[UGC NET December 2019 S1 · Q.115]*",
+   "options": [
+    "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+    "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+    "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+    "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+   ],
+   "answer": 0,
+   "explanation": "Forward contract, hedging, arbitrage, specie points."
+  },
+  {
+   "q": "Arrange the following theories of international trade in chronological order as they appear:  \n(a) Theory of Opportunity Cost  \n(b) Theory of Comparative Cost  \n(c) Factor Price Equalisation Theorem  \n(d) Theory of absolute cost  \nIdentify the correct chronological order.  \n*[UGC NET December 2019 S1 · Q.125]*",
+   "options": [
+    "(d), (b), (a), (c)",
+    "(c), (b), (d), (a)",
+    "(b), (d), (a), (c)",
+    "(a), (c), (d), (b)"
+   ],
+   "answer": 0,
+   "explanation": "Absolute (1776) → comparative (1817) → opportunity cost (1936) → FPE (1948)."
+  },
+  {
+   "q": "Given below are two statements — one is labelled as Assertion (A) and the other is labelled  \nas Reason (R):  \nAssertion (A): Intellectual Property Rights were brought into the Uruguay Round Trade  \nNegotiations  \nReason (R): International trade restrictions can be used to discourage the violation of  \nintellectual property rights.  \nIn the light of the above two statements choose the correct option:  \n*[UGC NET December 2019 S1 · Q.135]*",
+   "options": [
+    "Both (A) and (R) are true and (R) is correct explanation of (A)",
+    "Both (A) and (R) are true and (R) is not correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "explanation": "TRIPS entered the Uruguay Round because trade sanctions can enforce IPR."
+  },
+  {
+   "q": "In the study of International Economics, we use the tools of  \n*[UGC NET June 2020 S2 · Q.93]*",
+   "options": [
+    "Microeconomic theory only",
+    "Macroeconomic theory only",
+    "Neither micro nor macro economic theory",
+    "Both micro and macro economic theory but we all extend, adapt and integrate them"
+   ],
+   "answer": 3,
+   "explanation": "International economics extends and integrates both micro and macro tools."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Absolute Advantage Theory of International (I) Heckscher-Ohlin  \nTrade  \n(B) Factor Proportion Theory of Trade (II) Marshall  \n(C) Offer Curves (III) Adam Smith  \n(D) Opportunity Costs (IV) Haberler  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.94]*",
+   "options": [
+    "A - I, B - III, C - II, D - IV",
+    "A - III, B - I, C - II, D - IV",
+    "A - I, B - III, C - IV, D - II",
+    "A - III, B - I, C - IV, D - II"
+   ],
+   "answer": 1,
+   "explanation": "Smith, Heckscher–Ohlin, Marshall, Haberler."
+  },
+  {
+   "q": "Transportation cost of trade effects:  \n(A) Pattern of trade  \n(B) Boundaries between tradable and non-tradable goods  \n(C) Global supply chains  \n(D) Boundaries of non-tradable goods  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.95]*",
+   "options": [
+    "A and B only",
+    "A, B and C only",
+    "A, B, C and D only",
+    "D only"
+   ],
+   "answer": 2,
+   "explanation": "Transport costs shape trade patterns, tradability and supply chains."
+  },
+  {
+   "q": "Given below are two statements, one is labelled as Assertion A and the other is labelled as  \nReason R  \nAssertion A: Marshall-Learner condition should be fulfilled for the success of devaluation  \nReason R: Devaluation makes exports costly and Imports cheaper  \nIn light of the above statements, choose the most appropriate answer from the options given  \nbelow  \n*[UGC NET June 2020 S2 · Q.96]*",
+   "options": [
+    "Both A and R are correct and R is the correct explanation of A",
+    "Both A and R are correct but R is NOT the correct explanation of A",
+    "A is correct but R is not correct",
+    "A is not correct but R is correct"
+   ],
+   "answer": 2,
+   "explanation": "Devaluation makes exports cheaper and imports dearer."
+  },
+  {
+   "q": "Forward exchange rates are useful for those who wish to  \n(A) Protect themselves from the risk that the exchange rate will change before a transaction is  \ncompleted  \n(B) Gamble that a currency will rise in value  \n(C) Gamble that a currency will fall in value  \n(D) Exchange currencies at a point in time in the future  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.97]*",
+   "options": [
+    "A, B and C only",
+    "A and B only",
+    "A and C only",
+    "A, B, C and D only"
+   ],
+   "answer": 3,
+   "explanation": "Forward rates serve hedging, speculation either way, and future exchange."
+  },
+  {
+   "q": "Overshooting model of exchange rate developed by economist Rudi Dornbush, attempts to  \nestablish  \n*[UGC NET June 2020 S2 · Q.98]*",
+   "options": [
+    "The fact why the foreign exchange market is never in equilibrium",
+    "Relationship between sticky prices and volatile exchange rates",
+    "The fact that forward rates of exchange are not good predictors of future spot rates of exchange",
+    "No relationship between sticky prices and volatile exchange rates"
+   ],
+   "answer": 1,
+   "explanation": "Sticky prices make exchange rates overshoot."
+  },
+  {
+   "q": "Changes in terms of trade typically put less developed countries at a disadvantage, because  \n*[UGC NET June 2020 S2 · Q.99]*",
+   "options": [
+    "They specialize and trade in agricultural goods rather than manufactured goods",
+    "They have higher labour costs",
+    "They specialize and trade in services like tourism",
+    "Industrialized countries practice unfair trade with less developed countries"
+   ],
+   "answer": 0,
+   "explanation": "They export primary goods whose relative prices fall."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Rybezynski Theorem (I) The effect of tariffs on factor prices  \n(B) Metzler effect (II) The effect of factor growth on production  \nand trade  \n(C) Stolper-Samuelson Theorem (III) The effect of tariffs on domestic prices  \n(D) Immiserising growth theory (IV) The effect of growth on terms of trade  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.100]*",
+   "options": [
+    "A - II, B - III, C - I, D - IV",
+    "A - IV, B - III, C - I, D - II",
+    "A - IV, B - I, C - III, D - II",
+    "A - II, B - I, C - III, D - IV"
+   ],
+   "answer": 0,
+   "explanation": "Rybczynski: factor growth; Metzler: tariff and domestic price; Stolper–Samuelson: tariff and factor prices; immiserising growth: terms of trade."
+  },
+  {
+   "q": "Given below are two statements  \nStatement I: The Rybczynski theorem postulates that at constant commodity prices, an increase  \nin the endowment of one factor will increase by a greater proportion the output of the  \ncommodity, intensive in that factor and will reduce the output of the other commodity  \nStatement II: The Stolper-Samuelson theorem postulates that an increase in the relative price of  \na commodity (for example as a result of a tariff) decreases the return or earnings of the factor  \nused intensively in the production of the commodity  \nIn light of the above statements, choose the correct answer from the options given below  \n*[UGC NET June 2020 S2 · Q.101]*",
+   "options": [
+    "Both Statement I and Statement II are true",
+    "Both Statement I and Statement II are false",
+    "Statement I is correct but Statement II is false",
+    "Statement I is correct but Statement II is true"
+   ],
+   "answer": 2,
+   "explanation": "Stolper–Samuelson: the intensive factor's return rises."
+  },
+  {
+   "q": "Which one of the following is NOT the objective of IMF?  \n*[UGC NET June 2020 S2 · Q.102]*",
+   "options": [
+    "To promote international monetary cooperation",
+    "To ensure balanced international trade",
+    "To ensure exchange rate stability",
+    "To provide loans to the private sector"
+   ],
+   "answer": 3,
+   "explanation": "IMF lends to governments, not private firms."
+  },
+  {
+   "q": "The Net Barter terms of trade refer to:  \n*[UGC NET December 2020 · Q.19]*",
+   "options": [
+    "The excess of import expenditures over export earnings",
+    "Trade agreements",
+    "The ratio between export prices and import prices",
+    "The terms and conditions on which a country is offered a loan in the event of balance of payments difficulties"
+   ],
+   "answer": 2,
+   "explanation": "Ratio of export prices to import prices."
+  },
+  {
+   "q": "The items on the capital account of Balance of Payments are:  \n*[UGC NET December 2020 · Q.20]*",
+   "options": [
+    "Flow variables",
+    "Stock variables",
+    "Changes in stock magnitudes",
+    "Both Stock and Flow variables"
+   ],
+   "answer": 2,
+   "explanation": "Capital account items are changes in stocks of assets and liabilities."
+  },
+  {
+   "q": "A sudden shift from import tariffs to free trade may induce short-term unemployment in:  \n*[UGC NET December 2020 · Q.21]*",
+   "options": [
+    "Import competing industries",
+    "Industries that are only exporters",
+    "Industries that sell domestically as well as export",
+    "Industries that neither import or export"
+   ],
+   "answer": 0,
+   "explanation": "Import-competing industries lose jobs first."
+  },
+  {
+   "q": "The optimum tariff means:  \n*[UGC NET December 2020 · Q.22]*",
+   "options": [
+    "Must occur in the elastic range of the tariff imposing home country's offer curve",
+    "Takes account of the probability that the partner country will retaliate with protective measures of its own",
+    "Maximises total export sales of the imposing country",
+    "Must occur in the elastic range of the partner country's offer curve"
+   ],
+   "answer": 3,
+   "explanation": "The optimum tariff lies on the elastic part of the partner's offer curve."
+  },
+  {
+   "q": "When the exchange rate changes from 1$ = Rs. 72 to 1$ = Rs. 68, then the:  \n(A) Rupee has depreciated  \n(B) Dollar has depreciated  \n(C) Rupee has appreciated  \n(D) Dollar has appreciated  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · \nQ.47]*",
+   "options": [
+    "A and D only",
+    "B and C only",
+    "C and D only",
+    "A and B only"
+   ],
+   "answer": 1,
+   "explanation": "Fewer rupees per dollar: rupee appreciates, dollar depreciates."
+  },
+  {
+   "q": "Improvement in the balance of payments deficit may be effected through:  \n(A) Import controls  \n(B) Export promotion  \n(C) Foreign exchange control  \n(D) Devaluation  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.60]*",
+   "options": [
+    "A, B, C and D",
+    "A and B only",
+    "C and D only",
+    "A, B and C only"
+   ],
+   "answer": 0,
+   "explanation": "Import controls, export promotion, exchange control and devaluation all help."
+  },
+  {
+   "q": "Which of the following are relevant conditions assumed by the Factor Price Equalization  \ntheorem?  \n(A) The countries are characterized by different factor endowments  \n(B) The countries are characterized by different production functions  \n(C) The industries are characterized by different factor intensities  \n(D) Each country will export the commodity which uses its abundant factor  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.61]*",
+   "options": [
+    "A, B and C only",
+    "A, C and D only",
+    "A, B and D only",
+    "B, C and D only"
+   ],
+   "answer": 1,
+   "explanation": "FPE assumes identical technology, different endowments and factor intensities."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Supply side of International Trade (I) David Ricardo  \n(B) Demand side of International Trade (II) Bastable and Alfred Marshall  \n(C) Opportunity cost of International Trade (III) G. Haberler  \n(D) Real cost theory of International Trade (IV) Alfred Marshall and Edgeworth  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.70]*",
+   "options": [
+    "A - I, B - IV, C - II, D - III",
+    "A - IV, B - I, C - II, D - III",
+    "A - I, B - IV, C - III, D - II",
+    "A - IV, B - I, C - III, D - II"
+   ],
+   "answer": 2,
+   "explanation": "Ricardo; Marshall–Edgeworth; Haberler; Bastable–Marshall (real cost)."
+  },
+  {
+   "q": "What is the CORRECT sequence of the following?  \n(A) Uruguay Round  \n(B) Kennedy Round  \n(C) Doha Round  \n(D) Geneva Round  \nChoose the correct answer from the options given below  \n*[UGC NET December 2020 · Q.79]*",
+   "options": [
+    "D, B, A, C",
+    "B, D, C, A",
+    "A, B, C, D",
+    "C, A, B, D Passage / data for Q.96-100 (December 2020) One argument of protection that stands up to close economic scrutiny is the infant-industry argument. It holds that a nation may have a potential comparative advantage in a commodity, but because of lack of knowledge and the initial small level of output, the industry cannot successfully compete with more established foreign firms. The infant-industry argument for protection is correct but requires several important qualifications. First, such an argument is more justified for developing nations, where capital markets may not function properly. Second, as experience has shown that protection, once given, is difficult to remove. Third, what trade protection in the form of import tariff can do an equivalent production subsidy to the infant industry can do better. The reason is that a purely domestic distortion such as this should be overcome with a purely domestic policy such as direct production subsidy to the infant industry. A production subsidy is also a more direct form of aid and it is easier to remove than an import tariff. A better policy would be to provide a direct subsidy to the industry. Similarly, a direct tax would also be better than a tariff to discourage activities that give rise to external diseconomies because the tax does not distort relative prices and consumption."
+   ],
+   "answer": 0,
+   "explanation": "Geneva (1947) → Kennedy (1964) → Uruguay (1986) → Doha (2001)."
+  },
+  {
+   "q": "Which is the most appropriate instrument of trade protection?  \n*[UGC NET December 2020 · Q.96]*",
+   "options": [
+    "Import tariff",
+    "Export tariff",
+    "Non-tariff barriers",
+    "Production subsidy"
+   ],
+   "answer": 3,
+   "explanation": "A production subsidy is the best instrument (passage)."
+  },
+  {
+   "q": "Developing countries are characterised by:  \n*[UGC NET December 2020 · Q.97]*",
+   "options": [
+    "Absence of both money markets and capital markets",
+    "Improper functioning of the capital markets",
+    "Improper functioning of money markets",
+    "Absence of capital markets"
+   ],
+   "answer": 1,
+   "explanation": "Capital markets work imperfectly in developing countries."
+  },
+  {
+   "q": "The obstacles for an industry to compete with more established foreign firms are due to:  \n*[UGC NET December 2020 · Q.98]*",
+   "options": [
+    "Lack of know-how and initial small level of output",
+    "Lack of flexibility",
+    "Lack of markets",
+    "Lack of human resources"
+   ],
+   "answer": 0,
+   "explanation": "Lack of know-how and small initial output."
+  },
+  {
+   "q": "Which of the following is effective in preventing external diseconomies  \n*[UGC NET December 2020 · Q.99]*",
+   "options": [
+    "Trade policies",
+    "Production subsidies",
+    "A direct tax",
+    "Tariff"
+   ],
+   "answer": 2,
+   "explanation": "A direct tax corrects external diseconomies."
+  },
+  {
+   "q": "Which of the following is a direct aid to domestic industry?  \n*[UGC NET December 2020 · Q.100]*",
+   "options": [
+    "Import controls",
+    "Import quota",
+    "Production subsidy",
+    "Patent rights"
+   ],
+   "answer": 2,
+   "explanation": "A production subsidy is direct aid."
+  },
+  {
+   "q": "The \"tequila effect\" indicates :  \n*[UGC NET December 2021 · Q.19]*",
+   "options": [
+    "The spread of the 1994-95 Mexican crisis to other countries in Latin America",
+    "The spread of the 1997 crisis in Thailand to other countries in Asia",
+    "The suprime crisis emerged in 2007 in the United State",
+    "The domestic debt crisis occurred in Argentina in 1989"
+   ],
+   "answer": 0,
+   "explanation": "Spread of the 1994–95 Mexican crisis."
+  },
+  {
+   "q": "In which stage of the product cycle model, the imitating country starts producing the product  \nfor domestic consumption?  \n*[UGC NET December 2021 · Q.20]*",
+   "options": [
+    "Stage - III",
+    "Stage - II",
+    "Stage - I",
+    "Stage - V"
+   ],
+   "answer": 0,
+   "explanation": "Stage III: the imitator starts producing for its home market."
+  },
+  {
+   "q": "What does the result of the first empirical test of the Heckscher-Ohlin model by Wassily  \nLeontief find?  \n*[UGC NET December 2021 · Q.21]*",
+   "options": [
+    "U.S. exports were less capital-intensive than U.S. imports",
+    "U.S. exports were more capital-intensive than U.S. imports",
+    "U.S. exports were more human capital-intensive than U.S. imports",
+    "All the above"
+   ],
+   "answer": 0,
+   "explanation": "US exports were less capital-intensive than US import substitutes (Leontief paradox)."
+  },
+  {
+   "q": "Which of the following is correct?  \n(A) The gross barter terms of trade uses quantity index for imports and exports  \n(B) Both gross barter terms of trade and net barter terms of trade make use of the price index  \nfor imports and exports  \n(C) The net barter terms of trade uses price index for imports and export  \n(D) Both gross barter terms of trade and net barter terms of trade make use of the quantity  \nindex for imports and exports  \n(E) The gross barter terms of trade uses price index but the net barter terms of trade uses  \nquantity index for imports and exports  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.47]*",
+   "options": [
+    "(A) and (B) only",
+    "(B) and (C) only",
+    "(C) and (E) only",
+    "(A) and (C) only"
+   ],
+   "answer": 3,
+   "explanation": "Gross barter uses quantities; net barter uses prices."
+  },
+  {
+   "q": "Which of the following are correct?  \n(A) Current account includes merchandise export  \n(B) Current account donot include merchandise export  \n(C) Current account includes invisible export  \n(D) Current account do not includes invisible export  \n(E) Current account includes both merchandise exports and imports and invisible exports and  \nimports  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.48]*",
+   "options": [
+    "(A), (B) and (C) only",
+    "(A), (C) and (E) only",
+    "(A), (D) and (E) only",
+    "(C), (D) and (E) only"
+   ],
+   "answer": 1,
+   "explanation": "The current account includes merchandise and invisible trade."
+  },
+  {
+   "q": "Match List I with List II :  \nList - I List - II  \n(A) Size matters in international trade (I) Paul Krugman  \n(B) Economies of scale and monopolistic (II) Mercantilists  \ncompetition in international trade  \n(C) Technological gap theory of trade (III) M.V. Posner  \n(D) Zero sum game of trade (IV) The gravity model  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.70]*",
+   "options": [
+    "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)",
+    "(A)-(IV), (B)-(I), (C)-(III), (D)-(II)",
+    "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)",
+    "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
+   ],
+   "answer": 1,
+   "explanation": "Gravity model, Krugman, Posner, mercantilists."
+  },
+  {
+   "q": "Arrange the following events in sequence (the oldest one being first)  \n(A) The Tokyo Round  \n(B) The Uruguay Round  \n(C) The Annecy Round  \n(D) The Dillon Round  \n(E) The Torquay Round  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.79]*",
+   "options": [
+    "(C), (E), (D), (B), (A)",
+    "(E), (C), (A), (D), (B)",
+    "(C), (E), (D), (A), (B)",
+    "(E), (C), (D), (A), (B)"
+   ],
+   "answer": 2,
+   "explanation": "Annecy (1949) → Torquay (1950) → Dillon (1960) → Tokyo (1973) → Uruguay (1986)."
+  },
+  {
+   "q": "Given below are two statements :  \nStatement I : Devaluation always correct a chronic balance of payments deficit.  \nStatement II : An expected devaluation leads speculative capital outflows from domestic  \ncountry.  \nIn the light of the above statements, choose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.89]*",
+   "options": [
+    "Both Statement I and Statement II are true",
+    "Both Statement I and Statement II are false",
+    "Statement I is true but Statement II is false",
+    "Statement I is false but Statement II is true Passage / data for Q.91-95 (December 2021) Read the given passage and answer the questions: Although globalisation is often accused of increasing world poverty, the fact is that poverty would probably be even more widespread without globalisation. What is true is that globalisation did not benefit all nations. What globalisation can be blamed for is not spreading the benefits of increased efficiency and openness that come with globalisation more evenly and equitably to all nations. The stock of Foreign Direct investments around the World states that in 2010, the inward stock of FDI of developing countries was 48 percent that of developed countries, while their stock of outward FDI was about 17 percent that of developed countries. The New International Economies of Scale (NIES) states that – more and more products manufactured by international corporations have parts and components made in many different nations. The reason is to minimise production costs. Foreign \"sourcing\" of inputs is often not a matter of choice to earn higher profit, but simply a requirement to remain competitive. The carry Trade is the strategy in which an investor borrows a low yielding currency and lends (invest in) a higher yielding currency. The risk is that if during the investment period, the higher yielding currency depreciates against the lower yielding currency by a higher percentage than the positive interest differentials, the investor will lose money."
+   ],
+   "answer": 3,
+   "explanation": "Devaluation doesn't always work; expected devaluation drives capital out."
+  },
+  {
+   "q": "Which of the following is true?  \n*[UGC NET December 2021 · Q.91]*",
+   "options": [
+    "Because of globalisation poverty has increased in all the countries of the world",
+    "Because of globalisation poverty has reduced in all the countries of the world",
+    "Without globalisation world poverty would probably be even more widespread",
+    "Without globalisation world poverty would probably be even less widespread"
+   ],
+   "answer": 2,
+   "explanation": "Poverty would probably be more widespread without globalisation."
+  },
+  {
+   "q": "What for globalisation has been blamed?  \n*[UGC NET December 2021 · Q.92]*",
+   "options": [
+    "Globalisation has neither increased efficiency nor openness",
+    "Globalisation has increased both efficiency & openness",
+    "Globalisation has increased efficiency but not openness",
+    "Globalisation has not spreaded the benefits of increased efficiency and openness equitably to all nations"
+   ],
+   "answer": 3,
+   "explanation": "It did not spread its benefits evenly."
+  },
+  {
+   "q": "Which of the following reflects the most correct sense of the New International Economies of  \nScale (NIES)  \n*[UGC NET December 2021 · Q.93]*",
+   "options": [
+    "All the parts and components of a product is manufactured in the host country only",
+    "When all the parts and components of the product manufactured in the host country, it minimize production costs in each of the producing country",
+    "Cheaper inputs from different countries are required to remain competitive",
+    "The NIES is more concern about profit rather than to remain competitive"
+   ],
+   "answer": 2,
+   "explanation": "Sourcing cheaper inputs abroad is needed to stay competitive."
+  },
+  {
+   "q": "During the investment period, if the higher yielding currency depreciates against the lower  \nyielding currency by a higher percentage than the positive interest differential then which of the  \nfollowing will occur?  \n*[UGC NET December 2021 · Q.94]*",
+   "options": [
+    "The investor will lose money",
+    "The investor will earn profit",
+    "The profit of the investor will remain unaffected",
+    "None of the above"
+   ],
+   "answer": 0,
+   "explanation": "The investor loses money."
+  },
+  {
+   "q": "Which of the following is incorrect?  \n*[UGC NET December 2021 · Q.95]*",
+   "options": [
+    "The inward stock of FDI to developing countries is less than that of developed countries",
+    "The outward stock of FDI from developing countries is less than that of developed countries",
+    "Both the inward stock of FDI to developing countries and outward stock of FDI from developing countries remained higher in developing countries than developed countries",
+    "Both the inward stock of FDI to developing countries and outward stock of FDI from developing countries remained lower in developing countries than developed countries"
+   ],
+   "answer": 2,
+   "explanation": "Both stocks are lower in developing countries, so option 3 is incorrect."
+  },
+  {
+   "q": "The birth of World Trade Organisation emerged from which round?  \n*[UGC NET December 2022 S1 · Q.23]*",
+   "options": [
+    "Geneva",
+    "HongKong",
+    "Uruguay",
+    "Tokyo"
+   ],
+   "answer": 2,
+   "explanation": "Uruguay Round."
+  },
+  {
+   "q": "What does the case of 'Immiserising growth' state?  \n*[UGC NET December 2022 S1 · Q.37]*",
+   "options": [
+    "Growth in richer nations would actually be self defeating",
+    "Growth in poorer nations would actually be self defeating",
+    "Growth in poorer nations would actually be self promoting",
+    "Growth in richer nations would actually be self promoting"
+   ],
+   "answer": 1,
+   "explanation": "Growth in poor nations could be self-defeating."
+  },
+  {
+   "q": "In which stage of the product cycle model, the imitating country starts under selling the  \ninnovating country in third markets?  \n*[UGC NET December 2022 S1 · Q.38]*",
+   "options": [
+    "Stage - V",
+    "Stage - II",
+    "Stage - III",
+    "Stage - IV"
+   ],
+   "answer": 3,
+   "explanation": "Stage IV: the imitator undersells the innovator in third markets."
+  },
+  {
+   "q": "If the nominal tariff rate (t) on consumers of the final commodity is 10 percent; the ratio of  \nthe cost of the imported input to the price of the final commodity in the absence of tariffs ai = 0.8;  \nand the nominal tariff rate on the imported input ti = 20%, then find the rate of effective  \nprotection.  \n*[UGC NET December 2022 S1 · Q.39]*",
+   "options": [
+    "10%",
+    "8%",
+    "3%",
+    "-30%"
+   ],
+   "answer": 3,
+   "explanation": "g = (0.1 − 0.8×0.2)/0.2 = −30%."
+  },
+  {
+   "q": "The level of intra-industry index (T) can be measured as:  \n*[UGC NET December 2022 S1 · Q.40]*",
+   "options": [
+    "T = 1 − |X − M| / (X + M)",
+    "T = 1 + |X − M| / (X + M)",
+    "T = 1 − (X − M) / |X + M|",
+    "T = 1 − |X − M| / |X + M|"
+   ],
+   "answer": 0,
+   "explanation": "Grubel–Lloyd: T = 1 − |X − M|/(X + M)."
+  },
+  {
+   "q": "The consequences of a country having a persistent current account surplus include  \n(A) Employment generation  \n(B) Higher standard of living  \n(C) Low inflation pressure  \n(D) Currency appreciates in value  \n(E) More pressure on public debt  \nChoose the correct answer from the options given below:  \n*[UGC NET December \n2022 S1 · Q.44]*",
+   "options": [
+    "A, B, C and D only",
+    "A, B and D only",
+    "A and E only",
+    "A, D and E only"
+   ],
+   "answer": 1,
+   "explanation": "Surplus supports jobs and living standards, and the currency appreciates."
+  },
+  {
+   "q": "Which of the following forms the credit side of the Balance of Payments?  \n(A) Unilateral transfer received  \n(B) Capital transfer received  \n(C) Income Payments (Import of factor services)  \n(D) Exports of factor services  \n(E) Merchandise imports  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.65]*",
+   "options": [
+    "A, B and E only",
+    "B, C and D only",
+    "A, C and D only",
+    "A, B and D only"
+   ],
+   "answer": 3,
+   "explanation": "Transfers received, capital transfers received, factor service exports."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) GATS, Mode - 1 (I) Cross-border trade  \n(B) GATS, Mode - 2 (II) Commercial presence  \n(C) GATS, Mode - 3 (III) Temporary movement of natural persons  \n(D) GATS, Mode - 4 (IV) Consumption abroad  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.70]*",
+   "options": [
+    "A - I, B - IV, C - III, D - II",
+    "A - I, B - IV, C - II, D - III",
+    "A - I, B - II, C - IV, D - III",
+    "A - I, B - II, C - III, D - IV"
+   ],
+   "answer": 1,
+   "explanation": "Mode 1 cross-border, Mode 2 consumption abroad, Mode 3 commercial presence, Mode 4 natural persons."
+  },
+  {
+   "q": "Arrange the following in descending order on the basis of the year of WTO Ministerial  \nConferences held.  \n(A) Cancun, Mexico Conference.  \n(B) Nairobi, Kenya Conference.  \n(C) Bali, Indonesia Conference.  \n(D) Buenos Aires, Argentina Conference.  \n(E) Seattle, United States Conference.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.78]*",
+   "options": [
+    "A, C, D, B, E",
+    "D, B, C, A, E",
+    "B, C, A, E, D",
+    "E, A, C, B, D"
+   ],
+   "answer": 1,
+   "explanation": "Buenos Aires (2017) → Nairobi (2015) → Bali (2013) → Cancún (2003) → Seattle (1999)."
+  },
+  {
+   "q": "Arrange the trading groups as per their year of establishment starting from the oldest  \n(A) European Free Trade Association  \n(B) North American Free Trade Agreement  \n(C) Asia Pacific Economic Cooperation  \n(D) Andean Community  \n(E) Association of South-East Asian Nations  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.85]*",
+   "options": [
+    "A, E, D, B, C",
+    "A, D, E, B, C",
+    "A, E, D, C, B",
+    "B, C, D, E, A"
+   ],
+   "answer": 2,
+   "explanation": "EFTA (1960) → ASEAN (1967) → Andean (1969) → APEC (1989) → NAFTA (1994)."
+  },
+  {
+   "q": "According to the specific factors model, which of the following is correct?  \n*[UGC NET December 2022 S2 · \nQ.37]*",
+   "options": [
+    "Trade benefits the factor specific to the export sector of each country but hurts the factor specific to the import-competing sectors with ambiguous effects on mobile factors",
+    "Trade hurts the factor specific to the export sector of each country and also hurts the factor specific to the import-competing sectors, with ambiguous effects on mobile factors",
+    "Trade benefits the factor specific to the import sector of each country but hurts the factor specific to the export-competing sectors, with ambiguous effects on mobile factors",
+    "Trade benefits the factor specific to the export sector as well as import-competing sector of each country, with ambiguous effects on mobile factors."
+   ],
+   "answer": 0,
+   "explanation": "Specific factors: export-sector factor gains, import-competing factor loses, mobile factor ambiguous."
+  },
+  {
+   "q": "What does 'immiserising growth' argued?  \n*[UGC NET December 2022 S2 · Q.38]*",
+   "options": [
+    "Export-biased growth by poor nations would worsen their terms of trade so much that they would be worse off than if they had not grown at all",
+    "Export-biased growth by rich nations would worsen their terms of trade so much that they would be worse off than if they had not grown at all",
+    "Import-biased growth by poor nations would worsen their terms of trade so much that they would be worse off than if they had not grown at all",
+    "Import-biased growth by Rich nations would worsen their terms of trade so much that they would be worsen off than if had not grown at all."
+   ],
+   "answer": 0,
+   "explanation": "Export-biased growth by poor nations can worsen their terms of trade enough to leave them worse off."
+  },
+  {
+   "q": "Which of the following postulates the Gravity Model correctly ?  \n*[UGC NET December 2022 S2 · Q.39]*",
+   "options": [
+    "The smaller and the closer the two countries are, the smaller the volume of trade between them is expected to be",
+    "The larger and the closer the two countries are, the larger the volume of trade between them is expected to be.",
+    "The larger and the closer the two countries are, the smaller the volume of trade between them is expected to be",
+    "The smaller and farther the two countries are, the larger the volume of trade between them is expected to be."
+   ],
+   "answer": 1,
+   "explanation": "Bigger and closer economies trade more."
+  },
+  {
+   "q": "If the nominal tariff rate (t) on consumers of the final commodity is 10 per cent, the ratio of  \nthe cost of the imported input to the price of the final commodity in the absence of tariffs (ai) is =  \n0.8, and the nominal tariff rate on the imported input (ti) = 0, then find the rate of effective  \nprotection.  \n*[UGC NET December 2022 S2 · Q.40]*",
+   "options": [
+    "5%",
+    "8%",
+    "50%",
+    "10%"
+   ],
+   "answer": 2,
+   "explanation": "g = 0.1/(1 − 0.8) = 50%."
+  },
+  {
+   "q": "Which of the following are part of non-tariff barriers ?  \n(A) Import quotas  \n(B) Voluntary export restraint  \n(C) Export subsidy  \n(D) Compound tariff  \n(E) Ad Valorem tariff.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.64]*",
+   "options": [
+    "A, B and D only",
+    "A, B and E only",
+    "A, B and C only",
+    "B, C and D only"
+   ],
+   "answer": 2,
+   "explanation": "Quotas, VERs and export subsidies are non-tariff barriers."
+  },
+  {
+   "q": "Marshall-Lerner condition states that:  \n(A) Devaluation will improve the country's balance of payments if the sum of price elasticities of  \ndemand for exports and imports in absolute terms is greater than one.  \n(B) Devaluation will increase the balance of payments deficit if the sum of the price elasticities  \nof demand for exports and imports is less than one.  \n(C) Devaluation will have no effect on the balance of payment situation if the sum of the price  \nelasticises of demand for exports and imports is equal to one  \n(D) In no case, devaluation can improve the balance of payment disequilibrium if either the  \nprice elasticities of demand for export or that of import is zero.  \n(E) Marshall-Lerner condition has no relation with BOP situation.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.65]*",
+   "options": [
+    "A, B and E only",
+    "B, C and D only",
+    "C, D and A only",
+    "A, B and C only"
+   ],
+   "answer": 3,
+   "explanation": "A, B, C state the Marshall–Lerner condition."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Metzler Paradox (I) Violation of Stolper-Samuelson theorem  \n(B) Beachhead Effect (II) Exporters may be reluctant to increase  \nprices by the full amount of the dollar  \ndepreciation  \n(C) Dutch disease (III) Loss of relative competitiveness in its  \ntraditional industrial sector  \n(D) J Curve (IV) Nation's trade balance may actually  \nworsen soon after devaluation or  \ndepreciation.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.70]*",
+   "options": [
+    "A-II, B-III, C-IV, D-I",
+    "A-III, B-IV, C-II, D-I",
+    "A-I, B-II, C-III, D-IV",
+    "A-IV, B-III, C-II, D-I"
+   ],
+   "answer": 2,
+   "explanation": "Metzler paradox, beachhead effect, Dutch disease, J-curve."
+  },
+  {
+   "q": "Arrange the following organizations as per their years of establishment starting from the  \noldest.  \n(A) WTO  \n(B) ADB  \n(C) UNCTAD  \n(D) World Bank  \n(E) WIPO.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.85]*",
+   "options": [
+    "D, C, B, E, A",
+    "D, B, C, E, A",
+    "D, B, C, A, E",
+    "D, B, A, C, E"
+   ],
+   "answer": 0,
+   "explanation": "World Bank (1944) → UNCTAD (1964) → ADB (1966) → WIPO (1967) → WTO (1995)."
+  },
+  {
+   "q": "Given below are two statements :  \nStatement I : Countries always want to have foreign markets open for their exporters. But if a  \ncountry limits access to its own market, foreign countries may take action to limit access to  \ntheir own market.  \nStatement II : Trade agreement can help lower barrier to international commerce, but countries  \nstill have to believe that other countries are \"playing fair\".  \nIn the light of the above statements, choose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.89]*",
+   "options": [
+    "Both Statement I and Statement II are true",
+    "Both Statement I and Statement II are false",
+    "Statement I is true but Statement II is false",
+    "Statement I is false but Statement II is true Passage / data for Q.96-100 (December 2022 S2) Read the following passage and answer the questions. India's Presidency of the Group Twenty (G-20) is a matter of great pride for all Indians. The G-20 is an intergovernmental forum consisting of 19 countries such as Argentina, Australia, Brazil, Canada, China, France, Germany, India, Indonesia, Italy, Japan, Republic of Korea, Mexico, Russia, Saudi Arabia, South Africa, Turkey, United Kingdom and United States and the European Union. The G-20 was founded in 1999 after the Asian financial crises as a forum for international economic cooperation. The size of G-20 indicates its relevance in the global economy. The G-20 members represent around 85% of the global GDP, over 75% of the global trade and 67% of world population. The G-20 summit is held annually under the leadership of a rotating presidency. India assumed the G-20 presidency from Indonesia on December 1, 2022 and will convene the G-20 leaders' summit for the first time in the country in 2023. The theme of India's G-20 presidency is \"Vasudhaiva Kutumbakam\", that is, \"One Earth, One family and One future\" closely ties with LIFE (Lifestyle for Environment). The G-20 presidency steers the G-20 agenda for one year and hosts the summit. The G-20 consists of two parallel tracks : the Finance track and the Sherpa track. Finance ministers and Central Bank Governors lead the finance track, while Sherpas lead the Sherpa track. India's G-20 priorities are Green Development, Climate finance and life; Accelerated inclusive and resilient growth; Accelerating progress on SDGs; Technological transformation and Digital public infrastructure; Multilateral institutions for the 21st century; and Women Led development. India kickstarted its presidency term agenda with a series of initiatives and meetings. As a part of this, India will host over 200 meetings in over 50 cities across 32 different work streams before conducting the annual G-20 summit in Delhi in September 2023. The 43 Heads of Delegations, the largest ever in G-20 will be participating in the final summit. Conducting of this summit definitely increases India's standing in the global order. It is a great opportunity to showcase India's cultural heritage, culture and achievements to global leaders and India's commitment for global sustainable development."
+   ],
+   "answer": 0,
+   "explanation": "Both describe the logic of reciprocal trade agreements."
+  },
+  {
+   "q": "For which purpose G-20 was originally founded ?  \n*[UGC NET December 2022 S2 · Q.96]*",
+   "options": [
+    "to discuss international peace and counter-terrorism issues",
+    "to discuss global economic and financial issues",
+    "to discuss climate change and environmental issues",
+    "to discuss resolving the war between Russia and Ukraine"
+   ],
+   "answer": 1,
+   "explanation": "G-20 was founded to discuss global economic and financial issues."
+  },
+  {
+   "q": "Which one of the followings is not India's G-20 priorities?  \n*[UGC NET December 2022 S2 · Q.97]*",
+   "options": [
+    "Multilateral Institutions for 21st century",
+    "Women-led development",
+    "Development and sustained border",
+    "Technological transformation and digital public infrastructure."
+   ],
+   "answer": 2,
+   "explanation": "'Development and sustained border' is not a priority."
+  },
+  {
+   "q": "The size of G-20 in terms of world population, global GDP and global trade respectively is:  \n*[UGC NET December 2022 S2 · Q.98]*",
+   "options": [
+    "85%, 75% and 85%",
+    "67%, 75% and 85%",
+    "85%, 67% and 75%",
+    "67%, 85% and 75%"
+   ],
+   "answer": 3,
+   "explanation": "Population 67%, GDP 85%, trade 75%."
+  },
+  {
+   "q": "The theme of India's G-20 presidency is tied closely with −  \n*[UGC NET December 2022 S2 · Q.99]*",
+   "options": [
+    "Vasudhaiva Kutumbakam",
+    "One earth, one family and one future",
+    "Technology, Infrastructure and SDG",
+    "Life style for environment"
+   ],
+   "answer": 3,
+   "explanation": "The theme ties closely with LiFE (Lifestyle for Environment)."
+  },
+  {
+   "q": "The tracks in G-20 are :  \n*[UGC NET December 2022 S2 · Q.100]*",
+   "options": [
+    "Finance track and Sherpa track",
+    "Sherpa track and Economics track",
+    "Climate track and Sherpa track",
+    "Sherpa track and SDGs track"
+   ],
+   "answer": 0,
+   "explanation": "Finance track and Sherpa track."
+  },
+  {
+   "q": "A tariff ridden offer curve will bend towards,  \n*[UGC NET June 2023 · Q.68]*",
+   "options": [
+    "Import good axis",
+    "Export good axis",
+    "Origin",
+    "Any of the above is possible"
+   ],
+   "answer": 0,
+   "explanation": "A tariff rotates the nation's offer curve towards the axis of its import good (Salvatore)."
+  },
+  {
+   "q": "Factor price equalization theorem is given by,  \n*[UGC NET June 2023 · Q.69]*",
+   "options": [
+    "David Ricardo",
+    "J. S. Mill",
+    "Paul Samuelson",
+    "Adam Smith"
+   ],
+   "answer": 2,
+   "explanation": "Paul Samuelson."
+  },
+  {
+   "q": "In which of the following year IMF has set up the Extended Fund Facility (EFF) to support  \nmember's structural reforms to address balance of payment difficulties of a long term character.  \n*[UGC NET June 2023 · Q.70]*",
+   "options": [
+    "1974",
+    "1997",
+    "1963",
+    "2009"
+   ],
+   "answer": 0,
+   "explanation": "Extended Fund Facility, 1974."
+  },
+  {
+   "q": "A foreign exchange swap is  \n*[UGC NET June 2023 · Q.72]*",
+   "options": [
+    "a spot purchase of a currency combined with a forward repurchase of that currency.",
+    "a spot sale of a currency combined with a forward repurchase of that currency.",
+    "sale and purchase of a currency in forward market.",
+    "purchase of a currency in spot market."
+   ],
+   "answer": 1,
+   "explanation": "Spot sale plus forward repurchase (Salvatore)."
+  },
+  {
+   "q": "The Uruguay Round of trade negotiations called for  \n(A) the reduction of average tariffs on industrial goods  \n(B) quotas to be replaced by tariffs  \n(C) the reduction in agriculture export subsidies  \n(D) the reduction in industrial subsidies  \n(E) antidumping and safeguards to be relaxed  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · Q.98]*",
+   "options": [
+    "A, B, C, D only",
+    "B, C, D, E only",
+    "C, D, E, A only",
+    "D, E, A, B only"
+   ],
+   "answer": 0,
+   "explanation": "Tariff cuts, tariffication of quotas, cuts in farm export and industrial subsidies."
+  },
+  {
+   "q": "Which of the following statements are correct about trilemma in monetary policy  \n(A) It is related to closed economy model.  \n(B) It involves exchange rate, capital mobility and monetary policy.  \n(C) It arises because perfect capital mobility aligns the domestic interest rate to the world  \ninterest rate.  \n(D) Flexible exchange rate is not compatible with independent monetary policy.  \n(E) It is related to capital immobility and flexible exchange rate.  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · \nQ.100]*",
+   "options": [
+    "B and C only",
+    "C and D only",
+    "A and D only",
+    "B and E only"
+   ],
+   "answer": 0,
+   "explanation": "The trilemma involves exchange rate, capital mobility and monetary independence; capital mobility ties domestic to world rates."
+  },
+  {
+   "q": "Here is given international organisations and their headquarters. Which of the following are  \ncorrect combinations of the institutions and their headquarters.  \n(A) GATT : Geneva  \n(B) IMF : Washington DC  \n(C) World Bank : Washington DC  \n(D) International Development Association (IDA) : New York  \n(E) Asian Development Bank : Mandaluyong  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · Q.114]*",
+   "options": [
+    "A, B and C only",
+    "A and B only",
+    "C and D only",
+    "A, B, C and E only"
+   ],
+   "answer": 3,
+   "explanation": "GATT Geneva, IMF and World Bank Washington, ADB Mandaluyong; IDA is in Washington."
+  },
+  {
+   "q": "Arrange the following in ascending order on the basis of degree of economic integration.  \n(A) Custom Union  \n(B) Free Trade Area  \n(C) Economic Union  \n(D) Common Market  \n(E) Preferential Trade Arrangements  \nChoose the correct answer from the option given below :  \n*[UGC NET June \n2023 · Q.127]*",
+   "options": [
+    "A, B, C, D, E",
+    "B, C, D, A, E",
+    "E, A, B, C, D",
+    "E, B, A, D, C"
+   ],
+   "answer": 3,
+   "explanation": "PTA < FTA < customs union < common market < economic union."
+  },
+  {
+   "q": "Give below are two statements : One is labelled as Assertion A and the other is labelled as  \nReason R :  \nAssertion A : If governments do not care about protectionists' rents, they would replace all  \nimport duties with sales taxes.  \nReason R : Sales tax is more efficient means of raising revenue than import tariff.  \nIn the light of the above statements, choose the correct answer from the options given below :  \n*[UGC NET June 2023 · Q.136]*",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A.",
+    "Both A and R are true but R is NOT the correct explanation of A.",
+    "A is true but R is false.",
+    "A is false but R is true."
+   ],
+   "answer": 0,
+   "explanation": "Sales taxes raise revenue without protection's distortions."
+  },
+  {
+   "q": "Give below are two statements :  \nStatement - I : The terms of trade of a nation are defined as the ratio of the cost of its export  \ncommodity to the price of its import commodity.  \nStatement - II : The terms of trade of the trade partner are equal to the inverse of the terms of  \ntrade of the other nation.  \nIn the light of the above statements, choose the correct answer from the options given below:  \n*[UGC NET June 2023 · Q.139]*",
+   "options": [
+    "Both Statement I and Statement II are true.",
+    "Both Statement I and Statement II are false.",
+    "Statement I is true but Statement II is false.",
+    "Statement I is false but Statement II is true."
+   ],
+   "answer": 0,
+   "explanation": "Terms of trade are export price / import price; the partner's is the inverse."
+  },
+  {
+   "q": "Suppose India is the home country and USA is the foreign country. The interest rates in  \nIndia and USA are 6% and 4% respectively. The exchange rate of US Dollar is Rs. 80 today but is  \nexpected to rise to Rs. 84 in one year. Which of the following is true, according to the uncovered  \ninterest arbitrage parity condition ?  \n*[UGC NET December 2023 S1 · Q.58]*",
+   "options": [
+    "Capital will flow into the Indian economy",
+    "Capital will flow out of the Indian economy",
+    "No capital flows",
+    "Can't say on the basis of the information provided"
+   ],
+   "answer": 1,
+   "explanation": "Expected rupee depreciation (5%) exceeds the 2% interest gap, so capital flows out."
+  },
+  {
+   "q": "Under the flexible exchange rate, if the current account deficit increases and the capital  \naccount surplus increases for an economy, the exchange rate (domestic currency per US dollar)  \nwould :  \n*[UGC NET December 2023 S1 · Q.88]*",
+   "options": [
+    "Appreciate",
+    "Depreciate",
+    "Depends on which one is higher",
+    "Not depend on the BoP situation"
+   ],
+   "answer": 2,
+   "explanation": "The net effect depends on which change is larger."
+  },
+  {
+   "q": "Consider the following statements about the Current Account of the balance of payments  \nand indicate which statements are true ?  \n(A) Current Account deficit equals excess of imports over sum of exports and net transfers  \nreceived by a country.  \n(B) Current Account deficit may be covered by borrowing from foreigners.  \n(C) Current Account deficit may be covered by buying assets from foreigners.  \n(D) If India's Current Account deficit in a particular period is $ 50 million, it can be financed by  \nnet capital inflows amounting to $ 50 million.  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.98]*",
+   "options": [
+    "(A), (B), (C), (D)",
+    "(A), (B), (D) Only",
+    "(A), (C), (D) Only",
+    "(B), (C), (D) Only"
+   ],
+   "answer": 1,
+   "explanation": "A CAD is financed by borrowing or selling assets to foreigners (not buying)."
+  },
+  {
+   "q": "Suppose India is home country and USA is foreign country. Interest rate in India is 3%, that  \nin US is 1%. The Re-$ exchange rate is Rs. 80 per USD in spot market and Rs. 81 per USD in 3  \nmonth forward market. Which of the following are true for the resulting covered interest arbitrage  \nflows ?  \n(A) Indian Rupee will depreciate in spot market  \n(B) Indian Rupee will depreciate in forward market  \n(C) Interest rate will decline in India  \n(D) Interest rate will decline in US  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.99]*",
+   "options": [
+    "(A) and (B) Only",
+    "(A) and (C) Only",
+    "(A) and (D) Only",
+    "(A), (B), (C) and (D)"
+   ],
+   "answer": 2,
+   "explanation": "US return 1% + 5% forward premium > 3%: funds leave India, rupee depreciates spot, US rates fall."
+  },
+  {
+   "q": "The current account deficit of the BOP may be financed in many ways. Which of the  \nfollowing are correct ?  \n(A) FDI inflows  \n(B) Inflow of foreign portfolio investment  \n(C) Borrowing from IMF or World Bank  \n(D) Drawing down foreign exchange reserves  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.100]*",
+   "options": [
+    "(A), (B), (C) Only",
+    "(B), (C), (D) Only",
+    "(A), (B), (C), (D)",
+    "(A), (C), (D) Only"
+   ],
+   "answer": 2,
+   "explanation": "FDI, FPI, official borrowing and reserve drawdowns all finance a CAD."
+  },
+  {
+   "q": "Consider the following statements about the Specific Factors model of International Trade  \nand say which ones are correct ?  \n(A) Factors specific to the export sectors in each country gain from trade  \n(B) Factors specific to the import-competing sectors in each country lose from trade  \n(C) Mobile factors that can work in either sector may gain from trade  \n(D) Mobile factors that can work in either sector may lose from trade  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.101]*",
+   "options": [
+    "(A), (C), (D) Only",
+    "(B), (C), (D) Only",
+    "(A), (B), (C) Only",
+    "(A), (B), (C), (D)"
+   ],
+   "answer": 3,
+   "explanation": "Specific factors: exporters gain, import-competers lose, mobile factors ambiguous."
+  },
+  {
+   "q": "The Central Bank of a country maintains a fixed exchange rate, which is defined as the  \nnumber of units of domestic currency per unit of foreign currency. Currently the domestic currency  \nis overvalued against the foreign currency. In this context, indicate the kind of intervention  \nrequired by the Central Bank to maintain the parity, by putting the following statemenets in correct  \norder.  \n(A) The demand for foreign currency exceeds its supply  \n(B) The exchange rate is lower than the market clearing exchange rate  \n(C) The gap between supply and demand for foreign currency is equalized  \n(D) The Central Bank's stock of foreign currency is depleted  \n(E) The Central Bank sells foreign currency from its stock of reserves  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.135]*",
+   "options": [
+    "(B), (E), (A), (D), (C)",
+    "(B), (A), (E), (D), (C)",
+    "(B), (E), (A), (C), (D)",
+    "(B), (A), (E), (C), (D)"
+   ],
+   "answer": 3,
+   "explanation": "Rate below market → excess demand → CB sells reserves → gap closed → reserves deplete."
+  },
+  {
+   "q": "When imports are restricted with quota rather than a tariff, the cost is sometimes magnified  \nby a process known as  \n*[UGC NET August 2024 S1 · Q.64]*",
+   "options": [
+    "Rent seeking",
+    "quota seeking",
+    "Tax Seeking",
+    "None of the above"
+   ],
+   "answer": 0,
+   "explanation": "Rent seeking for quota licences."
+  },
+  {
+   "q": "Among the following which is/are attempt of economic integration among developing  \ncountries?  \n*[UGC NET August 2024 S1 · Q.68]*",
+   "options": [
+    "The central American common market",
+    "The caribbean free trade association",
+    "The Latin American free trade association",
+    "All of the above"
+   ],
+   "answer": 3,
+   "explanation": "All three are integration schemes among developing countries."
+  },
+  {
+   "q": "Arrange the following theories in correct chronological order, starting from earliest to latest:  \n(A) Absorption approach  \n(B) Factor Price Equalisation theory  \n(C) Reciprocal Dumping Model  \n(D) Leontief Paradox  \n(E) Immiserizing Growth Theory  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.98]*",
+   "options": [
+    "(B), (D), (A), (E), (C)",
+    "(D), (A), (B), (C), (E)",
+    "(E), (D), (B), (A), (C)",
+    "(D), (A), (C), (E), (B)"
+   ],
+   "answer": 0,
+   "explanation": "FPE (1948) → Leontief (1953) → absorption (1952–53) → immiserising growth (1958) → reciprocal dumping (1983)."
+  },
+  {
+   "q": "India is a member of which of the following institutions of the world bank group?  \n(A) International Centre for Settlement and Investment Dispute  \n(B) International Development Association  \n(C) International Finance Corporation  \n(D) Multilateral Investment Guarantee Agency  \n(E) International Bank for Reconstruction and Development  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 \nS1 · Q.109]*",
+   "options": [
+    "(A), (B), (C) only",
+    "(B), (C), (D) only",
+    "(B), (C), (D), (E) only",
+    "(A), (B), (D), (E) only"
+   ],
+   "answer": 2,
+   "explanation": "India is in IBRD, IDA, IFC and MIGA, but not ICSID."
+  },
+  {
+   "q": "The secular deterioration of terms of trade for low developed countries has been explained  \nby:  \n(A) J.S. Mill  \n(B) H.W. Singer  \n(C) Adam Smith  \n(D) Raul Prebisch  \n(E) Jagdish Bhagwati  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.112]*",
+   "options": [
+    "(B), (D), (E) only",
+    "(A), (B), (D) only",
+    "(A), (D), (E) only",
+    "(C), (D), (E) only"
+   ],
+   "answer": 0,
+   "explanation": "Prebisch and Singer; Bhagwati (immiserising growth) is listed with them in the key."
+  },
+  {
+   "q": "As per the Gravity Model of world trade, which of the following components of the two  \ncountries determine the volume of trade between them:  \n(A) Gross Domestic Product  \n(B) Distance  \n(C) Foreign exchange rate  \n(D) Foreign trade intensity  \n(E) Foreign investment  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.113]*",
+   "options": [
+    "(A) and (B) only",
+    "(B) and (C) only",
+    "(A) and (C) only",
+    "(A) and (E) only"
+   ],
+   "answer": 0,
+   "explanation": "GDP and distance."
+  },
+  {
+   "q": "Which of the following is/are possible reason(s) for surplus in balance of payment?  \n(A) Decline in imports  \n(B) Decline in interest rate  \n(C) Increase in export  \n(D) Increase in income tax  \n(E) High outward foreign direct investment  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET August \n2024 S1 · Q.120]*",
+   "options": [
+    "(A), (C), (E) only",
+    "(A), (B), (C), (E) only",
+    "(B), (C), (E), (D) only",
+    "(A), (C) only"
+   ],
+   "answer": 3,
+   "explanation": "Lower imports and higher exports."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Ad Valorem Tariff (I) Fixed sum per unit  \n(B) Autarky (II) Combination of Ad Valorem and specific  \ntariff  \n(C) Compound Tariff (III) No trade with other countries  \n(D) Specific Tariff (IV) A percentage of the value of the traded  \ncommodity  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.130]*",
+   "options": [
+    "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+    "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+    "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)",
+    "(A)-(III), (B)-(II), (C)-(I), (D)-(IV)"
+   ],
+   "answer": 1,
+   "explanation": "Ad valorem: percentage; autarky: no trade; compound: both; specific: per unit."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Arbitrage (I) refers to when an invester accepts and  \nseeks Foreign exchange risk  \n(B) Hedging (II) refers to a time when foreign exchange  \nshifts, causing the spot rate to vary  \nfrequently  \n(C) Speculation (III) refers to purchase of currency in  \nmonetary center where it is cheaper  \n(D) Foreign exchange risk (IV) refers to avoidance of foreign exchange  \nrisk  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.133]*",
+   "options": [
+    "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+    "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)",
+    "(A)-(I), (B)-(III), (C)-(IV), (D)-(II)",
+    "(A)-(I), (B)-(IV), (C)-(III), (D)-(II)"
+   ],
+   "answer": 0,
+   "explanation": "Arbitrage: buy where cheap; hedging: avoid risk; speculation: seek risk; FX risk: changing spot rates."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Labour capital ratio (I) The price of a commodity determined by  \nexclusively from its labour content  \n(B) Labour intensive commodity (II) The commodity with lower capital-labour  \nratio at all relative factor prices  \n(C) Labour theory of value (III) The amount of labour per unit of capital  \nused  \n(D) labour saving technical progress (IV) It increases the productivity of capital  \nproportionately more than the labour  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.134]*",
+   "options": [
+    "(A)-(III), (B)-(II), (C)-(I), (D)-(IV)",
+    "(A)-(II), (B)-(III), (C)-(I), (D)-(IV)",
+    "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+    "(A)-(I), (B)-(II), (C)-(IV), (D)-(III)"
+   ],
+   "answer": 0,
+   "explanation": "Labour per unit of capital; lower K/L; labour theory of value; labour-saving progress."
+  },
+  {
+   "q": "Match LIST-I with LIST-II  \nList - I List - II  \n(A) Supply side of international trade (I) David Ricardo  \n(B) Demand side of international trade (II) Bastable and Alfred Marshall  \n(C) Opportunity cost of international trade (III) G. Haberler  \n(D) Real cost theory of international trade (IV) Alfred Marshall and Edgeworth  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.63]*",
+   "options": [
+    "A-I, B-IV, C-III, D-II",
+    "A-I, B-IV, C-II, D-III",
+    "A-II, B-I, C-III, D-IV",
+    "A-IV, B-III, C-II, D-I"
+   ],
+   "answer": 0,
+   "explanation": "Ricardo; Marshall–Edgeworth; Haberler; Bastable–Marshall."
+  },
+  {
+   "q": "Which of the following is/are not applicable to classical theory of trade?  \n(A) Labour theory of value  \n(B) One factor model  \n(C) It satisfies zero - sum game  \n(D) It is a multi - factor model  \n(E) Factors of production are mobile domestically and internationally  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.64]*",
+   "options": [
+    "A, B Only",
+    "B, C Only",
+    "D, E Only",
+    "C, D, E Only"
+   ],
+   "answer": 3,
+   "explanation": "Classical theory is not zero-sum, not multi-factor, and assumes factors immobile internationally."
+  },
+  {
+   "q": "Which of the following trade models exhibits the features of economies of scale and  \nmonopolistic competition?  \n*[UGC NET December 2024 · Q.77]*",
+   "options": [
+    "The Kemp Model",
+    "The Intra - Industry Trade Model",
+    "The Krugman Trade Model",
+    "The Falvey Model"
+   ],
+   "answer": 2,
+   "explanation": "Krugman's model."
+  },
+  {
+   "q": "Match LIST-I with LIST-II  \nList - I List - II  \n(A) Gross barter terms of trade (I) Jacob Viner  \n(B) Single factorial terms of trade (II) Dorrance  \n(C) Income terms of trade (III) C. W. Taussing  \n(D) Secular deterioration in terms of trade of (IV) Prebisch - Singer  \ndeveloping countries  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.92]*",
+   "options": [
+    "A-I, B-II, C-III, D-IV",
+    "A-II, B-I, C-IV, D-III",
+    "A-IV, B-III, C-II, D-I",
+    "A-III, B-I, C-II, D-IV"
+   ],
+   "answer": 3,
+   "explanation": "Taussig, Viner, Dorrance, Prebisch–Singer."
+  },
+  {
+   "q": "Arrange the following from earlier to the latest  \n(A) Price - Specie - Flow Mechanism  \n(B) Comparative Advantage  \n(C) Absolute Advantage  \n(D) Intra - Industry Trade  \n(E) Mercantilism  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.97]*",
+   "options": [
+    "A, B, C, D, E",
+    "B, A, D, C, E",
+    "E, A, C, B, D",
+    "E, D, C, B, A"
+   ],
+   "answer": 2,
+   "explanation": "Mercantilism → price–specie flow (Hume) → absolute → comparative → intra-industry."
+  },
+  {
+   "q": "Which of the following is/are true for international monetary system?  \n(A) Gold exchange standard  \n(B) OPEC  \n(C) Bretton Woods System  \n(D) Law of one price  \n(E) Asian Development Bank  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.99]*",
+   "options": [
+    "A Only",
+    "A, B Only",
+    "A, B, C Only",
+    "A, C, D Only"
+   ],
+   "answer": 3,
+   "explanation": "Gold exchange standard, Bretton Woods and the law of one price are part of the international monetary system."
+  },
+  {
+   "q": "Which of the following does/do not come under exchange rate?  \n(A) Export activities  \n(B) Open market operations  \n(C) Interest rate  \n(D) Import activities  \n(E) Multiple expansion of credit  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.110]*",
+   "options": [
+    "A Only",
+    "B Only",
+    "C, D Only",
+    "B, E Only"
+   ],
+   "answer": 3,
+   "explanation": "OMOs and credit multiplication are domestic monetary concepts."
+  },
+  {
+   "q": "Which of the following is/are not the definition of gains from trade?  \n(A) It is the benefit individuals and countries derive from participating in international trade.  \n(B) It is the gross benefit to economic agents that results from an increase in trade  \n(C) It is the deduction of consumer surplus from producer surplus  \n(D) It is the net benefit to economic agents that results from an increase in trade  \n(E) It is the sum total of producer surplus and consumer surplus  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.115]*",
+   "options": [
+    "A Only",
+    "B, C Only",
+    "C, D Only",
+    "C, D, E Only"
+   ],
+   "answer": 1,
+   "explanation": "Gains from trade are net benefits; B (gross) and C are wrong."
+  },
+  {
+   "q": "Match LIST-I with LIST-II  \nList - I List - II  \n(A) Free Trade Area (I) All tariffs are removed between members  \nand a common external trade policy is  \nadopted for non-members.  \n(B) Customs Union (II) All tariffs are removed between members  \nand the group adopts a common external  \ncommercial policy toward nonmembers.  \n(C) Common Market (III) All members of the group remove tariffs  \non each other's products and at the same  \ntime retains its independence in establishing  \ntrading prices with non-members  \n(D) Economic Union (IV) Most comprehensive advanced stage of  \nintegration  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.121]*",
+   "options": [
+    "A-III, B-II, C-I, D-IV",
+    "A-I, B-II, C-III, D-IV",
+    "A-II, B-I, C-IV, D-III",
+    "A-IV, B-III, C-II, D-I"
+   ],
+   "answer": 0,
+   "explanation": "FTA, customs union, common market, economic union (as keyed)."
+  },
+  {
+   "q": "The Stolper-Samuelson theorem postulates that:  \n*[UGC NET June 2025 S2 · Q.74]*",
+   "options": [
+    "An increase in the relative price of a commodity raises the earnings of the factor used intensively in the production of the commodity.",
+    "An increase in the relative price of a commodity decreases the earnings of the factor used intensively in the production of the commodity.",
+    "An increase in the relative price of a commodity raises the earnings of the factor used scarcely in the production of the commodity.",
+    "A decrease in the relative price of a commodity raises the earnings of the factor used intensively in the production of the commodity."
+   ],
+   "answer": 0,
+   "explanation": "Higher relative price raises the return of the intensively used factor."
+  },
+  {
+   "q": "Which of the following correctly state the formula to compute the rate of effective  \nprotection?  \nWhere, g = the rate of effective protection to producers of final commodities, t = the nominal  \ntariff rate on consumers of the final commodity, ti = the nominal tariff rate on the imported  \ninput and ai = the ratio of the cost of the imported input to the price of the final commodity in  \nthe absence of tariffs.  \n*[UGC NET June 2025 S2 · Q.75]*",
+   "options": [
+    "g = (t − ai·ti)/(1 − ai)",
+    "g = (t + ai·ti)/(1 − ai)",
+    "g = (t − ai·ti)/(1 + ai)",
+    "g = (t + ai·ti)/(1 + ai)"
+   ],
+   "answer": 0,
+   "explanation": "g = (t − ai·ti)/(1 − ai)."
+  },
+  {
+   "q": "In the product cycle model of International trade, in which stage the imitating country starts  \nunderselling the innovating country in third markets?  \n*[UGC NET June 2025 S2 · Q.76]*",
+   "options": [
+    "Stage-II",
+    "Stage-III",
+    "Stage-IV",
+    "Stage-V"
+   ],
+   "answer": 2,
+   "explanation": "Stage IV."
+  },
+  {
+   "q": "Arrange the following crisis in chronological order (starting from oldest).  \n(A) OPEC Oil Crisis  \n(B) International Debt Crisis  \n(C) East Asian Financial Crisis  \n(D) Argentinian Economic Crisis  \n(E) Eurozone Crisis  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.91]*",
+   "options": [
+    "A, B, C, D, E",
+    "A, B, C, E, D",
+    "A, B, E, C, D",
+    "A, E, B, C, D"
+   ],
+   "answer": 0,
+   "explanation": "OPEC (1973) → debt crisis (1982) → East Asia (1997) → Argentina (2001) → Eurozone (2010)."
+  },
+  {
+   "q": "Arrange the following rounds in chronological order (starting from oldest).  \n(A) Millennium Round of Trade negotiations  \n(B) Doha Round  \n(C) Uruguay Round  \n(D) Kennedy Round  \n(E) Tokyo Round  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.92]*",
+   "options": [
+    "D, E, C, B, A",
+    "D, E, B, C, A",
+    "D, B, E, C, A",
+    "D, E, C, A, B"
+   ],
+   "answer": 3,
+   "explanation": "Kennedy → Tokyo → Uruguay → Millennium Round (Seattle, 1999) → Doha (2001)."
+  },
+  {
+   "q": "Which of the following indicate that country \"B\" is capital abundant country?  \n(A) (Total Capital / Total Labour)B > (Total Capital / Total Labour)A  \n(B) (Total Capital / Total Labour)B < (Total Capital / Total Labour)A  \n(C) (Price of Capital / Price of Labour)B < (Price of Capital / Price of Labour)A  \n(D) (Price of Capital / Price of Labour)B > (Price of Capital / Price of Labour)A  \n(E) (Total Labour / Total Capital)B > (Price of Capital / Price of Labour)A  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · \nQ.114]*",
+   "options": [
+    "A & B Only",
+    "A & C Only",
+    "B & D Only",
+    "C & E Only"
+   ],
+   "answer": 1,
+   "explanation": "Higher K/L or lower relative price of capital."
+  },
+  {
+   "q": "Which of the following comprises the current account of the balance of payments?  \n(A) Invisible exports and imports  \n(B) Direct investment  \n(C) Unilateral transfers  \n(D) SDR allocations  \n(E) Borrowings from foreign countries  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 \nS2 · Q.115]*",
+   "options": [
+    "A & E Only",
+    "C & E Only",
+    "A & C Only",
+    "A & B Only"
+   ],
+   "answer": 2,
+   "explanation": "Invisibles and unilateral transfers."
+  },
+  {
+   "q": "Match List - I with List - II  \nList - I List - II  \n(A) Specific factors model (I) Prebisch-Singer hypothesis  \n(B) Immiserizing growth (II) Thomas Mun  \n(C) Mercantilism theory of international trade (III) Jagdish Bhagwati  \n(D) Secular deterioration of terms of trade (IV) Paul Samuelson and Ronald Jones  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.132]*",
+   "options": [
+    "A-III, B-IV, C-II, D-I",
+    "A-IV, B-III, C-II, D-I",
+    "A-IV, B-II, C-III, D-I",
+    "A-II, B-IV, C-I, D-III"
+   ],
+   "answer": 1,
+   "explanation": "Samuelson–Jones, Bhagwati, Thomas Mun, Prebisch–Singer."
+  },
+  {
+   "q": "Match List - I with List - II  \nList - I List - II  \n(A) Income induced adjustment process of (I) Paul Samuelson  \nbalance of payments  \n(B) Absorption approach of BoPs (II) Keynes, J.M.  \n(C) Impossible trinity (III) Sidney S. Alexander  \n(D) Factor price equalization theorem (IV) Mundell-Fleming  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.133]*",
+   "options": [
+    "A-I, B-II, C-III, D-IV",
+    "A-II, B-III, C-IV, D-I",
+    "A-II, B-III, C-I, D-IV",
+    "A-II, B-I, C-III, D-IV"
+   ],
+   "answer": 1,
+   "explanation": "Keynes, Alexander, Mundell–Fleming, Samuelson."
+  },
+  {
+   "q": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as  \nReason (R).  \nAssertion (A): Since about the mid-seventies, protectionism has grown alarmingly in the  \ndeveloped countries. This has taken mainly the form of non-tariff barriers (NTBs).  \nReason (R): The growing protectionism in industrialised countries is due to the increasing  \ncompetition from developing and the South-East Asian countries.  \nIn the light of the above statements, choose the most appropriate answer from the options  \ngiven below:  \n*[UGC NET December 2025 · Q.70]*",
+   "options": [
+    "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+    "(A) is correct but (R) is not correct",
+    "(A) is not correct but (R) is correct"
+   ],
+   "answer": 0,
+   "explanation": "Rising NTBs in rich countries responded to competition from Asia and developing countries."
+  },
+  {
+   "q": "'The Salmon War' was between:  \n*[UGC NET December 2025 · Q.74]*",
+   "options": [
+    "USA and Cuba",
+    "France and UK",
+    "Norway and Scotland",
+    "Sweden and Germany"
+   ],
+   "answer": 2,
+   "explanation": "The salmon dispute between Norway and Scotland (EU)."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Neo-Chamberlinian Model (I) Horizontal differentiation of products  \n(B) Neo-Hotelling Model (II) Vertical differentiation of products  \n(C) Brander-Krugman Model (III) Product differentiation  \n(D) Neo-Heckscher-Ohlin Model (IV) Reciprocal dumping  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.91]*",
+   "options": [
+    "A-IV, B-III, C-I, D-II",
+    "A-I, B-II, C-IV, D-III",
+    "A-I, B-III, C-II, D-IV",
+    "A-III, B-I, C-IV, D-II"
+   ],
+   "answer": 3,
+   "explanation": "Neo-Chamberlinian: product variety; neo-Hotelling: horizontal; Brander–Krugman: reciprocal dumping; neo-H–O: vertical."
+  },
+  {
+   "q": "When some domestic production by a nation member of the Union is replaced by lower-cost  \nimports from another member nation, then the Union is known as:  \n*[UGC NET December 2025 · Q.97]*",
+   "options": [
+    "Trade Diverting Customs Union",
+    "Trade Creating Customs Union",
+    "Preferential Trade Agreement",
+    "Free Trade Agreement"
+   ],
+   "answer": 1,
+   "explanation": "Replacing domestic output with cheaper partner imports is trade creation."
+  },
+  {
+   "q": "(A) Globalisation carries benefits and opportunities as well as costs and risks  \n(B) Globalisation leads to flow of capital, technology, goods and services across countries  \n(C) The larger the market, the greater the gains from trade and the division of labour  \n(D) Globalisation in terms of flow of capital, goods and technology is evenly spread across world  \nnations  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · \nQ.127]*",
+   "options": [
+    "A, B and C only",
+    "A, B and D only",
+    "B and D only",
+    "B, C and D only Passage / data for Q.146-150 (December 2025) The present international economic relations have been least influenced by multilateral forums. Multilateral economic institutions' meetings are not considered seriously by the leaders of important nations. In the past, it was heard that many world leaders were speaking against WTO and prioritising their national interest. Even the forum of WTO was used to speak against the multi-lateral trade. In the beginning of 1980s, the world was moving towards globalisation and the multi-lateral lending and trade forums played a crucial role in the economic and trade negotiations. Slowly regional economic associations and bilateral trade forums took the centre stage. The exit of Britain from the European Union and frequent disruptions in the WTO forums and many statements of the U.S president and many European leaders were giving the message that globalisation is coming to an end. Recent imposition of high tariff on Indian exports and various measures by the USA violate free and fair trade ensured by the multi-lateral trade and investment forums, are matters of serious concerns. Trade disruptions are never becoming an issue for consideration of the appropriate forums at the international level. People start questioning the relevance of a long lists of economic and political institutions built after the second world war with much enthusiasm and high expectations. Do the present developments indicate a turning point for a new world order?"
+   ],
+   "answer": 0,
+   "explanation": "Globalisation's gains are not evenly spread (D is false)."
+  },
+  {
+   "q": "The important challenge to WTO:  \n*[UGC NET December 2025 · Q.146]*",
+   "options": [
+    "Regional Economic Associations and bilateral trade forums",
+    "The exit of Britain from European Union",
+    "International economic relations not influenced by multilateral forums",
+    "World moving towards post-globalisation world order"
+   ],
+   "answer": 0,
+   "explanation": "Regional and bilateral forums took centre stage."
+  },
+  {
+   "q": "What violates free and fair trade?  \n*[UGC NET December 2025 · Q.147]*",
+   "options": [
+    "Imposition of high and unfair tariffs",
+    "Weak structure of Regional economic associations and bilateral trade forums",
+    "World leaders speaking in favour of WTO",
+    "Keen interest by the USA and Europe"
+   ],
+   "answer": 0,
+   "explanation": "High, unfair tariffs."
+  },
+  {
+   "q": "The Passage conveys about:  \n*[UGC NET December 2025 · Q.148]*",
+   "options": [
+    "Multilateral institutions have accepted their weaknesses.",
+    "Reforms in multilateral institutions",
+    "W.T.O. is becoming more important",
+    "Powerful nations are undermining the role of multilateral institutions for their national interest"
+   ],
+   "answer": 3,
+   "explanation": "Powerful nations undermine multilateral institutions."
+  },
+  {
+   "q": "Globalisation is an outcome of:  \n*[UGC NET December 2025 · Q.149]*",
+   "options": [
+    "Exit of Britain from the European union",
+    "Initiatives of the USA",
+    "The role played by the multilateral lending and trade forums",
+    "The outcome of second world war"
+   ],
+   "answer": 2,
+   "explanation": "Multilateral lending and trade forums."
+  },
+  {
+   "q": "The nature of present international economic relations:  \n*[UGC NET December 2025 · Q.150]*",
+   "options": [
+    "USA and European countries are not violating international understandings",
+    "Multilateral forums are relegated to the background",
+    "Increased role is given to multilateral economic and political institutions",
+    "World leaders are giving message that globalisation is improving"
+   ],
+   "answer": 1,
+   "explanation": "Multilateral forums are relegated to the background."
+  }
+ ]
+}

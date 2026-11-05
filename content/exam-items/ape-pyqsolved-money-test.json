@@ -1,0 +1,1546 @@
+{
+ "duration": 168,
+ "negative": 0,
+ "questions": [
+  {
+   "q": "According to the cash-balance approach, the elasticity of demand for money  \n*[UGC NET December 2018 · \nQ.73]*",
+   "options": [
+    "Is less than one",
+    "Is more than one",
+    "Is equal to one",
+    "Fluctuates with the changes in the phases of inflation"
+   ],
+   "answer": 2,
+   "explanation": "Cambridge M = kPY gives a rectangular hyperbola: unit elasticity of demand for money."
+  },
+  {
+   "q": "Which of the following act as an instrument to help in the borrowing by the government?  \n(i) Repo Rate  \n(ii) Reverse Repo Rate  \n(iii) CRR  \n(iv) SLR  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.74]*",
+   "options": [
+    "(i) and (iii)",
+    "Only (iv)",
+    "(i) and (iv)",
+    "(iii) and (iv)"
+   ],
+   "answer": 1,
+   "explanation": "SLR makes banks hold government securities, helping government borrowing."
+  },
+  {
+   "q": "A rise in general price level may be caused by which amongst the following?  \n(i) An increase in the money supply  \n(ii) An increase in the aggregate level of output  \n(iii) An increase in the effective demand  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.75]*",
+   "options": [
+    "Only (iii)",
+    "(i) and (ii)",
+    "(i), (ii) and (iii)",
+    "(i) and (iii)"
+   ],
+   "answer": 3,
+   "explanation": "More money and higher effective demand raise prices; more output lowers them."
+  },
+  {
+   "q": "The concept of Universal Banking in India was recommended by which of the following  \ncommittee?  \n*[UGC NET December 2018 · Q.76]*",
+   "options": [
+    "Abid Hussain Committee",
+    "R.H. Khan Committee",
+    "S. Padmanabhan Committee",
+    "Y.H. Malegam Committee"
+   ],
+   "answer": 1,
+   "explanation": "Universal banking: S.H. Khan working group (1997–98), printed as 'R.H. Khan'."
+  },
+  {
+   "q": "Which of the following is not an objective of Marginal Cost of funds based Lending Rate  \n(MCLR)?  \n*[UGC NET December 2018 · Q.78]*",
+   "options": [
+    "To improve the transmission of policy rates into the lending rates of banks",
+    "To ensure availability of bank credit at interest rates which are fair to borrowers are well as banks",
+    "To enable banks to become more competitive",
+    "To enable the RBI to achieve the inflation target"
+   ],
+   "answer": 3,
+   "explanation": "MCLR aimed at better transmission, fairness and competitiveness, not at the inflation target."
+  },
+  {
+   "q": "Match List I with List II and choose the correct answer from the code given below:  \nList - I List - II  \n(a) n = Pk (i) A.C. Pigou  \n(b) M = PkT (ii) Keynes  \n(c) P = kR/M (iii) Alfred Marshall  \n(d) M = kPY (iv) D.H. Robertson  \n*[UGC NET December 2018 \n· Q.79]*",
+   "options": [
+    "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+    "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+    "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+    "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+   ],
+   "answer": 0,
+   "explanation": "Keynes (n = pk), Robertson (M = PkT), Pigou (P = kR/M), Marshall (M = kPY)."
+  },
+  {
+   "q": "The statement, \"Too much money chasing too few goods\" is based on which of the following  \ntheoretical concepts?  \n*[UGC NET December 2018 · Q.80]*",
+   "options": [
+    "Quantity theory of prices",
+    "Quantity theory of money",
+    "Inventory theoretic approach to the demand for money",
+    "Real balance effect"
+   ],
+   "answer": 1,
+   "explanation": "'Too much money chasing too few goods' rests on the quantity theory of money."
+  },
+  {
+   "q": "Who among the following said that \"Money is a temporary abode of purchasing power\"?  \n*[UGC NET December 2018 · Q.81]*",
+   "options": [
+    "Irving Fisher",
+    "Milton Friedman",
+    "William J. Baumol",
+    "James Tobin"
+   ],
+   "answer": 1,
+   "explanation": "Friedman: money is a temporary abode of purchasing power."
+  },
+  {
+   "q": "Arrange the following events in chronological order regarding Indian Economy:  \n(i) First Phase of Nationalisation of Banks  \n(ii) Establishment of Narasimhan Committee on the Banking System  \n(iii) Enactment of FEMA Act in India  \n(iv) Establishment of EXIM Bank in India  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · \nQ.116]*",
+   "options": [
+    "(i), (iv), (ii), (iii)",
+    "(i), (iii), (iv), (ii)",
+    "(i), (iii), (ii), (iv)",
+    "(i), (ii), (iii), (iv)"
+   ],
+   "answer": 0,
+   "explanation": "Nationalisation (1969) → EXIM Bank (1982) → Narasimham Committee (1991) → FEMA (1999)."
+  },
+  {
+   "q": "Which amongst the following is not an instrument of Money Market?  \n*[UGC NET December 2018 · Q.129]*",
+   "options": [
+    "Treasury Bill",
+    "Preference Share",
+    "Commercial Paper",
+    "Certificate of Deposit"
+   ],
+   "answer": 1,
+   "explanation": "Preference shares are capital-market instruments."
+  },
+  {
+   "q": "Under which system the central bank is authorised by law to issue a fixed amount of notes  \nagainst government securities and any excess is to be fully backed by gold/silver?  \n*[UGC NET June 2019 S1 · Q.95]*",
+   "options": [
+    "Maximum fiduciary system",
+    "Minimum reserve system",
+    "Fixed fiduciary system",
+    "Maximum and minimum fiduciary system"
+   ],
+   "answer": 2,
+   "explanation": "Fixed fiduciary system: a fixed issue against securities, the rest fully backed by metal."
+  },
+  {
+   "q": "Liquidity approach is also known by the name  \n*[UGC NET June 2019 S1 · Q.96]*",
+   "options": [
+    "Gurley-Shaw approach",
+    "Radcliffe approach",
+    "Traditional approach",
+    "Monetarist approach"
+   ],
+   "answer": 1,
+   "explanation": "Radcliffe Committee (1959): liquidity approach."
+  },
+  {
+   "q": "External drains leave which type of impact on commercial bank?  \n*[UGC NET June 2019 S1 · Q.97]*",
+   "options": [
+    "Lowers the reserves of bank",
+    "Increases further deposits",
+    "Increases credit creation",
+    "Creates demand deposits"
+   ],
+   "answer": 0,
+   "explanation": "External drains (cash outflows) reduce bank reserves."
+  },
+  {
+   "q": "Which consideration a commercial bank does NOT keep in mind to manage its assets and  \nliabilities?  \n*[UGC NET June 2019 S1 · Q.98]*",
+   "options": [
+    "Liquidity",
+    "Profitability",
+    "Solvency",
+    "Equity"
+   ],
+   "answer": 3,
+   "explanation": "Asset–liability management balances liquidity, profitability and solvency."
+  },
+  {
+   "q": "Which is NOT the main objective of credit control?  \n*[UGC NET June 2019 S1 · Q.99]*",
+   "options": [
+    "Stabilization of general price level",
+    "Promoting economic growth",
+    "Ensuring adequate flow of credit to productive sectors",
+    "Promoting economic welfare"
+   ],
+   "answer": 3,
+   "explanation": "Credit control aims at price stability, growth and productive credit flow."
+  },
+  {
+   "q": "Match List-I with List-II  \nList - I List - II  \nList-I (Institutions) List-II (Established)  \n(a) ICICI (i) 1971  \n(b) IRBI (ii) 1964  \n(c) IFCI (iii) 1955  \n(d) IDBI (iv) 1948  \nChose the correct option from those given below :  \n*[UGC NET June 2019 S1 · Q.101]*",
+   "options": [
+    "(a)-(i); (b)-(ii); (c)-(iii); (d)-(iv)",
+    "(a)-(ii); (b)-(iii); (c)-(iv); (d)-(i)",
+    "(a)-(iii); (b)-(i); (c)-(iv); (d)-(ii)",
+    "(a)-(iii); (b)-(ii); (c)-(i); (d)-(v)"
+   ],
+   "answer": 2,
+   "explanation": "ICICI 1955, IRBI 1971 (as IRCI), IFCI 1948, IDBI 1964."
+  },
+  {
+   "q": "Which of the following is NOT the function of a capital market?  \n*[UGC NET June 2019 S1 · Q.102]*",
+   "options": [
+    "Mobilising savings into investment",
+    "Channelising funds from less profitable to more profitable",
+    "Mobilising funds from surplus units to deficit units",
+    "Providing better returns to direct investors"
+   ],
+   "answer": 3,
+   "explanation": "Capital markets mobilise and allocate savings; better returns to direct investors is not a defined function."
+  },
+  {
+   "q": "The liquidity aggregates are classified as  \n*[UGC NET June 2019 S1 · Q.103]*",
+   "options": [
+    "L1, L2 and L3",
+    "M1, M2 and M3",
+    "NM3",
+    "M1, M2, M3 and M4"
+   ],
+   "answer": 0,
+   "explanation": "RBI's liquidity aggregates are L1, L2, L3."
+  },
+  {
+   "q": "Which of the following is NOT an instrument of capital market with special reference to India?  \n*[UGC NET June 2019 S1 · Q.132]*",
+   "options": [
+    "Equity share",
+    "Debenture",
+    "Gold ETF",
+    "Commercial paper"
+   ],
+   "answer": 3,
+   "explanation": "Commercial paper is a money-market instrument."
+  },
+  {
+   "q": "The inventory approach to the transaction demand suggests that the transaction component  \nof the demand for money is:  \n*[UGC NET December 2019 S1 · Q.57]*",
+   "options": [
+    "negatively related to real wealth",
+    "negatively related to real income",
+    "negatively related to nominal income",
+    "negatively related to interest rate"
+   ],
+   "answer": 3,
+   "explanation": "Baumol–Tobin: transactions demand falls as the interest rate rises."
+  },
+  {
+   "q": "Friedman's modern Quantity Theory of Money concludes that changes in aggregate spending  \nare primarily determined by changes in  \n*[UGC NET December 2019 S1 · Q.58]*",
+   "options": [
+    "the money supply",
+    "interest rate",
+    "the velocity of money",
+    "government spending and taxes"
+   ],
+   "answer": 0,
+   "explanation": "Monetarists: spending changes mainly follow money supply changes."
+  },
+  {
+   "q": "Which one of the following is correct for the money supply measure — M1?  \n*[UGC NET December 2019 S1 · \nQ.75]*",
+   "options": [
+    "Currency with the public + demand deposits of Commercial Banks + other deposits at a point of time",
+    "Currency with the public + demand deposits of Banks + other deposits over one year",
+    "Currency with the public + All bank deposits at a point of time",
+    "Currency with the public + Post office deposits + other deposits at a point of time"
+   ],
+   "answer": 0,
+   "explanation": "M1 = currency with public + demand deposits + other deposits with RBI."
+  },
+  {
+   "q": "Which amongst the following is not the source of the income of RBI?  \n*[UGC NET December 2019 S1 · Q.76]*",
+   "options": [
+    "Interest on government bonds held for conducting open market operations",
+    "Income from investment in foreign currency assets",
+    "Retained earnings net of dividend paid to Government of India",
+    "Dividend on the shares of private equity held with the bank"
+   ],
+   "answer": 3,
+   "explanation": "RBI earns from bonds and foreign assets; it holds no private equity for dividends."
+  },
+  {
+   "q": "Insolvency and bankruptcy code is primarily entrusted with which of the following?  \n*[UGC NET December \n2019 S1 · Q.77]*",
+   "options": [
+    "Facilitating the recovery of government dues and debt",
+    "Facilitating recovery of debt given by foreign banks to Indian companies",
+    "Facilitating banks recover higher amount of bad loans then they recovered earlier",
+    "Facilitating banks recover their dues from the priority sector"
+   ],
+   "answer": 2,
+   "explanation": "IBC (2016) aims at faster, higher recovery of bad loans."
+  },
+  {
+   "q": "When the market rate of interest falls, which one of the following will happen?  \n*[UGC NET December 2019 S1 \n· Q.78]*",
+   "options": [
+    "Bond price and bond yield, both will rise",
+    "Bond price and bond yield both will fall",
+    "Bond price will rise and bond yield will fall",
+    "Bond price will fall and bond yield will rise"
+   ],
+   "answer": 2,
+   "explanation": "Falling market rates raise bond prices and lower yields."
+  },
+  {
+   "q": "Which amongst the following is the function of SEBI?  \n*[UGC NET December 2019 S1 · Q.87]*",
+   "options": [
+    "Regulation of money market",
+    "Regulation of public debt",
+    "Regulation of commodity market",
+    "Regulation of primary and secondary security market"
+   ],
+   "answer": 3,
+   "explanation": "SEBI regulates primary and secondary securities markets."
+  },
+  {
+   "q": "The elements given below are some of the parts of the M4 Money supply in Indian Economy:  \n(a) Broad Money (M3)  \n(b) All deposits with post office saving banks  \n(c) National saving certificates  \nSelect the most appropriate option which constitutes M4:  \n*[UGC NET December 2019 S1 · Q.103]*",
+   "options": [
+    "only (a) and (b)",
+    "only (b) and (c)",
+    "only (a) and (c)",
+    "(a), (b) and (c)"
+   ],
+   "answer": 0,
+   "explanation": "M4 = M3 + all post office savings deposits (excluding NSCs)."
+  },
+  {
+   "q": "Which among the following are the main pillars of the BASEL III norms?  \n(a) Minimal Capital Requirements  \n(b) Supervisory Review Process  \n(c) Market Discipline  \n(d) Maximizing Return on Capital  \nChoose from the options given below:  \n*[UGC NET December 2019 S1 · Q.104]*",
+   "options": [
+    "(a), (b) and (c) only",
+    "(a) and (d) only",
+    "(b) and (c) only",
+    "(b), (c) and (d) only"
+   ],
+   "answer": 0,
+   "explanation": "Three pillars: minimum capital, supervisory review, market discipline."
+  },
+  {
+   "q": "Match List-I with List-II and choose the correct option from the options given below:  \nList - I List - II  \n(a) Treasury Bills (i) RBI  \n(b) Commercial papers (ii) IMF  \n(c) Repo rate (iii) Government  \n(d) SDRs (iv) Private Companies  \nOptions:  \n*[UGC NET December \n2019 S1 · Q.117]*",
+   "options": [
+    "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+    "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+    "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+    "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+   ],
+   "answer": 2,
+   "explanation": "T-bills: government; CP: companies; repo: RBI; SDR: IMF."
+  },
+  {
+   "q": "Which one of the following is the correct sequence in the ascending order of the magnitude?  \n*[UGC NET December 2019 S1 · Q.127]*",
+   "options": [
+    "Repo Rate, Reverse Repo Rate, Statutory Liquidity Rate (SLR) and Marginal Standing Facility Rate (MSFR)",
+    "SLR, MSFR, Repo Rate, Reverse Repo Rate",
+    "Repo Rate, SLR, MSFR, Reverse Repo Rate",
+    "Reverse Repo Rate, Repo Rate, MSFR, SLR"
+   ],
+   "answer": 3,
+   "explanation": "Reverse repo < repo < MSF < SLR (SLR is about 18%)."
+  },
+  {
+   "q": "Arrange the following events in chronological order:  \n(a) First phase of Nationalisation of Commercial Banks  \n(b) Establishment of Narashiman Committee on banking system  \n(c) Enactment of FEMA Act  \n(d) Establishment of EXIM Bank of India  \nChoose the correct from the following options:  \n*[UGC NET December 2019 S1 · Q.130]*",
+   "options": [
+    "(a), (c), (d), (b)",
+    "(a), (d), (b), (c)",
+    "(a), (c), (b), (d)",
+    "(a), (d), (c), (b)"
+   ],
+   "answer": 1,
+   "explanation": "1969 → EXIM Bank 1982 → Narasimham 1991 → FEMA 1999."
+  },
+  {
+   "q": "Given below are two statements — one is labelled as Assertion (A) and the other is labelled  \nas Reason (R):  \nAssertion (A): In order to control inflationary tendencies, RBI raises the repo rate  \nReason (R): By so doing, RBI wishes to control consumption demand  \nIn the light of the above two statements choose the correct option:  \n*[UGC NET December 2019 S1 · Q.137]*",
+   "options": [
+    "Both (A) and (R) are true and (R) is correct explanation of (A)",
+    "Both (A) and (R) are true and (R) is not correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "explanation": "A higher repo rate makes credit costlier and curbs demand, including consumption."
+  },
+  {
+   "q": "Given below are two statements, one is labelled as Assertion A and the other is labelled as  \nReason R  \nAssertion A: High powered money is the source of all other forms of money that impact money  \nsupply  \nReason R: Credit is created by commercial banks  \nIn light of the above statements, choose the most appropriate answer from the options given  \nbelow  \n*[UGC NET June 2020 S2 · Q.63]*",
+   "options": [
+    "Both A and R are correct and R is the correct explanation of A",
+    "Both A and R are correct but R is NOT the correct explanation of A",
+    "A is correct but R is not correct",
+    "A is not correct but R is correct"
+   ],
+   "answer": 1,
+   "explanation": "Both true, but bank credit creation does not explain why base money is the source of money."
+  },
+  {
+   "q": "The cost of holding money by individuals  \n(A) Loss of real value of money due to deflation  \n(B) Foregone interest from savings  \n(C) Utility foregone by not buying goods and services  \n(D) Returns foregone by not holding other assets  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.65]*",
+   "options": [
+    "B, C and D only",
+    "A, B and C only",
+    "A, B and D only",
+    "A, C and D only"
+   ],
+   "answer": 0,
+   "explanation": "Holding money costs forgone interest, forgone returns and forgone goods (inflation, not deflation, erodes it)."
+  },
+  {
+   "q": "Inadequacy or absence of KYC (Know Your Customer) standards can subject a bank to serious  \nand counter party risk as follows  \n(A) Reputation risk  \n(B) Compliance risk  \n(C) Legal risk  \n(D) Bankruptcy risk  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.106]*",
+   "options": [
+    "A, B and D only",
+    "A, B and C only",
+    "B, C and D only",
+    "A, C and D only"
+   ],
+   "answer": 1,
+   "explanation": "Weak KYC exposes banks to reputation, compliance (operational) and legal risks."
+  },
+  {
+   "q": "What is the maximum penalty to be imposed under the Negotiable Instruments Act for  \nbouncing of a cheque?  \n*[UGC NET June 2020 S2 · Q.107]*",
+   "options": [
+    "6 months",
+    "1 year",
+    "2 years",
+    "5 years"
+   ],
+   "answer": 2,
+   "explanation": "Section 138: up to two years' imprisonment."
+  },
+  {
+   "q": "Given below are two statements, one is labelled as Assertion A and the other is labelled as  \nReason R  \nAssertion A: The main cause of commercial bank failures because of providing inappropriate  \nloans to bank insiders  \nReason R: Bank employees are provided loans at lower interest rates  \nIn light of the above statements, choose the most appropriate answer from the options given  \nbelow  \n*[UGC NET June 2020 S2 · Q.108]*",
+   "options": [
+    "Both A and R are correct and R is the correct explanation of A",
+    "Both A and R are correct but R is NOT the correct explanation of A",
+    "A is correct but R is not correct",
+    "A is not correct but R is correct"
+   ],
+   "answer": 3,
+   "explanation": "Insider loans are not the main cause of bank failures; staff loans at concessional rates are common."
+  },
+  {
+   "q": "Seigniorage in banking means  \n(A) The economic cost of providing a currency within a given economy  \n(B) The difference between the face value of money and the cost of providing it  \n(C) The cost involved in running ATMs  \n(D) The costs of making debit/credit cards in an economy  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.109]*",
+   "options": [
+    "A and C only",
+    "B and C only",
+    "B and D only",
+    "A and B only"
+   ],
+   "answer": 3,
+   "explanation": "Seigniorage: face value minus the cost of producing currency."
+  },
+  {
+   "q": "Markowitz theory of portfolio management considers which of the following assumptions?  \n(A) Investors are pessimistic about start-ups but optimistic about an established business  \n(B) Investors have free access to fair and correct information on return and risk  \n(C) Investors have a tendency to lean towards cryptocurrencies  \n(D) Investors are rational and maximize their utility with a given level of income and money  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.110]*",
+   "options": [
+    "A and B only",
+    "B and D only",
+    "C and D only",
+    "A and C only"
+   ],
+   "answer": 1,
+   "explanation": "Markowitz: rational investors with full information on risk and return."
+  },
+  {
+   "q": "Account payee crossing is defined in which section of the Negotiable Instruments (NI) Act?  \n*[UGC NET June 2020 S2 · Q.128]*",
+   "options": [
+    "Section 123",
+    "Section 124",
+    "Section 125",
+    "Not defined in NI Act"
+   ],
+   "answer": 3,
+   "explanation": "'Account payee' crossing is a banking practice; the NI Act does not define it."
+  },
+  {
+   "q": "The concept of 'money illusion' was first given by whom?  \n*[UGC NET December 2020 · Q.7]*",
+   "options": [
+    "Milton Friedman",
+    "Irving Fisher",
+    "Robertson",
+    "J. M. Keynes"
+   ],
+   "answer": 1,
+   "explanation": "Irving Fisher, 'The Money Illusion' (1928)."
+  },
+  {
+   "q": "Which of the following is NOT a Commercial Bank?  \n*[UGC NET December 2020 · Q.27]*",
+   "options": [
+    "Public Sector Bank",
+    "Private Sector Bank",
+    "Regional Rural Bank",
+    "Co-operative Bank"
+   ],
+   "answer": 3,
+   "explanation": "Co-operative banks are not commercial banks."
+  },
+  {
+   "q": "Liquidity Adjustment Facility (LAF) was recommended by  \n*[UGC NET December 2020 · Q.28]*",
+   "options": [
+    "C. Rangarajan Committee",
+    "Raghuram Rajan Committee",
+    "Narasimham Committee - II",
+    "Bimal Jalan Committee"
+   ],
+   "answer": 2,
+   "explanation": "Narasimham Committee II recommended the LAF."
+  },
+  {
+   "q": "Which of the following is TRUE for Bank Rate?  \n*[UGC NET December 2020 · Q.29]*",
+   "options": [
+    "Increase in Bank rate by Central Bank would increase money supply keeping other factors constant",
+    "Bank rate is a qualitative instrument",
+    "Bank rate is the minimum rate at which the Central Bank provides credit to financial institutions against securities of the government",
+    "Bank rate is a direct instrument of credit control"
+   ],
+   "answer": 2,
+   "explanation": "Bank rate: minimum rate at which the central bank lends (rediscounts) to banks."
+  },
+  {
+   "q": "Which of the following would reduce the credit creation capacity of a Commercial Bank?  \n(A) Time and Demand deposits  \n(B) Loans  \n(C) Deposits with the Central Bank  \n(D) Cash in hand  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.49]*",
+   "options": [
+    "A and B only",
+    "B and C only",
+    "C and D only",
+    "A and D only"
+   ],
+   "answer": 2,
+   "explanation": "Cash in hand and deposits with the central bank are reserves that cannot be lent."
+  },
+  {
+   "q": "Which of the following measures would result in an increase in the money supply in the  \neconomy?  \n(A) Purchase of government securities from the public by Central Bank  \n(B) Deposit of currency in Commercial Banks by the public  \n(C) Borrowing by the government from the Central Bank  \n(D) Sale of government securities to the public by the Central Bank  \n(E) Minting of more money by the Central Bank for circulation  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.50]*",
+   "options": [
+    "A, C and E only",
+    "B, C and D only",
+    "A, B and C only",
+    "B, D and E only"
+   ],
+   "answer": 0,
+   "explanation": "Buying securities, lending to government and issuing more currency raise money supply."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Security Exchange Board of India (SEBI) (I) 1991  \n(B) National Securities Depository Ltd (NSDL) (II) 1992  \n(C) Credit Rating Information Service of India (III) 1988  \nLtd (CRISIL)  \n(D) Investment Information and Credit Rating (IV) 1996  \nAgency of India (ICRA)  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.72]*",
+   "options": [
+    "A - I, B - II, C - III, D - IV",
+    "A - IV, B - III, C - II, D - I",
+    "A - III, B - II, C - IV, D - I",
+    "A - II, B - IV, C - III, D - I"
+   ],
+   "answer": 3,
+   "explanation": "SEBI 1992 (statutory), NSDL 1996, CRISIL 1988, ICRA 1991."
+  },
+  {
+   "q": "Arrange the following committees appointed for the Banking sector in India in chronological  \norder:  \n(A) Urjit Patel Committee  \n(B) Goiporia Committee  \n(C) Narasimham Committee-1  \n(D) Chakravarty Committee  \nChoose the correct answer from the options given below  \n*[UGC NET December 2020 · Q.81]*",
+   "options": [
+    "D, C, B, A",
+    "A, C, D, B",
+    "C, B, D, A",
+    "D, B, C, A Passage / data for Q.91-95 (December 2020) The study titled, \"Monetary Policy Transparency and Anchoring of Inflation Expectation in India\" constructs an index of monetary policy transparency for India and examines the role of transparency in anchoring inflation expectations. Empirical results show that the degree of policy transparency has indeed increased substantially since the adoption of Flexible Inflation Targeting (FIT) in 2016. Further, empirical evidence suggests that inflation expectations of professional forecasters and households were anchored, in weak-form, in the post-FIT period, though households' expectations did not necessarily lie within the inflation tolerance band. During the transition period (between the self-imposed disinflationary glide-path since 2014 and adoption of the FIT) both realized inflation and expectations followed a declining path, which resulted in a positive association between them. During the pre-transition period, when explicit inflation target was absent, expectations were also reasonably anchored, albeit, at a higher level."
+   ],
+   "answer": 3,
+   "explanation": "Chakravarty (1985) → Goiporia (1990) → Narasimham I (1991) → Urjit Patel (2014)."
+  },
+  {
+   "q": "Which time span has been described as the transition period of monetary policy?  \n*[UGC NET December \n2020 · Q.91]*",
+   "options": [
+    "2014-2016",
+    "2016-2020",
+    "2000-2014",
+    "2008-2014"
+   ],
+   "answer": 0,
+   "explanation": "Transition: 2014 glide path to FIT in 2016."
+  },
+  {
+   "q": "What happened to the anchoring of inflation expectations?  \n*[UGC NET December 2020 · Q.92]*",
+   "options": [
+    "Inflation expectations anchored in a strong form",
+    "Inflation expectations anchored in a weak-form in the post FIT period.",
+    "There was no association between realised and expected inflation",
+    "There was a negative association between realised and expected inflation"
+   ],
+   "answer": 1,
+   "explanation": "Weak-form anchoring in the post-FIT period."
+  },
+  {
+   "q": "Which of the following index has been constructed?  \n*[UGC NET December 2020 · Q.93]*",
+   "options": [
+    "Index of monetary policy",
+    "Index of inflation expectations",
+    "Index monetary policy transparency for India",
+    "Index of transparency"
+   ],
+   "answer": 2,
+   "explanation": "An index of monetary policy transparency for India."
+  },
+  {
+   "q": "What has empirical evidence shown?  \n*[UGC NET December 2020 · Q.94]*",
+   "options": [
+    "Degree of policy transparency declined",
+    "Degree of policy transparency increased",
+    "Degree of policy transparency increased but after coming into force of FIT.",
+    "Actual inflation turned out to be high"
+   ],
+   "answer": 2,
+   "explanation": "Transparency rose substantially after FIT was adopted."
+  },
+  {
+   "q": "Inflation expectations of which group was empirically tested?  \n*[UGC NET December 2020 · Q.95]*",
+   "options": [
+    "Only of professional forecasters",
+    "Only of Households",
+    "Both of professional forecasters and Households",
+    "Neither of professional forecasters nor Households"
+   ],
+   "answer": 2,
+   "explanation": "Both professional forecasters and households."
+  },
+  {
+   "q": "The Central bank policy of altering the domestic credit extended by it in an equal and  \nopposite direction to the variation in foreign exchange reserves so that the monetary base remains  \nunchanged is called  \n*[UGC NET December 2021 · Q.9]*",
+   "options": [
+    "Stabilization",
+    "Monetary expansion",
+    "Fiscal expansion",
+    "Sterilisation"
+   ],
+   "answer": 3,
+   "explanation": "Offsetting reserve changes to keep the base unchanged: sterilisation."
+  },
+  {
+   "q": "In the context of the transaction demand for money, the square root rule was developed by  \n*[UGC NET December 2021 · Q.27]*",
+   "options": [
+    "Kydland - Prescott",
+    "Friedman - Schwartz",
+    "Baumol - Tobin",
+    "J. M. Keynes"
+   ],
+   "answer": 2,
+   "explanation": "Baumol–Tobin square-root rule."
+  },
+  {
+   "q": "If time deposit is not included, then the money multiplier will be (Cr = currency deposit ratio,  \nrr = reserve deposit ratio)  \n*[UGC NET December 2021 · Q.28]*",
+   "options": [
+    "(Cr + rr)/(1 + Cr)",
+    "(Cr + rr)/(rr + 1)",
+    "Cr/rr",
+    "(Cr + 1)/(rr + Cr)"
+   ],
+   "answer": 3,
+   "explanation": "Without time deposits m = (1 + Cr)/(Cr + rr)."
+  },
+  {
+   "q": "One of the various qualitative instruments used by the central bank during inflation is  \n*[UGC NET December 2021 · Q.29]*",
+   "options": [
+    "Raise margin requirement",
+    "Remove margin requirement",
+    "Reduce margin requirement",
+    "Fix margin requirement"
+   ],
+   "answer": 0,
+   "explanation": "Raising margin requirements is a selective (qualitative) tool against inflation."
+  },
+  {
+   "q": "Monetary policy instruments are  \n(A) Changes in public expenditure  \n(B) Changes in taxation  \n(C) Open market operations  \n(D) Bank reserve requirement  \n(E) Interest rate policy  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET December 2021 · Q.43]*",
+   "options": [
+    "(A), (B) only",
+    "(A), (B), (C) only",
+    "(C), (D), (E) only",
+    "(B), (D), (E) only"
+   ],
+   "answer": 2,
+   "explanation": "OMOs, reserve requirements and interest rates are monetary tools; G and T are fiscal."
+  },
+  {
+   "q": "Which of the followings are correct?  \n(A) M1 = C + DD + OD  \n(B) M2 = M1 + saving deposits with post office saving banks  \n(C) M3 = M2 + net time deposits of banks  \n(D) M3 = M1 + net time deposits of banks  \n(E) M4 = M1 + total deposits with the post office savings  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2021 · Q.49]*",
+   "options": [
+    "(A), (B) and (C) only",
+    "(A), (B) and (D) only",
+    "(A), (C) and (D) only",
+    "(B), (D) and (E) only"
+   ],
+   "answer": 0,
+   "explanation": "M1 = C + DD + OD; M2 = M1 + PO savings; M3 = M1 + net time deposits (A, B, C as listed)."
+  },
+  {
+   "q": "Pradhan Mantri Jan Dhan Yojana (PMJDY) has been a flagship programme of the Government  \nof India  \n(A) Beneficiaries of this scheme are eligible for accident insurance cover of Rs. 1 lakh now  \n(B) PMJDY is helpful in inclusive development  \n(C) PMJDY beneficiaries should not be given other benefits like benefits under MUDRA scheme  \n(D) It is leading to women empowerment  \n(E) More than 45 crore people have benefitted so far under PMJDY  \nChoose the most appropriate answer from the options given below :  \n*[UGC NET December 2021 · Q.65]*",
+   "options": [
+    "(A), (B) and (C) only",
+    "(B), (C) and (D) only",
+    "(B), (D) and (E) only",
+    "(A), (D) and (E) only"
+   ],
+   "answer": 2,
+   "explanation": "PMJDY aids inclusion and women's empowerment with over 50 crore accounts; accident cover is ₹2 lakh now."
+  },
+  {
+   "q": "Match List I with List II :  \nList - I List - II  \n(A) Reverse repo rate (I) RBI provides loan to commercial banks for  \nshort term  \n(B) Bank rate (II) RBI provides loan to commercial banks  \nfor long term  \n(C) Repo rate (III) RBI borrows money from commercial  \nbanks  \n(D) Cash reserve ratio (IV) Commercial banks have to deposit  \nminimum ratio of their net total liabilities in  \nRBI  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.73]*",
+   "options": [
+    "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)",
+    "(A)-(III), (B)-(II), (C)-(I), (D)-(IV)",
+    "(A)-(III), (B)-(I), (C)-(II), (D)-(IV)",
+    "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)"
+   ],
+   "answer": 1,
+   "explanation": "Reverse repo: RBI borrows; bank rate: long-term lending; repo: short-term lending; CRR: reserve with RBI."
+  },
+  {
+   "q": "The Value-Trade ratio captures trading relative to the size of the  \n*[UGC NET December 2022 S1 · Q.30]*",
+   "options": [
+    "economy",
+    "market",
+    "market and economy",
+    "none of these"
+   ],
+   "answer": 0,
+   "explanation": "Value traded ratio = value traded / GDP: trading relative to the economy."
+  },
+  {
+   "q": "Which of the following are expansionary monetary policy measures to cure deflation?  \n(A) The Central bank buys government securities from commercial banks and public.  \n(B) The Central bank may hike the bank rate.  \n(C) The Central bank may increase the cash reserve ratio.  \n(D) The Central bank may reduce the cash reserve ratio.  \n(E) The Central bank may lower the bank rate.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.57]*",
+   "options": [
+    "A, B and D only",
+    "A, C and E only",
+    "B and C only",
+    "A, D and E only"
+   ],
+   "answer": 3,
+   "explanation": "Buying securities, cutting CRR and cutting the bank rate expand money."
+  },
+  {
+   "q": "The main features of Treasury bills are that:  \n(A) they are issued at a discount and are repaid at par on maturity.  \n(B) they have low liquidity on account of their short tenure.  \n(C) there is no default risk.  \n(D) they offer an assured yield.  \n(E) they have a high transaction cost.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.58]*",
+   "options": [
+    "A, B and C only",
+    "A, C and D only",
+    "A, D and E only",
+    "A, C and E only"
+   ],
+   "answer": 1,
+   "explanation": "T-bills: discounted, risk-free, assured yield, highly liquid, low cost."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) The establishment of a clearing house for (I) 1994  \nsettlement of transactions in BSE.  \n(B) Serial bomb blasts in BSE. (II) 1997  \n(C) Screen-based trading commenced in BSE. (III) 1921  \n(D) BSE launched the first stock index with 30 (IV) 1986  \nscrips.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.72]*",
+   "options": [
+    "A - I, B - III, C - II, D - IV",
+    "A - III, B - II, C - IV, D - I",
+    "A - III, B - I, C - II, D - IV",
+    "A - II, B - I, C - III, D - IV"
+   ],
+   "answer": 2,
+   "explanation": "Clearing house 1921 and Sensex 1986 match option 3 (the paper's dates for B and C are rough)."
+  },
+  {
+   "q": "Arrange the rates in descending order based on 'Reserve Bank of India' data, December  \n2022.  \n(A) Cash Reserve Ratio  \n(B) Repo rate  \n(C) Bank rate  \n(D) Reverse Repo rate  \n(E) Standing Deposit Facility rate  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.82]*",
+   "options": [
+    "A, B, C, D, E",
+    "E, C, D, B, A",
+    "C, B, E, A, D",
+    "A, B, D, E, C"
+   ],
+   "answer": 2,
+   "explanation": "Dec 2022: bank rate 6.5 > repo 6.25 > SDF 6.0 > CRR 4.5 > reverse repo 3.35."
+  },
+  {
+   "q": "Arrange the followings chronologically in order of their introduction.  \n(A) Ad hoc Treasury bills (T-bills)  \n(B) 28 Days T-bills  \n(C) 14 Days T-bills  \n(D) 364 Days T-bills  \n(E) 182 Days T-bills  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.83]*",
+   "options": [
+    "A, D, E, B, C",
+    "A, E, D, C, B",
+    "D, E, A, B, C",
+    "E, A, C, D, B"
+   ],
+   "answer": 1,
+   "explanation": "Ad hoc T-bills (1955) → 182-day (1986) → 364-day (1992) → 14-day (1997) → 28-day (1998)."
+  },
+  {
+   "q": "Arrange the following in chronological order starting from the oldest relating to the theory of  \nmoney.  \n(A) Patinkin  \n(B) Fisher  \n(C) Friedman  \n(D) Marshall  \n(E) Keynes  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.84]*",
+   "options": [
+    "E, B, C, A, D",
+    "B, D, E, A, C",
+    "A, B, C, D, E",
+    "D, B, A, C, E Passage / data for Q.96-100 (December 2022 S1) Read the passage and answer the question that follows Globally, the understanding about the systematic impacts of climate change on the economic and financial systems is still evolving. Broadly, the climate-related risks impact the financials sector through two channels - (a) physical risks and (b) transition risks. Physical risks refer to the economic and financial losses such as risk to the value of a collateral etc., resulting from the increasing frequency and severity of extreme weather events, gradual long-term shifts of the climate and indirect effects of climate change (such as impact on ecosystem services etc.). Transition risks are the ones that arise from the process of adjustments towards a low-carbon economy. Its drivers include policies for climate mitigation, technological advances and shifts in public sentiments including that of customers and investors. To cope with such risks, the central bank needs to develop a multi-pronged strategy that puts adequate emphasis on climate- related financial disclosures, stress testing, climate scenario analysis and at the same time devising suitable regulatory initiatives. The Indian Central Bank has set up the Sustainable Finance Group in this regard. This aligns with its mission, \"to promote the economic and financial well being of the people of India in terms of price and financial stability: fair and universal access to financial services and a robust, dynamic and responsive financial intermediation infrastructure.\""
+   ],
+   "answer": 1,
+   "explanation": "Fisher (1911) → Marshall/Cambridge → Keynes (1936) → Patinkin (1956) → Friedman."
+  },
+  {
+   "q": "Which of the following is not relevant as a climate-related risk for the financial sector?  \n*[UGC NET December 2022 S1 · Q.96]*",
+   "options": [
+    "Occurence of local or regional weather events.",
+    "Risk to the value of collateral taken as security against loans.",
+    "Insolvency of banks.",
+    "Shifting sentiments and behaviour of customers and investors."
+   ],
+   "answer": 2,
+   "explanation": "Bank insolvency is an outcome, not a channel of climate risk."
+  },
+  {
+   "q": "Which of the following cannot be instrumental towards integrating climate risks into the  \nfinancial system?  \n*[UGC NET December 2022 S1 · Q.97]*",
+   "options": [
+    "Climate-related financial disclosures",
+    "Stress testing",
+    "Scenario analysis",
+    "Backward-looking risk assessment methods"
+   ],
+   "answer": 3,
+   "explanation": "Climate risk needs forward-looking, not backward-looking, assessment."
+  },
+  {
+   "q": "Which of the following does not pertain to the category of transition risk drivers with respect  \nto the climate-related risks?  \n*[UGC NET December 2022 S1 · Q.98]*",
+   "options": [
+    "Climate-related mitigation policies",
+    "Loss of ecosystem services",
+    "Technological innovations",
+    "Shift in public sentiment"
+   ],
+   "answer": 1,
+   "explanation": "Loss of ecosystem services is a physical risk."
+  },
+  {
+   "q": "Which of the following is not consistent with the mission of the RBI?  \n*[UGC NET December 2022 S1 · Q.99]*",
+   "options": [
+    "Ensuring access to financial services.",
+    "Maintaining price and stability.",
+    "Setting national development priorities.",
+    "Stability of the financial system."
+   ],
+   "answer": 2,
+   "explanation": "Setting national development priorities is not RBI's mission."
+  },
+  {
+   "q": "Which of the following is the purpose of setting up the Sustainable Finance Group by the RBI?  \n*[UGC NET December 2022 S1 · Q.100]*",
+   "options": [
+    "To act as a knowledge center for macroeconomics policy oriented research.",
+    "To lead regulatory initiatives on climate-risk.",
+    "Facilitating core central banking function.",
+    "To perform supervisory functions."
+   ],
+   "answer": 1,
+   "explanation": "The Sustainable Finance Group leads RBI's regulatory work on climate risk."
+  },
+  {
+   "q": "Which one of the following is not a component of M1?  \n*[UGC NET December 2022 S2 · Q.7]*",
+   "options": [
+    "Currency",
+    "Traveler's cheque",
+    "Commercial paper",
+    "Demand deposits"
+   ],
+   "answer": 2,
+   "explanation": "Commercial paper is not in M1."
+  },
+  {
+   "q": "Which of the following is not an assumption or conclusion of the inflation targeting approach?  \n*[UGC NET December 2022 S2 · Q.28]*",
+   "options": [
+    "Interest rate is the major instrument of monetary policy",
+    "Higher interest rate controls aggregate demand",
+    "Inflation is a supply side phenomenon",
+    "Quantity of money supply is not very effective in controlling inflation"
+   ],
+   "answer": 2,
+   "explanation": "Inflation targeting treats inflation as demand-driven and controllable by interest rates."
+  },
+  {
+   "q": "Which of the following formula is used to calculate the yield of treasury bills (T-bills) where  \nY = Discounted yield  \nP = Price  \nD = Days to maturity  \n*[UGC NET December 2022 S2 · Q.30]*",
+   "options": [
+    "Y = (P × 365 × 100)/(P × D)",
+    "Y = (D × 365 × 100)/(P × D)",
+    "Y = ((100 − P) × 365 × 100)/(P × D)",
+    "Y = ((100 − D) × 365 × 100)/(P × D)"
+   ],
+   "answer": 2,
+   "explanation": "Y = (100 − P) × 365 × 100 / (P × D)."
+  },
+  {
+   "q": "Which of the following monetary measure is used to control inflation?  \n(A) The Central Bank purchases government securities from Commercial Banks  \n(B) The Central Bank sells the government securities to the Commercial Banks  \n(C) The bank rate may be raised  \n(D) The bank rate may be reduced  \n(E) Raising of cash reserve ratio.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.57]*",
+   "options": [
+    "A, C and E only",
+    "B, C and E only",
+    "A, D and E only",
+    "A and D only"
+   ],
+   "answer": 1,
+   "explanation": "Selling securities, raising the bank rate and raising CRR curb inflation."
+  },
+  {
+   "q": "Which of the followings are correct in case of money market in India?  \n(A) Commercial bill is a short-term instrument with high risk  \n(B) Treasury bill is an instrument of short-term borrowing by the government with absence of  \ndefault risk  \n(C) RBI uses refinance to relieve liquidity shortages in the system  \n(D) The RBI has switched over from daily fixed rate repos auction system to discriminatory price  \nauction repos.  \n(E) SLR enables to impose secondary and supplementary reserve requirements on the banking  \nsystem.  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2022 S2 · Q.58]*",
+   "options": [
+    "A, B and D only",
+    "B, C and D only",
+    "B, C and E only",
+    "C, D and E only"
+   ],
+   "answer": 2,
+   "explanation": "T-bills are risk-free, refinance relieves liquidity, SLR is a secondary reserve. (Answer key may vary.)"
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Launch of S&P CNX Nifty (I) July 1995  \n(B) Establishment of Investor Protection Fund in (II) May 1998  \nNSE  \n(C) Launch of NSE's website: www.nseindia.com (III) April 1996  \n(D) NSE recognized as a stock exchange. (IV) April 1993  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.72]*",
+   "options": [
+    "A-III, B-II, C-I, D-IV",
+    "A-III, B-I, C-II, D-IV",
+    "A-II, B-IV, C-III, D-I",
+    "A-III, B-II, C-IV, D-I"
+   ],
+   "answer": 1,
+   "explanation": "NSE recognised Apr 1993; Nifty Apr 1996; website May 1998."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) NABARD (I) 1964  \n(B) IFCI (II) 1955  \n(C) IDBI (III) 1948  \n(D) ICICI (IV) 1982  \n(List I: Organization; List II: Year of Establishment)  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.75]*",
+   "options": [
+    "A-I, B-IV, C-III, D-II",
+    "A-II, B-I, C-IV, D-III",
+    "A-IV, B-III, C-I, D-II",
+    "A-III, B-II, C-I, D-IV"
+   ],
+   "answer": 2,
+   "explanation": "NABARD 1982, IFCI 1948, IDBI 1964, ICICI 1955."
+  },
+  {
+   "q": "Arrange the following policy rate (as on 31-12-2022) of the RBI in the descending order of  \ntheir magnitude.  \n(A) Repo rate  \n(B) Bank rate  \n(C) CRR  \n(D) SLR  \n(E) Reserve repo Rate.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.83]*",
+   "options": [
+    "A, B, D, C, E",
+    "D, A, B, C, E",
+    "B, D, A, E, C",
+    "D, B, A, C, E Passage / data for Q.91-95 (December 2022 S2) Read the following passage and answer the questions. The Nobel Prize in Economics in 2022 has been awarded to Ben S. Bernanke, Douglas W. Diamond and Philip H. Dybvig \"for research on banks and financial crises\". One of the important findings in their research is why avoiding bank collapses is vital. Saving must be channelled to investments for the functioning and growth of any economy. But there arises a conflict - while the savers want instant access to their money for unexpected outlays, the borrowers need to know they will not be forced to repay their loans prematurely. Diamond and Dybvig show how banks offer an optimal solution to this problem. Banks may act as intermediaries, who accept deposits from savers and allow access to their money when they wish and also offer long term loans to borrowers. But the analysis of these authors also shows banks are vulnerable to rumours and they may lead to their imminent collapse, when a large number of savers simultaneously run to a bank to withdraw their money - a bank run occurs and the bank collapses. Such dangerous dynamics can be prevented through the government by providing deposit insurance and acting as a lender of last resort to banks. Diamond demonstrated another societally important function by a bank. Banks as intermediaries between savers and borrowers, are in a better position to assess a borrower's creditworthiness and ensure that loans are used for good investments. \"The laureates' insights have improved our ability to avoid both serious crises and expensive bailouts.\""
+   ],
+   "answer": 3,
+   "explanation": "Dec 2022: SLR 18 > bank rate 6.5 > repo 6.25 > CRR 4.5 > reverse repo 3.35."
+  },
+  {
+   "q": "What conflict do the bankers face while channelizing saving into investment?  \n*[UGC NET December 2022 S2 · \nQ.91]*",
+   "options": [
+    "While the borrowers want instant closing of the loan, the savers want systematic withdrawals.",
+    "While the savers want instant access to their money, the borrowers want to repay their loans only when it matures.",
+    "While the savers want instant closing of the loan, the borrowers demand more loan than their credit worthiness.",
+    "Both the savers and borrowers want to close the loan immediately."
+   ],
+   "answer": 1,
+   "explanation": "Savers want instant access; borrowers want not to repay early."
+  },
+  {
+   "q": "What solution does the Diamond and Dybvig's theory offer to the conflict faced by the  \nbankers while channelizing savings into investments?  \n*[UGC NET December 2022 S2 · Q.92]*",
+   "options": [
+    "Banks assure instant access to money to the savers and terminate long term project of borrowers",
+    "Banks assure long-term finance to borrowers and terminate the savers' accounts",
+    "Banks act as intermediaries that accept deposits from savers and allow them access to their money when they wish, while also offering long term loans to borrowers",
+    "All the above options were offered by Diamond and Dybvig's theory"
+   ],
+   "answer": 2,
+   "explanation": "Banks pool deposits and give long-term loans (maturity transformation)."
+  },
+  {
+   "q": "According to the laureates, what leads to imminent collapse of banks?  \n*[UGC NET December 2022 S2 · Q.93]*",
+   "options": [
+    "Fraudulent behaviour of the borrowers",
+    "Increasing competition in the banking sector",
+    "When a large number of savers simultaneously withdraw their money",
+    "When a large number of borrowers simultaneously borrow money from the bank"
+   ],
+   "answer": 2,
+   "explanation": "Simultaneous withdrawals (a bank run)."
+  },
+  {
+   "q": "What do the laureates suggest to prevent rumours-led bank collapses?  \n*[UGC NET December 2022 S2 · Q.94]*",
+   "options": [
+    "Reduce lending",
+    "Increase lending",
+    "Collaboration with other banks",
+    "Government should provide deposit insurance and act as lender of last resort."
+   ],
+   "answer": 3,
+   "explanation": "Deposit insurance and lender of last resort."
+  },
+  {
+   "q": "According to Diamond, how do banks ensure that loans are used for good investments?  \n*[UGC NET December 2022 S2 · Q.95]*",
+   "options": [
+    "Since banks act as intermediaries between savers and borrowers, they have better idea about the creditworthiness of the borrowers and hence can ensure loans are used for good investments.",
+    "Since banks want to maximize profits, it can ensure loans are used for good investments",
+    "Since bank want to benefit their customers, they can ensure that loans are used for good investment.",
+    "Banks do not have enough information to ensure loans are used for good investment"
+   ],
+   "answer": 0,
+   "explanation": "Banks screen and monitor borrowers (Diamond)."
+  },
+  {
+   "q": "Monetary base of an economy is,  \n*[UGC NET June 2023 · Q.56]*",
+   "options": [
+    "Amount of currency held by public and by the banks as reserves.",
+    "Amount of currency held by public and demand deposits.",
+    "Amount of currency held by public and time deposits.",
+    "Currency deposit ratio."
+   ],
+   "answer": 0,
+   "explanation": "Monetary base = currency with public + bank reserves."
+  },
+  {
+   "q": "In the extreme case of liquidity trap  \n*[UGC NET June 2023 · Q.76]*",
+   "options": [
+    "There will be tendency to buy bonds",
+    "Most of the investors will show bearish behaviour",
+    "Cash will be less preferred",
+    "Price of the bond will be low"
+   ],
+   "answer": 1,
+   "explanation": "At very low rates everyone expects rates to rise and bond prices to fall: bearish."
+  },
+  {
+   "q": "With the same monetary base, which of the following will lead to an increase in broad  \nmoney?  \n*[UGC NET June 2023 · Q.78]*",
+   "options": [
+    "High transaction cost of converting deposit into cash",
+    "Higher investment under SLR",
+    "Higher use of cash",
+    "Increase in financial literacy and banking habit"
+   ],
+   "answer": 3,
+   "explanation": "More banking habit lowers the currency ratio and raises the multiplier."
+  },
+  {
+   "q": "Prevention of Money Laundering Act was enacted in the year  \n*[UGC NET June 2023 · Q.90]*",
+   "options": [
+    "2001",
+    "2002",
+    "2003",
+    "2004"
+   ],
+   "answer": 1,
+   "explanation": "PMLA was enacted in 2002 (in force 2005)."
+  },
+  {
+   "q": "Pillar 1 of Basel III norms focus on  \n(A) Quality and level of capital  \n(B) Risk Coverage  \n(C) Containing leverage  \n(D) Risk management and supervision  \n(E) Market discipline  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · Q.99]*",
+   "options": [
+    "A and B only",
+    "B and C only",
+    "C and D only",
+    "D and E only"
+   ],
+   "answer": 0,
+   "explanation": "Pillar 1: quality and level of capital, risk coverage (also leverage)."
+  },
+  {
+   "q": "Which of the following are recommendations of the Narasimham Committee, 1991.  \n(A) Deregulation of the interest rate structure.  \n(B) Need for greater use of information technology.  \n(C) Permitting only private sector banks to access the capital market.  \n(D) Freedom to appoint chief executive and officers of the banks.  \n(E) Capital adequacy norms were implemented in stages.  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · \nQ.111]*",
+   "options": [
+    "A, B and E only",
+    "A, C and D only",
+    "A, D and E only",
+    "C, D and E only"
+   ],
+   "answer": 2,
+   "explanation": "Narasimham I: deregulated interest rates, management autonomy, phased capital adequacy."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) J. M. Keynes (I) Inventory theoretic approach to  \ntransaction demand for money  \n(B) Kydland-Prescott (II) Liquidity Preference  \n(C) Baumol-Tobin (III) Time inconsistency Problem  \n(D) Friedman-Schwartz (IV) Monetary History of United States  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2023 · Q.118]*",
+   "options": [
+    "A-II, B-III, C-IV, D-I",
+    "A-III, B-II, C-I, D-IV",
+    "A-III, B-I, C-II, D-IV",
+    "A-II, B-III, C-I, D-IV"
+   ],
+   "answer": 3,
+   "explanation": "Keynes: liquidity preference; Kydland–Prescott: time inconsistency; Baumol–Tobin: inventory approach; Friedman–Schwartz: Monetary History."
+  },
+  {
+   "q": "Arrange the following in order to their year of establishment starting from oldest  \n(A) The Industrial Credit and Investment Corporation of India (ICICI)  \n(B) National Bank for Agricultural and Rural Development (NABARD)  \n(C) The Industrial Finance Corporation of India (IFCI)  \n(D) The Industrial Reconstruction Bank of India (IRBI)  \n(E) Export-Import Bank of India  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · \nQ.130]*",
+   "options": [
+    "A, C, E, B, D",
+    "C, A, D, E, B",
+    "E, C, A, B, D",
+    "A, D, C, B, E"
+   ],
+   "answer": 1,
+   "explanation": "IFCI 1948 → ICICI 1955 → IRBI (IRCI 1971) → EXIM 1982 (Jan) → NABARD 1982 (July)."
+  },
+  {
+   "q": "Give below are two statements :  \nStatement - I : Friedman's theory of the demand for money is partly Keynesian and partly  \nnon-Keynesian.  \nStatement - II : It is non-Keynesian in that Friedman neglects completely Keynes' clarification of  \nthe motives for holding money and the corresponding components of demand for money.  \nIn the light of the above statements, choose the correct answer from the options given below:  \n*[UGC NET June 2023 · Q.137]*",
+   "options": [
+    "Both Statement I and Statement II are true.",
+    "Both Statement I and Statement II are false.",
+    "Statement I is true but Statement II is false.",
+    "Statement I is false but Statement II is true."
+   ],
+   "answer": 0,
+   "explanation": "Friedman's demand for money is partly Keynesian (asset demand) but ignores Keynes's motives."
+  },
+  {
+   "q": "The expert committee set up by RBI in 2013 to revise and strengthen the monetary policy  \nframework in India was chaired by :  \n*[UGC NET December 2023 S1 · Q.51]*",
+   "options": [
+    "Raghuram Rajan",
+    "Urjit Patel",
+    "Deepak Mohanty",
+    "Michael Patra"
+   ],
+   "answer": 1,
+   "explanation": "Urjit Patel Committee (2013–14)."
+  },
+  {
+   "q": "Under the flexible inflation targeting framework of monetary policy adopted by the RBI in  \n2016, what is the target range of rate of inflation ?  \n*[UGC NET December 2023 S1 · Q.52]*",
+   "options": [
+    "(4 ± 2)%",
+    "(5 ± 2)%",
+    "(3 ± 2)%",
+    "(2 ± 2)%"
+   ],
+   "answer": 0,
+   "explanation": "4% ± 2%."
+  },
+  {
+   "q": "Repo rate is the interest rate at which :  \n*[UGC NET December 2023 S1 · Q.89]*",
+   "options": [
+    "The commercial banks borrow from the RBI",
+    "The commercial banks borrow from the other commercial banks",
+    "The commercial banks deposit money to the RBI",
+    "The common people deposit money to the RBI"
+   ],
+   "answer": 0,
+   "explanation": "Repo: banks borrow from RBI."
+  },
+  {
+   "q": "Among the new monetary aggregates suggested by the Third working group of RBI, which  \none/ones include time deposits of term less than or equal to one year but does not include the time  \ndeposits with term more than one year ?  \n(A) NM0  \n(B) NM1  \n(C) NM2  \n(D) NM3  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.96]*",
+   "options": [
+    "(A) Only",
+    "(C) Only",
+    "(C) and (D) Only",
+    "(B) and (C) Only"
+   ],
+   "answer": 1,
+   "explanation": "NM2 includes short-term (≤1 year) time deposits; NM3 adds longer ones."
+  },
+  {
+   "q": "Which one of the following are money market instruments ?  \n(A) 91-day Treasury bill  \n(B) Commercial paper  \n(C) Certificate of deposit issued by banks  \n(D) 5-yr government bond  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.97]*",
+   "options": [
+    "(A) Only",
+    "(A) and (B) Only",
+    "(A), (B) and (C) Only",
+    "(B) and (C) Only"
+   ],
+   "answer": 2,
+   "explanation": "T-bills, CP and CDs are money-market instruments; 5-year bonds are capital-market."
+  },
+  {
+   "q": "Arrange the following steps of exchange rate channel of monetary transmission  \nmechanism, in correct order, starting from first to last.  \n(A) reduction in policy rate  \n(B) capital outflows  \n(C) depreciation of domestic currency  \n(D) rise in net exports  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.126]*",
+   "options": [
+    "(A), (C), (D), (B)",
+    "(A), (D), (B), (C)",
+    "(A), (B), (C), (D)",
+    "(A), (D), (C), (B)"
+   ],
+   "answer": 2,
+   "explanation": "Rate cut → capital outflow → depreciation → higher net exports."
+  },
+  {
+   "q": "Arrange the following names of former governors of RBI in the sequence in which they held  \nthe post starting from the earliest to latest.  \n(A) Y.V. Reddy  \n(B) D Subbarao  \n(C) Raghuram Rajan  \n(D) Urjit Patel  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.127]*",
+   "options": [
+    "(C), (B), (D), (A)",
+    "(C), (A), (D), (B)",
+    "(A), (B), (C), (D)",
+    "(D), (C), (A), (B)"
+   ],
+   "answer": 2,
+   "explanation": "Reddy → Subbarao → Rajan → Patel."
+  },
+  {
+   "q": "Arrange the following events in Indian Financial System in correct chronological order,  \nstarting from earliest to latest.  \n(A) Setting up of PFRDA  \n(B) Setting up of UTI  \n(C) Nationalisation of 14 commercial banks  \n(D) Implementation of IBC  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.128]*",
+   "options": [
+    "(A), (B), (C), (D)",
+    "(C), (A), (B), (D)",
+    "(B), (C), (A), (D)",
+    "(A), (C), (B), (D)"
+   ],
+   "answer": 2,
+   "explanation": "UTI 1964 → nationalisation 1969 → PFRDA 2003 → IBC 2016."
+  },
+  {
+   "q": "What does not come under the purview of the function of Reserve Bank of India?  \n*[UGC NET August 2024 \nS1 · Q.53]*",
+   "options": [
+    "Custodian of Foreign Exchange Reserves",
+    "Issues of Bank Notes",
+    "The lender of the last resort",
+    "Multiple expansion of credit"
+   ],
+   "answer": 3,
+   "explanation": "Multiple credit expansion is done by commercial banks."
+  },
+  {
+   "q": "The ________ effect implies that nominal interest rates tend to be high when inflation is high  \nand low when inflation is low?  \n*[UGC NET August 2024 S1 · Q.71]*",
+   "options": [
+    "Tobin effect",
+    "Baumol effect",
+    "Fisher effect",
+    "Patinkin effect"
+   ],
+   "answer": 2,
+   "explanation": "Fisher effect."
+  },
+  {
+   "q": "Which organisation has developed the UPI system in India and in which year?  \n*[UGC NET August 2024 S1 · \nQ.72]*",
+   "options": [
+    "SEBI, 2016",
+    "SBI, 2016",
+    "RBI, 2015",
+    "NPCI, 2016"
+   ],
+   "answer": 3,
+   "explanation": "NPCI, 2016."
+  },
+  {
+   "q": "Which of the following is not an instrument of Monetary Policy?  \n*[UGC NET August 2024 S1 · Q.76]*",
+   "options": [
+    "Cash reserve ratio",
+    "Open market operation",
+    "Bank rate",
+    "Tax rate"
+   ],
+   "answer": 3,
+   "explanation": "Tax rates are fiscal policy."
+  },
+  {
+   "q": "Arrange the following events from the date of their happening starting from the oldest:  \n(A) IRDA Act passed in Parliament  \n(B) Concept of financial inclusion introduced in Banking sector  \n(C) Global trust bank merged with UTI Bank  \n(D) 364 - day treasury bill introduced with market related rates  \n(E) Fiscal responsibility and Budget Management Act Passed  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.92]*",
+   "options": [
+    "(D), (A), (C), (E), (B)",
+    "(D), (C), (E), (A), (B)",
+    "(E), (D), (B), (A), (C)",
+    "(A), (C), (D), (E), (B)"
+   ],
+   "answer": 0,
+   "explanation": "364-day T-bill (1992) → IRDA Act (1999) → GTB–UTI merger proposal (2001) → FRBM (2003) → financial inclusion (2005)."
+  },
+  {
+   "q": "Arrange the following Acts in correct chronological order, starting from earliest to latest:  \n(A) Chit Fund Act  \n(B) Export Import Bank of India Act  \n(C) Prevention of Money Laundering Act  \n(D) National Housing Bank Act  \n(E) Regional Rural Banks Act  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.99]*",
+   "options": [
+    "(E), (B), (A), (D), (C)",
+    "(E), (D), (C), (B), (A)",
+    "(D), (C), (B), (E), (A)",
+    "(D), (A), (E), (C), (B)"
+   ],
+   "answer": 0,
+   "explanation": "RRB Act 1976 → EXIM Act 1981 → Chit Fund Act 1982 → NHB Act 1987 → PMLA 2002."
+  },
+  {
+   "q": "Choose the correct chronological sequence in ascending order (earliest to latest):  \n(A) FRBM act  \n(B) Nationalisation of banks in India  \n(C) Second five year plan  \n(D) Small Industries Development Bank of India (SIDBI)  \n(E) Export Import Bank of India (EXIM Bank)  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 \nS1 · Q.102]*",
+   "options": [
+    "(C), (B), (E), (D), (A)",
+    "(C), (B), (A), (D), (E)",
+    "(C), (A), (B), (D), (E)",
+    "(C), (E), (A), (B), (D)"
+   ],
+   "answer": 0,
+   "explanation": "2nd Plan 1956 → nationalisation 1969 → EXIM 1982 → SIDBI 1990 → FRBM 2003."
+  },
+  {
+   "q": "Consider the following statements regarding the non Banking Financial Companies in India  \n(NBFCs):  \n(A) NBFCs are registered under the RBI Act 1948  \n(B) NBFCs cannot accept demand deposits like commercial banks  \n(C) NBFCs have to invest a specific percent of their assets in unencumbered approved securities  \n(D) NBFCs which engaged in merchant banking and portfolio management services are  \ngoverned by SEBI  \n(E) Every NBFC has to create a reserve fund.  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.108]*",
+   "options": [
+    "(A), (B), (C), (D) only",
+    "(B), (C), (D), (E) only",
+    "(B), (D), (E) only",
+    "(B), (C), (E) only"
+   ],
+   "answer": 1,
+   "explanation": "NBFCs are registered under the RBI Act 1934 (not 1948); the rest are true."
+  },
+  {
+   "q": "Among the following which is/are the instruments of capital market?  \n(A) Venture Capital  \n(B) Treasury Bills  \n(C) Certificate of Deposit issued by commercial banks  \n(D) Global Depository Receipts  \n(E) Inter Corporate Deposits  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.121]*",
+   "options": [
+    "(B), (D), (E) only",
+    "(A), (D) only",
+    "(A), (B), (D) only",
+    "(A), (D), (E) only"
+   ],
+   "answer": 1,
+   "explanation": "Venture capital and GDRs are capital-market instruments."
+  },
+  {
+   "q": "Consider the following statements regarding Regional Rural Banks (RRBs) in India:  \n(A) RRBs were setup on the basis of the recommendation of Narasimham working group, 1975  \n(B) The largest proportion of the equity of RRBs is held by its sponsor bank  \n(C) NABARD coordinates all the activities of RRBs  \n(D) RRBs are lead Bank  \n(E) RRBs are provided refinance facilities through NABARD  \nChoose the correct answer from the options given below:  \n*[UGC NET August \n2024 S1 · Q.123]*",
+   "options": [
+    "(A), (C), (E) only",
+    "(A), (B), (C), (D) only",
+    "(B), (C), (E) only",
+    "(A), (E) only"
+   ],
+   "answer": 0,
+   "explanation": "Narasimham working group (1975); NABARD coordinates and refinances RRBs. Centre holds 50% equity; RRBs are not lead banks."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Narasimham Committee Report (II) (I) Frauds and Malpractices in Bank  \n(B) Ghosh Committee Report (II) Technology issues in Banking  \n(C) Padmanabhan Committee (III) RBI should withdraw 91 days T. Bill from  \nmarket  \n(D) Saraf Committee (IV) Style of inspection and follow up by the  \ncentral bank  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.137]*",
+   "options": [
+    "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)",
+    "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+    "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)",
+    "(A)-(III), (B)-(II), (C)-(I), (D)-(IV)"
+   ],
+   "answer": 2,
+   "explanation": "Narasimham II: withdraw 91-day T-bill (as given); Ghosh: frauds; Padmanabhan: inspection; Saraf: technology."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Bank run (I) D. Pearce  \n(B) q-ratio (II) M. Yunus  \n(C) Genuine saving (III) P. Diamond  \n(D) Micro finance (IV) J. Tobin  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.140]*",
+   "options": [
+    "(A)-(IV), (B)-(I), (C)-(III), (D)-(II)",
+    "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+    "(A)-(III), (B)-(II), (C)-(IV), (D)-(I)",
+    "(A)-(II), (B)-(IV), (C)-(I), (D)-(III)"
+   ],
+   "answer": 1,
+   "explanation": "Diamond: bank runs; Tobin: q; Pearce: genuine saving; Yunus: microfinance."
+  },
+  {
+   "q": "Arrange the following theories in correct chronological order (starting from the earliest).  \n(A) Cambridge version of quantity theory of money  \n(B) Baumol's theory of demand for money  \n(C) Fisher's version of quantity theory of money  \n(D) Tobin's theory of demand for money  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.68]*",
+   "options": [
+    "C, A, D, B",
+    "A, C, B, D",
+    "C, A, B, D",
+    "B, C, D, A"
+   ],
+   "answer": 2,
+   "explanation": "Fisher → Cambridge → Baumol (1952) → Tobin (1956/58)."
+  },
+  {
+   "q": "Consequences of hoarding of money by individual are:  \n(A) Loss of utility by not purchasing goods and services.  \n(B) Foregone interest by not saving.  \n(C) Fall of real value of money by deflation.  \n(D) Loss of return by not purchasing other assets  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.73]*",
+   "options": [
+    "A, B, C Only",
+    "A, B, D Only",
+    "B, C, D Only",
+    "A, B Only"
+   ],
+   "answer": 1,
+   "explanation": "Hoarding costs forgone goods, interest and returns."
+  },
+  {
+   "q": "Arrange the following based on their date of establishment, from earlier to latest:  \n(A) IDBI - Industrial Development Bank of India  \n(B) IFCI - Industrial Finance Corporation of India  \n(C) ICICI - Industrial Credit and Investment Corporation of India  \n(D) IRBI - Industrial Reconstruction Bank of India  \nChoose the correct answer from the options given below:  \n*[UGC NET December \n2024 · Q.82]*",
+   "options": [
+    "B, C, D, A",
+    "D, B, C, A",
+    "B, C, A, D",
+    "A, B, D, C"
+   ],
+   "answer": 2,
+   "explanation": "IFCI 1948 → ICICI 1955 → IDBI 1964 → IRBI 1985."
+  },
+  {
+   "q": "A Central Bank can increase money supply in an economy:  \n(A) By raising the Cash Reserve Ratio  \n(B) By purchasing government securities from the public  \n(C) By lowering the Cash Reserve Ratio  \n(D) By lowering the Repo rate  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.131]*",
+   "options": [
+    "A, B, C Only",
+    "A, B, D Only",
+    "B, C, D Only",
+    "A, C, D Only"
+   ],
+   "answer": 2,
+   "explanation": "Buying securities, cutting CRR and cutting repo raise money supply."
+  },
+  {
+   "q": "In which of the following year, the mandate/preamble of RBI has been amended?  \n*[UGC NET June 2025 S2 \n· Q.82]*",
+   "options": [
+    "2019",
+    "2024",
+    "2016",
+    "2007"
+   ],
+   "answer": 2,
+   "explanation": "RBI Act preamble amended in 2016 (MPC and inflation targeting)."
+  },
+  {
+   "q": "Which of the following is the operating target of monetary policy conducted by RBI?  \n*[UGC NET June \n2025 S2 · Q.90]*",
+   "options": [
+    "Repo rate",
+    "Reverse Repo rate",
+    "Weighted Average Call Money rate",
+    "Marginal Standing Facility rate"
+   ],
+   "answer": 2,
+   "explanation": "Operating target: weighted average call money rate."
+  },
+  {
+   "q": "Arrange the following derivative markets in India in chronological order (starting from  \noldest to latest).  \n(A) Commencement of trading in options on individual securities  \n(B) Introduction of interest rate futures  \n(C) Commencement of trading in Stock Futures  \n(D) Introduction of Futures trading based on the Index  \n(E) Commencement of trading in Index options  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.96]*",
+   "options": [
+    "D, C, E, A, B",
+    "D, E, A, C, B",
+    "D, A, E, B, C",
+    "D, C, E, B, A"
+   ],
+   "answer": 1,
+   "explanation": "Index futures (2000) → index options (2001) → stock options (July 2001) → stock futures (Nov 2001) → interest rate futures (2003)."
+  },
+  {
+   "q": "Arrange the following rates in ascending order, as decided in 54th meeting of monetary  \npolicy committee of RBI.  \n(A) Marginal Standing Facility Rate  \n(B) Standing Deposit Facility Rate  \n(C) CRR  \n(D) Reverse Repo Rate  \n(E) Repo Rate  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.98]*",
+   "options": [
+    "C, D, A, B, E",
+    "B, C, D, A, E",
+    "D, C, B, E, A",
+    "C, D, E, B, A"
+   ],
+   "answer": 2,
+   "explanation": "54th MPC: reverse repo 3.35 < CRR 4 < SDF 5.75 < repo 6.0 < MSF 6.25."
+  },
+  {
+   "q": "Arrange the following countries based on the market capitalization to nominal GDP ratio at  \nthe end of December 2024 in ascending order (as per the Economic Survey 2024-25).  \n(A) U.K.  \n(B) India  \n(C) China  \n(D) Brazil  \n(E) Japan  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · \nQ.102]*",
+   "options": [
+    "B, A, C, E, D",
+    "C, D, B, A, E",
+    "D, C, A, B, E",
+    "A, B, D, C, E"
+   ],
+   "answer": 2,
+   "explanation": "Economic Survey 2024-25: Brazil < China < UK < India < Japan."
+  },
+  {
+   "q": "Match List - I with List - II  \nList - I List - II  \nList-I (Monetary policy regime) List-II (Periods)  \n(A) Fiscal dominance (I) 2016 onwards  \n(B) Multiple indicator approach (II) 1951-1985  \n(C) Monetary targeting with feedbacks (III) 1998-2016  \n(D) Flexible inflation targeting (IV) 1985-1998  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.136]*",
+   "options": [
+    "A-III, B-IV, C-II, D-I",
+    "A-II, B-III, C-IV, D-I",
+    "A-II, B-I, C-IV, D-III",
+    "A-IV, B-III, C-I, D-II Passage / data for Q.146-150 (June 2025 S2) Read the following paragraph and answer the questions: The RBI's current monetary policy reflects a nuanced response to evolving macroeconomic dynamics. While the repo rate remains unchanged at 6.5%, the policy undertone reveals a calibrated withdrawal of accommodation, signaling a shift from pandemic era stimulus. The RBI's liquidity management has transitioned from passive surplus absorption to active fine tuning using variable rate reverse repo (VRRR) operations, amid concerns of global spillovers and domestic inflationary pressures. The policy indicates a forward looking stance, focusing on anchoring inflation expectations rather than reacting to transient price shocks. The monetary transmission remains uneven, with sectoral divergences in credit uptake and lending rates. Furthermore the policy indirectly emphasizes macro prudential regulation and financial stability, acknowledging risks from global interest rate differentials, capital flows and currency volatility. This reflects an integrated policy framework balancing inflation targeting with broader financial resilience in a globally uncertain environment."
+   ],
+   "answer": 1,
+   "explanation": "Fiscal dominance 1951–85; monetary targeting 1985–98; multiple indicators 1998–2016; FIT 2016 onward."
+  },
+  {
+   "q": "Which of the following reflects the RBI's strategy in managing transient inflation shocks?  \n*[UGC NET June 2025 S2 · Q.146]*",
+   "options": [
+    "Immediate rate hike",
+    "Maintaining status quo with calibrated liquidity tools",
+    "Aggressive tightening",
+    "Reducing CRR"
+   ],
+   "answer": 1,
+   "explanation": "Status quo on rates with fine-tuning through liquidity tools."
+  },
+  {
+   "q": "The term withdrawal accommodation in monetary policy implies.  \n*[UGC NET June 2025 S2 · Q.147]*",
+   "options": [
+    "Increase in CRR",
+    "Active bond purchase",
+    "Gradual normalization of policy stance",
+    "Expansionary fiscal stimulus"
+   ],
+   "answer": 2,
+   "explanation": "Gradual normalisation of policy stance."
+  },
+  {
+   "q": "VRRR operations indicate.  \n*[UGC NET June 2025 S2 · Q.148]*",
+   "options": [
+    "Long term capital infusion",
+    "Structural adjustment of fiscal deficit",
+    "Active short term liquidity absorption",
+    "Decrease in SLR"
+   ],
+   "answer": 2,
+   "explanation": "VRRR absorbs short-term surplus liquidity."
+  },
+  {
+   "q": "Which concept is implicit in RBI's focus on anchoring inflation without immediate rate  \naction?  \n*[UGC NET June 2025 S2 · Q.149]*",
+   "options": [
+    "Passive targeting",
+    "Expectation management",
+    "Credit rationing",
+    "Monetary expansion"
+   ],
+   "answer": 1,
+   "explanation": "Managing expectations."
+  },
+  {
+   "q": "The RBI's consideration of global interest rate differentials primarily relates to.  \n*[UGC NET June 2025 S2 · \nQ.150]*",
+   "options": [
+    "Domestic food inflation",
+    "Foreign portfolio flows and exchange rate management",
+    "Retail credit growth",
+    "Agricultural policy"
+   ],
+   "answer": 1,
+   "explanation": "Rate differentials drive portfolio flows and the exchange rate."
+  },
+  {
+   "q": "Which of the following approach has included Time Deposit with commercial banks in the  \ndefinition of Money Supply?  \n*[UGC NET December 2025 · Q.51]*",
+   "options": [
+    "The Conventional Approach",
+    "The Chicago Approach",
+    "The Fed Approach",
+    "The Walters Approach"
+   ],
+   "answer": 1,
+   "explanation": "Chicago (Friedman) approach includes time deposits."
+  },
+  {
+   "q": "In which year, the notes of ₹ 1000 denomination were demonetised for the first time in  \nIndia?  \n*[UGC NET December 2025 · Q.55]*",
+   "options": [
+    "2016",
+    "1978",
+    "1969",
+    "1980"
+   ],
+   "answer": 1,
+   "explanation": "₹1,000 notes were demonetised in 1946 and again in 1978; 1978 is the option given."
+  },
+  {
+   "q": "Recently, Inflation rates have trended downward and approaching steadily Central Bank  \ntarget levels. In this context, which of the following are correct?  \n(A) Supply chains are adopting the economic uncertainties  \n(B) Easing monetary policy  \n(C) Tighter monetary policy  \n(D) Increase in AD is more than increase in AS  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.67]*",
+   "options": [
+    "A and B only",
+    "B and D only",
+    "A and C only",
+    "C and D only"
+   ],
+   "answer": 2,
+   "explanation": "Supply chains adjusting and earlier tightening brought inflation down."
+  },
+  {
+   "q": "(A) In a barter system, if there are 3 goods to be exchanged, the required number of prices  \nwill be 3.  \n(B) Money does not play its functions in case of inflation.  \n(C) Double coincidence of wants is not a problem in barter system.  \n(D) Paper currencies are token money.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.71]*",
+   "options": [
+    "A, B and D Only",
+    "B and D Only",
+    "A and D Only",
+    "B, C and D Only"
+   ],
+   "answer": 2,
+   "explanation": "With 3 goods, barter needs 3(3 − 1)/2 = 3 prices; paper currency is token money."
+  },
+  {
+   "q": "(A) Reserve Money = C + OD + CR  \n(B) M1 = C + OD  \n(C) Money Multiplier (m) = M/RM  \n(D) Narrow Money Supply = M3  \nHere C = Currency, OD = Other deposits with RBI, CR = Cash Reserve of Banks, M = Money  \nSupply, RM = Reserve Money  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.77]*",
+   "options": [
+    "A and D Only",
+    "B and C Only",
+    "A and B Only",
+    "A and C Only"
+   ],
+   "answer": 3,
+   "explanation": "Reserve money = C + OD + CR; m = M/RM. M1 includes demand deposits; narrow money is M1."
+  },
+  {
+   "q": "(A) SEBI - Advisory body  \n(B) GST Council - Statutory body  \n(C) NITI Aayog - Advisory body  \n(D) RBI - Statutory body  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.104]*",
+   "options": [
+    "A and B",
+    "A and C",
+    "B and D",
+    "C and D"
+   ],
+   "answer": 3,
+   "explanation": "NITI Aayog is advisory; RBI is statutory. SEBI is statutory and the GST Council constitutional."
+  },
+  {
+   "q": "Which of the following is not a function of the Securities and Exchange Board of India  \n(SEBI)?  \n*[UGC NET December 2025 · Q.111]*",
+   "options": [
+    "Prohibiting insider trading in securities",
+    "Promoting and regulating self-regulatory organisations",
+    "Underwriting new capital issues",
+    "Regulating portfolio managers"
+   ],
+   "answer": 2,
+   "explanation": "SEBI regulates; it does not underwrite issues."
+  },
+  {
+   "q": "Among the following types of treasury bills, identify the correct one.  \n(A) Adjusted price auction  \n(B) Uniform price auction  \n(C) Multiple price auction  \n(D) Readjusted price auction  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.113]*",
+   "options": [
+    "A and B only",
+    "B and C only",
+    "C and D only",
+    "A and D only"
+   ],
+   "answer": 1,
+   "explanation": "T-bill auctions use uniform-price and multiple-price methods."
+  },
+  {
+   "q": "Etymologically, the term 'money' is derived from which language?  \n*[UGC NET December 2025 · Q.135]*",
+   "options": [
+    "Greek",
+    "Latin",
+    "Persian",
+    "Sanskrit"
+   ],
+   "answer": 1,
+   "explanation": "From Latin 'Moneta' (Juno Moneta)."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Narasimham Committee - I (I) Tax Reform  \n(B) Narasimham Committee - II (II) Banking Sector Reform  \n(C) Chelliah Committee (III) Financial Sector Reform  \n(D) C. Rangarajan Committee (IV) Poverty Estimation Committee  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.136]*",
+   "options": [
+    "A-IV, B-II, C-I, D-III",
+    "A-III, B-II, C-I, D-IV",
+    "A-II, B-III, C-IV, D-I",
+    "A-I, B-III, C-IV, D-III"
+   ],
+   "answer": 1,
+   "explanation": "Narasimham I: financial sector; II: banking sector; Chelliah: tax; Rangarajan: poverty."
+  }
+ ]
+}

@@ -1,0 +1,1348 @@
+{
+ "duration": 146,
+ "negative": 0,
+ "questions": [
+  {
+   "q": "Which of the following is not part of the Peacock-Wiseman Hypothesis?  \n*[UGC NET December 2018 · Q.82]*",
+   "options": [
+    "Displacement Effect",
+    "Inspection Effect",
+    "Concentration Effect",
+    "Announcement Effect"
+   ],
+   "answer": 3,
+   "explanation": "Peacock–Wiseman: displacement, inspection and concentration effects."
+  },
+  {
+   "q": "An income tax will be progressive if  \n*[UGC NET December 2018 · Q.83]*",
+   "options": [
+    "Marginal rate of tax is greater than the average rate of tax.",
+    "Marginal rate of tax is less than the average rate of tax.",
+    "Marginal rate of tax is equal to the average rate of tax.",
+    "Marginal rate of tax is zero."
+   ],
+   "answer": 0,
+   "explanation": "Progressive: marginal rate above average rate."
+  },
+  {
+   "q": "The public expenditure in India is classified as capital and revenue. Which of the following  \nis/are revenue expenditure?  \n(i) Subsidies  \n(ii) Interest payments on public debt  \n(iii) Wages and salaries  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.84]*",
+   "options": [
+    "(i) and (ii)",
+    "(i) and (iii)",
+    "(ii) and (iii)",
+    "(i), (ii) and (iii)"
+   ],
+   "answer": 3,
+   "explanation": "Subsidies, interest and salaries are all revenue expenditure."
+  },
+  {
+   "q": "Which of the following correctly describes the Musgrave and Thin's measure of tax  \nprogressivity?  \nwhere  \nGa = Gini's coefficient after tax,  \nGb = Gini's coefficient before tax.  \n*[UGC NET December 2018 · Q.85]*",
+   "options": [
+    "M = (1 − Ga)/(1 − Gb)",
+    "M = Ga/Gb",
+    "M = (1 − Gb)/(1 − Ga)",
+    "M = Gb/Ga"
+   ],
+   "answer": 0,
+   "explanation": "Musgrave–Thin: (1 − Ga)/(1 − Gb)."
+  },
+  {
+   "q": "GST which came into effect from 1st July, 2017 has four (04) tax slabs applicable to the  \ncommodities and services in India. Which of the following tax slabs are correct?  \n*[UGC NET December 2018 · Q.86]*",
+   "options": [
+    "5%, 12%, 18% and 28%",
+    "5%, 8%, 12% and 18%",
+    "8%, 12%, 18% and 28%",
+    "8%, 12%, 15% and 18%"
+   ],
+   "answer": 0,
+   "explanation": "GST slabs (2017): 5, 12, 18, 28%."
+  },
+  {
+   "q": "According to the Union Budget, which of the following Fiscal deficit targets for 2018 – 19 is  \ncorrect?  \n*[UGC NET December 2018 · Q.87]*",
+   "options": [
+    "3·3% of the GDP",
+    "4·3% of the GDP",
+    "5·3% of the GDP",
+    "4·5% of the GDP"
+   ],
+   "answer": 0,
+   "explanation": "Budget 2018-19 targeted a fiscal deficit of 3.3% of GDP."
+  },
+  {
+   "q": "Why are indirect taxes called regressive?  \n*[UGC NET December 2018 · Q.88]*",
+   "options": [
+    "They are charged at higher rates than direct tax.",
+    "They are charged at the same rate for all income groups.",
+    "Both above are correct",
+    "None of the above are correct"
+   ],
+   "answer": 1,
+   "explanation": "Same rate for all incomes takes a larger share of a poor person's income."
+  },
+  {
+   "q": "Consider the following:  \n(i) Fringe Benefits Tax  \n(ii) Capital Gains Tax  \n(iii) Securities Transaction Tax  \nWhich of the above is/are Direct Tax/Taxes?  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.89]*",
+   "options": [
+    "(ii) and (iii)",
+    "(i), (ii) and (iii)",
+    "Only (i)",
+    "(i) and (iii)"
+   ],
+   "answer": 1,
+   "explanation": "FBT, capital gains tax and STT are direct taxes."
+  },
+  {
+   "q": "Development expenditure of the Central Government does not include  \n(i) Grant to States under Centrally sponsored schemes  \n(ii) Expenditure on social and community services  \n(iii) Expenditure on economic services  \n(iv) Defence expenditure  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.91]*",
+   "options": [
+    "(i) and (ii)",
+    "(ii) and (iii)",
+    "Only (iv)",
+    "(iii) and (iv)"
+   ],
+   "answer": 2,
+   "explanation": "Defence is non-development expenditure."
+  },
+  {
+   "q": "Given below are two statements, one labelled as Assertion (A) and the other labelled as  \nReason (R). Read the statements and choose the correct answer using the code given below.  \nAssertion (A): A progressive income tax is based on equimarginal sacrifice.  \nReason (R): Higher the income, lower will be the marginal utility of money for the tax payer.  \n*[UGC NET December 2018 · Q.133]*",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+    "(A) is true, but (R) is false.",
+    "(A) is false, but (R) is true."
+   ],
+   "answer": 0,
+   "explanation": "Equal marginal sacrifice with falling MU of money gives progressive taxes."
+  },
+  {
+   "q": "Which of the following is an example of a public good?  \n*[UGC NET June 2019 S1 · Q.86]*",
+   "options": [
+    "Residential building",
+    "National defence",
+    "Restaurant meals",
+    "Swimming pool of a house"
+   ],
+   "answer": 1,
+   "explanation": "National defence."
+  },
+  {
+   "q": "A tax is said to be direct, when  \n*[UGC NET June 2019 S1 · Q.87]*",
+   "options": [
+    "impact and incidence fall upon the same person",
+    "only incidence falls upon the same person",
+    "impact is shifted to another person",
+    "person escapes from paying tax"
+   ],
+   "answer": 0,
+   "explanation": "Direct tax: impact and incidence on the same person."
+  },
+  {
+   "q": "A toll tax is a tax based on which of the following?  \n*[UGC NET June 2019 S1 · Q.88]*",
+   "options": [
+    "The benefit principle",
+    "Horizontal equity",
+    "Vertical equity",
+    "Tax progressively"
+   ],
+   "answer": 0,
+   "explanation": "Tolls charge users: benefit principle."
+  },
+  {
+   "q": "Vertical equity in taxation means that  \n*[UGC NET June 2019 S1 · Q.89]*",
+   "options": [
+    "people in different income groups should be taxed equally",
+    "people in different income groups should be taxed differently",
+    "people in different groups should be charged proportionately",
+    "unequal people should be treated equally"
+   ],
+   "answer": 1,
+   "explanation": "Vertical equity: different incomes, different tax."
+  },
+  {
+   "q": "Which of the following is NOT part of Wiseman and Peacock hypothesis?  \n*[UGC NET June 2019 S1 · Q.90]*",
+   "options": [
+    "Concentration effect",
+    "Displacement effect",
+    "Inspection effect",
+    "Taxation effect"
+   ],
+   "answer": 3,
+   "explanation": "No 'taxation effect' in Peacock–Wiseman."
+  },
+  {
+   "q": "Which one of the following is NOT the method of debt redemption?  \n*[UGC NET June 2019 S1 · Q.91]*",
+   "options": [
+    "Refunding",
+    "Repudiation",
+    "Sinking fund",
+    "Capital levy"
+   ],
+   "answer": 1,
+   "explanation": "Repudiation is default, not redemption."
+  },
+  {
+   "q": "The concept of fiscal deficit implies which of the following?  \n*[UGC NET June 2019 S1 · Q.92]*",
+   "options": [
+    "Revenue and interest receipts minus revenue expenditure",
+    "Revenue receipts and recovery of loans and other receipts minus total expenditure",
+    "Receipts minus disbursement in Capital Account",
+    "Total receipts minus total expenditure"
+   ],
+   "answer": 1,
+   "explanation": "FD = total expenditure − (revenue receipts + recoveries and other non-debt receipts)."
+  },
+  {
+   "q": "During recession which of the following measures is initiated?  \n*[UGC NET June 2019 S1 · Q.93]*",
+   "options": [
+    "Cutting taxes and boosting government spending",
+    "Increasing taxes and decreasing government spending",
+    "Keeping tax rates constant and increasing government spending",
+    "Increasing tax rates and keeping government spending constant"
+   ],
+   "answer": 0,
+   "explanation": "In recession: cut taxes and raise spending."
+  },
+  {
+   "q": "During a depression which of the following policy instruments should be used?  \n*[UGC NET June 2019 S1 · \nQ.94]*",
+   "options": [
+    "Taxes should be increased",
+    "Taxes are kept unchanged and public expenditure is increased",
+    "Public expenditure is reduced",
+    "There should be a balanced budget"
+   ],
+   "answer": 1,
+   "explanation": "In depression, raise public spending (taxes unchanged)."
+  },
+  {
+   "q": "Incidence of tax refers to:  \n*[UGC NET December 2019 S1 · Q.73]*",
+   "options": [
+    "Whether a tax is progressive, proportional or regressive",
+    "An authority which collects the tax",
+    "The person or group who ultimately pays the tax",
+    "How a tax is collected?"
+   ],
+   "answer": 2,
+   "explanation": "Incidence: who finally bears the tax."
+  },
+  {
+   "q": "'Displacement effect' in the Peacock-Wiseman Hypothesis implies:  \n*[UGC NET December 2019 S1 · Q.74]*",
+   "options": [
+    "An upward displacement of public expenditure according to higher economic growth",
+    "The movement from older level of public expenditure and taxation to a newer and higher level",
+    "Public expenditure increases at steady rate and reaches higher level",
+    "Government undertakes more and newer activities and hence public expenditure rises steeply upwards"
+   ],
+   "answer": 1,
+   "explanation": "Displacement: spending and taxes jump to a new, higher level after a crisis."
+  },
+  {
+   "q": "Under which article of the Constitution of India, President is empowered to appoint the  \nFinance Commission?  \n*[UGC NET December 2019 S1 · Q.88]*",
+   "options": [
+    "279",
+    "280",
+    "281",
+    "282"
+   ],
+   "answer": 1,
+   "explanation": "Article 280."
+  },
+  {
+   "q": "On which date and year GST became effective in India?  \n*[UGC NET December 2019 S1 · Q.101]*",
+   "options": [
+    "1st April, 2017",
+    "1st January, 2017",
+    "1st July, 2017",
+    "1st March, 2018"
+   ],
+   "answer": 2,
+   "explanation": "1 July 2017."
+  },
+  {
+   "q": "The whole burden of a tax will be borne by the consumer if  \n*[UGC NET December 2019 S1 · Q.102]*",
+   "options": [
+    "The demand for commodity is perfectly elastic and supply is perfectly inelastic",
+    "The elasticity of demand for a commodity is same as the elasticity of supply of the commodity",
+    "The demand for a commodity is inelastic and supply is perfectly elastic",
+    "The elasticity of demand for a commodity is less than the elasticity of supply of that commodity"
+   ],
+   "answer": 2,
+   "explanation": "Consumers bear all when demand is perfectly inelastic or supply perfectly elastic."
+  },
+  {
+   "q": "Match List-I with List-II:  \nList - I List - II  \n(a) Fiscal deficit (i) Excess of total expenditure over total  \nreceipts  \n(b) Budget deficit (ii) Excess of revenue expenditure over  \nrevenue receipts  \n(c) Revenue deficit (iii) Excess of total expenditure over total  \nreceipts less borrowings  \n(d) Primary deficit (iv) Excess of total expenditure over total  \nreceipts less borrowings and interest  \npayments  \nChoose the correct option from those given below:  \n*[UGC NET December 2019 S1 · Q.116]*",
+   "options": [
+    "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+    "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+    "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+    "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+   ],
+   "answer": 0,
+   "explanation": "Fiscal: (iii); budget: (i); revenue: (ii); primary: (iv)."
+  },
+  {
+   "q": "Arrange the following in chronological order:  \n(a) The Indirect Tax Enquiry Committee (Jha Committee)  \n(b) Tax Reforms Committee (R.J. Chellaiah Committee)  \n(c) Taxation Enquiry Commission (Mathur Committee)  \n(d) The Direct Tax Enquiry Committee (Wanchoo Committee)  \nChoose the correct option from those given below:  \n*[UGC NET December 2019 S1 · Q.126]*",
+   "options": [
+    "(c), (b), (d), (a)",
+    "(c), (a), (d), (b)",
+    "(b), (c), (a), (d)",
+    "(c), (d), (a), (b)"
+   ],
+   "answer": 3,
+   "explanation": "Mathur (1953–54) → Wanchoo (1971) → Jha (1977) → Chelliah (1991)."
+  },
+  {
+   "q": "The problem relating to burden of public debt has been dealt by  \n(a) A.P. Lerner  \n(b) E.D. Domar  \n(c) A.C. Pigou  \n(d) A.H. Hansen  \nSelect the correct answer from the options given below:  \n*[UGC NET December 2019 S1 · Q.136]*",
+   "options": [
+    "(a) and (b)",
+    "(b) and (c)",
+    "(a) and (d)",
+    "(b) and (d)"
+   ],
+   "answer": 0,
+   "explanation": "Lerner and Domar wrote on the burden of public debt."
+  },
+  {
+   "q": "\"The best system of taxation from the economic point of view is that which has the best or  \nthe least bad economic effects\". Who said this?  \n*[UGC NET June 2020 S2 · Q.105]*",
+   "options": [
+    "Musgrave",
+    "Marshall",
+    "Hugh Dalton",
+    "Pigou"
+   ],
+   "answer": 2,
+   "explanation": "Hugh Dalton."
+  },
+  {
+   "q": "Banking Cash Transaction Tax (BCTT) was introduced with effect from  \n*[UGC NET June 2020 S2 · Q.111]*",
+   "options": [
+    "1st Jan, 2015",
+    "1st June, 2005",
+    "1st Jan, 2019",
+    "1st June, 2009"
+   ],
+   "answer": 1,
+   "explanation": "BCTT from 1 June 2005."
+  },
+  {
+   "q": "Which of the following are the three states which secured the highest percentage of inter-se  \nshare of tax revenue among states, as per recommendations of the 14th Finance Commission?  \n(A) Uttar Pradesh  \n(B) Bihar  \n(C) Madya Pradesh  \n(D) Andhra Pradesh  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET June \n2020 S2 · Q.139]*",
+   "options": [
+    "A, B and D only",
+    "A, C and D only",
+    "A, B and C only",
+    "B, C and D only"
+   ],
+   "answer": 2,
+   "explanation": "14th FC shares: UP 17.96%, Bihar 9.67%, MP 7.55%."
+  },
+  {
+   "q": "Which one of the following objectives of public finance is NOT correct?  \n*[UGC NET June 2020 S2 · Q.146]*",
+   "options": [
+    "Ensure macroeconomic stability",
+    "Ensure reduction of adverse balance of payments",
+    "Accelerate growth and development",
+    "Desired state of distribution"
+   ],
+   "answer": 1,
+   "explanation": "The passage lists stability, distribution and growth, not BoP."
+  },
+  {
+   "q": "Which one of the following statements is correct?  \n(A) The expansion of the public sector has been a necessary and constructive development and  \na strong public sector is needed along with the capitalist market  \n(B) There are several reasons for the state to embrace a much larger role  \n(C) In India, state intervention through public finance policy has to play an important role  \n(D) Keynesian economics states that the state has to ensure full employment  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.147]*",
+   "options": [
+    "A and B only",
+    "A, B and C only",
+    "A and C only",
+    "A, B, C and D"
+   ],
+   "answer": 3,
+   "explanation": "All four statements follow from the passage."
+  },
+  {
+   "q": "The statement, \"Dispute arises when the state expands to areas beyond the realm of  \nboundaries of the protective state into a productive or tax-transfer state\", was given by  \n*[UGC NET June 2020 S2 · \nQ.148]*",
+   "options": [
+    "Musgrave",
+    "Keynes",
+    "Dalton",
+    "Buchanan"
+   ],
+   "answer": 3,
+   "explanation": "James Buchanan."
+  },
+  {
+   "q": "The externalities of the government intervention in the economy can be found in terms of  \n(A) Market development  \n(B) Money supply  \n(C) Storage and price support in agriculture  \n(D) Irrigation  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.149]*",
+   "options": [
+    "A, C and D only",
+    "A, B and D only",
+    "A, B and C only",
+    "A and D only"
+   ],
+   "answer": 0,
+   "explanation": "Market development, irrigation, storage and price support."
+  },
+  {
+   "q": "Which one of the following does NOT fall in the category of government transfers?  \n*[UGC NET June 2020 S2 \n· Q.150]*",
+   "options": [
+    "National Housing",
+    "Swachchh Bharat Abhiyan",
+    "Periodic loan waivers",
+    "Education"
+   ],
+   "answer": 3,
+   "explanation": "Education is spending on a service, not a transfer listed in the passage."
+  },
+  {
+   "q": "The movement from old level of expenditure and taxation to a new and higher level is called:  \n*[UGC NET December 2020 · Q.23]*",
+   "options": [
+    "Concentration effect",
+    "Inspection effect",
+    "Displacement effect",
+    "All of the above"
+   ],
+   "answer": 2,
+   "explanation": "Displacement effect."
+  },
+  {
+   "q": "The efficiency condition in the production of pure public good requires that the production be  \ncarried out up to a point when: {where MBi represents Marginal Benefit of the 'ith' individual and  \nMBj represents Marginal Benefits that accrue to the 'jth' individual and MC is the marginal cost}  \n*[UGC NET December 2020 · Q.25]*",
+   "options": [
+    "MBi + ΣMBj = MC",
+    "MBi + ΣMBj > MC",
+    "MBi + ΣMBj < MC",
+    "MBi − ΣMBj > MC"
+   ],
+   "answer": 0,
+   "explanation": "Efficiency: sum of all individuals' marginal benefits = MC."
+  },
+  {
+   "q": "The 15th Finance Commission (FC) has recommended that the States be given what per cent  \nof the divisible tax pool of the Centre during the period 2021-2022 to 2025-26?  \n*[UGC NET December 2020 · Q.39]*",
+   "options": [
+    "51",
+    "31",
+    "41",
+    "61"
+   ],
+   "answer": 2,
+   "explanation": "41%."
+  },
+  {
+   "q": "Zero Based Budgeting (ZBB) lays emphasis on:  \n(A) Allocation of resources based on cost-benefit terms  \n(B) Unlimited deficit financing  \n(C) Preparing a new budget right from the scratch  \n(D) Preparing the budget, neglecting the history of expenditure  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.62]*",
+   "options": [
+    "A, B and C only",
+    "A, C and D only",
+    "B, C and D only",
+    "A, B and D only"
+   ],
+   "answer": 1,
+   "explanation": "ZBB: cost–benefit allocation from scratch, ignoring past spending."
+  },
+  {
+   "q": "Which of the following statements are relevant for Gender Budgeting?  \n(A) Preparing a separate budget for women  \n(B) Gender budget is not practised by the Government of India  \n(C) Evaluating budgetary provisions with a gender perspective  \n(D) Gender budgeting is a tool for Gender Empowerment  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.63]*",
+   "options": [
+    "A only",
+    "A and D only",
+    "C and D only",
+    "A, B, C and D"
+   ],
+   "answer": 2,
+   "explanation": "Gender budgeting evaluates budgets with a gender lens and empowers women; India has practised it since 2005-06."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Canons of Taxation (I) U. K. Hicks  \n(B) Canons of Public Expenditure (II) Adam Smith  \n(C) Effective Incidence of Tax (III) Findlay Shirras  \n(D) Benefit received approach of Public (IV) Erik Lindahl  \nExpenditure  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.71]*",
+   "options": [
+    "A - II, B - III, C - I, D - IV",
+    "A - I, B - II, C - III, D - IV",
+    "A - II, B - III, C - IV, D - I",
+    "A - IV, B - I, C - II, D - III"
+   ],
+   "answer": 0,
+   "explanation": "Smith, Shirras, U.K. Hicks, Lindahl."
+  },
+  {
+   "q": "Arrange the introduction of the following taxes in India in chronological order.  \n(A) Service Tax  \n(B) Income Tax  \n(C) Banking Transaction Tax  \n(D) Gift Tax  \n(E) Goods and Services Tax  \nChoose the correct answer from the options given below  \n*[UGC NET December 2020 · \nQ.80]*",
+   "options": [
+    "B, D, A, C, E",
+    "B, A, C, E, D",
+    "B, C, A, D, E",
+    "D, B, A, C, E"
+   ],
+   "answer": 0,
+   "explanation": "Income tax (1860) → gift tax (1958) → service tax (1994) → BCTT (2005) → GST (2017)."
+  },
+  {
+   "q": "Given below are two statements, one is labelled as Assertion A and the other is labelled as  \nReason R  \nAssertion A: There is no incentive for a profit maximising producer to supply public goods  \nReason R: If he produces it, he is unable to exclude people from consuming it and hence he  \ncannot charge a price  \nIn light of the above statements, choose the most appropriate answer from the options given  \nbelow  \n*[UGC NET December 2020 · Q.87]*",
+   "options": [
+    "Both A and R are correct and R is the correct explanation of A",
+    "Both A and R are correct but R is NOT the correct explanation of A",
+    "A is correct but R is not correct",
+    "A is not correct but R is correct"
+   ],
+   "answer": 0,
+   "explanation": "Non-excludability prevents charging, so profit-seekers don't supply public goods."
+  },
+  {
+   "q": "The provision for social goods, or the process by which total resource use is divided between  \nprivate and social goods and by which the mix of social goods is choosen is known as ________  \n*[UGC NET December 2021 · Q.23]*",
+   "options": [
+    "Allocation function",
+    "Distribution function",
+    "Stabilization function",
+    "Normalization function"
+   ],
+   "answer": 0,
+   "explanation": "Musgrave's allocation function."
+  },
+  {
+   "q": "Primary deficit is given by ________  \n*[UGC NET December 2021 · Q.24]*",
+   "options": [
+    "Fiscal deficit – Interest payments",
+    "Revenue deficit – Interest payment",
+    "Budget deficit – Interest Payment",
+    "Revenue Receipt – Revenue Expenditure"
+   ],
+   "answer": 0,
+   "explanation": "Primary deficit = fiscal deficit − interest."
+  },
+  {
+   "q": "Which of the following strategy is not correct in order to have expansionary impact of fiscal  \npolicy?  \n*[UGC NET December 2021 · Q.26]*",
+   "options": [
+    "Public expenditure must be financed by borrowings",
+    "Public expenditure must be financed through increased taxes only",
+    "Compensatory spending for public investment",
+    "Cut in taxes"
+   ],
+   "answer": 1,
+   "explanation": "Tax-financed spending has a weaker (balanced-budget) effect."
+  },
+  {
+   "q": "Tools of expansionary Fiscal policy include  \n(A) Raising Government expenditure  \n(B) Reducing Government expenditure  \n(C) Increasing tax rate  \n(D) Reducing tax rate  \n(E) Increasing money supply  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2021 · Q.44]*",
+   "options": [
+    "(A), (D) only",
+    "(B), (C) only",
+    "(A), (D), (E) only",
+    "(B), (C), (E) only"
+   ],
+   "answer": 0,
+   "explanation": "Raise spending, cut taxes. Money supply is monetary policy."
+  },
+  {
+   "q": "With reference to the views of classicals on public debt, which of the followings are correct :  \n(A) future financing gets more trouble some due to public debt  \n(B) public debt leads to a reduction of resources for productive private employment  \n(C) increasing public debt leads to currency depreciation and deflationary situations in the  \neconomy  \n(D) Debt financing requires funds for interest payment and amortization, hence a double burden  \nfor exchequer  \n(E) Public debt leads to productive activities  \nChoose the most appropriate answer from the options given below :  \n*[UGC NET December 2021 · Q.57]*",
+   "options": [
+    "(A), (E) and (B) only",
+    "(C), (D) and (E) only",
+    "(E), (D) and (A) only",
+    "(A), (B) and (D) only"
+   ],
+   "answer": 3,
+   "explanation": "Classicals: debt makes future financing harder, diverts resources and doubles the burden."
+  },
+  {
+   "q": "Match List I with List II :  \nList - I List - II  \n(A) Pure Public good (I) Non-rival but excludable  \n(B) Pure Private good (II) Non-excludable but rivalry  \n(C) Open acess resources (III) Non-rival and non-excludable  \n(D) Congestible resource (IV) Excludable and rival  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.72]*",
+   "options": [
+    "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+    "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)",
+    "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+    "(A)-(III), (B)-(II), (C)-(I), (D)-(IV)"
+   ],
+   "answer": 1,
+   "explanation": "Pure public: non-rival, non-excludable; private: both; open access: non-excludable but rival; congestible: non-rival but excludable."
+  },
+  {
+   "q": "Criteria and weights assigned by the Fifteenth Finance Commission of India for Horizontal  \nDevolution:  \n(A) Area  \n(B) Forest and Ecology  \n(C) Income Distance  \n(D) Tax and Fiscal efforts  \n(E) Demographic performance  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.84]*",
+   "options": [
+    "(D), (B), (E), (A), (C)",
+    "(B), (D), (A), (E), (C)",
+    "(E), (A), (D), (C), (B)",
+    "(A), (D), (B), (C), (E)"
+   ],
+   "answer": 0,
+   "explanation": "15th FC weights in ascending order: tax effort 2.5, forest 10, demographic 12.5, area 15, income distance 45."
+  },
+  {
+   "q": "Given below are two statements :  \nStatement I : If you bought a product which now becomes subject to tax, you will be in a better  \nposition to avoid the tax and the seller bears with a larger part if your demand is elastic while  \nseller's supply is inelastic.  \nStatement II : A tax on salt is likely to be borne by the consumer.  \nIn the light of the above statements, choose the most appropriate answer from the options  \ngiven below :  \n*[UGC NET December 2021 · Q.86]*",
+   "options": [
+    "Both Statement I and Statement II are correct",
+    "Both Statement I and Statement II are incorrect",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct"
+   ],
+   "answer": 0,
+   "explanation": "Elastic demand shifts burden to sellers; salt (inelastic demand) is borne by consumers."
+  },
+  {
+   "q": "Total Budget Allocation in year 2022-23 for \"Har Ghar, Nal Se Jal\" in rupees is:  \n*[UGC NET December 2022 S1 \n· Q.24]*",
+   "options": [
+    "50,000/- crore",
+    "80,000/- crore",
+    "60,000/- crore",
+    "70,000/- crore"
+   ],
+   "answer": 2,
+   "explanation": "₹60,000 crore in Budget 2022-23."
+  },
+  {
+   "q": "A toll is a tax on those citizens who use toll roads. This policy can be viewed as an application  \nof  \n*[UGC NET December 2022 S1 · Q.25]*",
+   "options": [
+    "The benefit principle",
+    "Horizontal equity",
+    "Vertical equity",
+    "Tax progressivity"
+   ],
+   "answer": 0,
+   "explanation": "Benefit principle."
+  },
+  {
+   "q": "The Free-rider problem arises:  \n*[UGC NET December 2022 S1 · Q.27]*",
+   "options": [
+    "when goods are congestible.",
+    "when goods are of a rival nature.",
+    "when number of beneficiaries is large and exclusion of any one of them, is impossible.",
+    "when goods are available freely but on a first cum first serve basis till stocks last."
+   ],
+   "answer": 2,
+   "explanation": "Free riding arises when exclusion of many beneficiaries is impossible."
+  },
+  {
+   "q": "Which of the following are required for a good tax system?  \n(A) Revenue yield should be adequate.  \n(B) Tax system should be so that different income groups of people pay tax equally.  \n(C) Administrative and compliance cost of tax should be as minimum as possible.  \n(D) Tax system should not permit scope for tax leakage and tax evasion.  \n(E) Tax should be chosen to maximise interference with market efficiency.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.55]*",
+   "options": [
+    "A and C only",
+    "A, C and E only",
+    "A, C and D only",
+    "A, B, C and D only"
+   ],
+   "answer": 2,
+   "explanation": "Adequate revenue, low cost, no leakage. Neutral taxes, not equal payment by all."
+  },
+  {
+   "q": "Federal transfers to states are required mainly:  \n(A) to offset unequal assignment of resources and responsibilities between Federal Government  \nand State Government.  \n(B) to correct spillovers of benefits of public goods between jurisdictions.  \n(C) to address horizontal fiscal imbalances.  \n(D) to augment resources of local bodies.  \n(E) for overall efficiency of tax system.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.56]*",
+   "options": [
+    "A, B and C only",
+    "A, C and D only",
+    "A, B, C and D only",
+    "A, B, C, D and E"
+   ],
+   "answer": 2,
+   "explanation": "Transfers fix vertical and horizontal imbalances, spillovers and local resources."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Functional Finance (I) Peacock and Wiseman  \n(B) Displacement effect (II) Keynes and Learner  \n(C) Law of increasing state activity (III) Wagner  \n(D) Allocative, stabilization and distributive (IV) Musgrave  \nfunction of state  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.71]*",
+   "options": [
+    "A - II, B - I, C - III, D - IV",
+    "A - IV, B - I, C - III, D - II",
+    "A - II, B - III, C - I, D - IV",
+    "A - I, B - II, C - IV, D - III"
+   ],
+   "answer": 0,
+   "explanation": "Functional finance (Keynes, Lerner); displacement (Peacock–Wiseman); Wagner; Musgrave."
+  },
+  {
+   "q": "Indicate the chronological sequence of the following in terms of their implementation in  \nIndia.  \n(A) Service Tax  \n(B) Expenditure Tax  \n(C) State VAT  \n(D) Income Tax  \n(E) Goods and Services Tax (GST)  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.80]*",
+   "options": [
+    "B, D, C, A, E",
+    "D, B, C, A, E",
+    "D, B, A, C, E",
+    "B, A, D, C, E"
+   ],
+   "answer": 2,
+   "explanation": "Income tax (1860) → expenditure tax (1957) → service tax (1994) → state VAT (2005) → GST (2017)."
+  },
+  {
+   "q": "Given below are two statements:  \nStatement I: A rising ratio of interest payments to GNP imposes a burden because taxation is  \nneeded to finance the interest payment and imposes a dead weight loss.  \nStatement II: A rising rate of interest payment in the budget tends to crowd out other public  \nprograms.  \nIn light of the above statements, choose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.87]*",
+   "options": [
+    "Both Statement I and Statement II are true.",
+    "Both Statement I and Statement II are false.",
+    "Statement I is true but Statement II is false.",
+    "Statement I is false but Statement II is true."
+   ],
+   "answer": 0,
+   "explanation": "Interest needs distorting taxes and squeezes other programmes."
+  },
+  {
+   "q": "Given below are two statements, one is labelled as Assertion (A) and the other is labelled as  \nReason (R).  \nAssertion (A): The low income countries are far more likely to borrow money to finance their  \npublic sector expenditure.  \nReason (R): Governments need not repay their loans, along with interest payment.  \nIn light of the above statements, choose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.88]*",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "Both (A) and (R) are true but (R) is NOT the correct explanation of (A).",
+    "(A) is true but (R) is false.",
+    "(A) is false but (R) is true."
+   ],
+   "answer": 2,
+   "explanation": "Loans must be repaid with interest."
+  },
+  {
+   "q": "Who was the chairman of 14th Finance Commission in India ?  \n*[UGC NET December 2022 S2 · Q.23]*",
+   "options": [
+    "Dr. Vijay Kelkar",
+    "Dr Y.V. Reddy",
+    "Dr. C. Rangarajan",
+    "Dr. N.K. Singh"
+   ],
+   "answer": 1,
+   "explanation": "Dr Y.V. Reddy."
+  },
+  {
+   "q": "The component which distinguishes primary deficit from fiscal deficit is :  \n*[UGC NET December 2022 S2 · Q.27]*",
+   "options": [
+    "Non-debt component of capital receipt",
+    "Interest payment",
+    "Debt component of capital receipt",
+    "Revenue deficit"
+   ],
+   "answer": 1,
+   "explanation": "Primary deficit = fiscal deficit − interest payments."
+  },
+  {
+   "q": "In the budget at glance, which of the following items are included ?  \n(A) budget estimate of the current year  \n(B) Revised estimate of the current year  \n(C) Actuals of the current year  \n(D) Actuals for the preceding year  \n(E) Budget estimate for the forthcoming year.  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.45]*",
+   "options": [
+    "A and D only",
+    "A, B, D and E only",
+    "A, B and C only",
+    "C and D only"
+   ],
+   "answer": 1,
+   "explanation": "Budget at a Glance: BE and RE of current year, actuals of previous year, BE of next year."
+  },
+  {
+   "q": "Which of the following are correct for the Finance Commission ?  \n(A) It is constituted under Article 380 of the Constitution  \n(B) It is a statutory body  \n(C) It is constituted under Article 280 of the Constitution  \n(D) Prof. K C Pant was Chairman of 10th Finance Commission  \n(E) Dr. Vijay Kelkar was Chairman of 14th Finance Commission.  \nChoose the most appropriate answer from the options given below.  \n*[UGC NET December 2022 S2 · Q.54]*",
+   "options": [
+    "B, C and D only",
+    "A, B and D only",
+    "C, D and E only",
+    "A, C and E only"
+   ],
+   "answer": 0,
+   "explanation": "Article 280; Prof. K.C. Pant chaired the 10th FC; option 1 is the key (the FC is strictly constitutional)."
+  },
+  {
+   "q": "Which of the following are true ?  \n(A) Product taxes will raise prices less under monopoly than under competition  \n(B) A tax on capital income tends to be progressive, whereas tax on wage income tends to be  \nregressive  \n(C) The burden of tax will be distributed between sellers and buyers in the ratio of elasticity of  \ndemand to that of supply.  \n(D) A unit tax enters through a parallel downward shift in the supply schedule  \n(E) Imposition of tax raises price and quantity.  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.55]*",
+   "options": [
+    "A and B only",
+    "A, B and C only",
+    "A, B, C and D only",
+    "A, B, C and E only"
+   ],
+   "answer": 1,
+   "explanation": "Musgrave: smaller price rise under monopoly; capital taxes progressive; burden shares follow elasticities. A unit tax shifts supply up."
+  },
+  {
+   "q": "Which of the following are correct ?  \n(A) A competitive market can secure efficient resource use in the provision of private goods, but  \nmarket failure occurs in that of social goods  \n(B) Efficient provision of social goods involves horizontal rather than vertical addition of  \nIndividual pseudo-demand schedules  \n(C) To seek efficient provision of social goods, a political process of budget determination is  \nneeded  \n(D) Corrective action may be needed when consumer choice is based on false advertising  \n(E) There are mixed cases between the extremes of purely private and purely social goods.  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.56]*",
+   "options": [
+    "A, B and C only",
+    "A, B and E only",
+    "A, B, C and D only",
+    "A, C, D and E only"
+   ],
+   "answer": 3,
+   "explanation": "Social goods need vertical (not horizontal) summation; the rest are correct."
+  },
+  {
+   "q": "Arrange the followings in ascending order on the basis of Fund Allocation (Budget 2022-23)  \n(A) Ministry of Railways  \n(B) Ministry of Defence  \n(C) Ministry of Agriculture and Farmers Welfare  \n(D) Ministry of Road Transport and Highways  \n(E) Ministry of Rural Development.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.79]*",
+   "options": [
+    "A, C, D, B, E",
+    "E, B, C, D, A",
+    "C, E, A, D, B",
+    "B, C, D, E, A"
+   ],
+   "answer": 2,
+   "explanation": "2022-23: Agriculture < Rural Development < Railways < Road Transport < Defence."
+  },
+  {
+   "q": "Arrange the following sources of revenue as per their share of contribution to total revenue in  \nUnion Budget 2022-23 in descending order.  \n(A) Custom Duty  \n(B) Income Tax  \n(C) GST  \n(D) Union Excise Duty  \n(E) Non debt capital receipts.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.80]*",
+   "options": [
+    "E, B, C, D, A",
+    "E, C, B, D, A",
+    "C, B, D, A, E",
+    "C, B, A, D, E"
+   ],
+   "answer": 2,
+   "explanation": "2022-23: GST > income tax > excise > customs > non-debt capital receipts."
+  },
+  {
+   "q": "Which of following is a correct measure of gross fiscal deficit of the state government.  \n*[UGC NET June \n2023 · Q.73]*",
+   "options": [
+    "Revenue Expenditure (RE) + Capital disbursement − Revenue Receipts (RR)",
+    "RE + Repayment of loans to the Centre − RR",
+    "Revenue Deficit + Capital Outlays + Net Lending",
+    "RE + Discharge of Internal Debt − RR"
+   ],
+   "answer": 2,
+   "explanation": "GFD = revenue deficit + capital outlay + net lending."
+  },
+  {
+   "q": "Which of the following is not true in case of incidence of tax :  \n*[UGC NET June 2023 · Q.74]*",
+   "options": [
+    "Imposition of tax raises price and lowers quantity.",
+    "The resulting price increase of tax rise will be dampened if the tax is imposed in monopolistic market.",
+    "One would be in a better position to avoid the tax and leave the seller with a larger part if demand is inelastic while supply is elastic.",
+    "A unit tax enters through a parallel upward shift in the supply schedule."
+   ],
+   "answer": 2,
+   "explanation": "With inelastic demand, the buyer (not the seller) bears more."
+  },
+  {
+   "q": "Which of the following are true in case of social goods :  \n(A) Public goods are non-rivalry in nature.  \n(B) Efficient provision of social goods needs a political process of budget determination.  \n(C) Efficient provision of social goods involve horizontal rather than vertical addition of  \nindividual pseudo-demand-lines.  \n(D) Among purely private and purely social goods, there are mixed cases which generate  \nbenefit or cost externalities  \n(E) Individual consumers will not bid for social good, but will act as free-riders.  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · Q.108]*",
+   "options": [
+    "A, C, D and E only",
+    "A, B, C and E only",
+    "A and B only",
+    "A, B, D and E only"
+   ],
+   "answer": 3,
+   "explanation": "Public goods are non-rival, need budgeting, and invite free riding; summation is vertical."
+  },
+  {
+   "q": "Which of the following are true in case of Ramsey Rule for efficient taxation -  \n(A) Tax rate should be higher on the good that has lower price elasticity of demand.  \n(B) If the demand elasticity in a market is zero, taxes should be imposed only in that markets.  \n(C) Ramsey rule applies to taxation of goods but not to taxation of income.  \n(D) Ramsey rule minimises the excess burden of taxation across markets.  \n(E) Ramsey rule does not necessarily result in social justice.  \nChoose the most appropriate answer from the option given below :  \n*[UGC NET June 2023 · Q.109]*",
+   "options": [
+    "A, C, D and E only",
+    "A, B, D and E only",
+    "A, B, C and D only",
+    "A, C and D only"
+   ],
+   "answer": 1,
+   "explanation": "Ramsey: inverse elasticity, minimises excess burden, ignores equity; it applies to income taxes too."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Tax Evasion (I) Bond Financing  \n(B) Effective incidence of tax (II) Illegal free riding  \n(C) Legal incidence of tax (III) Obliged to deliver tax revenue to  \nGovernment  \n(D) Fiscal Illusion (IV) Not necessarily correspond to on whom  \ntax is imposed  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2023 · Q.121]*",
+   "options": [
+    "A-II, B-III, C-IV, D-I",
+    "A-III, B-I, C-II, D-IV",
+    "A-II, B-IV, C-III, D-I",
+    "A-IV, B-III, C-II, D-I"
+   ],
+   "answer": 2,
+   "explanation": "Evasion: illegal free riding; effective incidence: final bearer; legal incidence: who remits; fiscal illusion: bond financing."
+  },
+  {
+   "q": "Arrange the relative weights in percentage assigned to following criteria by the XIV finance  \ncommission in ascending order.  \n(A) Income distance  \n(B) Area  \n(C) Population (1971)  \n(D) Demographic Change (2011 population)  \n(E) Forest Cover  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · Q.126]*",
+   "options": [
+    "B, E, D, C, A",
+    "E, D, B, C, A",
+    "A, C, D, B, E",
+    "E, B, D, C, A"
+   ],
+   "answer": 1,
+   "explanation": "14th FC: forest 7.5 < demographic change 10 < area 15 < population 1971 17.5 < income distance 50."
+  },
+  {
+   "q": "Which of the following strategies was not comprised India's Fiscal Policy response to Covid  \ncrises :  \n*[UGC NET June 2023 · Q.141]*",
+   "options": [
+    "Increasing of food subsidy",
+    "Increasing of fertilizer subsidy",
+    "Reduction in taxes on certain imported products.",
+    "Increase in taxes on fuel."
+   ],
+   "answer": 3,
+   "explanation": "Fuel taxes were reduced, not raised."
+  },
+  {
+   "q": "Which of the following is not correct with respect to facilitation of resilience in fiscal  \nperformance of the union government :  \n*[UGC NET June 2023 · Q.142]*",
+   "options": [
+    "Recovery in Economic activity",
+    "Buoyant GST revenues",
+    "Expenditure austerity measures pertaining to food and fertilizer subsidy",
+    "Realistic assumptions in budget"
+   ],
+   "answer": 2,
+   "explanation": "Subsidies were raised, not cut."
+  },
+  {
+   "q": "Which of the following strategy is adopted by Union Government to prioritise States'  \nspending on capex.  \n*[UGC NET June 2023 · Q.143]*",
+   "options": [
+    "Incentivizing for higher revenue expenditure",
+    "Incentivizing for interest free loans and enhance borrowing ceilings",
+    "Incentivizing for higher interest payment",
+    "Incentivizing for large spending on tax"
+   ],
+   "answer": 1,
+   "explanation": "Interest-free capex loans and higher borrowing ceilings."
+  },
+  {
+   "q": "The Capex of the union government for the period FY 09 to FY 20 on an average was  \n*[UGC NET June 2023 \n· Q.144]*",
+   "options": [
+    "2.5 percent of GDP",
+    "15.5 percent of revenue receipts",
+    "24.8 percent of GST revenue",
+    "1.7 percent of GDP"
+   ],
+   "answer": 3,
+   "explanation": "About 1.7% of GDP."
+  },
+  {
+   "q": "In order to further enhance capex, allocation for which of the following infrastructure sector  \nis not increased :  \n*[UGC NET June 2023 · Q.145]*",
+   "options": [
+    "Ports and Waterways",
+    "Roads and Highways",
+    "Railways",
+    "Housing and Urban affairs"
+   ],
+   "answer": 0,
+   "explanation": "The passage names roads, railways and housing, not ports."
+  },
+  {
+   "q": "If the revenue deficit of an economy is 3% of GDP, the primary deficit is 2% of GDP and the  \nfiscal deficit is 7% of GDP, the capital expenditure to GDP ratio of that economy would be :  \n*[UGC NET December \n2023 S1 · Q.85]*",
+   "options": [
+    "5% of GDP",
+    "1% of GDP",
+    "4% of GDP",
+    "2% of GDP"
+   ],
+   "answer": 2,
+   "explanation": "Capex ≈ FD − RD = 7 − 3 = 4% of GDP."
+  },
+  {
+   "q": "Higher fiscal deficit to GDP ratio would necessarily cause inflation if the economy is under :  \n*[UGC NET December 2023 S1 · Q.87]*",
+   "options": [
+    "Demand constrained situation",
+    "Supply constrained situation",
+    "Both demand and supply constrained situation",
+    "Neither demand constrained nor supply constrained situation"
+   ],
+   "answer": 1,
+   "explanation": "In a supply-constrained economy extra demand raises prices."
+  },
+  {
+   "q": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as  \nReason (R).  \nAssertion (A) : According to the Domar condition of debt sustainability, the public debt would not  \nrise as proportion of GDP if the effective interest rate on government liabilities happens to be  \nless than or equal to the growth rate of GDP at current price.  \nReason (R) : Growth rate of GDP of an economy at current price is bound to be less than the  \neffective interest rate on the government bonds.  \nIn the light of the above statements, choose the most appropriate answer from the options  \ngiven below :  \n*[UGC NET December 2023 S1 · Q.140]*",
+   "options": [
+    "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+    "(A) is correct but (R) is not correct",
+    "(A) is not correct but (R) is correct"
+   ],
+   "answer": 2,
+   "explanation": "Domar's condition is right; nominal growth is not bound to be below the interest rate."
+  },
+  {
+   "q": "Which of the following is the biggest item of grants-in-aid to the states assigned by the  \nFifteenth Finance Commission?  \n*[UGC NET August 2024 S1 · Q.62]*",
+   "options": [
+    "Disaster risk management grants",
+    "Revenue deficit grants",
+    "Local bodies grants",
+    "Sector specific grants"
+   ],
+   "answer": 2,
+   "explanation": "Local body grants (≈₹4.36 lakh crore) were the largest 15th FC grant."
+  },
+  {
+   "q": "Arrange the following taxes in the sequence in which they were introduced starting from  \nearliest to latest?  \n(A) Commodities Transaction Tax  \n(B) Securities Transaction Tax  \n(C) Banking Cash Transaction Tax  \n(D) Minimum Alternate Tax  \n(E) Angel Tax  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.93]*",
+   "options": [
+    "(D), (A), (E), (B), (C)",
+    "(B), (C), (A), (E), (D)",
+    "(D), (B), (C), (E), (A)",
+    "(C), (D), (B), (A), (E)"
+   ],
+   "answer": 2,
+   "explanation": "MAT (1987) → STT (2004) → BCTT (2005) → angel tax (2012) → CTT (2013)."
+  },
+  {
+   "q": "Arrange the following norms of tax revenue devolution formula of the Fifteenth Finance  \nCommission in order of their weightages starting from the highest.  \n(A) Income distance  \n(B) Area  \n(C) Demographic performance  \n(D) Forest and Ecology  \n(E) Tax effort  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.104]*",
+   "options": [
+    "(A), (B), (C), (D), (E)",
+    "(A), (D), (B), (E), (C)",
+    "(B), (A), (C), (E), (D)",
+    "(C), (D), (A), (B), (E)"
+   ],
+   "answer": 0,
+   "explanation": "Income distance 45 > area 15 > demographic 12.5 > forest 10 > tax effort 2.5."
+  },
+  {
+   "q": "Consider the following statements regarding public good:  \n(A) Public good is nonexclusive  \n(B) Public good is national defense  \n(C) Public good is rival  \n(D) Public good provides benefits to people at non-zero marginal cost  \n(E) Public good creates inefficiency in consumption  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.125]*",
+   "options": [
+    "(A) and (B) only",
+    "(B) and (C) only",
+    "(C) and (D) only",
+    "(D) and (E) only Passage / data for Q.146-150 (August 2024 S1) Read the following passage and answer the questions. For a financial year, the Budget was presented by the government. Some major heads and items are highlighted hare. Total receipts was Rs. 400 crore, of which revenue receipts was Rs. 250 crore and capital receipts was Rs. 150 crore. In the total revenue receipts, tax revenue receipts contributed Rs. 220 crore and non-tax revenue receipts contributed Rs. 30 crore respectively. In the total capital receipts, Borrowings and other liabilities were Rs. 100 crore. Out of total revenue expenditure of Rs. 300 crore, interest payments was Rs. 90 crore and grants for creation of capital assets was Rs. 20 crore. Out of total capital expenditure of Rs. 100 crore, scheme expenditure was Rs. 75 crore and other than scheme expenditure was Rs. 25 crore. The country's GDP at current prices for the given financial year was Rs. 2000 crore. On the Balance of payments accounts, the current account deficit was Rs. 50 crore."
+   ],
+   "answer": 0,
+   "explanation": "Public goods are non-excludable, e.g. defence."
+  },
+  {
+   "q": "What was the fiscal deficit as percentage of GDP?  \n*[UGC NET August 2024 S1 · Q.146]*",
+   "options": [
+    "5%",
+    "10%",
+    "12.5%",
+    "15%"
+   ],
+   "answer": 0,
+   "explanation": "FD = borrowings = ₹100 crore = 5% of GDP."
+  },
+  {
+   "q": "What was the revenue deficit as percentage of GDP:  \n*[UGC NET August 2024 S1 · Q.147]*",
+   "options": [
+    "2.5%",
+    "3.0%",
+    "3.5%",
+    "4.0%"
+   ],
+   "answer": 0,
+   "explanation": "RD = 300 − 250 = 50 = 2.5%."
+  },
+  {
+   "q": "What was the primary deficit as percentage of GDP?  \n*[UGC NET August 2024 S1 · Q.148]*",
+   "options": [
+    "0.2%",
+    "0.3%",
+    "0.4%",
+    "0.5%"
+   ],
+   "answer": 3,
+   "explanation": "PD = 100 − 90 = 10 = 0.5%."
+  },
+  {
+   "q": "What was the effective revenue deficit as percentage of GDP?  \n*[UGC NET August 2024 S1 · Q.149]*",
+   "options": [
+    "0.5%",
+    "1.0%",
+    "1.5%",
+    "2.0%"
+   ],
+   "answer": 2,
+   "explanation": "ERD = 50 − 20 = 30 = 1.5%."
+  },
+  {
+   "q": "What was the twin deficit as percentage of GDP?  \n*[UGC NET August 2024 S1 · Q.150]*",
+   "options": [
+    "2.5%",
+    "5.0%",
+    "7.5%",
+    "10.0%"
+   ],
+   "answer": 2,
+   "explanation": "Fiscal + current account = 100 + 50 = 150 = 7.5%."
+  },
+  {
+   "q": "Match LIST-I with LIST-II  \nList - I List - II  \n(A) Lindhal's Theory (I) Production of Public Goods  \n(B) Club Theory (II) Constant growth of employment in  \nGovernment agencies  \n(C) Parkinson's Law (III) Pricing of Public Goods  \n(D) Hotelling Rule (IV) Pricing of exhaustible resources  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.57]*",
+   "options": [
+    "A-III, B-I, C-II, D-IV",
+    "A-I, B-III, C-IV, D-II",
+    "A-I, B-III, C-II, D-IV",
+    "A-IV, B-I, C-II, D-III"
+   ],
+   "answer": 0,
+   "explanation": "Lindahl: pricing of public goods; club theory: provision; Parkinson's law; Hotelling rule."
+  },
+  {
+   "q": "Advantages of Indirect Tax are :  \n(A) It is difficult to evade  \n(B) It is elastic in nature  \n(C) It is convenient to pay  \n(D) It is based on the ability to pay of the tax - payer  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.67]*",
+   "options": [
+    "C, B Only",
+    "C, D Only",
+    "A, B, C Only",
+    "A, C, D Only"
+   ],
+   "answer": 2,
+   "explanation": "Indirect taxes: hard to evade, elastic, convenient; not based on ability to pay."
+  },
+  {
+   "q": "When with the increase in income, the percentage of income as tax falls, it is called  \n*[UGC NET December 2024 · Q.72]*",
+   "options": [
+    "Progressive tax",
+    "Proportional Tax",
+    "Neutral Tax",
+    "Regressive Tax"
+   ],
+   "answer": 3,
+   "explanation": "Regressive."
+  },
+  {
+   "q": "Which of the following is not correct?  \n*[UGC NET December 2024 · Q.114]*",
+   "options": [
+    "Public debt transfers fund from public to government.",
+    "Public borrowing curtails consumption.",
+    "Taxation curtails consumption.",
+    "Government borrowing does not effect income distribution."
+   ],
+   "answer": 3,
+   "explanation": "Borrowing does affect distribution (interest flows to bondholders)."
+  },
+  {
+   "q": "Vertical equality in taxation requires that :  \n*[UGC NET December 2024 · Q.116]*",
+   "options": [
+    "People in different income groups should be taxed equally.",
+    "People in different income groups should be taxed differently",
+    "People in different income groups should be taxed proportionately",
+    "No tax on the basis of individual income"
+   ],
+   "answer": 1,
+   "explanation": "Different income groups taxed differently."
+  },
+  {
+   "q": "If government expenditure rises by Rs. 100, total tax revenue rises by Rs. 100, the value of  \nmarginal propensity to consume is 0.5 & there is no change in autonomous investment &  \nconsumption, in a simple Keynesian closed - economy model, GDP rises by:  \n*[UGC NET December 2024 · Q.140]*",
+   "options": [
+    "Rs. 0",
+    "Rs. 100",
+    "Rs. 200",
+    "Rs. 400"
+   ],
+   "answer": 1,
+   "explanation": "Balanced budget multiplier = 1 → ₹100."
+  },
+  {
+   "q": "Which of the following is not true according to classical's views on public debt?  \n*[UGC NET June 2025 S2 · \nQ.78]*",
+   "options": [
+    "Public debt financing requires funds for interest payment and amortization, hence a double burden on tax payers.",
+    "Public debt financing supports compensatory budget policy as a tool for stimulating aggregate demand.",
+    "Public debt creates barren production and consumption and burden is transferred to future generation.",
+    "Public debt destroys capital which otherwise could be used productively"
+   ],
+   "answer": 1,
+   "explanation": "Compensatory (Keynesian) finance is not a classical view."
+  },
+  {
+   "q": "Which of the followings is not true?  \n*[UGC NET June 2025 S2 · Q.79]*",
+   "options": [
+    "The effect of any tax can be decomposed into an income effect and substitution effect.",
+    "There is a substitution effect associated with a lump-sum tax, but no income effect.",
+    "The greater the substitution effect, the greater is the deadweight loss.",
+    "There is also a deadweight loss associate with the reduction in prices received by producers as a result of imposition of tax."
+   ],
+   "answer": 1,
+   "explanation": "A lump-sum tax has an income effect but no substitution effect."
+  },
+  {
+   "q": "Which of the followings is true in case of a good i.e., \"Crowded City side Walk\"?  \n*[UGC NET June 2025 S2 · \nQ.80]*",
+   "options": [
+    "It is non-excludable and non-rivalry in nature.",
+    "It is excludable but non-rivalry in nature.",
+    "It is non-excludable but rivalry in nature.",
+    "It is excludable and rivalry in nature."
+   ],
+   "answer": 2,
+   "explanation": "Crowded sidewalk: non-excludable but rival (congested)."
+  },
+  {
+   "q": "Arrange the following tax reform committees on the basis of their year of constitution  \nstarting from the oldest.  \n(A) Raja Chelliah tax reform committee  \n(B) T. R. Rastogi Committee on Service tax reforms  \n(C) Vijay Kelkar committee on tax reforms  \n(D) Parthasarathi Shome committee on direct tax  \n(E) K. L. Rekhi committee on indirect tax  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.93]*",
+   "options": [
+    "A, E, C, B, D",
+    "E, A, C, B, D",
+    "A, E, D, C, B",
+    "D, E, A, C, B"
+   ],
+   "answer": 0,
+   "explanation": "Chelliah (1991) → Rekhi (1992) → Kelkar (2002) → Rastogi → Shome (2012)."
+  },
+  {
+   "q": "Arrange the following Chairman of Finance Commission in order of their appointment  \nstarting from the oldest.  \n(A) A. M. Khusro  \n(B) C. Rangarajan  \n(C) N. K. P. Salve  \n(D) K. Bramhananda Reddy  \n(E) K.C. Pant  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.94]*",
+   "options": [
+    "A, C, E, D, B",
+    "C, E, A, D, B",
+    "B, D, E, C, A",
+    "D, C, E, A, B"
+   ],
+   "answer": 3,
+   "explanation": "Brahmananda Reddy (8th) → Salve (9th) → Pant (10th) → Khusro (11th) → Rangarajan (12th)."
+  },
+  {
+   "q": "Arrange the following items on the basis of the expenditure allocation made in the union  \nbudget 2025-26 in descending order.  \n(A) Agriculture and Allied activities  \n(B) Education  \n(C) Defense  \n(D) Commerce and Industry  \n(E) Rural Development  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.95]*",
+   "options": [
+    "E, C, A, D, B",
+    "C, E, A, B, D",
+    "C, A, E, D, B",
+    "A, E, C, B, D"
+   ],
+   "answer": 1,
+   "explanation": "2025-26: Defence > Rural Development > Agriculture > Education > Commerce & Industry."
+  },
+  {
+   "q": "Arrange the following union government deficits as percentage of GDP for the year 2023-24  \nin ascending order as per union budget 2025-26.  \n(A) Fiscal deficit  \n(B) Effective Revenue deficit  \n(C) Primary deficit  \n(D) Current Account deficit  \n(E) Revenue deficit  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.101]*",
+   "options": [
+    "D, B, A, C, E",
+    "D, A, B, C, E",
+    "D, B, C, E, A",
+    "D, C, B, E, A"
+   ],
+   "answer": 2,
+   "explanation": "2023-24: CAD < ERD < PD < RD < FD."
+  },
+  {
+   "q": "Arrange the expenditure allocation to following items, as % of total union government  \nexpenditure as per the union budget 2025-26 in ascending order.  \n(A) Finance Commission and Other Transfers  \n(B) Interest Payment  \n(C) Pensions  \n(D) Major Subsidies  \n(E) Central Sector Schemes (excluding capital outlay on defense and subsidies)  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.105]*",
+   "options": [
+    "A, D, E, C, B",
+    "C, D, A, E, B",
+    "E, C, D, A, B",
+    "C, D, E, B, A"
+   ],
+   "answer": 1,
+   "explanation": "Pensions 4% < subsidies 6% < FC transfers 8% < central sector schemes 16% < interest 20%."
+  },
+  {
+   "q": "Which of the followings are not true pertaining to Wagner's Law of increasing state  \nactivities?  \n(A) Wagner's Law is classified as positive theory of public expenditure.  \n(B) Public sector in industrializing nations grow as a proportion of total economic activity with  \nthe increase in per capita income and output.  \n(C) Proportionate increase in public sector is not constant but increasing with the increase in  \ntotal economic activity.  \n(D) The law accounts for the effect of war on public expenditure.  \n(E) Public expenditure tends to grow in a stepwise manner.  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.116]*",
+   "options": [
+    "A, B & D Only",
+    "B, C & E Only",
+    "B & C Only",
+    "D & E Only"
+   ],
+   "answer": 3,
+   "explanation": "War effects and step-wise growth belong to Peacock–Wiseman, not Wagner."
+  },
+  {
+   "q": "Match List - I with List - II  \nList - I List - II  \nList-I (Criteria of 15th finance commission) List-II (Weights as per the recommendation  \nof 15th finance commission for horizontal  \ndevolution)  \n(A) Income distance (I) 15%  \n(B) Population (II) 12.5%  \n(C) Demographic performance (III) 45%  \n(D) Forest and Ecology (IV) 10%  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.134]*",
+   "options": [
+    "A-III, B-IV, C-I, D-II",
+    "A-II, B-I, C-III, D-IV",
+    "A-III, B-I, C-II, D-IV",
+    "A-I, B-IV, C-II, D-III"
+   ],
+   "answer": 2,
+   "explanation": "Income distance 45%, population 15%, demographic performance 12.5%, forest 10%."
+  },
+  {
+   "q": "Match List - I with List - II  \nList - I List - II  \nList-I (Items of receipts) List-II (Share to total receipt in % as per  \nunion budget 2025-26)  \n(A) Income tax (I) 4%  \n(B) Custom (II) 5%  \n(C) Corporation tax (III) 22%  \n(D) Union excise (IV) 17%  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.135]*",
+   "options": [
+    "A-IV, B-II, C-III, D-I",
+    "A-III, B-I, C-II, D-IV",
+    "A-III, B-I, C-IV, D-II",
+    "A-IV, B-II, C-I, D-III"
+   ],
+   "answer": 2,
+   "explanation": "Rupee comes from (2025-26): income tax 22%, customs 4%, corporation tax 17%, excise 5%."
+  },
+  {
+   "q": "Match List - I with List - II (As per Union Budget, 2025-26).  \nList - I List - II  \n(A) Pensions as % of Central Government (I) 22%  \nExpenditure  \n(B) State's share of taxes and duties as % of (II) 18%  \nCentral Govt. Expenditure  \n(C) Tax-GDP ratio of India (III) 81.3%  \n(D) Debt-GDP ratio of India (IV) 4%  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.52]*",
+   "options": [
+    "A-II, B-I, C-III, D-IV",
+    "A-II, B-III, C-I, D-IV",
+    "A-IV, B-III, C-I, D-II",
+    "A-IV, B-I, C-II, D-III"
+   ],
+   "answer": 3,
+   "explanation": "Pensions 4%, states' share 22%, tax–GDP 18%, debt–GDP 81.3% (general government)."
+  },
+  {
+   "q": "Identify the Finance commissions with its chairman:  \n(A) 12th Finance commission - C. Rangarajan  \n(B) 11th Finance commission - A.M. Khusro  \n(C) 14th Finance commission - R.K. Singh  \n(D) 15th Finance commission - Y.V. Reddy  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.53]*",
+   "options": [
+    "A and D",
+    "B and C",
+    "C and D",
+    "A and B"
+   ],
+   "answer": 3,
+   "explanation": "12th: Rangarajan; 11th: Khusro. 14th: Y.V. Reddy; 15th: N.K. Singh."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) 14th Finance Commission (I) Vertical Tax Devolution 41 percent  \n(B) 15th Finance Commission (II) Vertical Tax Devolution 42 percent  \n(C) 12th Finance Commission (III) State's share 32% of the central taxes  \n(D) 13th Finance Commission (IV) State's share 30.5 percent of central  \ntaxes  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.54]*",
+   "options": [
+    "A-IV, B-III, C-II, D-I",
+    "A-IV, B-III, C-I, D-II",
+    "A-III, B-IV, C-I, D-II",
+    "A-II, B-I, C-IV, D-III"
+   ],
+   "answer": 3,
+   "explanation": "14th: 42%; 15th: 41%; 12th: 30.5%; 13th: 32%."
+  },
+  {
+   "q": "When public revenue increases by more than 1% for a 1% increase in GDP, it is known as:  \n*[UGC NET December 2025 · Q.62]*",
+   "options": [
+    "CENVAT",
+    "Inelastict Tax system",
+    "Proportional Tax system",
+    "Tax buoyancy"
+   ],
+   "answer": 3,
+   "explanation": "Tax buoyancy."
+  },
+  {
+   "q": "Which Tax is also popularly known as the 'destination tax'?  \n*[UGC NET December 2025 · Q.72]*",
+   "options": [
+    "Customs Duty",
+    "Corporate Tax",
+    "Goods and Services Tax",
+    "Central Excise Duty"
+   ],
+   "answer": 2,
+   "explanation": "GST is destination-based."
+  },
+  {
+   "q": "Arrange the following in a correct chronological order.  \n(A) Shankar Acharya Committee on shifting financial year from (April-March) to (Jan-Dec)  \n(B) Parthasarathy Shome Committee on retrospective tax laws.  \n(C) Vijay Kelkar Committee on Tax reforms.  \n(D) Arvind Subramanyam Committee on revenue neutral GST.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.82]*",
+   "options": [
+    "A, B, C, D",
+    "C, A, D, B",
+    "C, B, D, A",
+    "A, D, B, C"
+   ],
+   "answer": 2,
+   "explanation": "Kelkar (2002) → Shome (2012) → Subramanian RNR (2015) → Acharya (2016)."
+  },
+  {
+   "q": "Which of the following are called 'club goods'?  \n(A) Railways  \n(B) Swimming pool  \n(C) Defense  \n(D) Gym  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.84]*",
+   "options": [
+    "B and D only",
+    "A and B only",
+    "B and C only",
+    "A and D only"
+   ],
+   "answer": 0,
+   "explanation": "Swimming pools and gyms are club goods."
+  },
+  {
+   "q": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as  \nReason (R).  \nAssertion (A): Prices of diesel and petroleum products are different in different states of India.  \nReason (R): The above products have not yet been brought under the coverage of GST by the  \nGST Council.  \nIn the light of the above statements, choose the most appropriate answer from the options  \ngiven below:  \n*[UGC NET December 2025 · Q.95]*",
+   "options": [
+    "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+    "(A) is correct but (R) is not correct",
+    "(A) is not correct but (R) is correct"
+   ],
+   "answer": 0,
+   "explanation": "Outside GST, fuel is taxed differently by each state."
+  },
+  {
+   "q": "Which of the following commodities are not covered by GST till now?  \n(A) Mobile phones  \n(B) Electricity  \n(C) Textiles  \n(D) Alcohol  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.98]*",
+   "options": [
+    "A and C only",
+    "B and C only",
+    "A and D only",
+    "B and D only"
+   ],
+   "answer": 3,
+   "explanation": "Electricity and alcohol are outside GST."
+  },
+  {
+   "q": "Increased fiscal deficit leads to:  \n(A) Increase in government spending  \n(B) Increase in domestic interest rate  \n(C) Fall in private investment  \n(D) Fall in total borrowing by the government  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.100]*",
+   "options": [
+    "A, B and D only",
+    "A, B and C only",
+    "B, C and D only",
+    "B and D only"
+   ],
+   "answer": 1,
+   "explanation": "Higher deficits mean more spending, higher rates and crowding out."
+  },
+  {
+   "q": "Consider the following items and figures.  \nItems Amount (in Rs. Crores)  \na. Total revenue receipts 5600  \nb. Total capital receipts 3000  \nc. Interest payments 800  \nd. Disinvestment receipts 400  \ne. Total expenditure 8600  \nf. Recovery of loans 150  \nWhat is the amount of primary deficits?  \n*[UGC NET December 2025 · Q.102]*",
+   "options": [
+    "Rs. 2140 crores",
+    "Rs. 3000 crores",
+    "Rs. 1650 crores",
+    "Rs. 2450 crores"
+   ],
+   "answer": 2,
+   "explanation": "FD = 8600 − (5600 + 150 + 400) = 2450; PD = 2450 − 800 = 1650."
+  },
+  {
+   "q": "The following statements are made in the Union Budget for the year 2025-2026:  \n(A) The FDI limit for the insurance sector will be raised from 74 to 100 percent  \n(B) The FDI limit for the insurance sector will be raised from 51 to 74 percent  \n(C) An investment Friendliness Index of states will be formed  \n(D) The fiscal deficit is estimated to be 4.4 percent of GDP  \nChoose the correct answer from the options given below:  \n*[UGC NET December \n2025 · Q.121]*",
+   "options": [
+    "B, C and D only",
+    "A, C and D only",
+    "A, B and C only",
+    "C and D only"
+   ],
+   "answer": 1,
+   "explanation": "Budget 2025-26: insurance FDI 74 → 100%, Investment Friendliness Index, FD 4.4%."
+  },
+  {
+   "q": "How much revenue will have to be foregone due to different beneficial proposals in the  \ncentral budget 2025-26?  \n*[UGC NET December 2025 · Q.137]*",
+   "options": [
+    "Rs. 2 Lakh Crore as direct taxes and Rs. 5600 Crore as indirect taxes",
+    "Rs. 1.5 Lakh Crore as direct taxes and Rs. 5600 Crore as indirect taxes",
+    "Rs. 1 Lakh Crore as direct taxes and Rs. 2600 Crore as indirect taxes",
+    "Rs. 50,000 Crore as direct taxes and Rs. 2000 Crore as indirect taxes"
+   ],
+   "answer": 2,
+   "explanation": "About ₹1 lakh crore direct and ₹2,600 crore indirect revenue forgone."
+  },
+  {
+   "q": "A theory that explains the phenomenon of increasing public expenditure and state activity  \nwas proposed by:  \n*[UGC NET December 2025 · Q.140]*",
+   "options": [
+    "Baumol",
+    "Allan Peacock",
+    "Dalton",
+    "Adolf Wagner"
+   ],
+   "answer": 3,
+   "explanation": "Adolph Wagner."
+  }
+ ]
+}

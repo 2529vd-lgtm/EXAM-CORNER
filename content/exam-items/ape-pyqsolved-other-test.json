@@ -1,0 +1,446 @@
+{
+ "duration": 48,
+ "negative": 0,
+ "questions": [
+  {
+   "q": "Who amongst the following economists treated nature to be niggardly?  \n(i) J. S. Mill  \n(ii) David Ricardo  \n(iii) Karl Marx  \n(iv) Thomas Robert Malthus  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.63]*",
+   "options": [
+    "(i), (ii) and (iii)",
+    "(ii) and (iv)",
+    "(iii) and (iv)",
+    "(ii) and (iii)"
+   ],
+   "answer": 1,
+   "explanation": "Ricardo (diminishing returns on land) and Malthus (population vs food) saw nature as niggardly."
+  },
+  {
+   "q": "Match List I (Authors) with List II (Books) and choose the correct answer from the code given  \nbelow:  \nList - I List - II  \n(a) Milton Friedman (i) Das Kapital  \n(b) Joseph Schumpeter (ii) Capitalism and Freedom  \n(c) Karl Marx (iii) Capital in the 21st century  \n(d) Thomas Piketty (iv) Capitalism, Socialism and Democracy  \n*[UGC NET December 2018 · Q.71]*",
+   "options": [
+    "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+    "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+    "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+    "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+   ],
+   "answer": 1,
+   "explanation": "Capitalism and Freedom (Friedman); Capitalism, Socialism and Democracy (Schumpeter); Das Kapital (Marx); Capital in the 21st Century (Piketty)."
+  },
+  {
+   "q": "T.W. Schultz has given the following ratios in relation to education for economic growth:  \n*[UGC NET December 2018 · Q.99]*",
+   "options": [
+    "Education-income ratio",
+    "Education-labour ratio, education-income ratio and education-investment ratio",
+    "Education-labour ratio",
+    "Education-capital and labour ratio"
+   ],
+   "answer": 1,
+   "explanation": "Schultz used education–labour, education–income and education–investment ratios."
+  },
+  {
+   "q": "Who is the author of the book, 'I do what I do'?  \n*[UGC NET December 2018 · Q.123]*",
+   "options": [
+    "Jagdish N. Bhagwati",
+    "Arvind Panagariya",
+    "Raghuram G. Rajan",
+    "Amartya Sen"
+   ],
+   "answer": 2,
+   "explanation": "Raghuram Rajan (2017), a collection of speeches."
+  },
+  {
+   "q": "According to Marxian analysis the surplus value depends upon  \n*[UGC NET June 2019 S1 · Q.104]*",
+   "options": [
+    "surplus and necessary labour time",
+    "necessary labour time only",
+    "surplus labour time only",
+    "nominal wage rate"
+   ],
+   "answer": 0,
+   "explanation": "s = surplus labour time / necessary labour time."
+  },
+  {
+   "q": "Which one of the following does NOT determine the amount of years of schooling demanded  \nby an individual to qualify for modern job?  \n*[UGC NET June 2019 S1 · Q.108]*",
+   "options": [
+    "The wage or income differential",
+    "The probability of success in finding modern sector employment",
+    "Opportunity cost of schooling",
+    "Expansion of healthcare infrastructure in urban sector"
+   ],
+   "answer": 3,
+   "explanation": "Healthcare infrastructure is not a schooling-demand determinant (Todaro model)."
+  },
+  {
+   "q": "Match List-I with List-II :  \nList - I List - II  \n(a) World Environment Day (i) 11th July  \n(b) World Wildlife Day (ii) 5th June  \n(c) World Water Day (iii) 3rd March  \n(d) World Population Day (iv) 22nd March  \nChoose the correct option from those given below :  \n*[UGC NET June 2019 S1 · Q.117]*",
+   "options": [
+    "(a)-(i); (b)-(ii); (c)-(iii); (d)-(iv)",
+    "(a)-(iii); (b)-(i); (c)-(iv); (d)-(ii)",
+    "(a)-(iv); (b)-(iii); (c)-(ii); (d)-(i)",
+    "(a)-(ii); (b)-(iii); (c)-(iv); (d)-(i)"
+   ],
+   "answer": 3,
+   "explanation": "Environment Day 5 June; Wildlife Day 3 March; Water Day 22 March; Population Day 11 July."
+  },
+  {
+   "q": "Second National Commission on Labour has recommended a three-tier system including  \n*[UGC NET June \n2019 S1 · Q.125]*",
+   "options": [
+    "Lok Adalats, Labour Courts and Labour Commission",
+    "Lok Adalats, Labour Courts and Labour Relations Commission",
+    "Lok Adalats, Labour Courts and Judicial Courts",
+    "Lok Adalats, Labour Courts and Labour Inspectors"
+   ],
+   "answer": 1,
+   "explanation": "Lok Adalats, Labour Courts and Labour Relations Commissions."
+  },
+  {
+   "q": "\"Education as investment in human resources plays an important role among the factors  \nwhich contribute to economic growth.\" This statement was given by  \n*[UGC NET June 2019 S1 · Q.131]*",
+   "options": [
+    "New Education Policy, 1985",
+    "Education Commission, 1966",
+    "NCERT",
+    "Supreme Court of India"
+   ],
+   "answer": 1,
+   "explanation": "Kothari Education Commission (1964–66)."
+  },
+  {
+   "q": "Match List-I with List-II:  \nList - I List - II  \n(a) E. Cannan (i) Optimum population  \n(b) Frank Netstein (ii) Transaction costs  \n(c) Brundtland (iii) Demographic transition  \n(d) Ronald Coase (iv) Sustainable development  \nChoose the correct option from those given below:  \n*[UGC NET December 2019 S1 · Q.119]*",
+   "options": [
+    "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+    "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+    "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+    "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+   ],
+   "answer": 2,
+   "explanation": "Cannan: optimum population; Notestein: demographic transition; Brundtland: sustainable development; Coase: transaction costs."
+  },
+  {
+   "q": "Arrange the following books in the correct chronological order:  \n(a) Das Capital  \n(b) Value and Capital  \n(c) Capital and Growth  \n(d) Accumulation of Capital  \nChoose the correct option:  \n*[UGC NET December 2019 S1 · Q.128]*",
+   "options": [
+    "(d), (b), (c), (a)",
+    "(a), (b), (d), (c)",
+    "(a), (b), (c), (d)",
+    "(b), (a), (d), (c)"
+   ],
+   "answer": 1,
+   "explanation": "Das Kapital (1867), Value and Capital (1939), Accumulation of Capital (1956), Capital and Growth (1965)."
+  },
+  {
+   "q": "Which of the following modern Indian Economic thinker had not gone abroad for study or  \nwork?  \n*[UGC NET December 2021 · Q.40]*",
+   "options": [
+    "Mahatma Gandhi",
+    "Ram Manohar Lohia",
+    "B. R. Ambedkar",
+    "Deen Dayal Upadhyaya"
+   ],
+   "answer": 3,
+   "explanation": "Deen Dayal Upadhyaya studied and worked in India."
+  },
+  {
+   "q": "Who wrote that \"every man thus lives by exchanging or becomes in some measure a  \nmerchant, and the society itself grows to be what is properly a commercial society.\"  \n*[UGC NET December 2022 \nS1 · Q.7]*",
+   "options": [
+    "Milton Friedman",
+    "Keynes",
+    "Benjamin Olken",
+    "Adam Smith"
+   ],
+   "answer": 3,
+   "explanation": "Adam Smith, Wealth of Nations, Book I."
+  },
+  {
+   "q": "Which one of the following pairs is NOT correctly matched?  \nAuthor - Book  \n*[UGC NET December 2022 S1 · Q.33]*",
+   "options": [
+    "Simon Kuznets - Asian Drama",
+    "J. Robinson - Essays on the Theory of Economic growth",
+    "Karl Marx - Das Capital",
+    "Arthur W. Lewis - Theory of Economic Growth"
+   ],
+   "answer": 0,
+   "explanation": "Asian Drama is by Gunnar Myrdal."
+  },
+  {
+   "q": "Arrange the books in ascending order based on their year of publication  \n(A) An Inquiry Into the Nature and Causes of Wealth of Nations  \n(B) The Theory of Moral Sentiments  \n(C) Capitalism, Socialism and Democracy  \n(D) The Great Transformation: The Political and Economic Origin of Our Time  \n(E) The Affluent Society  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.77]*",
+   "options": [
+    "B, C, D, E, A",
+    "B, A, C, D, E",
+    "D, E, A, B, C",
+    "A, C, E, B, D Passage / data for Q.91-95 (December 2022 S1) Read the passage and answer the questions that follow U. Pagano and M.A. Rossi (2009) have advanced a hypothesis that states that, 'the crash of the knowledge economy is due to the intellectual monopolies, i.e. the huge protection inherent to Intellectual Property Rights (IPRs). The authors have stated - the institutions, which are facilitating IPRs are responsible for the crash. According to the authors, IPRs have acted as 'super-tariffs' as they have raised the cost of investment for countries that had neither abundant cheap labour nor high amounts of IPR resources. The IPRs may have subsequently exerted negative effect even on IP (Intellectual Property) rich firms or the conflicting rights of the firm may affect each other's investments and result in a situation of a savings glut. Therefore, the authors suggested - \"if intellectual monopolies are one of the causes of the crash, the remedies should not only focus on monetary policy, financial regulation or even on standard Keynesian policies, rather regulation should be made to decrease the level of intellectual monopolization of economy\". The policy measures they propose, however, aimed at redressing the balance between public and private knowledge, would not only have strong short-run super-multiplicative effects but would have long-run benefits as well."
+   ],
+   "answer": 1,
+   "explanation": "1759, 1776, 1942, 1944, 1958."
+  },
+  {
+   "q": "Correctly state the hypothesis of Pagano and Rossi with regards to the crash of the  \nknowledge economy.  \n*[UGC NET December 2022 S1 · Q.91]*",
+   "options": [
+    "The root cause of the crash of knowledge economy is globalization, especially privatization.",
+    "The root cause of the crash of knowledge economy is the poverty and inequality in the less developed countries.",
+    "The root cause of the crash of the knowledge economy is the intellectual monoplies, i.e. the huge protection inherent to Intellectual Property Rights.",
+    "The root cause of the crash of the knowledge economy is the promotion of ample digitilization in the world."
+   ],
+   "answer": 2,
+   "explanation": "Per the passage: intellectual monopolies (IPR protection)."
+  },
+  {
+   "q": "According to the authors, who is responsible for the crash of the knowledge economy?  \n*[UGC NET December 2022 S1 · Q.92]*",
+   "options": [
+    "The person/ organisations who file the patent for protection of IPRs.",
+    "The institutions which are facilitating IPRs.",
+    "The person/ organisations who are opposing to the IPRs.",
+    "The sluggishness of the technological progress in the world."
+   ],
+   "answer": 1,
+   "explanation": "The institutions facilitating IPRs."
+  },
+  {
+   "q": "Why have the authors considered IPRs as a super tariff?  \n*[UGC NET December 2022 S1 · Q.93]*",
+   "options": [
+    "There is a large scale reduction in tariffs but substantial increase in some sectors, in some countries, hence it is considered as a super tariff.",
+    "After the Uruguay Round, the tariff rate has declined multiple times and that boosts economic growth, hence it is considered as a super tariff.",
+    "The reduction in tariff has benefited the developed countries, hence it is called a super tariff.",
+    "The IPRs have raised the cost of investments for countries that had neither abundant cheap labour nor high amount of IPR resources, hence it acted as a super tariff."
+   ],
+   "answer": 3,
+   "explanation": "They raised investment costs for countries without cheap labour or IPR resources."
+  },
+  {
+   "q": "How are the IPRs responsible for a savings glut?  \n*[UGC NET December 2022 S1 · Q.94]*",
+   "options": [
+    "IPR has lead to economic growth, which has led to a savings glut.",
+    "The aggregate demand has fallen substantially and that has led to the savings glut.",
+    "The IPRs have given rise to conflicting rights for different firms, which has affected the volume of investment negatively and resulted in a situation of a savings glut.",
+    "The IPRs have led to poverty and that has led to a savings glut."
+   ],
+   "answer": 2,
+   "explanation": "Conflicting rights depress investment, giving a savings glut."
+  },
+  {
+   "q": "What remedies do the authors suggest for the knowledge economy to recover from the  \ncrisis?  \n*[UGC NET December 2022 S1 · Q.95]*",
+   "options": [
+    "The author have suggested standard Keynesian policies to recover from the crisis of the knowledge economy.",
+    "The authors have suggested monetary policy to recover from the crisis of the knowledge economy.",
+    "The authors have suggested financial regulations to recover the crisis of the knowledge economy.",
+    "The recovery of the knowledge economy from the crisis can be achieved through the regulations, which can decrease the level of intellectual monopolisation (IPRs) in the economy."
+   ],
+   "answer": 3,
+   "explanation": "Regulation to reduce intellectual monopolisation."
+  },
+  {
+   "q": "Marx refers to the concept of organic composition of capital. Which one of the following ratios  \nis used for this (where C is constant capital, V is variable capital and S is surplus value)?  \n*[UGC NET December \n2022 S2 · Q.32]*",
+   "options": [
+    "C/(V + S)",
+    "C/V",
+    "C/(C + V)",
+    "(C + V)/V"
+   ],
+   "answer": 1,
+   "explanation": "Organic composition = C/V."
+  },
+  {
+   "q": "According to the IMF's World Economic Outlook report, arrange the estimated real GDP  \nGrowth rate (YOY) of the following countries for the year 2021 in descending order.  \n(A) USA  \n(B) Germany  \n(C) United Kingdom  \n(D) China  \n(E) India  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 \n· Q.76]*",
+   "options": [
+    "D, E, C, B, A",
+    "E, D, C, A, B",
+    "E, C, D, A, B",
+    "D, E, B, C, A"
+   ],
+   "answer": 1,
+   "explanation": "WEO 2021: India 8.9, China 8.1, UK 7.4, USA 5.7, Germany ~2.8. (Answer key may vary.)"
+  },
+  {
+   "q": "Arrange the Nobel laureates in Economics as per their year of receiving award in descending  \norder.  \n(A) Amartya Sen  \n(B) Paul Krugman  \n(C) James Tobin  \n(D) Friedrich Hayek  \n(E) Milton Friedman  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.77]*",
+   "options": [
+    "A, B, D, C, E",
+    "E, C, A, B, D",
+    "A, C, E, D, B",
+    "B, A, C, E, D"
+   ],
+   "answer": 3,
+   "explanation": "Krugman 2008, Sen 1998, Tobin 1981, Friedman 1976, Hayek 1974."
+  },
+  {
+   "q": "What is the motto of G-20 18th meeting?  \n*[UGC NET June 2023 · Q.89]*",
+   "options": [
+    "One Earth, One Family, One Future",
+    "One Earth, One Nature, One Life",
+    "One World, One Family, One Life",
+    "One Earth, One Nature, One Future"
+   ],
+   "answer": 0,
+   "explanation": "G20 New Delhi 2023: Vasudhaiva Kutumbakam – One Earth, One Family, One Future."
+  },
+  {
+   "q": "Adam Smith contributions are  \n(A) Division of labour  \n(B) Notion of increasing returns  \n(C) Notion of diminishing returns  \n(D) Dialectical Materialism  \n(E) Socially necessary abstract labour time  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · Q.102]*",
+   "options": [
+    "A and B only",
+    "A and C only",
+    "A and D only",
+    "A and E only"
+   ],
+   "answer": 0,
+   "explanation": "Division of labour and increasing returns."
+  },
+  {
+   "q": "Arrange the following chronologically in order of their publication starting from the oldest:  \n(A) General Theory of Employment, Interest and Money  \n(B) A Treatise on probability  \n(C) Essays in Persuasion  \n(D) The End of Laissez Faire  \n(E) A Tract on Monetary Reform  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · Q.131]*",
+   "options": [
+    "B, C, D, A, E",
+    "B, E, D, C, A",
+    "E, B, D, C, A",
+    "D, E, B, A, C"
+   ],
+   "answer": 1,
+   "explanation": "Probability 1921, Tract 1923, End of Laissez Faire 1926, Essays in Persuasion 1931, General Theory 1936."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Kenneth Arrow (I) Analysis of causal relationship  \n(B) Robert Solow (II) Fundamental contribution in behavioural  \neconomics  \n(C) Daniel Kahneman (III) Fundamental contribution in welfare  \neconomics  \n(D) Joshua Angrist (IV) Fundamental contribution in economic  \ngrowth theory  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.118]*",
+   "options": [
+    "A-III, B-IV, C-I, D-II",
+    "A-II, B-I, C-III, D-IV",
+    "A-III, B-IV, C-II, D-I",
+    "A-I, B-IV, C-III, D-II"
+   ],
+   "answer": 2,
+   "explanation": "Arrow: welfare; Solow: growth; Kahneman: behavioural; Angrist: causal analysis."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Quantity theory of money (I) Milton Friedman  \n(B) Involuntary unemployment (II) John Maynard Keynes  \n(C) Randomised trial (III) Abhijit V. Banerjee  \n(D) Relative poverty (IV) Amartya K. Sen  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.125]*",
+   "options": [
+    "A-I, B-II, C-III, D-IV",
+    "A-IV, B-III, C-II, D-I",
+    "A-III, B-II, C-I, D-IV",
+    "A-III, B-II, C-IV, D-I"
+   ],
+   "answer": 0,
+   "explanation": "Friedman, Keynes, Banerjee, Sen."
+  },
+  {
+   "q": "Which of the following combinations of theorems and their subjects are correctly matched?  \n(A) Modigliani - Miller theorem : Price of goods and real return to factor  \n(B) Dorfman - Steiner theorem : Advertisement expenditure  \n(C) Arrow's impossibility theorem : Social choice  \n(D) Stolper - Samuelson theorem : Capital structure  \n(E) Fishers separation theorem : Profit maximisation motivation  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.94]*",
+   "options": [
+    "(A), (B), (D) only",
+    "(B), (D), (E) only",
+    "(A), (C), (D) only",
+    "(B), (C), (E) only"
+   ],
+   "answer": 3,
+   "explanation": "Dorfman–Steiner: advertising; Arrow: social choice; Fisher separation: investment/profit decision."
+  },
+  {
+   "q": "Arrange the names of following economists chronologically in order of their Nobel prize  \nawards (starting from earliest to the latest):  \n(A) Arthur Lewis  \n(B) Gunnar Myrdal  \n(C) Milton Friedman  \n(D) A.V. Banerjee  \n(E) Lawrence Klein  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.100]*",
+   "options": [
+    "(B), (C), (A), (E), (D)",
+    "(B), (C), (A), (D), (E)",
+    "(B), (A), (C), (E), (D)",
+    "(A), (B), (C), (E), (D)"
+   ],
+   "answer": 0,
+   "explanation": "Myrdal 1974, Friedman 1976, Lewis 1979, Klein 1980, Banerjee 2019."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) NITI Aayog (I) Tit-for-Tat strategy  \n(B) R. Axelrod (II) Efficiency wage theory  \n(C) J. Stiglitz (III) K.N. Raj  \n(D) India's first five year plan (1951-1956) (IV) Knowledge support  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.128]*",
+   "options": [
+    "(A)-(II), (B)-(I), (C)-(III), (D)-(IV)",
+    "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+    "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)",
+    "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)"
+   ],
+   "answer": 2,
+   "explanation": "NITI: knowledge support; Axelrod: tit-for-tat; Stiglitz: efficiency wage; K.N. Raj: First Plan."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) W.W. Leontief (I) Shadow Price  \n(B) Jan Tinbergen (II) Consumption Function  \n(C) J.M. Keynes (III) Price competition with homogenous  \nproducts  \n(D) Joseph Bertrand (IV) Input-output model  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.129]*",
+   "options": [
+    "(A)-(II), (B)-(III), (C)-(I), (D)-(IV)",
+    "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)",
+    "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+    "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)"
+   ],
+   "answer": 1,
+   "explanation": "Leontief: I–O; Tinbergen: shadow price; Keynes: consumption function; Bertrand: price competition."
+  },
+  {
+   "q": "Arrange the following from earlier to the latest  \n(A) Adam Smith  \n(B) David Ricardo  \n(C) David Hume  \n(D) Paul R. Krugman  \n(E) Jen Tinbergen  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.54]*",
+   "options": [
+    "A, B, C, D, E",
+    "B, A, C, E, D",
+    "C, A, B, E, D",
+    "D, E, C, B, A"
+   ],
+   "answer": 2,
+   "explanation": "Hume 1711, Smith 1723, Ricardo 1772, Tinbergen 1903, Krugman 1953."
+  },
+  {
+   "q": "Match LIST-I with LIST-II  \nList - I List - II  \n(A) Life Cycle Hypothesis (I) Karl Marx  \n(B) Cash Balance Approach (II) Francois Quesnay  \n(C) Organic Composition of Capital (III) Alfred Marshall  \n(D) Tableau Economique (IV) F. Modigliani  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.76]*",
+   "options": [
+    "A-III, B-II, C-IV, D-I",
+    "A-IV, B-III, C-I, D-II",
+    "A-II, B-IV, C-III, D-I",
+    "A-I, B-III, C-II, D-IV"
+   ],
+   "answer": 1,
+   "explanation": "Modigliani, Marshall, Marx, Quesnay."
+  },
+  {
+   "q": "Arrange the introduction / coinage of the following concepts in chronological order (oldest to  \nlatest) :  \n(A) Primitive Socialist Accumulation  \n(B) Development by Dispossession  \n(C) Accumulation by Dispossession  \n(D) Primitive Capitalist Accumulation  \n(E) Knife - edge Instability  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.95]*",
+   "options": [
+    "D, A, E, B, C",
+    "A, D, B, E, C",
+    "D, A, E, C, B",
+    "A, D, B, C, E"
+   ],
+   "answer": 2,
+   "explanation": "Marx (primitive accumulation), Preobrazhensky 1924, Harrod 1939, Harvey 2003, Levien 2013."
+  },
+  {
+   "q": "Arrange the writing of the following books in chronological order (oldest to latest)  \n(A) Why nations fail  \n(B) Grundrisse  \n(C) Poverty & famines  \n(D) The theory of moral sentiments  \n(E) Production of commodities by means of commodities.  \nChoose the correct answer from the options given below:  \n*[UGC NET December \n2024 · Q.125]*",
+   "options": [
+    "A, B, C, D, E",
+    "B, A, D, E, C",
+    "D, B, E, C, A",
+    "B, A, E, D, C"
+   ],
+   "answer": 2,
+   "explanation": "1759, 1857–58, 1960, 1981, 2012."
+  },
+  {
+   "q": "Which of the following statements best define property rights?  \n*[UGC NET June 2025 S2 · Q.88]*",
+   "options": [
+    "Property rights refer only to government ownership of land and capital.",
+    "Property rights are informal social rules that cannot be enforced by law.",
+    "Property rights are the legally enforced rights to determine how a resource is used, owned and transferred.",
+    "Property rights prevent individuals from profiting from private property."
+   ],
+   "answer": 2,
+   "explanation": "Legally enforced rights to use, own and transfer."
+  },
+  {
+   "q": "Arrange the following works of J. M. Keynes in chronological order (Starting from the oldest to  \nlatest).  \n(A) A Treatise on Money  \n(B) General Theory of Employment, Interest and Money  \n(C) Indian Currency and Finance  \n(D) A Monetary Theory of Production  \n(E) A Tract on Monetary Reform  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.97]*",
+   "options": [
+    "E, C, A, D, B",
+    "C, E, A, D, B",
+    "C, E, A, B, D",
+    "A, C, E, B, D"
+   ],
+   "answer": 1,
+   "explanation": "1913, 1923, 1930, 1933, 1936."
+  },
+  {
+   "q": "Match List - I with List - II  \nList - I List - II  \nList-I (Concepts) List-II (Given by)  \n(A) Paradox of thrift (I) K. Boulding  \n(B) Water-Diamond paradox (II) A.C. Pigou  \n(C) Wage employment paradox (III) J.M. Keynes  \n(D) Macroeconomic paradox (IV) Adam Smith  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.128]*",
+   "options": [
+    "A-II, B-I, C-III, D-IV",
+    "A-I, B-II, C-III, D-IV",
+    "A-III, B-IV, C-II, D-I",
+    "A-III, B-IV, C-I, D-II"
+   ],
+   "answer": 2,
+   "explanation": "Thrift: Keynes; water–diamond: Smith; wage–employment: Pigou; macroeconomic paradox: Boulding. (Answer key may vary.)"
+  },
+  {
+   "q": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as  \nReason (R).  \nAssertion (A): With 10% rise in average income of household, there will be 50% rise in  \ninvestment in health and education of children.  \nReason (R): Investment in health and education of children will raise human capital that will  \nraise human capability and raise economic productivity.  \nIn the light of the above statements, choose the most appropriate answer from the options  \ngiven below:  \n*[UGC NET December 2025 · Q.125]*",
+   "options": [
+    "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+    "(A) is correct but (R) is not correct",
+    "(A) is not correct but (R) is correct"
+   ],
+   "answer": 3,
+   "explanation": "The specific 10% → 50% claim is unfounded; R is a correct statement. (Answer key may vary.)"
+  }
+ ]
+}

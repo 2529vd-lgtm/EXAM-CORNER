@@ -73,6 +73,132 @@
       "date": "2026-11-06"
     },
     {
+      "id": "ape-pyqsolved-money",
+      "exam": "asst-prof-economics",
+      "subject": "money",
+      "type": "pyq",
+      "title": "Money & Banking: UGC NET PYQs 2018–2025, solved (140 Qs)",
+      "summary": "All 145 questions from the PDF with answers and explanations.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pyqsolved-money-test",
+      "exam": "asst-prof-economics",
+      "subject": "money",
+      "type": "mock",
+      "title": "Money & Banking: solved PYQ test (140 Qs)",
+      "summary": "Real UGC NET questions, timed, with explanations after submitting.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pyqsolved-public",
+      "exam": "asst-prof-economics",
+      "subject": "public",
+      "type": "pyq",
+      "title": "Public Finance: UGC NET PYQs 2018–2025, solved (122 Qs)",
+      "summary": "All 129 questions from the PDF with answers and explanations.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pyqsolved-public-test",
+      "exam": "asst-prof-economics",
+      "subject": "public",
+      "type": "mock",
+      "title": "Public Finance: solved PYQ test (122 Qs)",
+      "summary": "Real UGC NET questions, timed, with explanations after submitting.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pyqsolved-intl",
+      "exam": "asst-prof-economics",
+      "subject": "intl",
+      "type": "pyq",
+      "title": "International Economics: UGC NET PYQs 2018–2025, solved (142 Qs)",
+      "summary": "All 146 questions from the PDF with answers and explanations.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pyqsolved-intl-test",
+      "exam": "asst-prof-economics",
+      "subject": "intl",
+      "type": "mock",
+      "title": "International Economics: solved PYQ test (142 Qs)",
+      "summary": "Real UGC NET questions, timed, with explanations after submitting.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pyqsolved-indian1",
+      "exam": "asst-prof-economics",
+      "subject": "indian",
+      "type": "pyq",
+      "title": "Indian Economy I: UGC NET PYQs 2018–2025, solved (82 Qs)",
+      "summary": "All 89 questions from the PDF with answers and explanations.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pyqsolved-indian1-test",
+      "exam": "asst-prof-economics",
+      "subject": "indian",
+      "type": "mock",
+      "title": "Indian Economy I: solved PYQ test (82 Qs)",
+      "summary": "Real UGC NET questions, timed, with explanations after submitting.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pyqsolved-indian2",
+      "exam": "asst-prof-economics",
+      "subject": "indian",
+      "type": "pyq",
+      "title": "Indian Economy II: UGC NET PYQs 2018–2025, solved (69 Qs)",
+      "summary": "All 81 questions from the PDF with answers and explanations.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pyqsolved-indian2-test",
+      "exam": "asst-prof-economics",
+      "subject": "indian",
+      "type": "mock",
+      "title": "Indian Economy II: solved PYQ test (69 Qs)",
+      "summary": "Real UGC NET questions, timed, with explanations after submitting.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pyqsolved-stats",
+      "exam": "asst-prof-economics",
+      "subject": "stats",
+      "type": "pyq",
+      "title": "Statistics, Maths & Econometrics: UGC NET PYQs 2018–2025, solved (211 Qs)",
+      "summary": "All 218 questions from the PDF with answers and explanations.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pyqsolved-stats-test",
+      "exam": "asst-prof-economics",
+      "subject": "stats",
+      "type": "mock",
+      "title": "Statistics, Maths & Econometrics: solved PYQ test (211 Qs)",
+      "summary": "Real UGC NET questions, timed, with explanations after submitting.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pyqsolved-other",
+      "exam": "asst-prof-economics",
+      "subject": "thought",
+      "type": "pyq",
+      "title": "Economic Thought, Nobel & Misc: UGC NET PYQs 2018–2025, solved (40 Qs)",
+      "summary": "All 42 questions from the PDF with answers and explanations.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pyqsolved-other-test",
+      "exam": "asst-prof-economics",
+      "subject": "thought",
+      "type": "mock",
+      "title": "Economic Thought, Nobel & Misc: solved PYQ test (40 Qs)",
+      "summary": "Real UGC NET questions, timed, with explanations after submitting.",
+      "date": "2026-11-06"
+    },
+    {
       "id": "ape-pdf-day01-unit1-handwritten-notes",
       "exam": "asst-prof-economics",
       "subject": "micro",

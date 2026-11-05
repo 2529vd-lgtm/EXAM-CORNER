@@ -1,0 +1,765 @@
+{
+ "duration": 83,
+ "negative": 0,
+ "questions": [
+  {
+   "q": "In the year 2015 – 16, India has not been an importer of which of the following products?  \n(i) Apples  \n(ii) Rice  \n(iii) Pulses  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.103]*",
+   "options": [
+    "(i), (ii) and (iii)",
+    "(ii) and (iii)",
+    "(i) and (iii)",
+    "Only (ii)"
+   ],
+   "answer": 3,
+   "explanation": "India exports rice; it imported apples and pulses."
+  },
+  {
+   "q": "'Round tripping' in international trade is a method  \n*[UGC NET December 2018 · Q.105]*",
+   "options": [
+    "To boost foreign direct investment",
+    "To evade tax",
+    "To increase exports",
+    "Of financing start-ups"
+   ],
+   "answer": 1,
+   "explanation": "Round tripping routes money abroad and back, mainly to evade tax."
+  },
+  {
+   "q": "The National Rural Health Mission was launched in the year  \n*[UGC NET December 2018 · Q.120]*",
+   "options": [
+    "2005",
+    "2009",
+    "1998",
+    "1991"
+   ],
+   "answer": 0,
+   "explanation": "2005."
+  },
+  {
+   "q": "Arrange the following States in descending order according to Maternal Mortality Ratio (MMR)  \nas per the Special Bulletin of SRS, May, 2018:  \n(i) Assam  \n(ii) Bihar  \n(iii) Madhya Pradesh  \n(iv) Uttar Pradesh  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.124]*",
+   "options": [
+    "(i), (iv), (iii), (ii)",
+    "(ii), (iv), (iii), (i)",
+    "(iv), (i), (ii), (iii)",
+    "(iii), (ii), (i), (iv)"
+   ],
+   "answer": 0,
+   "explanation": "SRS 2014-16: Assam 237 > UP 201 > MP 173 > Bihar 165."
+  },
+  {
+   "q": "In the context of 'Transformation of Aspirational Districts' programme, consider the following  \nstatements:  \n(i) There are 115 districts in this programme.  \n(ii) The core strategy of this programme is convergence, collaboration and competition.  \n(iii) There are 49 key performance indicators to measure the progress of the districts.  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.125]*",
+   "options": [
+    "(i) and (ii)",
+    "(i) and (iii)",
+    "(ii) and (iii)",
+    "(i), (ii) and (iii)"
+   ],
+   "answer": 3,
+   "explanation": "115 districts, 3 Cs strategy, 49 KPIs."
+  },
+  {
+   "q": "Which one is NOT axiom of inequality measures?  \n*[UGC NET June 2019 S1 · Q.110]*",
+   "options": [
+    "Principle of scale invariance",
+    "Principle of equity",
+    "Principle of translation invariance",
+    "Axiom of decomposibility Passage / data for Q.111-113 (June 2019 S1) Direction : Consider the following table that gives the monthly per capita consumption expenditure (MPCE) of eight households and answer the questions given below : State MPCE (in 2 3 4 5 6 7 8 Rs) of Household 1 State—A 950 1100 1000 975 750 775 790 1400 State—B 1250 1150 1400 1100 550 600 490 1200 The value of Z (poverty line MPCE cut off) is Rs 800."
+   ],
+   "answer": 1,
+   "explanation": "'Principle of equity' is not a formal inequality axiom."
+  },
+  {
+   "q": "Estimate of head count ratio in State—A and State—B are  \n*[UGC NET June 2019 S1 · Q.111]*",
+   "options": [
+    "State—A : 0·375; State—B : 0·375",
+    "State—A : 0·475; State—B : 0·375",
+    "State—A : 0·575; State—B : 0·575",
+    "State—A : 0·385; State—B : 0·425"
+   ],
+   "answer": 0,
+   "explanation": "3 of 8 households below ₹800 in each state: 0.375."
+  },
+  {
+   "q": "From the table calculate the estimates of Poverty Gap Ratio (PGR) for State—A and State—B  \nand select the correct option :  \n*[UGC NET June 2019 S1 · Q.112]*",
+   "options": [
+    "State—A : 0·133; State—B : 0·0119",
+    "State—A : 0·153; State—B : 0·0135",
+    "State—A : 0·0133; State—B : 0·119",
+    "State—A : 0·0153; State—B : 0·135"
+   ],
+   "answer": 2,
+   "explanation": "A: (50 + 25 + 10)/(800×8) = 0.0133; B: (250 + 200 + 310)/(800×8) = 0.119."
+  },
+  {
+   "q": "From the table calculate the estimates of Square Poverty Gap Ratio (SPGR) and then show  \nthat the SPGR in State—A is  \n*[UGC NET June 2019 S1 · Q.113]*",
+   "options": [
+    "same as in State—B",
+    "higher than that in State—B",
+    "lower than that in State—B",
+    "significantly different from zero"
+   ],
+   "answer": 2,
+   "explanation": "Gaps are much smaller in State A, so its SPGR is lower."
+  },
+  {
+   "q": "The RBI made Indian rupee fully convertible in current account transactions related to goods  \nand services in the year  \n*[UGC NET June 2019 S1 · Q.130]*",
+   "options": [
+    "1985",
+    "2002",
+    "1994",
+    "2011"
+   ],
+   "answer": 2,
+   "explanation": "August 1994."
+  },
+  {
+   "q": "Identify the method not being used for unemployment estimation by the NSSO of India.  \n*[UGC NET December 2019 S1 · Q.89]*",
+   "options": [
+    "Current monthly status",
+    "Current daily Status",
+    "Current weekly status",
+    "Usual principal and subsidiary status"
+   ],
+   "answer": 0,
+   "explanation": "NSSO uses usual, weekly and daily status, not monthly."
+  },
+  {
+   "q": "Consider the following statements:  \n(a) India's Trade Policy Review (TPR) is carried out every four years  \n(b) WTO has a mechanism for regular review of the trade policies of member countries  \nWhich of the statement(s) given above is/are correct?  \n*[UGC NET December 2019 S1 · Q.100]*",
+   "options": [
+    "Only (a)",
+    "Only (b)",
+    "Both (a) and (b)",
+    "Neither (a) nor (b)"
+   ],
+   "answer": 2,
+   "explanation": "WTO's Trade Policy Review Mechanism; India was reviewed every four years then."
+  },
+  {
+   "q": "Match List-I with List-II:  \nList - I List - II  \n(a) Head Count Ratio (i) Extent of poverty  \n(b) Poverty Gap (ii) Depth of poverty  \n(c) Square of poverty gap (iii) Poverty as deprivation  \n(d) Multi dimensional poverty index (iv) Severity of poverty  \nChoose the correct option from those given below:  \n*[UGC NET December 2019 S1 · Q.118]*",
+   "options": [
+    "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+    "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+    "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+    "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
+   ],
+   "answer": 3,
+   "explanation": "Head count: extent; gap: depth; squared gap: severity; MPI: deprivation."
+  },
+  {
+   "q": "Given below are two statements — one is labelled as Assertion (A) and the other is labelled  \nas Reason (R):  \nAssertion (A): Inclusive growth is a must for a country like India  \nReason (R): India is an open economy with a significant external sector  \nIn the light of the above two statements choose the correct option:  \n*[UGC NET December 2019 S1 · Q.138]*",
+   "options": [
+    "Both (A) and (R) are true and (R) is correct explanation of (A)",
+    "Both (A) and (R) are true and (R) is not correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 1,
+   "explanation": "Both true, but openness doesn't explain the need for inclusive growth."
+  },
+  {
+   "q": "Given below are two statements — one is labelled as Assertion (A) and the other is labelled  \nas Reason (R):  \nAssertion (A): Disguised unemployment is present in India  \nReason (R): Agricultural productivity at margin is close to zero  \nIn the light of the above two statements choose the correct option:  \n*[UGC NET December 2019 S1 · Q.140]*",
+   "options": [
+    "Both (A) and (R) are true and (R) is correct explanation of (A)",
+    "Both (A) and (R) are true and (R) is not correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "explanation": "Disguised unemployment: marginal product near zero."
+  },
+  {
+   "q": "Labour force participation rate is given by  \n*[UGC NET June 2020 S2 · Q.71]*",
+   "options": [
+    "(Labour force / Total population) x 100",
+    "(No. of labour employed / Labour force) x 100",
+    "(Labour force / Adult population) x 100",
+    "(No. of labour employed / Adult population) x 100"
+   ],
+   "answer": 0,
+   "explanation": "LFPR = labour force/population × 100 (PLFS)."
+  },
+  {
+   "q": "A graph reflecting the relationship between a country's per capita income and its inequality  \nof income distribution is the  \n*[UGC NET June 2020 S2 · Q.118]*",
+   "options": [
+    "Lorenz Curve",
+    "Phillips Curve",
+    "Laffer Curve",
+    "Kuznets Curve"
+   ],
+   "answer": 3,
+   "explanation": "Kuznets curve."
+  },
+  {
+   "q": "Given below are two statements  \nStatement I: Growth in infrastructure is considered as an essential pre-requisite for stepping up  \nGDP growth  \nStatement II: It is vitally important to increase capital formation in India  \nIn light of the above statements, choose the most appropriate answer from the options given  \nbelow  \n*[UGC NET June 2020 S2 · Q.125]*",
+   "options": [
+    "Both Statement I and Statement II are not correct",
+    "Statement I is correct but Statement II is incorrect",
+    "Both Statement I and Statement II are correct",
+    "Statement I is incorrect but Statement II is correct"
+   ],
+   "answer": 2,
+   "explanation": "Both are correct."
+  },
+  {
+   "q": "According to Economic Survey, 2019, the top five trading partners of India continue to be  \nUSA, China, UAE and  \n(A) Saudi Arabia  \n(B) Hong Kong  \n(C) Singapore  \n(D) Srilanka  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.130]*",
+   "options": [
+    "C and D only",
+    "B and C only",
+    "A and D only",
+    "A and B only"
+   ],
+   "answer": 3,
+   "explanation": "Saudi Arabia and Hong Kong."
+  },
+  {
+   "q": "Given below are two statements, one is labelled as Assertion A and the other is labelled as  \nReason R  \nAssertion A: Chronic poverty is the main problem facing India  \nReason R: British colonial rule has caused underdevelopment in India  \nIn light of the above statements, choose the most appropriate answer from the options given  \nbelow  \n*[UGC NET June 2020 S2 · Q.132]*",
+   "options": [
+    "Both A and R are correct and R is the correct explanation of A",
+    "Both A and R are correct but R is NOT the correct explanation of A",
+    "A is correct but R is not correct",
+    "A is not correct but R is correct"
+   ],
+   "answer": 1,
+   "explanation": "Both true, but colonial rule is not the reason given for chronic poverty."
+  },
+  {
+   "q": "Which of the following statement is CORRECT for 'Atmanirbhar Bharat Rozgar Yojana'  \nlaunched on November 12, 2020?  \n*[UGC NET December 2020 · Q.38]*",
+   "options": [
+    "Establishments which make new hires will get a subsidy to cover retirement fund contribution by employees and employers for 2 years",
+    "Establishment will get a subsidy of Rs.10 crore for a period of 5 years",
+    "Establishment will get tax profit continuously for a period of 3 years",
+    "Establishment will get tax subsidy for 5 years."
+   ],
+   "answer": 0,
+   "explanation": "ABRY covered EPF contributions of new hires for two years."
+  },
+  {
+   "q": "Inequalities in income are measured by which of the following?  \n(A) Lorenz Ratio  \n(B) Theil's Index  \n(C) Palma Ratio  \n(D) Deprivation Ratio  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.51]*",
+   "options": [
+    "A only",
+    "A and B only",
+    "A and D only",
+    "A, B and C only"
+   ],
+   "answer": 3,
+   "explanation": "Lorenz ratio, Theil index, Palma ratio."
+  },
+  {
+   "q": "Which of the following statements are CORRECT in regard to FDI in India in FY 2020?  \n(A) Share of services sector is highest  \n(B) Share of infrastructure activities is highest  \n(C) Share of computer hardware and software is in the second position  \n(D) Share of telecommunications is highest  \nChoose the correct answer from the options given below:  \n*[UGC NET December \n2020 · Q.55]*",
+   "options": [
+    "A and C only",
+    "B and C only",
+    "B only",
+    "C and D only"
+   ],
+   "answer": 0,
+   "explanation": "FY2020: services first, computer software and hardware second."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) NIRVIK (I) A project directed to provide piped  \ncooking gas to millions of households  \n(B) Ayushman Bharat (II) A scheme to enhance energy efficiency  \n(C) Pradhan Mantri Urja Ganga (PMUG) (III) Export credit insurance scheme  \n(D) Perform, Achieve and Trade (PAT) (IV) Programme related to health issues in  \nthe primary, secondary and tertiary sectors  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.75]*",
+   "options": [
+    "A - II, B - III, C - I, D - IV",
+    "A - III, B - IV, C - II, D - I",
+    "A - II, B - IV, C - III, D - I",
+    "A - III, B - IV, C - I, D - II"
+   ],
+   "answer": 3,
+   "explanation": "NIRVIK: export credit; Ayushman: health; PMUG: piped gas; PAT: energy efficiency."
+  },
+  {
+   "q": "Arrange the following Committees of poverty estimation in chronological order:  \n(A) Alagh Committee  \n(B) Lakdawala Committee  \n(C) Tendulkar Committee  \n(D) Rangarajan Committee  \nChoose the correct answer from the options given below  \n*[UGC NET December 2020 · \nQ.85]*",
+   "options": [
+    "A, B, C, D",
+    "A, C, B, D",
+    "B, C, A, D",
+    "B, A, C, D"
+   ],
+   "answer": 0,
+   "explanation": "Alagh (1979) → Lakdawala (1993) → Tendulkar (2009) → Rangarajan (2014)."
+  },
+  {
+   "q": "Match 'Labour Force' with the appropriate item from among the following :  \n*[UGC NET December 2021 · Q.31]*",
+   "options": [
+    "Total work force",
+    "Employed + unemployed",
+    "Total educated manpower",
+    "Population in the age group 15 - 60"
+   ],
+   "answer": 1,
+   "explanation": "Employed + unemployed."
+  },
+  {
+   "q": "'PM Gatishakti' is driven by ________ engines.  \n*[UGC NET December 2021 · Q.36]*",
+   "options": [
+    "Four",
+    "Five",
+    "Six",
+    "Seven"
+   ],
+   "answer": 3,
+   "explanation": "Seven engines."
+  },
+  {
+   "q": "What has been the reason for recent dip in vehicle registration in the country?  \n*[UGC NET December 2021 · \nQ.38]*",
+   "options": [
+    "Shortage of semi-conductor chips",
+    "Poor credit supply by the banking sector",
+    "Sharp rise in vehicle prices",
+    "Reduced demand for vehicles"
+   ],
+   "answer": 0,
+   "explanation": "Semiconductor chip shortage."
+  },
+  {
+   "q": "Here is given weights of items under use based classification of industrial production index of  \nIndia (Base 2011-12)  \n(A) Primary goals 34.05%  \n(B) Capital goods 12.22%  \n(C) Intermediate goods 17.22%  \n(D) Infrastructure/Construction goods 12.34%  \n(E) Consumer goods 24.17%  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.62]*",
+   "options": [
+    "(B), (C) and (D) only",
+    "(A), (B) and (E) only",
+    "(A), (C) and (D) only",
+    "(B), (D) and (E) only"
+   ],
+   "answer": 2,
+   "explanation": "Primary 34.05, intermediate 17.22, infrastructure/construction 12.34 are correct."
+  },
+  {
+   "q": "Which of the followings were the part of FDI policy reforms and other measures during the  \nCovid-19 pandemic period?  \n(A) 100 per cent FDI in the health sector  \n(B) Permitting foreign investment upto 100 percent under automatic route in Telecom services  \nsector  \n(C) \"FDI monitoring cell\" has been formed to expedite FDI proposals  \n(D) Raised the FDI limit from 49 per cent to 74 per cent in insurance companies under the  \nautomatic route  \n(E) Reduced the limit of FDI in the defence sector to realize the vision of Atmanirbhar Bharat  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.63]*",
+   "options": [
+    "(D) and (E) only",
+    "(B), (C) and (E) only",
+    "(B), (C) and (D) only",
+    "(A), (D) and (E) only"
+   ],
+   "answer": 2,
+   "explanation": "Telecom 100% automatic, FDI monitoring, insurance 49 → 74%."
+  },
+  {
+   "q": "Below are some of the features of the Micro, Small and Medium enterprises (MSMEs) in India.  \n(A) Revised definition of the MSMEs was brought in July 2020.  \n(B) In this definition turnover limit varied between service and manufacturing enterprises  \n(C) In the revised definition turnover limit for small enterprises was Rs.50 crore  \n(D) In this revised definition, investment limit in plant and machinery or equipment for medium  \nenterprises was Rs.50 crore  \n(E) In the revised definition, investment limit for plant and machinery or equipment for medium  \nenterprises was Rs.5 crore  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.64]*",
+   "options": [
+    "(A), (D) and (E) only",
+    "(A), (C) and (D) only",
+    "(D) and (E) only",
+    "(A), (B) and (D) only"
+   ],
+   "answer": 1,
+   "explanation": "July 2020 definition; small turnover ₹50 crore; medium investment ₹50 crore."
+  },
+  {
+   "q": "Match List I with List II :  \nList - I List - II  \n(A) FEMA (I) 1969  \n(B) MRTP Act (II) 2002  \n(C) Competition Act (III) 1973  \n(D) FERA (IV) 1999  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.74]*",
+   "options": [
+    "(A)-(I), (B)-(II), (C)-(IV), (D)-(III)",
+    "(A)-(III), (B)-(I), (C)-(II), (D)-(IV)",
+    "(A)-(IV), (B)-(II), (C)-(I), (D)-(III)",
+    "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)"
+   ],
+   "answer": 3,
+   "explanation": "FEMA 1999; MRTP 1969; Competition 2002; FERA 1973."
+  },
+  {
+   "q": "Arrange the states in descending order based on percentage of population who are  \nmultidimensionally poor based on NITI Aayog Report 2021.  \n(A) Bihar  \n(B) Odisha  \n(C) Rajasthan  \n(D) Uttar Pradesh  \n(E) Madhya Pradesh  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.78]*",
+   "options": [
+    "(A), (D), (E), (C), (B)",
+    "(A), (E), (C), (D), (B)",
+    "(A), (C), (E), (B), (D)",
+    "(A), (B), (C), (E), (D)"
+   ],
+   "answer": 0,
+   "explanation": "Bihar > UP > MP > Rajasthan > Odisha (NITI MPI 2021)."
+  },
+  {
+   "q": "Provide proper chronological order of different schemes launched in India  \n(A) Pradhan Mantri Jan Aushadhi Yojana  \n(B) Pradhan Mantri Ujjwala Yojana  \n(C) Atal Pension Yojana  \n(D) PM Jan Dhan Yojana  \n(E) Ayushman Bharat Yojana  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.85]*",
+   "options": [
+    "(C), (B), (A), (D), (E)",
+    "(C), (D), (B), (A), (E)",
+    "(D), (A), (B), (C), (E)",
+    "(D), (C), (A), (B), (E)"
+   ],
+   "answer": 3,
+   "explanation": "PMJDY (2014) → APY (2015) → Jan Aushadhi (2015) → Ujjwala (2016) → Ayushman (2018)."
+  },
+  {
+   "q": "Given below are two statements :  \nStatement I : Taking advantage of the increased demand for staples during the COVID-19  \npandemic, India's agricultural exports continued to do well in 2021-22  \nStatement II : Like in the year 2020-21, segments like marine products, buffalo meat, tea, coffee  \nand dairy products continued to perform poorly in terms of exports from India in 2021-22  \nIn the light of the above statements, choose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.90]*",
+   "options": [
+    "Both Statement I and Statement II are true",
+    "Both Statement I and Statement II are false",
+    "Statement I is true but Statement II is false",
+    "Statement I is false but Statement II is true Passage / data for Q.96-100 (December 2021) Read the given passage and answer five questions on the basis of passage: Since the second five year plan, the Government of India has been emphasizing on development of industry on promoting self reliance India. But at that time the priority was for import substitution and export-promotion. Though same phenomenon is still relevant the priority of Industrialisation has been changed. Industry helps not only for the self reliance and reducing dependance on Foreign Countries but it creats massive employment for a populated country like India. The Startups India Programme started in 2014 which hence for promoting new initiatives and infact industries in critical domains having strategic importance. The recognised startups has been increased from 726 in FY 2016-17 to 65,861 in FY2021-22. The Startups spread across 640 districts and created jobs more then 7 lakhs. These startups have been recently developed in new domain and sectors of strategic importance including development of IT services, hardware technology, software enterprises, artificial intelligence, robotics and technology of banking & finance in across 56 sectors. As on Feb, 2022, the ministry of commerce and industry has allocated Rs. 2,791.29 crore to SIDBI which inturn committed Rs. 6,795 crore to 82 alternative investment funds (AIFs) while Rs. 8,785 crore have been invested by supported AIFs in 574 startups and Rs. 945 crore has been allocated under the scheme for a period of four years starting from 2021-22 to fund the startups for proof of concept, prototype, trails of products, entry of market and commercialization. However, it is important for sustaining these startups for long term development and for creation of employment. Continued investment in this sectors, export promotion and startups products, innovation in new sectors and creation of domestic demands for this products are important for long term development and attracting new startups."
+   ],
+   "answer": 2,
+   "explanation": "Agri exports did well; those segments also improved."
+  },
+  {
+   "q": "What is the prioritized objective of industrialization in terms of startups initiatives?  \n*[UGC NET December \n2021 · Q.96]*",
+   "options": [
+    "Self reliance",
+    "Employment opportunities",
+    "Both self reliance and employment opportunities",
+    "Export reduction"
+   ],
+   "answer": 2,
+   "explanation": "Both self-reliance and jobs."
+  },
+  {
+   "q": "Which of the following is true in case of startups in India :  \n*[UGC NET December 2021 · Q.97]*",
+   "options": [
+    "The startups increased by 7.25% during 2016-17 and 2021-22",
+    "The sectoral growth of startups is taken place by 56%",
+    "The startups have developed in important sectors like agriculture, tourism and irrigation",
+    "The recognized sectors have created jobs more than 7 lakhs"
+   ],
+   "answer": 3,
+   "explanation": "Startups created over 7 lakh jobs."
+  },
+  {
+   "q": "Which of the following sectors have not developed recently in startups  \n*[UGC NET December 2021 · Q.98]*",
+   "options": [
+    "IT services",
+    "Robotics",
+    "Artificial intelligence",
+    "Space technology"
+   ],
+   "answer": 3,
+   "explanation": "Space technology is not listed."
+  },
+  {
+   "q": "How much amount has been allocated under the scheme of startups to find new startups for  \nproof of concepts, prototype and trials of products, entry of market and commercialization?  \n*[UGC NET December 2021 · Q.99]*",
+   "options": [
+    "Rs. 2,791.29 crore",
+    "Rs. 6,795.00 crore",
+    "Rs. 945 crore",
+    "Rs. 12,521 crore"
+   ],
+   "answer": 2,
+   "explanation": "₹945 crore (Startup India Seed Fund)."
+  },
+  {
+   "q": "Which of the following measures is required for sustaining startups?  \n*[UGC NET December 2021 · Q.100]*",
+   "options": [
+    "Attracting FDI startups",
+    "Tax holidays on startups",
+    "Creation of domestic demands for startups",
+    "Encouraging startups in defence sectors"
+   ],
+   "answer": 2,
+   "explanation": "Creating domestic demand."
+  },
+  {
+   "q": "Which among the following are main components of PM e-Vidya:  \n(A) One Nation, One Digital Education.  \n(B) Infrastructure and Electronic Governance.  \n(C) One Class, One T.V. Channel.  \n(D) Extensive use of radio, Community radio and Podcasts.  \n(E) Information and Communication Technology.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.52]*",
+   "options": [
+    "A, C, D and E only",
+    "A, B, C and E only",
+    "B, C, D and E only",
+    "A, B, D and E only"
+   ],
+   "answer": 0,
+   "explanation": "DIKSHA (one nation one digital platform), one class one channel, radio and podcasts, ICT content."
+  },
+  {
+   "q": "Which of the followings are the alternative estimates of poverty in India?  \n(A) Dandekar and Rath Estimate  \n(B) O.P Chopra Estimate  \n(C) P. D. Ojha Estimate  \n(D) B. S. Minhas Estimate  \n(E) D. K. Rangnekar Estimate  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · \nQ.53]*",
+   "options": [
+    "A, B and C only",
+    "B, C and E only",
+    "A, C and D only",
+    "C, D and E only"
+   ],
+   "answer": 2,
+   "explanation": "Dandekar–Rath, Ojha and Minhas."
+  },
+  {
+   "q": "Which of the following objectives are correct for the Public Sector?  \n(A) To create employment opportunities  \n(B) To promote balanced regional growth  \n(C) To promote agriculture growth  \n(D) To promote rapid economic development  \n(E) To promote the banking sector of the economy  \nChoose the correct answer from the option given below:  \n*[UGC NET December 2022 S1 · Q.54]*",
+   "options": [
+    "A, B and D only",
+    "B, C and E only",
+    "C, D and E only",
+    "A, B, C, D and E"
+   ],
+   "answer": 0,
+   "explanation": "Employment, balanced regional growth, rapid development."
+  },
+  {
+   "q": "Which of the following are the members of SAARC countries?  \n(A) India  \n(B) Pakistan  \n(C) Sri Lanka  \n(D) Afghanistan  \n(E) China  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.64]*",
+   "options": [
+    "A, C and E only",
+    "B, C and E only",
+    "A, D and E only",
+    "A, B, C and D only"
+   ],
+   "answer": 3,
+   "explanation": "India, Pakistan, Sri Lanka, Afghanistan (China is an observer)."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Santa Cruz (I) West Bengal  \n(B) Kandla (II) Andhra Pradesh  \n(C) Falta (III) Gujarat  \n(D) Vishakhapatnam (IV) Maharashtra  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.75]*",
+   "options": [
+    "A - I, B - II, C - IV, D - III",
+    "A - IV, B - III, C - I, D - II",
+    "A - II, B - IV, C - III, D - I",
+    "A - III, B - I, C - II, D - IV"
+   ],
+   "answer": 1,
+   "explanation": "Santa Cruz: Maharashtra; Kandla: Gujarat; Falta: West Bengal; Visakhapatnam: AP."
+  },
+  {
+   "q": "The Rural Landless Employment guarantee Programme (RLEGP) was launched on :  \n*[UGC NET December \n2022 S2 · Q.21]*",
+   "options": [
+    "15th August 1947",
+    "15th August 1950",
+    "15th August 1983",
+    "15th August 2000"
+   ],
+   "answer": 2,
+   "explanation": "15 August 1983."
+  },
+  {
+   "q": "The Foreign Trade Policy (2015-2020) was announced on which date ?  \n*[UGC NET December 2022 S2 · Q.22]*",
+   "options": [
+    "1 August 2015",
+    "1 April 2015",
+    "30 August 2015",
+    "30 April 2015"
+   ],
+   "answer": 1,
+   "explanation": "1 April 2015."
+  },
+  {
+   "q": "The causes and consequences of poverty include:  \n(A) Unemployment  \n(B) Low wages  \n(C) Poor health  \n(D) Low Population Growth  \n(E) Low Literacy rates.  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.59]*",
+   "options": [
+    "A and C only",
+    "B, D and E only",
+    "B, C, D and E only",
+    "A, B, C and E only"
+   ],
+   "answer": 3,
+   "explanation": "Unemployment, low wages, poor health, low literacy."
+  },
+  {
+   "q": "Measurement of income inequality is done by :  \n(A) Gini coefficient  \n(B) Lorenz curve  \n(C) Palma Ratio  \n(D) Deprivation ratio  \n(E) Phillips Curve  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.60]*",
+   "options": [
+    "B and E only",
+    "A and B only",
+    "A, B and C only",
+    "C and A only"
+   ],
+   "answer": 2,
+   "explanation": "Gini, Lorenz curve, Palma ratio."
+  },
+  {
+   "q": "Arrange the states in ascending order based on population who are multidimensionally poor  \nas per NITI Aayog Report 2021.  \n(A) Punjab  \n(B) Kerala  \n(C) Sikkim  \n(D) Goa  \n(E) Tamil Nadu.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.82]*",
+   "options": [
+    "B, D, C, E, A",
+    "D, E, B, C, A",
+    "A, E, D, B, C",
+    "C, B, A, D, E"
+   ],
+   "answer": 0,
+   "explanation": "Kerala < Goa < Sikkim < Tamil Nadu < Punjab."
+  },
+  {
+   "q": "Normalized Poverty Gap (NPG) is measured as a ratio of  \n*[UGC NET June 2023 · Q.82]*",
+   "options": [
+    "Average Poverty Gap to poverty line",
+    "Total Poverty Gap to poverty line",
+    "Total Poverty Gap to total population",
+    "Average Poverty Gap to total population"
+   ],
+   "answer": 0,
+   "explanation": "Average poverty gap / poverty line."
+  },
+  {
+   "q": "The BOP crisis of early 1990s made India borrow from the IMF which came on following  \nconditions  \n(A) Devaluation of rupee by 22%  \n(B) Drastic custom cut to a peak duty of 30% from the erstwhile level of 130% for all goods  \n(C) Consolidation of all indirect taxes into one tax  \n(D) Excise duty to be increased by 20% to neutralize the loss of revenue due to custom cut  \n(E) Government expenditure to be cut by 10% per annum.  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · Q.97]*",
+   "options": [
+    "A, B, C, E only",
+    "B, C, D, E only",
+    "C, D, E, A only",
+    "A, B, D, E only"
+   ],
+   "answer": 3,
+   "explanation": "Devaluation, customs cuts, offsetting excise changes and spending cuts. (Answer key may vary.)"
+  },
+  {
+   "q": "Based on the NITI Aayog estimate of poverty for the year 2011-12, the states with above 30  \npercent rural poverty are  \n(A) Manipur  \n(B) Bihar  \n(C) Sikkim  \n(D) Uttar Pradesh  \n(E) Nagaland  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · Q.101]*",
+   "options": [
+    "A and B only",
+    "B and D only",
+    "B, C and D only",
+    "A, B and D only"
+   ],
+   "answer": 3,
+   "explanation": "Manipur, Bihar and UP had rural poverty above 30% (2011-12)."
+  },
+  {
+   "q": "Gini-coefficient, a widely used measure of inequality in income is defined as :  \n*[UGC NET December 2023 S1 · \nQ.63]*",
+   "options": [
+    "[1/(n2 μ)] Σ_in Σ_(j≤1) (yi − yj)",
+    "[2/(n2 μ)] Σ_in i yi − [(n+1)/n]",
+    "[2/(nμ)] [Σ_in i yi / Σ_in yi] − [(n+1)/n]",
+    "[1/(n2 μ)] Σ_(i=1)n Σ_(j=1)n |yi − yj|"
+   ],
+   "answer": 3,
+   "explanation": "Gini is based on the mean absolute difference over all pairs."
+  },
+  {
+   "q": "Consider the following centrally sponsored schemes in India and choose the right sequence  \nof time (year) when they were launched, from earliest to latest  \n(A) Beti Bachao Beti Padhao  \n(B) Ujjwala  \n(C) Swach Bharat Abhiyan  \n(D) Ayushman Bharat  \n(E) Right to Education  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.130]*",
+   "options": [
+    "(E), (A), (C), (B), (D)",
+    "(E), (C), (A), (B), (D)",
+    "(A), (E), (C), (B), (D)",
+    "(A), (C), (E), (D), (B)"
+   ],
+   "answer": 1,
+   "explanation": "RTE (2009) → Swachh Bharat (2014) → BBBP (2015) → Ujjwala (2016) → Ayushman (2018)."
+  },
+  {
+   "q": "What is the permissible limit of foreign Direct Investment in India's defence industry through  \ngovernment route?  \n*[UGC NET August 2024 S1 · Q.54]*",
+   "options": [
+    "26 percent",
+    "51 percent",
+    "74 percent",
+    "100 percent"
+   ],
+   "answer": 3,
+   "explanation": "Up to 100% through the government route (74% automatic)."
+  },
+  {
+   "q": "Which of the following is current global measurement of the extreme poverty line?  \n*[UGC NET August 2024 \nS1 · Q.57]*",
+   "options": [
+    "$1.90 - a day",
+    "$2.00 - a day",
+    "$2.15 - a day",
+    "$2.25 - a day"
+   ],
+   "answer": 2,
+   "explanation": "$2.15 (2017 PPP) at the time; updated to $3.00 in 2025."
+  },
+  {
+   "q": "Arrange the following in correct chronological order starting for the oldest to the latest:  \n(A) World Trade organisation (WTO)  \n(B) General Aggrement on Trade and Tariffs (GATT)  \n(C) New Economic Policy of India (NEP)  \n(D) Introduction of goods and services tax (GST)  \n(E) Establishment of NABARD  \nChoose the correct answer from the options given below:  \n*[UGC NET August \n2024 S1 · Q.95]*",
+   "options": [
+    "(B), (C), (E), (A), (D)",
+    "(B), (E), (C), (A), (D)",
+    "(B), (D), (E), (C), (A)",
+    "(A), (B), (C), (E), (D)"
+   ],
+   "answer": 1,
+   "explanation": "GATT (1947) → NABARD (1982) → NEP (1991) → WTO (1995) → GST (2017)."
+  },
+  {
+   "q": "Consider the following targets of National Health Policy 2017. Choose the correct objectives  \nto be achieved by 2025:  \n(A) Infant Mortality Rate : 30  \n(B) Under Five Mortality Rate : 20  \n(C) Maternal mortality rate : 100  \n(D) Total Fertility Rate : 2.1  \n(E) Life Expectancy at Birth : 70 years  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.117]*",
+   "options": [
+    "(A), (B), (C) only",
+    "(B), (C), (D) only",
+    "(A), (C), (E) only",
+    "(C), (D), (E) only"
+   ],
+   "answer": 3,
+   "explanation": "NHP 2017: MMR 100, TFR 2.1, life expectancy 70 by 2025."
+  },
+  {
+   "q": "Which of the following is not a rural development programme of India  \n*[UGC NET December 2024 · Q.58]*",
+   "options": [
+    "Din Dayal Upadhyaya Gramin Kausholya Yojana",
+    "Pradhanmantri Gram Sadak Yojana",
+    "Swachh Bharat Mission",
+    "National Social Assistance Programme"
+   ],
+   "answer": 2,
+   "explanation": "Swachh Bharat is a sanitation mission, not a rural development programme."
+  },
+  {
+   "q": "Which one of the following is not correct regarding India's national level programmes :  \n*[UGC NET December 2024 · Q.65]*",
+   "options": [
+    "MGNREGP is a workfare programme.",
+    "PMAY is a developmental programme.",
+    "PMGSY is a food security enhancement programme.",
+    "BBBP is a gender - equality enhancement programme."
+   ],
+   "answer": 2,
+   "explanation": "PMGSY builds rural roads."
+  },
+  {
+   "q": "Which of the following Indian ministries is responsible for the publication of reports on  \nlongitudinal data on the informal sector of India?  \n*[UGC NET December 2024 · Q.79]*",
+   "options": [
+    "Ministry of Home Affairs",
+    "NITI Aayog",
+    "Ministry of Statistics & programme Implementattion",
+    "Ministry of Finance"
+   ],
+   "answer": 2,
+   "explanation": "MoSPI."
+  },
+  {
+   "q": "Arrange the following government schemes chronologically according to their year of  \nlaunching starting from the earliest  \n(A) Ayushman Bharat Yojana  \n(B) Atal Pension Yojana  \n(C) Jal Jeevan Mission  \n(D) PM Ujjwala Yojana  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.88]*",
+   "options": [
+    "C, A, D, B",
+    "B, C, D, A",
+    "A, B, D, C",
+    "B, D, A, C"
+   ],
+   "answer": 3,
+   "explanation": "APY (2015) → Ujjwala (2016) → Ayushman (2018) → Jal Jeevan (2019)."
+  },
+  {
+   "q": "Which of the following are correct about the revised criteria of MSMEs effective from 01 April  \n2025 as per union budget 2025-26?  \n(A) An enterprise is classified as micro enterprise if investment in plant and machinery does not  \nexceed Rs. 2.5 crore.  \n(B) A medium enterprise is one whose turnover does not exceed Rs. 50 crore.  \n(C) A small enterprise has investment limit up to Rs. 10 crore  \n(D) A micro enterprise is one whose turnover is up to Rs. 10 crore.  \n(E) A small enterprise has turnover limit up to Rs. 100 crore.  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.124]*",
+   "options": [
+    "B, C & D Only",
+    "A, D & E Only",
+    "A, B & E Only",
+    "C, D & E Only"
+   ],
+   "answer": 1,
+   "explanation": "Micro: investment ₹2.5 cr, turnover ₹10 cr; small turnover ₹100 cr."
+  },
+  {
+   "q": "Which of the following are correct about the foreign trade policy (FTP) 2023 of India?  \n(A) India's FTP 2023 promotes cross border trade in digital economy.  \n(B) FTP 2023 emphasized on creation of E-commerce export hubs (ECEH).  \n(C) It prohibits export and import of arms and related material from/to Iraq.  \n(D) It prohibits import of charcoal from Somalia.  \n(E) It emphasizes strengthening trade with Democratic People's Republic of Korea in combat  \naircraft, missiles and arms related materials.  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET June 2025 \nS2 · Q.125]*",
+   "options": [
+    "A, D & E Only",
+    "D & E Only",
+    "A, B & C Only",
+    "A, B, C & D Only"
+   ],
+   "answer": 3,
+   "explanation": "Digital trade, e-commerce hubs and UN-sanction-based bans."
+  },
+  {
+   "q": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as  \nReason (R).  \nAssertion (A): The all-India annual unemployment rate (UR) for individuals, aged 15 years and  \nabove (usual status) has steadily declined from 6 percent in 2017-2018 to 3.2 percent in  \n2023-2024.  \nReason (R): According to RBI data, India's foreign exchange reserves on Dec. 26, 2025 were  \naround 693 billion dollars.  \nIn the light of the above statements, choose the most appropriate answer from the options  \ngiven below:  \n*[UGC NET December 2025 · Q.61]*",
+   "options": [
+    "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+    "(A) is correct but (R) is not correct",
+    "(A) is not correct but (R) is correct"
+   ],
+   "answer": 1,
+   "explanation": "Both true but unrelated."
+  },
+  {
+   "q": "Identify the correct statement regarding Mahatma Gandhi National Rural Employment  \nGuarantee Scheme (MNREGS):  \n*[UGC NET December 2025 · Q.90]*",
+   "options": [
+    "The draft proposed by the National Advisory Committee (NAC) envisaged legal guarantee to every household in rural areas for 120 days for doing casual manual work",
+    "90 percent of the cost of employment provided is borne by the centre",
+    "In the first phase of implementation, 150 most backward districts were covered",
+    "From 2nd October, 2010, National Rural Employment Guarantee Scheme (NREGS) has been renamed as Mahatma Gandhi National Rural Employment Guarantee Scheme (MNREGS)"
+   ],
+   "answer": 1,
+   "explanation": "The Centre bears most (about 90%) of the cost."
+  },
+  {
+   "q": "The Headcount Index of Poverty Measurement is based on:  \n*[UGC NET December 2025 · Q.105]*",
+   "options": [
+    "The number of people who fall below the poverty line.",
+    "The proportionate gap between the average level of income below the poverty line and the poverty line itself.",
+    "The \"Bottom Billion\"",
+    "Vertical Inequality of income"
+   ],
+   "answer": 0,
+   "explanation": "Number below the poverty line."
+  },
+  {
+   "q": "Based on Economic Survey 2024-25, Indian merchandise trade deficit widened due to:  \n(A) Decline of non-petroleum and non-gems and jewellery exports  \n(B) Increase in non-oil and non-gold imports  \n(C) Imposing of ban on jewellery exports  \n(D) Gold imports grew due to early purchases ahead of festive spending and demand for safe  \nheaven assets  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.120]*",
+   "options": [
+    "A and B only",
+    "B and D only",
+    "C and D only",
+    "A and C only"
+   ],
+   "answer": 1,
+   "explanation": "Higher non-oil, non-gold imports and gold imports."
+  }
+ ]
+}

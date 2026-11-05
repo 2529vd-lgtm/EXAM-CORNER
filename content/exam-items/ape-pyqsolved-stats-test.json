@@ -1,0 +1,2327 @@
+{
+ "duration": 253,
+ "negative": 0,
+ "questions": [
+  {
+   "q": "Match List I with List II and choose the correct answer from the code given below:  \nList - I List - II  \n(a) Hawkins-Simon Conditions (i) Theory of Games  \n(b) Saddle Point (ii) Non-Linear Programming  \n(c) Simplex Method (iii) Input-Output Analysis  \n(d) Kuhn-Tucker Conditions (iv) Linear Programming  \n*[UGC NET December 2018 \n· Q.140]*",
+   "options": [
+    "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+    "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+    "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+    "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+   ],
+   "answer": 3,
+   "explanation": "Hawkins–Simon: input–output; saddle point: games; simplex: LP; Kuhn–Tucker: non-linear programming."
+  },
+  {
+   "q": "A box contains 10 bulbs, 4 of which are defective. If 3 of the bulbs are drawn randomly without  \nreplacement, what is the probability that all three bulbs are defective?  \n*[UGC NET December 2018 · Q.142]*",
+   "options": [
+    "1/30",
+    "3/4",
+    "3/10",
+    "4/10"
+   ],
+   "answer": 0,
+   "explanation": "C(4,3)/C(10,3) = 4/120 = 1/30."
+  },
+  {
+   "q": "A series of index numbers is given as follows:  \nYear 2014 2015 2016  \nIndex Number 100 120 126  \nIf the base year is shifted to year 2015, the value of index number in the year 2016, in the new  \nseries will be:  \n*[UGC NET December 2018 · Q.143]*",
+   "options": [
+    "106",
+    "95.2",
+    "105",
+    "151.2"
+   ],
+   "answer": 2,
+   "explanation": "126/120 × 100 = 105."
+  },
+  {
+   "q": "In a two-variable regression, the correlation coefficient between dependent and independent  \nvariables Y and X is 0·7. What is the percentage of variations in Y explained by X?  \n*[UGC NET December 2018 · \nQ.144]*",
+   "options": [
+    "49%",
+    "1%",
+    "0.7%",
+    "70%"
+   ],
+   "answer": 0,
+   "explanation": "r² = 0.49 → 49%."
+  },
+  {
+   "q": "Consider the following statements about a time series of annual observations on sales of a  \nfirm for ten years:  \n(i) The series will have seasonal variations.  \n(ii) The series will have a secular trend.  \n(iii) The series will have cyclical variations.  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.145]*",
+   "options": [
+    "(ii) and (iii)",
+    "(i), (ii) and (iii)",
+    "(i) and (ii)",
+    "(i) and (iii)"
+   ],
+   "answer": 0,
+   "explanation": "Annual data has no seasonal component; trend and cycles remain."
+  },
+  {
+   "q": "Match List I with List II and choose the correct answer from the code given below:  \nList - I List - II  \n(a) Delphi Method (i) Stationarity  \n(b) Dickey-Fuller Test (ii) Autocorrelation  \n(c) Durbin-Watson Test (iii) Testing significance of a regression  \ncoefficient  \n(d) Student's t-Test (iv) Forecasting  \n*[UGC NET December 2018 \n· Q.146]*",
+   "options": [
+    "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+    "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+    "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+    "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
+   ],
+   "answer": 0,
+   "explanation": "Delphi: forecasting; Dickey–Fuller: stationarity; Durbin–Watson: autocorrelation; t: coefficient significance."
+  },
+  {
+   "q": "By autocorrelation we mean that  \n*[UGC NET December 2018 · Q.147]*",
+   "options": [
+    "The residuals of a regression model are not independent.",
+    "The residuals of a regression model are related with one or more of the regressors.",
+    "The square of the residuals of a regression model are not equally spread.",
+    "The variance of the residuals of a regression model is not constant for all observations."
+   ],
+   "answer": 0,
+   "explanation": "Residuals are not independent of each other."
+  },
+  {
+   "q": "In Regression Analysis, if a quantitative variable has 'm' categories, one can introduce  \n*[UGC NET December 2018 · Q.148]*",
+   "options": [
+    "Only m + 1 dummy variables",
+    "Only m − 1 dummy variables",
+    "Only m dummy variables",
+    "Only 2 m variables"
+   ],
+   "answer": 1,
+   "explanation": "m − 1 dummies (avoid the dummy trap)."
+  },
+  {
+   "q": "Though two time series are individually non-stationary, their linear combination is stationary.  \nThis is an example of  \n*[UGC NET December 2018 · Q.149]*",
+   "options": [
+    "Random walk",
+    "Spurious regression",
+    "Cointegration",
+    "Trend stationarity"
+   ],
+   "answer": 2,
+   "explanation": "Cointegration."
+  },
+  {
+   "q": "In the context of simultaneous equations econometric models, consider the following  \nstatements:  \n(i) Both order and rank conditions for identification are to be satisfied before estimation.  \n(ii) Order condition is a necessary but not a sufficient condition of identification.  \n(iii) Two-stage least squares method is suitable for over-identified equations.  \nWhich of the above statements is/are correct?  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.150]*",
+   "options": [
+    "Only (i)",
+    "(i), (ii) and (iii)",
+    "(i) and (iii)",
+    "Only (ii)"
+   ],
+   "answer": 1,
+   "explanation": "All three statements are correct."
+  },
+  {
+   "q": "In a binomial distribution, the probability of x successes in n trials in any order is given by  \n*[UGC NET June 2019 S1 · Q.134]*",
+   "options": [
+    "p(x) = nCx px·qn−x",
+    "p(x) = nC1 p2x·qn−1",
+    "p(x) = nCx p2·qn−1",
+    "p(x) = nCx px·qn−2"
+   ],
+   "answer": 0,
+   "explanation": "P(x) = nCx p^x q^(n − x)."
+  },
+  {
+   "q": "The correct relationship among Arithmetic Mean (AM), Geometric Mean (GM) and Harmonic  \nMean (HM) is  \n*[UGC NET June 2019 S1 · Q.135]*",
+   "options": [
+    "GM = AM + HM",
+    "AM < HM",
+    "[GM]2 = HM × AM",
+    "AM = GM − HM"
+   ],
+   "answer": 2,
+   "explanation": "GM² = AM × HM (two numbers)."
+  },
+  {
+   "q": "For a moderately skewed distribution, the value of mode is 10 and value of median is 20.  \nThen the mean is  \n*[UGC NET June 2019 S1 · Q.136]*",
+   "options": [
+    "15",
+    "30",
+    "25",
+    "35"
+   ],
+   "answer": 2,
+   "explanation": "Mode = 3Md − 2Mean → 10 = 60 − 2Mean → Mean = 25."
+  },
+  {
+   "q": "Standard Error (SE) of sample mean (x̄) in random sampling from an infinite population or in  \nrandom sampling with replacement is given by  \n*[UGC NET June 2019 S1 · Q.137]*",
+   "options": [
+    "SE = σ2/√n where σ is the population standard deviation",
+    "SE = σ/√(n2) where σ is the population standard deviation",
+    "SE = σ3/√n where σ is the population standard deviation",
+    "SE = σ/√n where σ is the population standard deviation"
+   ],
+   "answer": 3,
+   "explanation": "SE = σ/√n."
+  },
+  {
+   "q": "When the null hypothesis is there as an equality, the level of significance is the probability of  \nmaking  \n*[UGC NET June 2019 S1 · Q.138]*",
+   "options": [
+    "type II error",
+    "type I error",
+    "type I and II errors",
+    "type I and III errors"
+   ],
+   "answer": 1,
+   "explanation": "Significance level = probability of type I error."
+  },
+  {
+   "q": "In a two variable (X and Y) regression analysis, the regression coefficients are bxy = 0·6 and  \nbyx = 0·8. If y is dependent variable and x is independent variable, what is the percentage of  \nvariations in Y explained by X?  \n*[UGC NET June 2019 S1 · Q.139]*",
+   "options": [
+    "47%",
+    "48%",
+    "49%",
+    "36%"
+   ],
+   "answer": 1,
+   "explanation": "r² = 0.6 × 0.8 = 0.48."
+  },
+  {
+   "q": "Match List-I with List-II :  \nList - I List - II  \n(a) Gauss-Markov (i) R2  \n(b) Coefficient of determination (ii) One sided test  \n(c) H0 : B2 = 0, H1 : B2 > 0 [printed as \"= 70\"] (iii) Goldfeld-Quandt test  \n(d) Heteroscedasticity (iv) BLUE  \nChoose the correct option from those given below :  \n*[UGC NET June 2019 S1 · Q.140]*",
+   "options": [
+    "(a)-(iv); (b)-(i); (c)-(ii); (d)-(iii)",
+    "(a)-(i); (b)-(ii); (c)-(iv); (d)-(iii)",
+    "(a)-(ii); (b)-(iii); (c)-(i); (d)-(iv)",
+    "(a)-(iii); (b)-(i); (c)-(ii); (d)-(iv)"
+   ],
+   "answer": 0,
+   "explanation": "Gauss–Markov: BLUE; R²; one-sided test; Goldfeld–Quandt."
+  },
+  {
+   "q": "Multiplicative decomposition model is used to  \n*[UGC NET June 2019 S1 · Q.141]*",
+   "options": [
+    "deseasonalise the time series data",
+    "build cost of living index",
+    "test a hypothesis",
+    "estimate probability"
+   ],
+   "answer": 0,
+   "explanation": "Multiplicative decomposition is used to deseasonalise."
+  },
+  {
+   "q": "Match List-I with List-II :  \nList - I List - II  \n(a) Skewness (i) Dispersion  \n(b) Variance (ii) Random variation  \n(c) Earthquake (iii) Ratio of variances  \n(d) F-test (iv) Lack of symmetry  \nChoose the correct option from those given below :  \n*[UGC NET June 2019 S1 · Q.142]*",
+   "options": [
+    "(a)-(iii); (b)-(iv); (c)-(i); (d)-(ii)",
+    "(a)-(iv); (b)-(i); (c)-(ii); (d)-(iii)",
+    "(a)-(i); (b)-(iii); (c)-(iv); (d)-(ii)",
+    "(a)-(ii); (b)-(i); (c)-(iv); (d)-(iii)"
+   ],
+   "answer": 1,
+   "explanation": "Skewness: asymmetry; variance: dispersion; earthquake: random variation; F: ratio of variances."
+  },
+  {
+   "q": "If A = [6 5 5; 3 −11 −5; 3 −5 −2] (a 3×3 matrix, rows separated by ;), then |A| is equal to  \n*[UGC NET June 2019 S1 · Q.143]*",
+   "options": [
+    "15",
+    "16",
+    "27",
+    "20"
+   ],
+   "answer": 2,
+   "explanation": "6(22 − 25) − 5(−6 + 15) + 5(−15 + 33) = −18 − 45 + 90 = 27."
+  },
+  {
+   "q": "Difference equation is concerned with  \n*[UGC NET June 2019 S1 · Q.145]*",
+   "options": [
+    "discrete changes",
+    "continuous changes",
+    "Both of the above",
+    "None of the above"
+   ],
+   "answer": 0,
+   "explanation": "Discrete-time changes."
+  },
+  {
+   "q": "A linear programming problem can be solved by using  \n*[UGC NET June 2019 S1 · Q.146]*",
+   "options": [
+    "ARIMA techniques",
+    "Simplex method",
+    "Unit root method",
+    "None of the above"
+   ],
+   "answer": 1,
+   "explanation": "Simplex method."
+  },
+  {
+   "q": "In an open economy input-output model, the viability is examined by  \n*[UGC NET June 2019 S1 · Q.147]*",
+   "options": [
+    "Hawkins-Simon conditions",
+    "Kuhn-Tucker conditions",
+    "Dickey-Fuller test",
+    "Goldfeld-Quandt test"
+   ],
+   "answer": 0,
+   "explanation": "Hawkins–Simon conditions."
+  },
+  {
+   "q": "Applying OLS to simultaneous equations results in the parameters being  \n*[UGC NET June 2019 S1 · Q.148]*",
+   "options": [
+    "inefficient",
+    "inconsistent",
+    "biased",
+    "biased and inconsistent"
+   ],
+   "answer": 3,
+   "explanation": "OLS on simultaneous equations is biased and inconsistent."
+  },
+  {
+   "q": "A simultaneous equation model is exactly identified, if  \n*[UGC NET June 2019 S1 · Q.150]*",
+   "options": [
+    "unique numerical values of structural parameters can be obtained",
+    "more than one numerical value can be obtained for some of the parameters of the structural equation",
+    "unique solution of all the structural coefficients is not possible",
+    "structural coefficient cannot be estimated"
+   ],
+   "answer": 0,
+   "explanation": "Unique values of structural parameters."
+  },
+  {
+   "q": "For an exactly identified equation, the order condition that should be fulfilled is that equation  \nmust:  \n*[UGC NET December 2019 S1 · Q.59]*",
+   "options": [
+    "Exclude one less than the total number of endogenous variables in the model",
+    "Include one less than the total number of endogenous variables in the model",
+    "Include only one of the endogenous variables in the model",
+    "Exclude two or more endogenous variables"
+   ],
+   "answer": 0,
+   "explanation": "Exclude exactly G − 1 variables (one less than the number of endogenous variables)."
+  },
+  {
+   "q": "Analysis of variance is carried out by using:  \n*[UGC NET December 2019 S1 · Q.60]*",
+   "options": [
+    "t-test",
+    "Z-test",
+    "χ² test",
+    "F-test"
+   ],
+   "answer": 3,
+   "explanation": "F-test."
+  },
+  {
+   "q": "Under Normal Probability Curve, the area within the range of μ − 1.96σ and μ + 1.96σ (where  \nμ = mean, σ = standard deviation) is:  \n*[UGC NET December 2019 S1 · Q.61]*",
+   "options": [
+    "90%",
+    "95%",
+    "75%",
+    "99%"
+   ],
+   "answer": 1,
+   "explanation": "95%."
+  },
+  {
+   "q": "Boot strapping technique is used to:  \n*[UGC NET December 2019 S1 · Q.62]*",
+   "options": [
+    "test for specification bias",
+    "obtain sampling distribution of parameters of interest",
+    "test for auto-correlation",
+    "test for normality of error term"
+   ],
+   "answer": 1,
+   "explanation": "Bootstrapping approximates sampling distributions."
+  },
+  {
+   "q": "Inverse of matrix [2 0 0 0; 0 4 0 0; 0 0 5 0; 0 0 0 1] is (matrices written row by row, rows  \nseparated by \";\")  \n*[UGC NET December 2019 S1 · Q.63]*",
+   "options": [
+    "[0.25 0 0 0; 0 0.5 0 0; 0 0 0.2 0; 0 0 0 1]",
+    "[0.2 0 0 0; 0 1 0 0; 0 0 .25 0; 0 0 0 0.5]",
+    "[0.5 0 0 0; 0 0.25 0 0; 0 0 0.2 0; 0 0 0 1]",
+    "[0.5 0 0 0; 0 0.25 0 0; 0 0 1 0; 0 0 0 0.4]"
+   ],
+   "answer": 2,
+   "explanation": "Diagonal inverse: 1/2, 1/4, 1/5, 1."
+  },
+  {
+   "q": "Three statement are given as under:  \n(a) Generalised Least Square (GLS) method is capable of providing BLUE in situations where OLS  \nfails  \n(b) GLS is OLS on the transformed variables that satisfy the standard least squares assumptions  \n(c) GLS method is suitable for dealing with multicollinearity problem  \nChoose the correct option:  \n*[UGC NET December 2019 S1 · Q.95]*",
+   "options": [
+    "(a) and (b) are correct but (c) is not correct",
+    "(a) and (c) are correct but (b) is not correct",
+    "(a) is correct but (b) and (c) are not correct",
+    "(a) is not correct but (b) and (c) are correct"
+   ],
+   "answer": 0,
+   "explanation": "GLS gives BLUE by transforming variables; it does not fix multicollinearity."
+  },
+  {
+   "q": "Which of the following statements are true concerning a triangular or recursive system?  \n(a) The parameters can be validly estimated using separate applications of OLS to each  \nequation  \n(b) The independent variables may be correlated with the error terms in other equation  \n(c) An application of two-stage least squares would lead to unbiased but inefficient parameter  \nestimation  \n(d) The independent variables may be correlated with the error terms in the equation in which  \nthey appear as independent variables  \nChoose the correct option:  \n*[UGC NET December 2019 S1 · Q.96]*",
+   "options": [
+    "(a) and (d) only",
+    "(a) and (c) only",
+    "(a), (b) and (c) only",
+    "(a), (b), (c) and (d)"
+   ],
+   "answer": 2,
+   "explanation": "In recursive systems OLS is valid equation by equation (regressors may correlate with other equations' errors)."
+  },
+  {
+   "q": "Two series are given as under  \n(a) 1 − 1/2 + 1/4 − 1/8 + 1/16 − 1/32 + ..... upto ∞  \n(b) 2 + √2 + 1 + 1/√2 + 1/2 + 1/(2√2) + ... upto ∞  \nChoose the correct option:  \n*[UGC NET December 2019 S1 · Q.97]*",
+   "options": [
+    "(a) is convergent while (b) is divergent series",
+    "Both (a) and (b) are convergent series",
+    "(a) is divergent while (b) is convergent series",
+    "None of (a) and (b) are convergent"
+   ],
+   "answer": 1,
+   "explanation": "Both are geometric series with |ratio| < 1."
+  },
+  {
+   "q": "In Linear Programming each problem (called primal) has a dual. About duality in Linear  \nProgramming following statements are given:  \n(a) If a Linear Programming problem is maximizing type, then its dual is minimizing type  \n(b) Both primal and dual have same optimum value  \n(c) Dual of dual of a linear programming problem is primal problem  \n(d) If maximizing linear programming problem is with \"less than\" type constraints, the dual of  \nthis problem will have \"more than\" type constraints  \nChoose from the following options:  \n*[UGC NET December 2019 S1 · Q.98]*",
+   "options": [
+    "Only (a) and (b) are correct",
+    "Only (c) and (d) are correct",
+    "(a), (b) and (c) are correct",
+    "All (a), (b), (c), (d) are correct"
+   ],
+   "answer": 3,
+   "explanation": "All four duality statements are correct."
+  },
+  {
+   "q": "Match the tests with their purpose given below:  \nList - I List - II  \n(a) Dickey-Fuller Test (i) Heterosedasticity  \n(b) Box-Jenkins Method (ii) Causality  \n(c) Glejser Test (iii) Forecasting  \n(d) Granger Test (iv) Stationarity  \nChoose the correct option from those given below:  \n*[UGC NET December 2019 S1 · Q.113]*",
+   "options": [
+    "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+    "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+    "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+    "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+   ],
+   "answer": 2,
+   "explanation": "DF: stationarity; Box–Jenkins: forecasting; Glejser: heteroscedasticity; Granger: causality."
+  },
+  {
+   "q": "Match the Economists with their field of contribution in Mathematical Economics:  \nList - I List - II  \n(a) Slutsky (i) Linear Programming  \n(b) Arrow (ii) Input-output analysis  \n(c) Leontief (iii) Consumer behaviour analysis  \n(d) Dantzig (iv) CES Production Function  \nChoose the correct option from those given below:  \n*[UGC NET December \n2019 S1 · Q.114]*",
+   "options": [
+    "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+    "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+    "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+    "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+   ],
+   "answer": 1,
+   "explanation": "Slutsky: consumer behaviour; Arrow: CES; Leontief: input–output; Dantzig: LP."
+  },
+  {
+   "q": "In terms of their contribution to Econometrics which is correct chronological order:  \n*[UGC NET December \n2019 S1 · Q.123]*",
+   "options": [
+    "L.R. Klein, H. Theil, A.L. Nagar, T. Haavelmo",
+    "A.L. Nagar, T. Haavelmo, L.R. Klein, H. Theil",
+    "T. Haavelmo, L.R. Klein, H. Theil, A.L. Nagar",
+    "H. Theil, L.R. Klein, A.L. Nagar, T. Haavelmo"
+   ],
+   "answer": 2,
+   "explanation": "Haavelmo (1943) → Klein → Theil (2SLS) → Nagar (1959)."
+  },
+  {
+   "q": "Which is correct chronological order of Economists contributing to input-output analysis?  \n*[UGC NET December 2019 S1 · Q.124]*",
+   "options": [
+    "Hawkins-Simon, Leontief, Karl Marx, Quesnay",
+    "Karl Marx, Quesnay, Leontief, Hawkins-Simon",
+    "Quesnay, Karl Marx, Leontief, Hawkins-Simon",
+    "Leontief, Hawkins-Simon, Karl Marx, Quesnay"
+   ],
+   "answer": 2,
+   "explanation": "Quesnay → Marx → Leontief → Hawkins–Simon."
+  },
+  {
+   "q": "Given below are two statements — one is labelled as Assertion (A) and the other is labelled  \nas Reason (R):  \nAssertion (A): Geometric Mean is theoretically considered as the best average to Construct  \nIndex Numbers  \nReason (R): Geometric mean is used if the range of observations are extremely large  \nIn the light of the above two statements, choose the correct option:  \n*[UGC NET December 2019 S1 · Q.133]*",
+   "options": [
+    "Both (A) and (R) are true and (R) is correct explanation of (A)",
+    "Both (A) and (R) are true and (R) is not correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 1,
+   "explanation": "GM is best for index numbers (it satisfies the time reversal test); the wide-range point is true but separate."
+  },
+  {
+   "q": "For any two equally likely, exhaustive and independent events A and B, P(AB) will be equal to  \n*[UGC NET June 2020 S2 · Q.75]*",
+   "options": [
+    "0",
+    "0.25",
+    "0.50",
+    "1"
+   ],
+   "answer": 1,
+   "explanation": "P(A) = P(B) = 0.5 and independent → P(AB) = 0.25."
+  },
+  {
+   "q": "What type of relationship exists between two variables, if all points on the scatter diagram  \nappear to fall on a straight line going upward from left to right?  \n*[UGC NET June 2020 S2 · Q.76]*",
+   "options": [
+    "Positive correlation",
+    "Perfect positive correlation",
+    "Negative correlation",
+    "Perfect negative correlation"
+   ],
+   "answer": 1,
+   "explanation": "Perfect positive correlation."
+  },
+  {
+   "q": "Given 'σ' as the Standard Deviation of a given series and if to each and every observation of  \nthe series is added a constant 'k', then what will be the Standard Deviation of the new series?  \n*[UGC NET June \n2020 S2 · Q.77]*",
+   "options": [
+    "σ + k",
+    "σ − k",
+    "σ",
+    "σk"
+   ],
+   "answer": 2,
+   "explanation": "Adding a constant doesn't change SD."
+  },
+  {
+   "q": "Which one of the following price Index numbers satisfy the Factor Reversal Test?  \n*[UGC NET June 2020 S2 · \nQ.78]*",
+   "options": [
+    "Laspeyres Price Index Number",
+    "Paasche's Price Index Number",
+    "Walsh's Price Index Number",
+    "Fisher's Price Index Number"
+   ],
+   "answer": 3,
+   "explanation": "Fisher's index."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \nList I (Statistic) List II (Standard Error)  \n(A) Sample Mean (x̄) (I) √[(σ1²/2n1) + (σ2²/2n2)]  \n(B) Sample Variance (s²) (II) √[(σ1²/n1) + (σ2²/n2)]  \n(C) Difference of two independent sample (III) σ/√n  \nmeans (x̄1 − x̄2)  \n(D) Difference of two independent sample (IV) σ²√(2/n)  \nstandard Deviations (s1 − s2)  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.79]*",
+   "options": [
+    "A - III, B - IV, C - II, D - I",
+    "A - III, B - II, C - IV, D - I",
+    "A - III, B - IV, C - I, D - II",
+    "A - I, B - III, C - II, D - IV"
+   ],
+   "answer": 0,
+   "explanation": "σ/√n; σ²√(2/n); √(σ1²/n1 + σ2²/n2); √(σ1²/2n1 + σ2²/2n2)."
+  },
+  {
+   "q": "Given the sample size 400 with sample mean 99, the population mean 100 and computed  \nvalue of z - statistic at - 2.5, the value of population standard deviation will be  \n*[UGC NET June 2020 S2 · Q.80]*",
+   "options": [
+    "59.17",
+    "123.46",
+    "8",
+    "Cannot be determined"
+   ],
+   "answer": 2,
+   "explanation": "−2.5 = (99 − 100)/(σ/20) → σ = 8."
+  },
+  {
+   "q": "If the disturbance term is heteroscedastic, which one of the responses based on given  \nstatements is true?  \n(A) OLS estimates are biased  \n(B) OLS estimates do not have the minimum variance property  \n(C) Tests of significance based on OLS estimates will be inaccurate  \n(D) OLS estimates are inconsistent  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.81]*",
+   "options": [
+    "A and B are true only",
+    "A and C are true only",
+    "B and C are true only",
+    "A and D are true only"
+   ],
+   "answer": 2,
+   "explanation": "OLS stays unbiased but loses efficiency, and tests become unreliable."
+  },
+  {
+   "q": "Based on the order condition, state, whether the first equation is identified?  \nGiven the following structural model.  \ny1 = 3y2 − 2x1 + x2 + u1  \ny2 = y3 + x3 + u2  \ny3 = y1 − y2 − 2x3 + u3  \nwhere y's are the endogenous variables, x's are predetermined variables and u's are random  \nterms  \n*[UGC NET June 2020 S2 · Q.82]*",
+   "options": [
+    "Over Identified",
+    "Under Identified",
+    "Exactly Identified",
+    "Information not sufficient"
+   ],
+   "answer": 2,
+   "explanation": "Excluded exogenous = 1 = included endogenous − 1: exactly identified."
+  },
+  {
+   "q": "Which one of the following response is true as a solution for simultaneous equation bias?  \n(A) OLS Method  \n(B) Principle Component Method  \n(C) Two-Stage Least Square Method (2 SLS Method)  \n(D) Full Information Maximum Likelihood Method (FIML)  \nChoose the correct answer from the options given below:  \n*[UGC NET June \n2020 S2 · Q.83]*",
+   "options": [
+    "A and B are true only",
+    "B and C are true only",
+    "C and D are true only",
+    "A and D are true only"
+   ],
+   "answer": 2,
+   "explanation": "2SLS and FIML."
+  },
+  {
+   "q": "A time series, under the condition E(xt) = μ and Cov (xt, xt+k) = γ(k) is said to be  \n*[UGC NET June 2020 S2 · \nQ.84]*",
+   "options": [
+    "Strictly Stationary",
+    "Non Stationary",
+    "Weakly Stationary",
+    "Can't be defined"
+   ],
+   "answer": 2,
+   "explanation": "Constant mean and autocovariance depending only on lag: weak stationarity."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Linear Function (I) y = 3x2 + 2x + 9  \n(B) Quadratic Function (II) y = 5x3  \n(C) Exponential Function (III) y = 3e2x  \n(D) Power Function (IV) y = 5x + 3  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.85]*",
+   "options": [
+    "A - IV, B - I, C - III, D - II",
+    "A - IV, B - I, C - II, D - III",
+    "A - IV, B - II, C - III, D - I",
+    "A - I, B - II, C - III, D - IV"
+   ],
+   "answer": 0,
+   "explanation": "Linear, quadratic, exponential, power."
+  },
+  {
+   "q": "Given below are two statements, one is labelled as Assertion A and the other is labelled as  \nReason R  \nAssertion A: If A is any Matrix given by A = [5 0 3; −1 0 2; 1 0 1] (rows) then det A = 0, since all  \nelements in column II are zero  \nReason R: Laplace expansion permits evaluation of a determinant along any row or column  \nIn light of the above statements, choose the most appropriate answer from the options given  \nbelow  \n*[UGC NET June 2020 S2 · Q.88]*",
+   "options": [
+    "Both A and R are correct and R is the correct explanation of A",
+    "Both A and R are correct but R is NOT the correct explanation of A",
+    "A is correct but R is not correct",
+    "A is not correct but R is correct"
+   ],
+   "answer": 0,
+   "explanation": "Laplace expansion along the zero column gives det = 0."
+  },
+  {
+   "q": "Which one of the following is a valid objective function as a linear programming problem?  \n*[UGC NET June 2020 S2 · Q.90]*",
+   "options": [
+    "Max Z = 5x2y",
+    "Max Z = 3x + 2y + 8xy",
+    "Min Z = 2x2 + 3y2",
+    "Min Z = 5x + 2y"
+   ],
+   "answer": 3,
+   "explanation": "Only a linear objective is valid."
+  },
+  {
+   "q": "If no industry (sector) draws its own output as input, then the principal diagonal element in  \nthe Technological Coefficient Matrix will be  \n*[UGC NET June 2020 S2 · Q.91]*",
+   "options": [
+    "-1",
+    "+1",
+    "Zero",
+    "Infinity"
+   ],
+   "answer": 2,
+   "explanation": "Zero."
+  },
+  {
+   "q": "Which of the following are Hawkins-Simon conditions?  \n(A) Determinant A should be positive  \n(B) Determinant (I-A) should be positive  \n(C) Determinant (I-A) should be negative  \n(D) Principal diagonal elements of Matrix (I-A) should be positive  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.92]*",
+   "options": [
+    "A and C are true only",
+    "A and D are true only",
+    "B and D are true only",
+    "C and D are true only"
+   ],
+   "answer": 2,
+   "explanation": "|I − A| > 0 and positive diagonal elements of (I − A)."
+  },
+  {
+   "q": "Assuming the probability of a male birth as 0.5, find the chances that a family of 3 children  \nwill have two boys and one girl.  \n*[UGC NET December 2020 · Q.11]*",
+   "options": [
+    "1/8",
+    "2/8",
+    "3/8",
+    "4/8"
+   ],
+   "answer": 2,
+   "explanation": "3C2 (0.5)³ = 3/8."
+  },
+  {
+   "q": "Which one of the following measures of central tendency will be the most appropriate to use  \nif the data relates to rates, proportions and ratios?  \n*[UGC NET December 2020 · Q.12]*",
+   "options": [
+    "Arithmetic Mean",
+    "Median",
+    "Harmonic Mean",
+    "Geometric Mean"
+   ],
+   "answer": 3,
+   "explanation": "Geometric mean for ratios and proportions."
+  },
+  {
+   "q": "The sampling distribution of mean based on a sample of 13 units selected without  \nreplacement shows a variance of 5 units. If the population consists of 49 units, estimate the  \nvariance of the population.  \n*[UGC NET December 2020 · Q.13]*",
+   "options": [
+    "80.67",
+    "84.87",
+    "86.67",
+    "86.87"
+   ],
+   "answer": 2,
+   "explanation": "5 = (σ²/13)(36/48) → σ² = 86.67."
+  },
+  {
+   "q": "In the classical linear regression model, Xi and Ui are assumed to be:  \n*[UGC NET December 2020 · Q.14]*",
+   "options": [
+    "highly correlated",
+    "not correlated",
+    "positively correlated",
+    "negatively correlated"
+   ],
+   "answer": 1,
+   "explanation": "Not correlated."
+  },
+  {
+   "q": "Identify which one of the following statements is INCORRECT?  \n*[UGC NET December 2020 · Q.15]*",
+   "options": [
+    "Intersection of two disjoint sets is a null set",
+    "Complement of a Universal set is a null set",
+    "If X∩Y = φ, then X − Y ≠ X",
+    "X − Y = X∩Ȳ"
+   ],
+   "answer": 2,
+   "explanation": "If X ∩ Y = ∅, then X − Y = X."
+  },
+  {
+   "q": "Given Y = X3 − 12X2 + 36X + 8, identify which one of the following is CORRECT:  \n*[UGC NET December 2020 \n· Q.16]*",
+   "options": [
+    "Y is maximum at X = 6 and minimum at X = 2",
+    "Y is minimum at X = 6 and maximum at X = 2",
+    "Y has two inflexion points at X = 2 and X = 6",
+    "Point of optimality is indeterminate"
+   ],
+   "answer": 1,
+   "explanation": "Y' = 3X² − 24X + 36 = 0 → X = 2 (max), 6 (min)."
+  },
+  {
+   "q": "Identify which one of the following statements is CORRECT:  \n*[UGC NET December 2020 · Q.17]*",
+   "options": [
+    "A-1 is equal to Adj (A) if the value of the determinant A is unity",
+    "If two columns of a determinant are interchanged, the sign of the determinant does not alter",
+    "The value of a determinant changes if the rows and columns are interchanged",
+    "Law of division is allowed in matrix operations"
+   ],
+   "answer": 0,
+   "explanation": "A⁻¹ = adj(A)/|A| = adj(A) when |A| = 1."
+  },
+  {
+   "q": "Identify which of the following statements with respect to Linear Programming Problem (LPP)  \nis CORRECT:  \n*[UGC NET December 2020 · Q.18]*",
+   "options": [
+    "A solution is unbounded in an LPP if all the feasible solutions of the problem fall within the boundary created by its constraints",
+    "If A is a primal problem and B is its dual, then dual of B is not A",
+    "The constraints of an LPP in standard form is always expressed in less than and equal to form",
+    "If an LPP has two optimum solutions, then it has also infinite number of optimum solutions"
+   ],
+   "answer": 3,
+   "explanation": "Two optima imply infinitely many (on the segment between them)."
+  },
+  {
+   "q": "Which of the following are CORRECT?  \n(A) If observations are selected purposively, it is called a method of non-random sampling  \n(B) If observations are selected in an ad-hoc manner, it is called a method of non-random  \nsampling  \n(C) If observations are selected in a systematic manner it is called a method of non-random  \nsampling  \n(D) If observations are selected on the basis of judgment, it is called a method of non-random  \nsampling  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.45]*",
+   "options": [
+    "A, B and C only",
+    "B, C and D only",
+    "A, C and D only",
+    "A, B and D only"
+   ],
+   "answer": 3,
+   "explanation": "Purposive, ad hoc and judgement sampling are non-random; systematic is random."
+  },
+  {
+   "q": "Which are the following correct features of matrices?  \n(A) An identity matrix is a square matrix  \n(B) An identity matrix when gets transposed remains an identity matrix  \n(C) (A.B)T = AT.BT where A and B are matrices  \n(D) (A-1)T = (AT)-1 where A is a matrix  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.46]*",
+   "options": [
+    "A and B only",
+    "B and C only",
+    "A and C only",
+    "C and D only"
+   ],
+   "answer": 0,
+   "explanation": "Identity matrix is square and symmetric. (AB)ᵀ = BᵀAᵀ; (A⁻¹)ᵀ = (Aᵀ)⁻¹ is also true."
+  },
+  {
+   "q": "Which of the following statements are CORRECT for correlation analysis?  \n(A) Degree of linear association is measured between two variables  \n(B) Predictability is not part of correlation analysis  \n(C) Spearman has no contribution to correlation analysis  \n(D) Cause and effect relationship is established through correlation analysis  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.58]*",
+   "options": [
+    "A and C only",
+    "B and C only",
+    "A and B only",
+    "A and D only"
+   ],
+   "answer": 2,
+   "explanation": "Correlation measures linear association, not prediction or causation."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Carl Friedrich Gauss (I) Central Tendency  \n(B) Multicollinearity (II) OLS  \n(C) Mode (III) Karl Pearson  \n(D) Correlation coefficient (IV) Relationship among explanatory  \nvariables  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.68]*",
+   "options": [
+    "A - IV, B - I, C - II, D - III",
+    "A - III, B - IV, C - I, D - II",
+    "A - II, B - IV, C - III, D - I",
+    "A - II, B - IV, C - I, D - III"
+   ],
+   "answer": 3,
+   "explanation": "Gauss: OLS; multicollinearity; mode: central tendency; Pearson: correlation."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Convex Function (I) Basic Variable  \n(B) Input-Output Analysis (II) Use of Derivative  \n(C) Linear Programming (III) Hawkins–Simon condition  \n(D) Marginal Propensity to Consume (IV) Demand Curve  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.69]*",
+   "options": [
+    "A - IV, B - III, C - I, D - II",
+    "A - II, B - III, C - I, D - IV",
+    "A - III, B - IV, C - I, D - II",
+    "A - IV, B - I, C - III, D - II"
+   ],
+   "answer": 0,
+   "explanation": "Convex function: demand curve; I–O: Hawkins–Simon; LP: basic variable; MPC: derivative."
+  },
+  {
+   "q": "Identify the proper sequence in the traditional econometric methodology of conducting  \nresearch  \n(A) Data collection  \n(B) Policy prescription  \n(C) Testing of hypothesis  \n(D) Formulation of hypothesis  \nChoose the correct answer from the options given below  \n*[UGC NET December 2020 · Q.78]*",
+   "options": [
+    "D, A, B, C",
+    "A, D, B, C",
+    "D, A, C, B",
+    "A, B, C, D"
+   ],
+   "answer": 2,
+   "explanation": "Hypothesis → data → testing → policy."
+  },
+  {
+   "q": "Given below are two statements:  \nStatement I: One of the assumptions under OLS method states that the regression model is  \nlinear in the parameters, though it may or may not be linear in the variables.  \nStatement II: The variance of the error, or disturbance, term is not the same regardless of the  \nvalue of the explanatory variable under OLS.  \nIn light of the above statements, choose the most appropriate answer from the options given  \nbelow  \n*[UGC NET December 2020 · Q.90]*",
+   "options": [
+    "Both Statement I and Statement II are correct",
+    "Both Statement I and Statement II are incorrect",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct"
+   ],
+   "answer": 2,
+   "explanation": "OLS assumes homoscedasticity, so Statement II is wrong."
+  },
+  {
+   "q": "Hari's score in the statistics in the first year is 76, whereas the class average is 68 with a  \nstandard deviation of 5. What is Hari's Z-score?  \n*[UGC NET December 2021 · Q.11]*",
+   "options": [
+    "1.5",
+    "1.6",
+    "1.2",
+    "1.4"
+   ],
+   "answer": 1,
+   "explanation": "(76 − 68)/5 = 1.6."
+  },
+  {
+   "q": "A bag contains 20 tickets marked with numbers 1 to 20. One ticket is drawn at random. Find  \nthe probability that will be multiple of 2 or 5.  \n*[UGC NET December 2021 · Q.12]*",
+   "options": [
+    "0.7",
+    "0.9",
+    "0.6",
+    "0.3"
+   ],
+   "answer": 2,
+   "explanation": "(10 + 4 − 2)/20 = 0.6."
+  },
+  {
+   "q": "A simultaneous equation model is said to be over-identified if,  \n*[UGC NET December 2021 · Q.13]*",
+   "options": [
+    "Unique numerical values of the structural parameters can be obtained",
+    "More than one numerical values can be obtained for some of the parameters of the structural equations",
+    "Unique solution of all the structural coefficient is not possible",
+    "Structural coefficient cannot be estimated"
+   ],
+   "answer": 1,
+   "explanation": "More than one value for some parameters."
+  },
+  {
+   "q": "The fitted regression equation is given by Ŷi = −10 + 0.6X. What is the value of the residual  \nat the point X = 40, Y = 60.  \n*[UGC NET December 2021 · Q.14]*",
+   "options": [
+    "74",
+    "46",
+    "0",
+    "45"
+   ],
+   "answer": 1,
+   "explanation": "Ŷ = 14; residual = 60 − 14 = 46."
+  },
+  {
+   "q": "Find the rank of A = [6 3 5; −10 2 8; 5 2 3] (3 × 3 matrix; rows separated by semicolons)  \n*[UGC NET December 2021 · Q.17]*",
+   "options": [
+    "3",
+    "2",
+    "1",
+    "0"
+   ],
+   "answer": 1,
+   "explanation": "Determinant = 0 and rows are not proportional: rank 2."
+  },
+  {
+   "q": "Integrate: x2/(x + 2)  \n*[UGC NET December 2021 · Q.18]*",
+   "options": [
+    "4x/(x + 2)2 + c",
+    "x2/2 + 2x + 4 log(x + 2) + c",
+    "x2/2 − 2x + 4 log(x + 2) + c",
+    "x2/2 − 2x + c"
+   ],
+   "answer": 2,
+   "explanation": "x²/(x + 2) = x − 2 + 4/(x + 2)."
+  },
+  {
+   "q": "The binomial distribution can be used under the following conditions  \n(A) n, the number of trials is finite and independent  \n(B) n, the number of trials is infinite and independent  \n(C) Each trial results in two mutually exclusive and exhaustive outcomes, termed as success  \nand failure  \n(D) P, the probability of success is constant for each trial  \n(E) The probability of failure does not remain same for each trial  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.53]*",
+   "options": [
+    "(A), (C) and (E) only",
+    "(B), (C) and (D) only",
+    "(A), (C) and (D) only",
+    "(B), (C) and (E) only"
+   ],
+   "answer": 2,
+   "explanation": "Finite independent trials, two outcomes, constant p."
+  },
+  {
+   "q": "Which of the followings are correct in case of normal distribution?  \n(A) Q1 + Q2 = 2Md  \n(B) Q.D. = (1/3)σ  \n(C) Q.D. = (2/3)σ  \n(D) All moments of odd order about mean are zero  \n(E) Q1 + Q2 = Md  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.54]*",
+   "options": [
+    "(B), (D) and (E) only",
+    "(A), (B) and (D) only",
+    "(A), (C) and (D) only",
+    "(C), (D) and (E) only"
+   ],
+   "answer": 2,
+   "explanation": "Q1 + Q3 = 2Md, QD ≈ (2/3)σ, odd central moments zero."
+  },
+  {
+   "q": "What are the practical consequences of multicollinearity in CLRM?  \n(A) R2, the overall measure of goodness of fit can be very high  \n(B) OLS estimators are not BLUE  \n(C) OLS estimators have small variance and covariances  \n(D) t ratio of one or more coefficients is statistically significant  \n(E) The OLS estimators and their standard errors can be sensitive to small changes in the data  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.56]*",
+   "options": [
+    "(A), (B) and (C) only",
+    "(A), (B) and (D) only",
+    "(A), (D) and (E) only",
+    "(B), (C) and (E) only"
+   ],
+   "answer": 2,
+   "explanation": "High R², few significant t's, fragile estimates; OLS is still BLUE."
+  },
+  {
+   "q": "If we have objective function involving n variables : U = f(X1, X2, X3, ....., Xn) subject to φ(X1,  \nX2, X3, ...., Xn) = 0. The second order condition for extremum to be  \n(A) For maximum |H̄2| < 0, |H̄3| < 0, ....  \n(B) For maximum |H̄2| > 0, |H̄3| < 0, ....  \n(C) For maximum |H̄2| < 0, |H̄3| > 0, ....  \n(D) For minimum |H̄2| < 0, |H̄3| < 0, ....  \n(E) For minimum |H̄2| > 0, |H̄3| > 0, ....  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.58]*",
+   "options": [
+    "(A) and (D) only",
+    "(B) and (D) only",
+    "(C) and (E) only",
+    "(B) and (E) only"
+   ],
+   "answer": 1,
+   "explanation": "Maximum: bordered Hessians alternate starting positive; minimum: all negative."
+  },
+  {
+   "q": "Match List I with List II :  \nList - I List - II  \n(A) Testing of overall significance (I) Chi-square test  \n(B) Testing the independence of attributes (II) Jarque-Bera test  \n(C) Testing the significance of regression (III) F-test  \ncoefficients  \n(D) Normality test (IV) t-test  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.69]*",
+   "options": [
+    "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+    "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)",
+    "(A)-(I), (B)-(IV), (C)-(III), (D)-(II)",
+    "(A)-(I), (B)-(III), (C)-(IV), (D)-(II)"
+   ],
+   "answer": 1,
+   "explanation": "F, chi-square, t, Jarque–Bera."
+  },
+  {
+   "q": "Write the steps to estimate the ECM/VAR model in time series.  \n(A) Unit root test  \n(B) ACF and PACF test  \n(C) ECM/VAR  \n(D) Inputting data  \n(E) Cointegration test  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.80]*",
+   "options": [
+    "(D), (A), (E), (B), (C)",
+    "(D), (B), (A), (C), (E)",
+    "(D), (B), (A), (E), (C)",
+    "(B), (A), (D), (E), (C)"
+   ],
+   "answer": 0,
+   "explanation": "Data → unit root → cointegration → lag selection (ACF/PACF) → ECM/VAR."
+  },
+  {
+   "q": "Find the variance of random variables which constitute the number of heads in a toss of two  \ncoins simultaneously.  \n*[UGC NET December 2022 S1 · Q.13]*",
+   "options": [
+    "1/2",
+    "1",
+    "2",
+    "4"
+   ],
+   "answer": 0,
+   "explanation": "npq = 2 × 0.5 × 0.5 = 0.5."
+  },
+  {
+   "q": "Test statistics used to test stationary of a time series in the presence of correlated error  \nterms  \n*[UGC NET December 2022 S1 · Q.16]*",
+   "options": [
+    "Dickey - Fuller test",
+    "Engle - Granger test",
+    "Error - Correction mechanism",
+    "Augmented Dickey-Fuller test"
+   ],
+   "answer": 3,
+   "explanation": "Augmented Dickey–Fuller."
+  },
+  {
+   "q": "In logit model as Pi goes from 0 to 1, logit L varies from  \n*[UGC NET December 2022 S1 · Q.17]*",
+   "options": [
+    "0 to + ∞",
+    "- ∞ to + ∞",
+    "0 to 1",
+    "- ∞ to 0"
+   ],
+   "answer": 1,
+   "explanation": "−∞ to +∞."
+  },
+  {
+   "q": "The regression model Yt = α1 + α2 Dt + β1 Xt + β2 (Yt Dt) + Ut is used to  \n*[UGC NET December 2022 S1 · \nQ.19]*",
+   "options": [
+    "Deseasonalize a time series data",
+    "Analyze the seasonal trend in data",
+    "Analyse structural break in data",
+    "Analyse piecewise linear relationship in data"
+   ],
+   "answer": 2,
+   "explanation": "Intercept and slope dummies test for a structural break."
+  },
+  {
+   "q": "A box of nine golf gloves contains two left-handed and seven right-handed gloves. If two  \ngloves are randomly selected from the box without replacement, what is the probability that one is  \nleft-handed and the other is a right-handed glove?  \n*[UGC NET December 2022 S1 · Q.20]*",
+   "options": [
+    "7/12",
+    "2/9",
+    "7/18",
+    "1/9"
+   ],
+   "answer": 2,
+   "explanation": "2 × 7/C(9,2) = 14/36 = 7/18."
+  },
+  {
+   "q": "The properties of Mathematical Expectation are  \n(A) E(C) = 0, where C is constant  \n(B) If X and Y are random variables, then E(X+Y) = E(X) + E(Y)  \n(C) Var(X ± C) = Var(X), where C is constant  \n(D) If X and Y are independent random variables, then E(XY) = E(X).E(Y)  \n(E) Var(aX) = a.Var(X), where a is constant  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.47]*",
+   "options": [
+    "A, B and D only",
+    "B, D and E only",
+    "B, C and D only",
+    "B, C and E only"
+   ],
+   "answer": 2,
+   "explanation": "E(X + Y) = E(X) + E(Y); Var(X ± C) = Var(X); E(XY) = E(X)E(Y) if independent."
+  },
+  {
+   "q": "Which of the following are correct are OLS estimation in the presence of autocorrelation?  \n(A) The estimated coefficients are linear  \n(B) The estimated coefficients are unbiased  \n(C) The estimated coefficients are biased  \n(D) The estimated coefficients are consistent  \n(E) The estimated coefficients are efficient  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.48]*",
+   "options": [
+    "A, C and D only",
+    "A, B and D only",
+    "A, C and E only",
+    "C, D and E only"
+   ],
+   "answer": 1,
+   "explanation": "Under autocorrelation OLS stays linear, unbiased and consistent, but not efficient."
+  },
+  {
+   "q": "Which of the following are correct in case of area under the standard normal probability  \ncurve.  \n(A) Distance from the mean ordinates in terms of ± σ at Z = ± 0.6745 is 0.55  \n(B) Distance from the mean ordinates in terms of ± σ at Z = ± 1.96 is 0.95  \n(C) Distance from the mean ordinates in terms of ± σ at Z = ± 2.0 is 0.9544  \n(D) Distance from the mean ordinates in terms of ± σ at Z = ± 2.58 is 0.98  \n(E) Distance from the mean ordinates in terms of ± σ at Z = ± 3.0 is 0.9973  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.49]*",
+   "options": [
+    "A, C and E only",
+    "B, C and E only",
+    "B, C and D only",
+    "A, B and E only"
+   ],
+   "answer": 1,
+   "explanation": "±1.96σ = 0.95; ±2σ = 0.9544; ±3σ = 0.9973."
+  },
+  {
+   "q": "Which of the following satisfy the assumptions of the classical linear regression model?  \n(A) The regression model is linear in the parameters  \n(B) Zero mean value of disturbance Ui  \n(C) The variance of Ui is not constant  \n(D) There is a serial autocorrelation between the disturbance terms  \n(E) The number of observations must be greater than the number of parameters to be  \nestimated  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.50]*",
+   "options": [
+    "B, C and E only",
+    "A, B and E only",
+    "B, D and E only",
+    "A, C and D only"
+   ],
+   "answer": 1,
+   "explanation": "Linear in parameters, zero mean errors, n > k."
+  },
+  {
+   "q": "If A, B and C are three different non-empty sets, then find which of the following are correct  \nin laws of the set operation.  \n(A) A ∩ Ø = Ø  \n(B) A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C)  \n(C) A ∩ A' = Ø  \n(D) B - A = B' ∩ A'  \n(E) (A ∪ B)' = A' ∪ B'  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.51]*",
+   "options": [
+    "A, B, C and E only",
+    "A, C and E only",
+    "A, C and D only",
+    "A, B and C only"
+   ],
+   "answer": 3,
+   "explanation": "A ∩ ∅ = ∅; distributive law; A ∩ A' = ∅."
+  },
+  {
+   "q": "Which of the following are correct in case of probability of two independent events A and B?  \n(A) P(A/B) = P(A)  \n(B) P(A/B) = P(B)  \n(C) P(A∩B) = P(A). P(B)  \n(D) P(Ā∩B̄) = P(Ā). P(B̄)  \n(E) P(A∩B̄) = P(Ā). P(B)  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.59]*",
+   "options": [
+    "B, C and E only",
+    "A, C and D only",
+    "B, C and D only",
+    "A, C and E only"
+   ],
+   "answer": 1,
+   "explanation": "P(A|B) = P(A), and independence carries to complements."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Censored regression Model (I) Probit Model  \n(B) Normit Model (II) Marc Nerlove  \n(C) Distributed-lags Model (III) Tobit Model  \n(D) Partial adjustment Model (IV) L. M. Koyck  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.68]*",
+   "options": [
+    "A - I, B - III, C - II, D - IV",
+    "A - III, B - I, C - IV, D - II",
+    "A - III, B - IV, C - I, D - II",
+    "A - IV, B - III, C - I, D - II"
+   ],
+   "answer": 1,
+   "explanation": "Tobit, Probit (normit), Koyck, Nerlove."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Y = β1 + β2X (I) β2X  \n(B) ln Y = β1 + β2X (II) β2  \n(C) Y = β1 + β2 ln X (III) β2 (X/Y)  \n(D) ln Y = β1 + β2 ln X (IV) β2 (1/Y)  \n(List I: Two-Variable Linear Regression Model; List II: Elasticity)  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.69]*",
+   "options": [
+    "A - III, B - IV, C - I, D - II",
+    "A - III, B - I, C - IV, D - II",
+    "A - II, B - I, C - III, D - IV",
+    "A - II, B - III, C - IV, D - I"
+   ],
+   "answer": 1,
+   "explanation": "Linear: β2(X/Y); log-lin: β2X; lin-log: β2/Y; log-log: β2."
+  },
+  {
+   "q": "If the two events A and B are not independent then which of the following is correct?  \n*[UGC NET December \n2022 S2 · Q.10]*",
+   "options": [
+    "P(A∩B) = P(A).P(B)",
+    "P(A∩B) = P(A)·P(B/A)",
+    "P(A∩B) = P(A)·P(A/B)",
+    "P(A∩B) = 1 − P(A∪B)"
+   ],
+   "answer": 1,
+   "explanation": "P(A ∩ B) = P(A)·P(B|A)."
+  },
+  {
+   "q": "In logit model, as the odds ratio decreases from 1 to 0, the logit becomes  \n*[UGC NET December 2022 S2 · \nQ.16]*",
+   "options": [
+    "Negative",
+    "Equal to 0",
+    "Positive",
+    "Fraction"
+   ],
+   "answer": 0,
+   "explanation": "Odds below 1 → negative logit."
+  },
+  {
+   "q": "Given regression model as Yi = α1 + β1 Xi + β2 (Xi − X*) Di + Ui such a model is used to:  \n*[UGC NET December 2022 S2 · Q.17]*",
+   "options": [
+    "Deseasonalise a quarterly time series data",
+    "Seasonally adjust a monthly time series data",
+    "To conduct chow test for structural break in time series data",
+    "Test piecewise linear relationship in the data"
+   ],
+   "answer": 3,
+   "explanation": "Piecewise (spline) linear regression."
+  },
+  {
+   "q": "A player tosses two fair coins. He wins Rs. 5 if 2 heads occur, Rs 2 if 1 head occurs and Rs. 1  \nif no head occurs. Find his expected gain.  \n*[UGC NET December 2022 S2 · Q.18]*",
+   "options": [
+    "Rs. 2",
+    "Rs. 2.25",
+    "Rs. 2.75",
+    "Rs. 2.50"
+   ],
+   "answer": 3,
+   "explanation": "5(1/4) + 2(1/2) + 1(1/4) = 2.50."
+  },
+  {
+   "q": "A card is thrown from a well shuffled pack of playing cards. Find the probability that it is  \neither a diamond or a king.  \n*[UGC NET December 2022 S2 · Q.19]*",
+   "options": [
+    "17/52",
+    "16/52",
+    "18/52",
+    "15/52"
+   ],
+   "answer": 1,
+   "explanation": "13 + 4 − 1 = 16 → 16/52."
+  },
+  {
+   "q": "In simultaneous equation models, OLS can be applied directly if  \n*[UGC NET December 2022 S2 · Q.20]*",
+   "options": [
+    "It is a recursive model",
+    "Order condition is satisfied",
+    "Rank condition is satisfied",
+    "Both order and rank conditions are satisfied"
+   ],
+   "answer": 0,
+   "explanation": "Recursive (triangular) models."
+  },
+  {
+   "q": "Which of the followings are correct in case of Poisson distribution ?  \n(A) 'n' the number of trials is indefinitely large i.e. n → ∞  \n(B) 'p', the constant probability of success for each trial is indefinitely large  \n(C) np = m is finite  \n(D) μ3 = m+2  \n(E) μ4 = m + 3m2  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.47]*",
+   "options": [
+    "A, C and D only",
+    "A, C and E only",
+    "B, C and E only",
+    "B, C and D only"
+   ],
+   "answer": 1,
+   "explanation": "n → ∞, np = m finite, μ4 = m + 3m²."
+  },
+  {
+   "q": "Which of the followings are correct conclusions without error in case of testing of  \nHypothesis ?  \n(A) Reject null hypothesis (H0), when it is true  \n(B) Accept H0, when it is true  \n(C) Accept H0, when Alternate hypothesis (H1) is true.  \n(D) Reject H0 when H1 is true.  \n(E) Accept H0 when H1 is false.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.48]*",
+   "options": [
+    "A, B and D only",
+    "B, D and E only",
+    "B, C and E only",
+    "A, C and E only"
+   ],
+   "answer": 1,
+   "explanation": "Accept a true H0, reject when H1 is true, accept when H1 is false."
+  },
+  {
+   "q": "Which of the followings are correct for OLS estimation in the presence of Heteroscedasticity  \n?  \n(A) The estimated coefficients are linear  \n(B) The estimated coefficients are unbiased  \n(C) The estimated coefficients are biased  \n(D) The estimated coefficients are consistent  \n(E) The estimated coefficients are efficient.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.49]*",
+   "options": [
+    "A, C and D only",
+    "A, B and D only",
+    "A, C and E only",
+    "A, C and D only"
+   ],
+   "answer": 1,
+   "explanation": "Under heteroscedasticity OLS stays linear, unbiased and consistent."
+  },
+  {
+   "q": "Which of the followings satisfy the assumptions of the classical linear regression model ?  \n(A) Zero mean value of disturbance Ui  \n(B) The explanatory variables and the error terms are not independent  \n(C) Homoscedasticity or constant variance of Ui  \n(D) No auto correlation between the disturbances  \n(E) There is more than one exact linear relationship between explanatory variables.  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.50]*",
+   "options": [
+    "A, B, C and D only",
+    "A, C, D and E only",
+    "A, C and D only",
+    "C, D and E only"
+   ],
+   "answer": 2,
+   "explanation": "Zero mean, homoscedasticity, no autocorrelation."
+  },
+  {
+   "q": "If A, B and C are three different non-empty sets, then find which of the following are correct  \nin laws of set operations ?  \n(A) (A')' = A  \n(B) (A∪B) = 1 − (A∩B)  \n(C) A∪(B∪C) = (A∪B)∪C  \n(D) A∪(B∩C) = (A∩B)∪(A∩C)  \n(E) A − B = A∩B'  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.51]*",
+   "options": [
+    "A, C and D only",
+    "A, C and E only",
+    "A, B and C only",
+    "C, D and E only"
+   ],
+   "answer": 1,
+   "explanation": "(A')' = A; associative union; A − B = A ∩ B'."
+  },
+  {
+   "q": "In multiple regression model, a hypothesis such as H0 : β2 = β3 = 0 can be tested using  \n*[UGC NET December 2022 S2 · Q.52]*",
+   "options": [
+    "t-test",
+    "Chi-square test",
+    "ANOVA test",
+    "F-test"
+   ],
+   "answer": 3,
+   "explanation": "Joint hypothesis: F-test."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Detecting Serial Correlation (I) Goldfeld - Quandt test  \n(B) Detection of Heteroscadasticity (II) The Run's test  \n(C) Detection of Multicollinearity (III) Ramsay's RESET test  \n(D) Test of specification error (IV) Condition Index  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.68]*",
+   "options": [
+    "A-III, B-I, C-IV, D-II",
+    "A-II, B-IV, C-I, D-III",
+    "A-II, B-I, C-IV, D-III",
+    "A-IV, B-I, C-III, D-II"
+   ],
+   "answer": 2,
+   "explanation": "Runs test, Goldfeld–Quandt, condition index, RESET."
+  },
+  {
+   "q": "Match List I with List II (List II items are graphs with y on the vertical axis and x on the  \nhorizontal axis, origin 0)  \nList - I List - II  \n(A) Linear function (I) [graph: curve starting at a positive  \ny-intercept and rising at an increasing rate  \n(convex upward-sloping curve)]  \n(B) Exponential function (II) [graph: inverted-U curve starting from  \nthe origin, rising to a peak and then falling]  \n(C) Quadratic function (III) [graph: wave-shaped curve that rises to  \na peak, falls to a trough and then rises  \nagain]  \n(D) Cubic function (IV) [graph: straight upward-sloping line with  \na positive y-intercept]  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.69]*",
+   "options": [
+    "A-IV, B-II, C-I, D-III",
+    "A-I, B-IV, C-III, D-II",
+    "A-IV, B-I, C-II, D-III",
+    "A-IV, B-III, C-II, D-I"
+   ],
+   "answer": 2,
+   "explanation": "Linear: straight line; exponential: convex rising; quadratic: inverted U; cubic: wave."
+  },
+  {
+   "q": "A company has 140 employees, of which 30 are supervisors. 80 of the employees are  \nmarried, and 20% of the married employees are supervisors. If a company employee is randomly  \nselected, what is the probability that the employee is married and is a supervisor?  \n*[UGC NET June 2023 · Q.61]*",
+   "options": [
+    "0.1531",
+    "0.1253",
+    "0.0923",
+    "0.1143"
+   ],
+   "answer": 3,
+   "explanation": "16/140 = 0.1143."
+  },
+  {
+   "q": "The Hausman's specification error test is used to test whether  \n*[UGC NET June 2023 · Q.62]*",
+   "options": [
+    "An exogenous variable is correlated with the error term.",
+    "An endogenous variable is correlated with the error term.",
+    "Both an exogenous variable is correlated with the error term and an endogenous variable is correlated with the error term.",
+    "OLS method is appropriate to estimate the SEM."
+   ],
+   "answer": 1,
+   "explanation": "Hausman tests the simultaneity problem: whether an endogenous regressor is correlated with the error."
+  },
+  {
+   "q": "In random walk without drift,  \n*[UGC NET June 2023 · Q.63]*",
+   "options": [
+    "The effect of shock persists throughout the time period.",
+    "The effect of shock in the past dies out over time.",
+    "The effect of shock drifts away quickly.",
+    "There is no effect of past shock."
+   ],
+   "answer": 0,
+   "explanation": "Random walk: shocks persist permanently."
+  },
+  {
+   "q": "Given below are the alternative formulae for F-test statistics. We are interested in testing  \nthe statistical significance of the incremental contribution of X3 at 5% level of significance to Y =  \nβ0 + β1X1 + β2X2 + U. Which of these is not appropriate? Where RSS is residual sum of square  \nand ESS is explained sum of square.  \n*[UGC NET June 2023 · Q.64]*",
+   "options": [
+    "F = [R²_UR − R²_R / d.f.] / [(1 − R²_UR) / d.f.]",
+    "F = [ESS / d.f.] / [RSS / d.f.]",
+    "F = [ESS_new − ESS_old / d.f.] / [ESS_new / d.f.]",
+    "F = [R² / d.f.] / [(1 − R²) / d.f.]"
+   ],
+   "answer": 2,
+   "explanation": "The denominator must use RSS, not ESS. (Answer key may vary.)"
+  },
+  {
+   "q": "Integrate : ∫ x√(x² + 1) dx, x > 0  \n*[UGC NET June 2023 · Q.65]*",
+   "options": [
+    "(1/2)(x² + 1)3/2 + C",
+    "(1/3)(x² + 1)3/2 + C",
+    "(1/3)(x³ + 1)2/3 + C",
+    "(1/2)(x³ + 1)2/3 + C"
+   ],
+   "answer": 1,
+   "explanation": "Substitute u = x² + 1: (1/3)(x² + 1)^(3/2) + C."
+  },
+  {
+   "q": "Find the extremum of u = x² + y² + z² subject to x + y + z = 1.  \n*[UGC NET June 2023 · Q.66]*",
+   "options": [
+    "(x̄, ȳ, z̄) = (1/3, 1/2, 1/2)",
+    "(x̄, ȳ, z̄) = (1/2, 1/2, 1/3)",
+    "(x̄, ȳ, z̄) = (1/2, 1/2, 1/2)",
+    "(x̄, ȳ, z̄) = (1/3, 1/3, 1/3)"
+   ],
+   "answer": 3,
+   "explanation": "By symmetry, x = y = z = 1/3."
+  },
+  {
+   "q": "Which of the following are correct in case of theory of sets.  \n(A) (A ∪ B') ∩ (A' ∪ C) ∩ (B ∪ C') = (A ∩ B ∩ C) ∪ (A ∪ B ∪ C)  \n(B) (A ∪ B') ∩ (A' ∪ C) ∩ (B ∪ C') = (A ∩ B ∩ C) ∪ (A ∪ B ∪ C)'  \n(C) A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C)  \n(D) A ∩ (B ∪ C) = (A ∪ B) ∩ (A ∪ C)  \n(E) (A ∪ B') ∩ (A' ∪ C) ∩ (B ∪ C') = (A ∩ B ∩ C) ∪ (A' ∩ B' ∩ C')  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · Q.105]*",
+   "options": [
+    "A, C, E only",
+    "B, D, E only",
+    "B, C, E only",
+    "A, B, D only"
+   ],
+   "answer": 2,
+   "explanation": "B, C and E are valid set identities."
+  },
+  {
+   "q": "If S is a sample space and E is an event then the probability axioms can be written as  \n(A) P(A) ≥ 0  \n(B) P(S) = 1  \n(C) P(∪_{i=1}^{∞} A_i) = Σ_{i=1}^{∞} P(A_i)  \n(D) P(A) ≤ 0  \n(E) P(∪_{i=1}^{∞} S_i) = Σ_{i=1}^{∞} P(S_i)  \nChoose the correct answer from the option given below :  \n*[UGC NET June \n2023 · Q.106]*",
+   "options": [
+    "A and B only",
+    "A, B and D only",
+    "A, B and E only",
+    "A, B and C only"
+   ],
+   "answer": 3,
+   "explanation": "Kolmogorov axioms: non-negativity, P(S) = 1, countable additivity."
+  },
+  {
+   "q": "Properties of sufficient estimators are  \n(A) It may not be unbiased  \n(B) It may be unbiased  \n(C) It is always consistent  \n(D) It is not always consistent  \n(E) Minimum variance unbiased estimator  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · Q.107]*",
+   "options": [
+    "A, B and C only",
+    "A, C and E only",
+    "A, B, C and D only",
+    "A, B, C and E only"
+   ],
+   "answer": 3,
+   "explanation": "A sufficient estimator may or may not be unbiased; it is consistent and leads to the MVUE. (Answer key may vary.)"
+  },
+  {
+   "q": "Which of the following are not symptoms of multicollinearity in a regression model.  \n(A) High R2 with few significant t ratio for coefficients.  \n(B) High pair-wise correlations among regressors.  \n(C) The closer the Tolerance (TOLj) is to zero.  \n(D) Variance Inflation Factor (VIF) of a variable is below 10.  \n(E) The closer the Tolerance (TOLj) is to 1.  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 \n· Q.110]*",
+   "options": [
+    "C and D only",
+    "D and E only",
+    "A and C only",
+    "B and D only"
+   ],
+   "answer": 1,
+   "explanation": "VIF < 10 and TOL near 1 indicate no multicollinearity."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Kleins rule of thumb (I) Structural break  \n(B) Ljung Box (LB) statistic (II) Unit Root  \n(C) KPSS (III) Significance of autocorrelation  \ncoefficients  \n(D) Bai-Perron (IV) Multicollinearity  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2023 · Q.117]*",
+   "options": [
+    "A-IV, B-III, C-II, D-I",
+    "A-IV, B-III, C-I, D-II",
+    "A-II, B-IV, C-I, D-III",
+    "A-II, B-III, C-IV, D-I"
+   ],
+   "answer": 0,
+   "explanation": "Klein: multicollinearity; LB: autocorrelation significance; KPSS: unit root; Bai–Perron: structural break."
+  },
+  {
+   "q": "Sequence of steps followed in the estimation of Indirect Least Square (ILS) starting from the  \nbeginning :  \n(A) Identification of the structural equations  \n(B) Application of OLS  \n(C) Obtaining structural coefficients  \n(D) Obtaining reduced form equation  \n(E) Use the model for policy  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · Q.133]*",
+   "options": [
+    "A, D, B, C and E",
+    "A, B, D, C and E",
+    "B, D, A, E and C",
+    "B, A, C, D and E"
+   ],
+   "answer": 0,
+   "explanation": "Identify → reduced form → OLS → structural coefficients → policy."
+  },
+  {
+   "q": "In a regression of a dependent variable on intercept and k other independent variables  \nusing n observations, what are respectively the numerator and denominator degrees of freedom  \nfor the F test for overall significance of the regression ?  \n*[UGC NET December 2023 S1 · Q.53]*",
+   "options": [
+    "k − 1, n − k",
+    "k, n − k − 1",
+    "k − 1, n − k − 1",
+    "k, n − k"
+   ],
+   "answer": 1,
+   "explanation": "Overall F: k and n − k − 1."
+  },
+  {
+   "q": "Suppose Xi is income of an individual i and Yi is the event that this individual owns a house,  \nPi = prob (Yi = 1 | Xi) and Zi = β1 + β2 Xi, which of the following is true for the logit model ?  \n*[UGC NET December 2023 S1 · Q.54]*",
+   "options": [
+    "Pi = 1 / (1 − e−Zi)",
+    "Pi = 1 / (1 + eZi)",
+    "Pi = 1 / (1 + e−Zi)",
+    "Pi = 1 / (1 − eZi)"
+   ],
+   "answer": 2,
+   "explanation": "Pi = 1/(1 + e^(−Zi))."
+  },
+  {
+   "q": "If the estimated slope coefficient in the regression of Y on X is β̂, what will be the estimated  \nslope coefficient in the regression of 5 Y on 10 X ?  \n*[UGC NET December 2023 S1 · Q.55]*",
+   "options": [
+    "5 β̂",
+    "10 β̂",
+    "2 β̂",
+    "0.5 β̂"
+   ],
+   "answer": 3,
+   "explanation": "Slope scales by 5/10 = 0.5."
+  },
+  {
+   "q": "Which of the following tests has stationarity as the null hypothesis ?  \n*[UGC NET December 2023 S1 · Q.56]*",
+   "options": [
+    "ADF Test",
+    "Phillips Perron Test",
+    "ERS Test",
+    "KPSS Test"
+   ],
+   "answer": 3,
+   "explanation": "KPSS has stationarity as the null."
+  },
+  {
+   "q": "For a VAR model estimated using two variables X and Y, Lags of Y are jointly significant in  \nthe equation for X but Lags of X are jointly insignificant in the equation for Y. What can you  \nconclude from this ?  \n*[UGC NET December 2023 S1 · Q.57]*",
+   "options": [
+    "There is no Granger causality between X and Y",
+    "There is bidirectional Granger causality between X and Y",
+    "X Granger causes Y but Y does not Granger cause X",
+    "Y Granger causes X but X does not Granger cause Y"
+   ],
+   "answer": 3,
+   "explanation": "Y Granger-causes X only."
+  },
+  {
+   "q": "In the model ln Yi = α + β Xi + ui Where ln is natural log, the elasticity of Y w.r.t. X is given  \nby :  \n*[UGC NET December 2023 S1 · Q.59]*",
+   "options": [
+    "β",
+    "β Xi",
+    "β / Yi",
+    "β Xi / Yi"
+   ],
+   "answer": 1,
+   "explanation": "Log-lin model: elasticity = βXi."
+  },
+  {
+   "q": "Suppose you are testing a Null Hypothesis about the population mean, Ho : μ = μ0, against  \nH1 : μ > μ0, with population variance given. The computed value of the test statistic is Zc. What is  \nthe p-value for this test, where Φ ( ) is the cumlative distribution function for the standard normal  \ndistribution ?  \n*[UGC NET December 2023 S1 · Q.65]*",
+   "options": [
+    "Φ (Zc)",
+    "Φ (Zc/2)",
+    "1 − Φ (Zc)",
+    "1 − Φ (Zc/2)"
+   ],
+   "answer": 2,
+   "explanation": "Right-tailed p-value = 1 − Φ(Zc)."
+  },
+  {
+   "q": "The power of a test refers to :  \n*[UGC NET December 2023 S1 · Q.66]*",
+   "options": [
+    "Type I error",
+    "Type II error",
+    "1 − Type II error",
+    "1 − Type I error"
+   ],
+   "answer": 2,
+   "explanation": "Power = 1 − P(Type II error)."
+  },
+  {
+   "q": "Given a random sample of size n from a population with mean μ and variance σ2, the  \nsample mean has the following expected value and variance :  \n*[UGC NET December 2023 S1 · Q.67]*",
+   "options": [
+    "E(x̄) = μ, Var(x̄) = σ2/n",
+    "E(x̄) = nμ, Var(x̄) = nσ2",
+    "E(x̄) = μ, Var(x̄) = σ2",
+    "E(x̄) = μ, Var(x̄) = n/σ2"
+   ],
+   "answer": 0,
+   "explanation": "E(x̄) = μ, Var(x̄) = σ²/n."
+  },
+  {
+   "q": "In March, 2023 the consumer price index (CPI) of a country with a 1982 base index of 100,  \nwas 234.7. This means the cost of purchasing the market basket of goods and services :  \n*[UGC NET December \n2023 S1 · Q.68]*",
+   "options": [
+    "has decreased by 134.7% since 1982",
+    "has increased by 34.7% since 1982",
+    "has increased by 234.7% since 1982",
+    "has increased by 134.7% since 1982"
+   ],
+   "answer": 3,
+   "explanation": "234.7 − 100 = 134.7% rise."
+  },
+  {
+   "q": "Suppose f(·) is a continuous function over a closed and bounded interval [a, b]. Then there  \nexists a point d in [a, b] where f(·) has a minimum, and a point c in [a, b] where f(·) has a  \nmaximum, so that f(d) ≤ f(x) ≤ f(c) for all x in [a, b]. The statement is derived from :  \n*[UGC NET December 2023 \nS1 · Q.74]*",
+   "options": [
+    "Intermediate Value Theorem",
+    "Rolle's Theorem",
+    "Mean value Theorem",
+    "Extreme value Theorem"
+   ],
+   "answer": 3,
+   "explanation": "Extreme Value Theorem (Weierstrass)."
+  },
+  {
+   "q": "If A = [2 3; 0 4] and B = [2 0; 1 5] which of the following is not correct ?  \n*[UGC NET December 2023 S1 · \nQ.81]*",
+   "options": [
+    "AT B = [4 0; 10 20]",
+    "(A + B)T = [4 1; 3 9]",
+    "AT B = [0 4; 10 20]",
+    "AT BT = [4 2; 6 23]"
+   ],
+   "answer": 2,
+   "explanation": "AᵀB = [4 0; 10 20], so option 3 is wrong."
+  },
+  {
+   "q": "Which of the following statements are not true for the Linear Probability Model (LPM) ?  \n(A) Conditional probability of occurence of an event conditional on the value of explanatory  \nvariable X is a linear function of X  \n(B) Estimated value of the conditional probability of occurence of the event lies between 0 and 1  \n(C) Error term is homoscedastic  \n(D) R2 is a good measure of goodness of fit  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.92]*",
+   "options": [
+    "(B) Only",
+    "(B) and (C) Only",
+    "(B), (C) and (D) Only",
+    "(C) Only"
+   ],
+   "answer": 2,
+   "explanation": "In LPM, probability may fall outside 0–1, errors are heteroscedastic, R² is a poor fit measure."
+  },
+  {
+   "q": "Which of the following are features of a weakly stationary stochastic process ?  \n(A) Mean is time-varying  \n(B) Mean is constant  \n(C) Variance is constant  \n(D) Covariance is time-invariant  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 \nS1 · Q.94]*",
+   "options": [
+    "(B) and (C) Only",
+    "(B), (C) and (D) Only",
+    "(A), (C) and (D) Only",
+    "(A) and (C) Only"
+   ],
+   "answer": 1,
+   "explanation": "Constant mean, constant variance, lag-dependent covariance."
+  },
+  {
+   "q": "A = [1 3; 2 8; 4 0] and B = [5; 9]  \n(A) AB is given by [32; 82; 20] (a column vector)  \n(B) BA is given by [32 82 20]  \n(C) AB is not defined  \n(D) BA is not defined  \n(E) AT B is defined  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.106]*",
+   "options": [
+    "(C) and (B) Only",
+    "(A), (D), (E) Only",
+    "(A) Only",
+    "(A) and (D) Only"
+   ],
+   "answer": 3,
+   "explanation": "AB = [32; 82; 20]; BA is not defined (Aᵀ B is also not defined)."
+  },
+  {
+   "q": "The OLS regression output of wages (Rs in thousand) on education (years of schooling S)  \nand cognitive ability scores (CA) comes out to be :  \nwages^ = −3.36 + 0.64 S + 0.15 CA  \n(1.98) (0.12) (0.05)  \nwith figures in parenthesis giving standard error.  \nThe explained sum of squares is 4745.75 with degrees of freedom 2 and residual sum of  \nsquares is 33651.28 with degrees of freedom 567, which of the following statements is/are true  \n?  \n(A) For one year increase in schooling, wage per hour increases by Rs. 640 on the average,  \nwhen CA is kept constant.  \n(B) The value of t statistic of CA is 3.  \n(C) The F statistic is given by F = (4745.75/2) / (33651.28/567)  \n(D) The F statistic is given by F = (33651.28/567) / (4745.75/2)  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.108]*",
+   "options": [
+    "(A), (C) Only",
+    "(A), (B), (D) Only",
+    "(A), (B), (C) Only",
+    "(A), (D) Only"
+   ],
+   "answer": 2,
+   "explanation": "0.64 thousand = Rs 640; t = 0.15/0.05 = 3; F = (ESS/2)/(RSS/567)."
+  },
+  {
+   "q": "Consider a matrix A = [3 5; −2 −4]  \nconsider the following statements on characteristic polynomial, Eigen Values and Eigen Vectors.  \n(A) The characteristic polynomial is λ2 + λ − 2  \n(B) The characteristic polynomial is λ2 − 2λ − 4 and the characteristic root or Eigen Values are  \nλ* = 2 and 1  \n(C) The characteristic polynomial is λ2 − λ + 2 and the characteristic root or Eigen Values are λ*  \n= 1 and 2  \n(D) The characteristic root or Eigen Values are λ* = −2 and 1  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.110]*",
+   "options": [
+    "(A), (C) and (D) Only",
+    "(B) and (D) Only",
+    "(B) and (C) Only",
+    "(A) and (D) Only"
+   ],
+   "answer": 3,
+   "explanation": "Trace −1, det −2 → λ² + λ − 2; roots 1 and −2."
+  },
+  {
+   "q": "Consider the following statements :  \n(A) The union of finite numbers of closed set is a closed set  \n(B) The empty set is an open set but not a closed set  \n(C) Every infinite set is an open set  \n(D) The intersection of finite numbers of open sets is an open set  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.112]*",
+   "options": [
+    "(A) and (B) Only",
+    "(B) and (C) Only",
+    "(A) and (D) Only",
+    "(A), (B) and (C) Only"
+   ],
+   "answer": 2,
+   "explanation": "A finite union of closed sets is closed; a finite intersection of open sets is open."
+  },
+  {
+   "q": "Consider the following 3 Constrained Optimization Problems (COP).  \n(a) Maximize z = ln x, subject to x > 1  \n(b) Maximize z = ln x, subject to x < 1  \n(c) Maximize z = ln x, subject to 1 < x < 2  \n(A) (a) and (b) have no solutions but (c) has solution  \n(B) (a) and (b) have solutions but (c) has no solution  \n(C) (a), (b) and (c) have no solution  \n(D) (a) and (c) have no solution but (b) has solution  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.115]*",
+   "options": [
+    "(A) Only",
+    "(B) Only",
+    "(C) Only",
+    "(D) Only"
+   ],
+   "answer": 2,
+   "explanation": "ln x is unbounded or has no attained supremum on all three (open) sets."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \nList - I: Model/method List - II: Feature  \n(A) Logit model (I) elasticities are constant  \n(B) Log-log model (II) binary dependent variable  \n(C) Autoregressive model (III) corrects for heteroscedasticity  \n(D) Weighted least squares (IV) includes lags of dependent variable  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.120]*",
+   "options": [
+    "A-II, B-I, C-III, D-IV",
+    "A-I, B-II, C-IV, D-III",
+    "A-I, B-II, C-III, D-IV",
+    "A-II, B-I, C-IV, D-III"
+   ],
+   "answer": 3,
+   "explanation": "Logit: binary; log-log: constant elasticity; AR: lagged Y; WLS: heteroscedasticity."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \nList - I: Variable List - II: Distribution  \n(A) Sum of squares of n independent standard (I) t distribution  \nnormal variates  \n(B) Ratio of a standard normal variate to square (II) F distribution  \nroot of an independent, chi square variable  \n(divided by its degrees of freedom)  \n(C) Ratio of 2 independent chi-square variables (III) Standard normal distribution  \neach divided by their respective degrees of  \nfreedom  \n(D) Normal variate minus its mean, divided by (IV) chi square distribution  \nits standard deviation  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.123]*",
+   "options": [
+    "A-I, B-IV, C-II, D-III",
+    "A-IV, B-I, C-III, D-II",
+    "A-I, B-IV, C-III, D-II",
+    "A-IV, B-I, C-II, D-III"
+   ],
+   "answer": 3,
+   "explanation": "Chi-square, t, F, standard normal."
+  },
+  {
+   "q": "Chow Test is normally run to understand if a single regression run on pooled data is more  \nefficient to describe a relation between a dependent variable and a set of independent variables  \nthan the same regression being run separately on two subgroups of sample. The steps involved in  \nrunning the Chow Test are :  \n(A) Run the regression model on pooled sample and calculate RSSp  \n(B) Run the same regression model on the two sub-samples separately and calculate RSS1 and  \nRSS2  \n(C) Calculate the F statistic  \n(D) Check the critical F with related degrees of freedom and compare it with F calculated  \n(E) Do not reject Ho if F calculated < F critical  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2023 S1 · Q.131]*",
+   "options": [
+    "(A), (B), (C), (D), (E)",
+    "(A), (D), (C), (B), (E)",
+    "(C), (A), (B), (D), (E)",
+    "(C), (B), (A), (D), (E)"
+   ],
+   "answer": 0,
+   "explanation": "Pooled RSS → sub-sample RSS → F → compare → decide."
+  },
+  {
+   "q": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled  \nas Reason (R).  \nAssertion (A) : Given a random sample, the distribution of the sample mean tends to a normal  \ndistribution, as the sample size becomes very large.  \nReason (R) : Central limit theorem  \nIn the light of the above statements, choose the most appropriate answer from the options  \ngiven below :  \n*[UGC NET December 2023 S1 · Q.139]*",
+   "options": [
+    "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+    "(A) is correct but (R) is not correct",
+    "(A) is not correct but (R) is correct"
+   ],
+   "answer": 0,
+   "explanation": "CLT explains A."
+  },
+  {
+   "q": "Given y = (1 + x)/(1 − 2x) find the correct alternative:  \n*[UGC NET August 2024 S1 · Q.65]*",
+   "options": [
+    "dy/dx = 3/(1 − 2x)",
+    "dy/dx = 3/(1 − 2x)2",
+    "dy/dx = 3/(1 − 2x)3",
+    "dy/dx = 3/(1 − x)2"
+   ],
+   "answer": 1,
+   "explanation": "Quotient rule: 3/(1 − 2x)²."
+  },
+  {
+   "q": "The quadratic form ax2 + by2 + 2hxy is negative for all values of x and y (other than x = y  \n= 0) if and only if:  \n*[UGC NET August 2024 S1 · Q.77]*",
+   "options": [
+    "a > 0 and |a h; h b| < 0",
+    "a < 0 and |a h; h b| < 0",
+    "a < 0 and |a h; h b| > 0",
+    "a < 0 and |a h; h b| ≠ 0"
+   ],
+   "answer": 2,
+   "explanation": "Negative definite: a < 0 and ab − h² > 0."
+  },
+  {
+   "q": "ANCOVA models include regressors that are:  \n*[UGC NET August 2024 S1 · Q.79]*",
+   "options": [
+    "Only quantitative variables",
+    "Only qualitative variables",
+    "Only categorical variables",
+    "Both qualitative and quantitative variables"
+   ],
+   "answer": 3,
+   "explanation": "ANCOVA mixes qualitative and quantitative regressors."
+  },
+  {
+   "q": "A and B are two events such that P(Ā) = 0.4 and P(A ∩ B) = 0.2, then P(A ∩ B̄) is:  \n*[UGC NET August 2024 \nS1 · Q.80]*",
+   "options": [
+    "0.4",
+    "0.2",
+    "0.6",
+    "0.8"
+   ],
+   "answer": 0,
+   "explanation": "P(A) = 0.6 → 0.6 − 0.2 = 0.4."
+  },
+  {
+   "q": "You have carried out a regression analysis but after thinking about the relationship between  \nthe two variables, you have decided that you must swap the explanatory and response variables.  \nAfter refitting the regression model to the data, you expect that:  \n*[UGC NET August 2024 S1 · Q.81]*",
+   "options": [
+    "The value of correlation will change",
+    "The sign of slope will change",
+    "The value of coefficient of determination, will change",
+    "The value of SSE (sum of square errors) will change"
+   ],
+   "answer": 3,
+   "explanation": "r, r² and sign stay the same; SSE changes."
+  },
+  {
+   "q": "The lowest value of a set of observations is 4.5 and their range is 10.9. Arithmetic mean is  \nfound to be 19.9 and median found to be 15.6. Which of the following statements is correct?  \n*[UGC NET August \n2024 S1 · Q.82]*",
+   "options": [
+    "Arithmetic mean is wrong, but the median is correct",
+    "Arithmetic mean is right, but the median is wrong",
+    "Both arithmetic mean and median are wrong",
+    "Both arithmetic mean and median are right"
+   ],
+   "answer": 2,
+   "explanation": "Max = 15.4; both mean 19.9 and median 15.6 exceed it."
+  },
+  {
+   "q": "Estimation of regression coefficients in the presence of high but not perfect multicollinearity  \nmay result in all of these except:  \n*[UGC NET August 2024 S1 · Q.83]*",
+   "options": [
+    "High confidence interval for the estimates",
+    "Almost all the estimates are statistically significant",
+    "A high R2",
+    "Estimates are all BLUE"
+   ],
+   "answer": 1,
+   "explanation": "Multicollinearity gives few significant t's, not many."
+  },
+  {
+   "q": "Position of points O (0, 0) and P (2, −3) in the region of graph of inequation 2x − 3y < 5 will  \nbe:  \n*[UGC NET August 2024 S1 · Q.84]*",
+   "options": [
+    "O inside and P outside",
+    "O and P both outside",
+    "O and P both inside",
+    "O outside and P inside"
+   ],
+   "answer": 0,
+   "explanation": "0 < 5 inside; 4 + 9 = 13 > 5 outside."
+  },
+  {
+   "q": "Testing for cointegration is performed by:  \n*[UGC NET August 2024 S1 · Q.85]*",
+   "options": [
+    "Chow test",
+    "Phillips-Peron test",
+    "Engel-Granger test",
+    "Error-correction mechanism"
+   ],
+   "answer": 2,
+   "explanation": "Engle–Granger test."
+  },
+  {
+   "q": "Heteroscedasticity may arise due to various reasons. Which one of the following is not a  \nreason?  \n*[UGC NET August 2024 S1 · Q.86]*",
+   "options": [
+    "Extremely low or high values of X and Y co-ordinates in the data set",
+    "Correlation of variables over time",
+    "Incorrect specification of the functional form of the model",
+    "Incorrect transformation of variables"
+   ],
+   "answer": 1,
+   "explanation": "Correlation over time is autocorrelation."
+  },
+  {
+   "q": "To test H0 : μ = μ0, when both μ and σ are unknown, the relevant test statistic is:  \n*[UGC NET August 2024 \nS1 · Q.87]*",
+   "options": [
+    "t_(n−1) = (x̄ − μ0)/(s′/√n)",
+    "t_(n−1) = (x̄ − μ0)/(s′/√(n−1))",
+    "t_n = (x̄ − μ0)/(s′/√n)",
+    "t_(n−1) = (x̄ − μ0)/(s′/n)"
+   ],
+   "answer": 0,
+   "explanation": "t(n − 1) = (x̄ − μ0)/(s/√n)."
+  },
+  {
+   "q": "Arrange the following expressions in terms of increasing order of magnitude [given: a > 0, b  \n> 0, x > 0]  \n(A) y = ea  \n(B) y = ea + bx  \n(C) y = ea + b/x  \n(D) y = ea − b/x  \n(E) y = ea + 2bx  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.103]*",
+   "options": [
+    "(D), (A), (C), (B), (E)",
+    "(D), (A), (B), (C), (E)",
+    "(D), (B), (C), (A), (E)",
+    "(E), (B), (C), (A), (D)"
+   ],
+   "answer": 0,
+   "explanation": "For x > 1: e^(a − b/x) < e^a < e^(a + b/x) < e^(a + bx) < e^(a + 2bx). (Answer key may vary.)"
+  },
+  {
+   "q": "A feasible solution in a linear programming problem (LPP):  \n(A) Must satisfy all the problem's constraints simultaneously  \n(B) Need not satisfy all the constraints, only some of them  \n(C) Must be a corner point in the feasible region  \n(D) may or may not optimise the value of the objective function  \n(E) Must be greater than or equal to zero  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.116]*",
+   "options": [
+    "(A), (D), (E) only",
+    "(A), (D) only",
+    "(A), (E) only",
+    "(B), (C), (E) only"
+   ],
+   "answer": 0,
+   "explanation": "Feasible: satisfies all constraints, may not be optimal, non-negative."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Endogenous variable (I) Significance of Autocorrelation coefficient  \n2  \n(B) Count R (II) Simultaneous equation  \n(C) Ljung Box Statistic (III) Panel data regression  \n(D) Least square dummy variable model (IV) Logit regression  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.131]*",
+   "options": [
+    "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)",
+    "(A)-(II), (B)-(III), (C)-(I), (D)-(IV)",
+    "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)",
+    "(A)-(II), (B)-(IV), (C)-(I), (D)-(III)"
+   ],
+   "answer": 3,
+   "explanation": "Endogenous: SEM; count R²: logit; LB: autocorrelation; LSDV: panel."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) General Heteroscedasticity test (I) Ramsey  \n(B) General test for auto correlation (II) Hausman  \n(C) Test of simultaneity (III) White  \n(D) General test of specification error (IV) Breusch-Godfrey  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.136]*",
+   "options": [
+    "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+    "(A)-(IV), (B)-(II), (C)-(I), (D)-(III)",
+    "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)",
+    "(A)-(III), (B)-(I), (C)-(II), (D)-(IV)"
+   ],
+   "answer": 2,
+   "explanation": "White, Breusch–Godfrey, Hausman, Ramsey RESET."
+  },
+  {
+   "q": "Match LIST-I with LIST-II  \nList - I List - II  \n(A) Type II error (I) P01 x P10 = 1  \n(B) Mean > Mode (II) Not rejecting H0 when H0 is not true  \n(C) Homogenous population (III) Positively skewed distribution  \n(D) Time reversal test (IV) Simple random Sampling  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.61]*",
+   "options": [
+    "A-II, B-III, C-IV, D-I",
+    "A-III, B-I, C-II, D-IV",
+    "A-IV, B-II, C-III, D-I",
+    "A-I, B-II, C-III, D-IV"
+   ],
+   "answer": 0,
+   "explanation": "Type II: accept false H0; mean > mode: +skew; homogeneous: SRS; P01 × P10 = 1."
+  },
+  {
+   "q": "Match LIST-I with LIST-II  \nList - I List - II  \n(A) Simple random sampling (I) Non - probability Sampling  \n(B) Systematic sampling (II) Random choice of items from each  \nstratum  \n(C) Quota Sampling (III) Random selection of the first unit and  \nsystematic selection of the rest  \n(D) Stratified random sampling (IV) Equal probability of selection for each  \nitem in all trials  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.81]*",
+   "options": [
+    "A-IV, B-III, C-I, D-II",
+    "A-IV, B-II, C-I, D-III",
+    "A-III, B-II, C-I, D-IV",
+    "A-IV, B-III, C-II, D-I"
+   ],
+   "answer": 0,
+   "explanation": "SRS: equal probability; systematic: random start; quota: non-probability; stratified: random from each stratum."
+  },
+  {
+   "q": "The unit root tests for time series is based on the null hypothesis that the time series under  \nconsideration is -  \n*[UGC NET December 2024 · Q.83]*",
+   "options": [
+    "Stationary",
+    "non - stationary",
+    "Strictly stationary",
+    "Weak stationary"
+   ],
+   "answer": 1,
+   "explanation": "H0: non-stationary (unit root)."
+  },
+  {
+   "q": "Six number of fair dice are rolled simultaneously. What is the probability that each face  \nshows up with a different number?  \n*[UGC NET December 2024 · Q.86]*",
+   "options": [
+    "1/66",
+    "6/66",
+    "6!/66",
+    "65/66"
+   ],
+   "answer": 2,
+   "explanation": "6!/6⁶."
+  },
+  {
+   "q": "Match LIST-I with LIST-II  \nList - I List - II  \n(A) Durbin - Watson (I) Multicollinearity  \n(B) Granger (II) Heteroscedastic disturbances  \n(C) Farrar - Glauber (III) Causality  \n(D) Glejser (IV) Autocorrelated disturbances  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.94]*",
+   "options": [
+    "A-IV, B-III, C-I, D-II",
+    "A-IV, B-III, C-II, D-I",
+    "A-II, B-III, C-IV, D-I",
+    "A-III, B-IV, C-I, D-II"
+   ],
+   "answer": 0,
+   "explanation": "DW: autocorrelation; Granger: causality; Farrar–Glauber: multicollinearity; Glejser: heteroscedasticity."
+  },
+  {
+   "q": "In a two variable regression, the dependent and independent variables are Y and X  \nrespectively. The coefficient of correlation between X and Y is 0.8. Which of the following  \nstatements is correct?  \n*[UGC NET December 2024 · Q.105]*",
+   "options": [
+    "8% of variation in Y is explained by X",
+    "64% of variation in Y is explained by X",
+    "0.8% of variation in Y is explained by X",
+    "80% of variation in Y is explained by X"
+   ],
+   "answer": 1,
+   "explanation": "r² = 0.64."
+  },
+  {
+   "q": "Consider the following system of equations :  \nY1 = α0 + α1Y2 + α3Y3 + α4X1 + α5X2 + U1  \nY2 = β0 + β1Y3 + β2Y1 + β3X2 + U2  \nY3 = λ0 + λ1x1 + λ2x2 + λ3x3 + U3  \nAccording to the order condition, the first equation is :  \n*[UGC NET December 2024 · Q.117]*",
+   "options": [
+    "Unidentified",
+    "Just identified",
+    "Over identified",
+    "Not possible to say because the reduced form of the model is not given"
+   ],
+   "answer": 0,
+   "explanation": "Excluded exogenous = 1 < G − 1 = 2: under-identified."
+  },
+  {
+   "q": "Given the objective function y = f(x1, x2……xn) and the constraint g(x1, x2……xn) = 0, the  \nsecond order condition for an extremum is :  \n(A) |H̄2| < 0, |H̄3| < 0………. for a maximum  \n(B) |H̄2| > 0, |H̄3| < 0………. for a maximum  \n(C) H̄2 < 0, |H̄3| > 0………. for a maximum  \n(D) |H̄2| < 0, |H̄3| < 0………. for a minimum  \n(E) |H̄2| < 0, |H̄3| < 0………. for a minimum  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.119]*",
+   "options": [
+    "A & D Only",
+    "C & E Only",
+    "B & D Only",
+    "B & E Only"
+   ],
+   "answer": 2,
+   "explanation": "Max: |H̄2| > 0, |H̄3| < 0; min: all negative."
+  },
+  {
+   "q": "Arrange the following events in increasing order of their probability of happening :  \n(A) Probability of getting two heads in simultaneous toss of two coins  \n(B) Probability of getting a queen from a single draw of a card from a well shuffled pack of cards  \n(C) Probability of getting a white ball from a bag containing 3 white and 7 black balls  \n(D) Probability of getting an even number from a single roll of a fair die  \nChoose the correct answer from the options given below:  \n*[UGC NET December \n2024 · Q.120]*",
+   "options": [
+    "A, D, B, C",
+    "C, A, B, D",
+    "B, C, A, D",
+    "B, A, C, D"
+   ],
+   "answer": 3,
+   "explanation": "1/13 < 1/4 < 0.3 < 0.5."
+  },
+  {
+   "q": "Match LIST-I with LIST-II  \nList - I List - II  \n(A) Unit Root test (I) Durbin - Watson Test  \n(B) Contingency table (II) Student's t-Test  \n(C) Regression coefficient (III) Stationarity  \n(D) Autocorrelation (IV) x2 Test (Chi square test)  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.127]*",
+   "options": [
+    "A-III, B-I, C-II, D-IV",
+    "A-III, B-IV, C-II, D-I",
+    "A-IV, B-II, C-III, D-I",
+    "A-I, B-III, C-II, D-IV"
+   ],
+   "answer": 1,
+   "explanation": "Unit root: stationarity; contingency: χ²; coefficient: t; autocorrelation: DW."
+  },
+  {
+   "q": "If a variable has 'm' categories, we can run the regression using :  \n*[UGC NET December 2024 · Q.129]*",
+   "options": [
+    "'m-1' dummy variables and an intercept term",
+    "'m' dummy variables and an intercept term",
+    "'(m-1)' dummy variables without an intercept",
+    "'(m+1)' dummy variables without an intercept"
+   ],
+   "answer": 0,
+   "explanation": "m − 1 dummies with intercept."
+  },
+  {
+   "q": "The input - output matrix for a two sector economy is given by A = [0.25 0.40 ; 0.10 0.10]  \n(rows: [0.25 0.40] and [0.10 0.10]). If the external demand for the outputs of the two sectors is D =  \n[10 ; 20] (column vector), what will be the optional output levels of the two commodities?  \n*[UGC NET December \n2024 · Q.130]*",
+   "options": [
+    "26.77 and 18.43",
+    "9.33 and 24.50",
+    "26.77 and 25.20",
+    "24.33 and 25.20"
+   ],
+   "answer": 2,
+   "explanation": "(I − A)⁻¹D: det 0.635; x1 = 17/0.635 = 26.77, x2 = 16/0.635 = 25.20."
+  },
+  {
+   "q": "Which of the following statements is true concerning the optimal solution of a linear  \nprogramming problem with two decision variables?  \n*[UGC NET December 2024 · Q.133]*",
+   "options": [
+    "There is always a unique solution to the problem.",
+    "The optimal solution is either an extreme point or is on the line connecting two extreme points.",
+    "All resources must be used up by an optimal solution.",
+    "The optimal solution may be an interior point of the set of feaside solutions."
+   ],
+   "answer": 1,
+   "explanation": "LP optimum is at a vertex or along an edge."
+  },
+  {
+   "q": "Generalised least square method of estimation can be used in which of the following cases :  \n(A) Autocorrelated disturbances  \n(B) Multicollinearity among explanatory variables  \n(C) Heteroscedastic disturbances  \n(D) Overfitted models  \n(E) Incorrect functional forms  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.136]*",
+   "options": [
+    "A, C & D Only",
+    "C, B & E Only",
+    "A & C Only",
+    "C, D & E Only"
+   ],
+   "answer": 2,
+   "explanation": "GLS handles autocorrelation and heteroscedasticity."
+  },
+  {
+   "q": "Given A = [2 0 4 ; 1 3 1] (a 2×3 matrix with rows (2 0 4) and (1 3 1)) and B = (4 5 0), which  \nof the following is true?  \n(A) ABT is (8 ; 19) (a column vector)  \n(B) ABT is defined  \n(C) AB is not defined  \n(D) BA is defined  \n(E) BAT is (8 19)  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.139]*",
+   "options": [
+    "A & E Only",
+    "A, B, C & E",
+    "A, B & C Only",
+    "A, C & E Only"
+   ],
+   "answer": 1,
+   "explanation": "ABᵀ = (8, 19)ᵀ is defined; AB is undefined; BAᵀ = (8 19)."
+  },
+  {
+   "q": "Bootstrapping technique is use to ________  \n*[UGC NET June 2025 S2 · Q.59]*",
+   "options": [
+    "Tests for specification bias",
+    "Obtain the sampling distribution of parameters of interest",
+    "Test for autocorrelation",
+    "Test for normality of error term"
+   ],
+   "answer": 1,
+   "explanation": "Bootstrapping gives empirical sampling distributions."
+  },
+  {
+   "q": "According to Granger and Newbold, a good rule of thumb to suspect that the estimated  \nregression is spurious is given by:  \n*[UGC NET June 2025 S2 · Q.60]*",
+   "options": [
+    "High R² with low t-value (R² > t)",
+    "High t values with low Durbin-Watson d value (t > d)",
+    "High R² and low Durbin-Watson d value (R² > d)",
+    "High R² and low F value (R² > F)"
+   ],
+   "answer": 2,
+   "explanation": "R² > d suggests spurious regression."
+  },
+  {
+   "q": "The indirect least square is applied to estimate the coefficient of the:  \n*[UGC NET June 2025 S2 · Q.61]*",
+   "options": [
+    "Structural equation",
+    "Over identified equation",
+    "Reduced form equation",
+    "Under identified equation"
+   ],
+   "answer": 2,
+   "explanation": "OLS is applied to the reduced-form equations, then structural coefficients are recovered. (Answer key may vary.)"
+  },
+  {
+   "q": "The management of a manufacturing firm wishes to determine the average time required  \nto complete a certain manual operation. There should be 0.95 confidence that error in the estimate  \nwill not exceed 2 minutes. What sample size is estimated by a time and motion study expert as 16  \nminutes?  \n*[UGC NET June 2025 S2 · Q.62]*",
+   "options": [
+    "96",
+    "300",
+    "255",
+    "246"
+   ],
+   "answer": 3,
+   "explanation": "n = (1.96 × 16/2)² ≈ 246."
+  },
+  {
+   "q": "If x is a poisson variate with mean λ, then P(x+1) is:  \n*[UGC NET June 2025 S2 · Q.63]*",
+   "options": [
+    "[λ/(x+1)] P(x)",
+    "λ/x",
+    "[(x+1)/λ] P(x)",
+    "(x/λ) P(x)"
+   ],
+   "answer": 0,
+   "explanation": "P(x + 1) = λ/(x + 1) · P(x)."
+  },
+  {
+   "q": "A candidate is selected for interview for three posts. For the first post, there are 3  \ncandidates, for the second 4 candidates and for the third 2 candidates. What is the probability that  \nthe candidate is selected for at least one post?  \n*[UGC NET June 2025 S2 · Q.64]*",
+   "options": [
+    "1/4",
+    "1/2",
+    "3/4",
+    "1/9"
+   ],
+   "answer": 2,
+   "explanation": "1 − (2/3)(3/4)(1/2) = 3/4."
+  },
+  {
+   "q": "The data about the sales and advertisement expenditure of a firm is given below:  \nSales (In crore of Rs.) Advertisement expenditure (In  \ncrore of Rs.)  \nMean 40 6  \nStandard deviation 10 1.5  \nCoefficient of correlation = r = 0.9  \nEstimate the likely sales for the proposed advertisement of Rs. 10 crore of rupees.  \n*[UGC NET June 2025 \nS2 · Q.65]*",
+   "options": [
+    "Rs. 60 crore",
+    "Rs. 64 crore",
+    "Rs. 70 crore",
+    "Rs. 74 crore"
+   ],
+   "answer": 1,
+   "explanation": "byx = 0.9 × 10/1.5 = 6 → 40 + 6 × 4 = 64."
+  },
+  {
+   "q": "If x̄ = 32, ȳ = 38, the regression coefficients b_xy = −0.2337, b_yx = −0.6643. Find the  \nequation of the line of regression of y on x.  \n*[UGC NET June 2025 S2 · Q.66]*",
+   "options": [
+    "y = −0.2337x + 40.8806",
+    "y = −0.2337x − 40.8806",
+    "y = −0.6643x − 59.2576",
+    "y = −0.6643x + 59.2576"
+   ],
+   "answer": 3,
+   "explanation": "y − 38 = −0.6643(x − 32)."
+  },
+  {
+   "q": "If U = 6x2 + y2, and 4x − y = 1. What is the value of U?  \n*[UGC NET June 2025 S2 · Q.67]*",
+   "options": [
+    "4/15",
+    "3/11",
+    "3/16",
+    "4/21"
+   ],
+   "answer": 1,
+   "explanation": "Substitute y = 4x − 1: min at x = 2/11, U = 3/11."
+  },
+  {
+   "q": "Integrate ∫ (x+3)/(x+5) dx.  \n*[UGC NET June 2025 S2 · Q.68]*",
+   "options": [
+    "x2/2 − 2.ln|x + 5| + c",
+    "x2/2 + 2.ln|x + 5| + c",
+    "x + 2.ln|x + 5| + c",
+    "x − 2.ln|x + 5| + c"
+   ],
+   "answer": 3,
+   "explanation": "1 − 2/(x + 5) → x − 2 ln|x + 5|."
+  },
+  {
+   "q": "Evaluate ∫ from 1 to 2 of e−2x dx.  \n*[UGC NET June 2025 S2 · Q.71]*",
+   "options": [
+    "e−2 − e−4",
+    "−(1/2)(e−2 − e−4)",
+    "(1/2)(e−2 − e−4)",
+    "(1/2)(e−2 + e−4)"
+   ],
+   "answer": 2,
+   "explanation": "[−e^(−2x)/2] from 1 to 2 = (e^(−2) − e^(−4))/2."
+  },
+  {
+   "q": "The null hypothesis that all slope coefficients are simultaneously equal to zero is tested in  \nlogit model by.  \n*[UGC NET June 2025 S2 · Q.77]*",
+   "options": [
+    "F-test",
+    "t-test",
+    "Chi-square test",
+    "Likelihood ratio statistics"
+   ],
+   "answer": 3,
+   "explanation": "Likelihood ratio statistic."
+  },
+  {
+   "q": "Which of the followings are correct in case of Normal distribution?  \n(A) μ3 for Normal distribution is 0.  \n(B) β2 for Normal distribution is 0.  \n(C) Mean deviation (about mean) for Normal distribution is (4/5)σ  \n(D) μ4 for Normal distribution is 2σ4  \n(E) Characteristic function for Normal distribution is eiμt − t²σ²/2  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.111]*",
+   "options": [
+    "A, C & E Only",
+    "A, B, C & E Only",
+    "B, C & D Only",
+    "A, C & D Only"
+   ],
+   "answer": 0,
+   "explanation": "μ3 = 0; MD ≈ (4/5)σ; char. function e^(iμt − t²σ²/2). β2 = 3, μ4 = 3σ⁴."
+  },
+  {
+   "q": "By using the uniqueness property of moment generating function (M.G.F.), which of the  \nfollowings are correct distribution if M.G.F. is as follows?  \n(A) M(t) = (1/2 + (1/2)et)6 is a poisson distribution.  \n(B) M(t) = (1 + et)5 / 32 is a binomial distribution.  \n(C) M(t) = e^(3(et − 1)) is poisson distribution  \n(D) M(t) = e^((et − 1)/4) is poisson distribution  \n(E) M(t) = 4(3e−t − 1)−2 is binomial distribution  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.112]*",
+   "options": [
+    "A, B, C & D Only",
+    "B, C & D Only",
+    "B, C, D & E Only",
+    "A, B, C, D & E"
+   ],
+   "answer": 1,
+   "explanation": "A is binomial, not Poisson; B binomial; C, D Poisson."
+  },
+  {
+   "q": "Match List - I with List - II  \nList - I List - II  \n(A) β2 for Chi-square distribution (I) (n-2)  \n(B) Skewness for Chi-square distribution (II) 48n+12n²  \n(C) Mode for Chi-square distribution (III) (12/n)+3  \n(D) μ3 for Chi-square distribution (IV) √(2/n)  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.129]*",
+   "options": [
+    "A-IV, B-III, C-II, D-I",
+    "A-III, B-II, C-IV, D-I",
+    "A-II, B-I, C-IV, D-III",
+    "A-III, B-IV, C-I, D-II"
+   ],
+   "answer": 3,
+   "explanation": "β2 = 3 + 12/n; mode n − 2; μ4 = 48n + 12n²."
+  },
+  {
+   "q": "Match List - I with List - II  \nList - I List - II  \n(A) The mean of a Hypergeometric distribution (I) q/p²  \n(B) The moment generating function of (II) (Q − Pet)−r  \nnegative binomial distribution  \n(C) The coefficient of Kurtosis of a binomial (III) nM/N  \ndistribution  \n(D) The variance of geometric distribution (IV) (1 − 6pq)/npq  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.130]*",
+   "options": [
+    "A-II, B-III, C-I, D-IV",
+    "A-III, B-II, C-IV, D-I",
+    "A-I, B-III, C-IV, D-II",
+    "A-II, B-I, C-III, D-IV"
+   ],
+   "answer": 1,
+   "explanation": "nM/N; (Q − Pe^t)^(−r); (1 − 6pq)/npq; q/p²."
+  },
+  {
+   "q": "Match List - I with List - II  \nList - I List - II  \n(A) ∫ from 0 to ∞ of 1/(1+x²) dx (I) does not exist  \n(B) ∫ from 1 to ∞ of 1/√x dx (II) 1/3  \n(C) ∫ from −∞ to −1 of 1/x4 dx (III) π/2  \n(D) ∫ from −∞ to +∞ of 1/(1+x²) dx (IV) π  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.131]*",
+   "options": [
+    "A-I, B-II, C-IV, D-III",
+    "A-IV, B-I, C-II, D-III",
+    "A-III, B-I, C-II, D-IV",
+    "A-II, B-III, C-IV, D-I Passage / data for Q.141-145 (June 2025 S2) Based on the information given below, answer the questions: Two fair dice are thrown independently. Three events A, B, and C are defined as follows; A : odd face with first dice B : odd face with second dice C : sum of points on two dice is odd"
+   ],
+   "answer": 2,
+   "explanation": "π/2; diverges; 1/3; π."
+  },
+  {
+   "q": "Find the P(C).  \n*[UGC NET June 2025 S2 · Q.141]*",
+   "options": [
+    "1/4",
+    "1/2",
+    "3/4",
+    "5/6"
+   ],
+   "answer": 1,
+   "explanation": "P(sum odd) = 1/2."
+  },
+  {
+   "q": "Find the P(A∩B).  \n*[UGC NET June 2025 S2 · Q.142]*",
+   "options": [
+    "0",
+    "3/4",
+    "7/12",
+    "1/4"
+   ],
+   "answer": 3,
+   "explanation": "1/2 × 1/2."
+  },
+  {
+   "q": "Find the P(A∩C).  \n*[UGC NET June 2025 S2 · Q.143]*",
+   "options": [
+    "0",
+    "1/2",
+    "1/6",
+    "1/4"
+   ],
+   "answer": 3,
+   "explanation": "First odd, second even = 1/4."
+  },
+  {
+   "q": "Find the P(B∩C).  \n*[UGC NET June 2025 S2 · Q.144]*",
+   "options": [
+    "1/2",
+    "0",
+    "1/4",
+    "1/36"
+   ],
+   "answer": 2,
+   "explanation": "1/4."
+  },
+  {
+   "q": "Find the P(A∩B∩C).  \n*[UGC NET June 2025 S2 · Q.145]*",
+   "options": [
+    "0",
+    "1/2",
+    "1/4",
+    "1/6"
+   ],
+   "answer": 0,
+   "explanation": "Both odd → sum even → impossible."
+  },
+  {
+   "q": "Based on the following statements:  \n(A) Matrix Addition is not Commutative  \n(B) Matrix Addition is Associative  \n(C) Matrix Multiplication is Commutative  \n(D) Matrix Multiplication is Associative if product exists  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.56]*",
+   "options": [
+    "A and C only",
+    "A and D only",
+    "B and C only",
+    "B and D only"
+   ],
+   "answer": 3,
+   "explanation": "Addition is associative (and commutative); multiplication is associative."
+  },
+  {
+   "q": "Given samples of sizes 20 and 15 with respective sample variances 35.53 and 34.92, the  \ncalculated value of F-statistic is:  \n*[UGC NET December 2025 · Q.57]*",
+   "options": [
+    "1.02",
+    "0.98",
+    "0.76",
+    "1.31"
+   ],
+   "answer": 0,
+   "explanation": "35.53/34.92 ≈ 1.02."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Slack Variable (I) Best of all feasible solutions  \n(B) Surplus Variable (II) Solution violating at least one condition  \n(C) Optimal Solution (III) Used when there are less than or equal  \nto (≤) type inequalities  \n(D) Infeasible Solution (IV) Used when there are greater than or  \nequal to (≥) type inequalities  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.58]*",
+   "options": [
+    "A-IV, B-III, C-I, D-II",
+    "A-IV, B-III, C-II, D-I",
+    "A-III, B-IV, C-II, D-I",
+    "A-III, B-IV, C-I, D-II"
+   ],
+   "answer": 3,
+   "explanation": "Slack ≤, surplus ≥, optimal best, infeasible violates a constraint."
+  },
+  {
+   "q": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as  \nReason (R).  \nAssertion (A): The presence of heteroscedasticity problem in regression analysis implies that the  \nleast square estimators are still unbiased but inefficient.  \nReason (R): The estimates of the variances are also unbiased.  \nIn the light of the above statements, choose the most appropriate answer from the options  \ngiven below:  \n*[UGC NET December 2025 · Q.75]*",
+   "options": [
+    "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+    "(A) is correct but (R) is not correct",
+    "(A) is not correct but (R) is correct"
+   ],
+   "answer": 2,
+   "explanation": "Variance estimates are biased under heteroscedasticity."
+  },
+  {
+   "q": "Based on Beta (β) and Gama (γ) coefficients, if β2 < 3 or γ2 < 0 then the curve is said to  \nbe:  \n*[UGC NET December 2025 · Q.76]*",
+   "options": [
+    "Normal Curve",
+    "Lepto Kurtic",
+    "Platy Kurtic",
+    "Insufficient Data"
+   ],
+   "answer": 2,
+   "explanation": "β2 < 3: platykurtic."
+  },
+  {
+   "q": "In a population of men in a city, 3% are observed to suffer form cancer, 15% are found to  \nbe smokers, while 10% are noticed to be either smokers or cancer patients. If a man is selected at  \nrandom, what is the probability that he is a smoker and suffering from cancer?  \n*[UGC NET December 2025 · Q.78]*",
+   "options": [
+    "0.08",
+    "0.8",
+    "0.02",
+    "0.2"
+   ],
+   "answer": 0,
+   "explanation": "0.03 + 0.15 − 0.10 = 0.08."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Type I error (I) Accept H0 when it is false  \n(B) Type II error (II) H0: μ = μ0 and σ2 = σ02  \n(C) Simple Hypothesis (III) Reject H0 when it is true  \n(D) Composite Hypothesis (IV) H0: μ = μ0 and σ2 is unknown  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.79]*",
+   "options": [
+    "A-III, B-I, C-IV, D-II",
+    "A-I, B-III, C-II, D-IV",
+    "A-III, B-I, C-II, D-IV",
+    "A-I, B-III, C-IV, D-II"
+   ],
+   "answer": 2,
+   "explanation": "Type I: reject true H0; Type II: accept false H0; simple: fully specified; composite: not."
+  },
+  {
+   "q": "If P(A) = 1/5 and P(B) = 1/3 and A and B are two mutually exclusive events, then the  \nprobability of neither A nor B will occur is:  \n*[UGC NET December 2025 · Q.86]*",
+   "options": [
+    "8/25",
+    "1/15",
+    "7/15",
+    "1/5"
+   ],
+   "answer": 2,
+   "explanation": "1 − 1/5 − 1/3 = 7/15."
+  },
+  {
+   "q": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as  \nReason (R).  \nIf X is a given series of observations, a and b are any two constants, then with regard to  \nStandard Deviation (SD).  \nAssertion (A): SD(X + a) = SD(X − b) = SD(X) and SD(aX) = a2.SD(X)  \nReason (R): SD is independent of change of origin, but not of scale.  \nIn the light of the above statements, choose the most appropriate answer from the options  \ngiven below:  \n*[UGC NET December 2025 · Q.87]*",
+   "options": [
+    "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+    "(A) is correct but (R) is not correct",
+    "(A) is not correct but (R) is correct"
+   ],
+   "answer": 3,
+   "explanation": "SD(aX) = |a|·SD(X), so A is wrong; R is right."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) nth term of an Arithmetic Progression (I) (n/2)[2a + (n − 1)d]  \n(B) nth term of a Geometric Progression (II) a(rn − 1)/(r − 1), r > 1  \n(C) Sum to n terms of an Arithmetic Progression (III) a + (n − 1)d  \n(D) Sum to n terms of a Geometric Progression (IV) a rn−1  \nwhere a is first term, d is common difference and r is common ratio  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.99]*",
+   "options": [
+    "A-III, B-IV, C-II, D-I",
+    "A-III, B-IV, C-I, D-II",
+    "A-IV, B-III, C-I, D-II",
+    "A-IV, B-I, C-II, D-III"
+   ],
+   "answer": 1,
+   "explanation": "a + (n − 1)d; arⁿ⁻¹; (n/2)[2a + (n − 1)d]; a(rⁿ − 1)/(r − 1)."
+  },
+  {
+   "q": "The range of the function y = f(x) = √(1 − x2) is:  \n*[UGC NET December 2025 · Q.109]*",
+   "options": [
+    "[0, 1]",
+    "[1, 0]",
+    "[1, ∞]",
+    "[1, 2]"
+   ],
+   "answer": 0,
+   "explanation": "Range [0, 1]."
+  },
+  {
+   "q": "Given the difference equation Y(t+1) − 1.2Y(t) = 0, the general expression Y(t) in terms of t  \ncan be:  \n*[UGC NET December 2025 · Q.112]*",
+   "options": [
+    "Y(t) = (1.2)t Y1",
+    "Y(t) = (1.2)t+1 Y0",
+    "Y(t) = (1.2)t−1 Y1",
+    "Y(t) = (1.2)t−1 Y0 + C"
+   ],
+   "answer": 2,
+   "explanation": "Y(t) = (1.2)^(t − 1)·Y1 (equivalent to (1.2)^t·Y0)."
+  },
+  {
+   "q": "Given the structural model  \ny1 = 3y2 − 2x1 + x2 + u1  \ny2 = y3 + x3 + u2  \ny3 = y1 − y2 − 2x3 + u3  \nBased on the order condition, the second equation is:  \n*[UGC NET December 2025 · Q.114]*",
+   "options": [
+    "over identified",
+    "exactly identified",
+    "under identified",
+    "information not sufficient"
+   ],
+   "answer": 0,
+   "explanation": "Excluded exogenous = 2 > G − 1 = 1: over-identified."
+  },
+  {
+   "q": "Coefficient of Determination (R2):  \n(A) is an increasing function of the number of regressors  \n(B) is a decreasing function of the number of regressors  \n(C) is unaffected by increasing or decreasing the number of regressors  \n(D) is always positive  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.124]*",
+   "options": [
+    "A and B only",
+    "A and C only",
+    "A and D only",
+    "B and C only"
+   ],
+   "answer": 2,
+   "explanation": "R² never falls when regressors are added, and is non-negative."
+  },
+  {
+   "q": "Based on {ε_t} is a purely random process with mean zero and variance σ2:  \n(A) A process {x_t} defined by x_t = α1x(t−1) + α2x(t−2) + ...... + αr x(t−r) + ε_t is called an  \nautoregressive process of order r  \n(B) A process {x_t} defined by x_t = β0ε_t + β1ε(t−1) + ...... + βm ε(t−m) is called a moving  \naverage process of order m  \n(C) A process {x_t} defined by x_t = β0ε_t + β1ε(t−1) + ...... + βm ε(t−m) is called an  \nautoregressive process of order r  \n(D) A process {x_t} defined by x_t = α1x(t−1) + α2x(t−2) + ...... + αr x(t−r) + ε_t is called a  \nmoving average process of order m  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · \nQ.131]*",
+   "options": [
+    "A and B only",
+    "A and D only",
+    "B and D only",
+    "C and D only"
+   ],
+   "answer": 0,
+   "explanation": "AR(r) and MA(m) definitions."
+  },
+  {
+   "q": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as  \nReason (R).  \nAssertion (A): If X and Y are any two variables and are transformed to the new variables U and V  \ndefined by U = (X − A)/h, V = (Y − B)/K where A, B, h, K are any constants, h and K > 0 then,  \nr_xy = r_uv  \nReason (R): Correlation coefficient(r) is independent of change of origin and scale.  \nIn the light of the above statements, choose the most appropriate answer from the options  \ngiven below:  \n*[UGC NET December 2025 · Q.133]*",
+   "options": [
+    "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+    "(A) is correct but (R) is not correct",
+    "(A) is not correct but (R) is correct"
+   ],
+   "answer": 0,
+   "explanation": "r is invariant to change of origin and scale (h, K > 0)."
+  }
+ ]
+}

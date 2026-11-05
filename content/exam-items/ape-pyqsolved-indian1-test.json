@@ -1,0 +1,908 @@
+{
+ "duration": 98,
+ "negative": 0,
+ "questions": [
+  {
+   "q": "Which of the following are the objectives of the Commission for Agricultural Costs and Prices  \n(CACP)?  \n(i) To ensure meaningful real income levels to the farmers  \n(ii) To stabilise agricultural prices  \n(iii) To protect the interest of the consumers  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.115]*",
+   "options": [
+    "(i) and (iii)",
+    "(i) and (ii)",
+    "(ii) and (iii)",
+    "All of the above"
+   ],
+   "answer": 3,
+   "explanation": "CACP aims at fair farm incomes, price stability and consumer protection."
+  },
+  {
+   "q": "Arrange the following crop insurance schemes in the chronological order of their launch:  \n(i) Comprehensive Crop Insurance Scheme  \n(ii) National Agriculture Insurance Scheme  \n(iii) Modified National Agriculture Insurance Scheme  \n(iv) Pradhan Mantri Fasal Bima Yojana  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.118]*",
+   "options": [
+    "(i), (ii), (iii), (iv)",
+    "(ii), (iii), (i), (iv)",
+    "(iii), (ii), (iv), (i)",
+    "(i), (iii), (ii), (iv)"
+   ],
+   "answer": 0,
+   "explanation": "CCIS (1985) → NAIS (1999) → MNAIS (2010) → PMFBY (2016)."
+  },
+  {
+   "q": "As per the SRS Bulletin of September 2017, the estimated death rate for Kerala is 7·6, while  \nfor Bihar it is 6. From these data which is the correct inference to draw?  \n*[UGC NET December 2018 · Q.119]*",
+   "options": [
+    "Health condition of people in Bihar is better than that in Kerala.",
+    "Suicide rate in Kerala is very high.",
+    "Life Expectancy in Bihar is higher than that in Kerala.",
+    "Ageing of population in Kerala is faster than in Bihar."
+   ],
+   "answer": 3,
+   "explanation": "A higher death rate in Kerala reflects an older population."
+  },
+  {
+   "q": "Which of the following is not included in the category of Bio-fuels?  \n*[UGC NET December 2018 · Q.122]*",
+   "options": [
+    "Bioethanol",
+    "Biodiesel",
+    "Gobar Gas",
+    "Compressed Natural Gas"
+   ],
+   "answer": 3,
+   "explanation": "CNG is a fossil fuel."
+  },
+  {
+   "q": "Consider the following statements:  \n(i) Minimum Support Price (MSP) policy of India covers only wheat, paddy and coarse cereals.  \n(ii) Minimum Support Price (MSP) for Grade-A paddy is always higher than that of the common  \npaddy.  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.126]*",
+   "options": [
+    "Only (i)",
+    "Only (ii)",
+    "Both (i) and (ii)",
+    "Neither (i) nor (ii)"
+   ],
+   "answer": 1,
+   "explanation": "MSP covers 22 crops; Grade-A paddy MSP is above common paddy."
+  },
+  {
+   "q": "What is not true for the Third Stage of the Theory of Demographic Transition?  \n*[UGC NET December 2018 · \nQ.128]*",
+   "options": [
+    "Birth rate declines faster",
+    "Death rate declines but slowly",
+    "Population growth becomes zero",
+    "Population growth rate approximately stabilizes in a narrow range"
+   ],
+   "answer": 2,
+   "explanation": "In stage three growth slows but does not become zero."
+  },
+  {
+   "q": "Which of the following statements is true for the Indian economy according to the World Bank  \nfigures for 2017?  \n*[UGC NET December 2018 · Q.130]*",
+   "options": [
+    "India is now the world's sixth biggest economy.",
+    "India's GDP amounted to $ 5 trillion at the end of 2017.",
+    "Both above",
+    "None of the above"
+   ],
+   "answer": 0,
+   "explanation": "World Bank 2017: India 6th largest; GDP about $2.6 trillion."
+  },
+  {
+   "q": "Given below are two statements, one labelled as Assertion (A) and the other labelled as  \nReason (R). Read the statements and choose the correct answer using the code given below.  \nAssertion (A): India is a service sector driven economy.  \nReason (R): Share of the service sector in total employment is highest.  \n*[UGC NET December 2018 · Q.132]*",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+    "(A) is true, but (R) is false.",
+    "(A) is false, but (R) is true."
+   ],
+   "answer": 2,
+   "explanation": "Services lead GDP, but agriculture still employs the most."
+  },
+  {
+   "q": "Which of the following items completes the life table?  \nAge lx dx Lx Tx ex°  \n7 90,000 500 89,750 48,50,000 ?  \n*[UGC NET June 2019 S1 · Q.119]*",
+   "options": [
+    "50·50",
+    "54·00",
+    "53·89",
+    "51·31"
+   ],
+   "answer": 2,
+   "explanation": "e = Tx/lx = 48,50,000/90,000 = 53.89."
+  },
+  {
+   "q": "Match List-I with List-II :  \nList - I List - II  \n(a) Thomos Doubleday (i) Destiny theory  \n(b) Thomas Sadler (ii) Biological theory  \n(c) Leibenstein (iii) Diet theory  \n(d) Herbert Spencer (iv) Motivation theory of population growth  \nChoose the correct option from those given below :  \n*[UGC NET June 2019 S1 · Q.120]*",
+   "options": [
+    "(a)-(i); (b)-(ii); (c)-(iii); (d)-(iv)",
+    "(a)-(iii); (b)-(i); (c)-(iv); (d)-(ii)",
+    "(a)-(iv); (b)-(iii); (c)-(ii); (d)-(i)",
+    "(a)-(iv); (b)-(ii); (c)-(i); (d)-(iii)"
+   ],
+   "answer": 1,
+   "explanation": "Doubleday: diet theory; Sadler: (as keyed) destiny; Leibenstein: motivation; Spencer: biological."
+  },
+  {
+   "q": "Who propounded optimum theory of population?  \n*[UGC NET June 2019 S1 · Q.121]*",
+   "options": [
+    "Robbins",
+    "Dalton",
+    "Cannan",
+    "Carr Saunders"
+   ],
+   "answer": 2,
+   "explanation": "Edwin Cannan."
+  },
+  {
+   "q": "What is the equation of corrected birthrate?  \n*[UGC NET June 2019 S1 · Q.122]*",
+   "options": [
+    "Corrected birthrate = (Registered births in one year + Possible birth / Mid year population) × 1000",
+    "Corrected birthrate = (Live births in one year / Mid year population) × 1000",
+    "Corrected birthrate = (Number of female births / Mid year population) × 1000",
+    "Corrected birthrate = (Registered births + Possible births / Mid year female population) × 1000"
+   ],
+   "answer": 0,
+   "explanation": "(Registered + possible births)/mid-year population × 1000."
+  },
+  {
+   "q": "Which age structure is important for demographic dividend?  \n*[UGC NET June 2019 S1 · Q.123]*",
+   "options": [
+    "0–14",
+    "15–59",
+    "60 and above",
+    "0–14 and 60 and above"
+   ],
+   "answer": 1,
+   "explanation": "Working ages 15–59."
+  },
+  {
+   "q": "In 2011 the proportion of urban population was more than 40 percent in the States of  \n*[UGC NET June \n2019 S1 · Q.124]*",
+   "options": [
+    "Tamil Nadu, Punjab, Andhra Pradesh, Gujarat",
+    "Tamil Nadu, Haryana, Gujarat, Maharashtra",
+    "Tamil Nadu, Kerala, Andhra Pradesh, West Bengal",
+    "Tamil Nadu, Kerala, Maharashtra, Gujarat"
+   ],
+   "answer": 3,
+   "explanation": "Tamil Nadu, Kerala, Maharashtra, Gujarat."
+  },
+  {
+   "q": "National Food Security Law covers  \n*[UGC NET June 2019 S1 · Q.127]*",
+   "options": [
+    "65% of rural population",
+    "70% of rural population",
+    "75% of rural population",
+    "80% of rural population"
+   ],
+   "answer": 2,
+   "explanation": "NFSA: up to 75% rural (50% urban)."
+  },
+  {
+   "q": "Which of the following is NOT part of the 'PM Kisan Samman Nidhi' scheme as announced on  \n1-02-2019?  \n*[UGC NET June 2019 S1 · Q.128]*",
+   "options": [
+    "All farmers having land holdings up to 2 hectares are eligible under the scheme",
+    "The scheme will be applicable from 1st April, 2019",
+    "The government will transfer Rs 6,000 per annum into the bank accounts of eligible beneficiaries",
+    "The money will be given in three equal instalments of Rs 2000 each"
+   ],
+   "answer": 1,
+   "explanation": "PM-KISAN applied retrospectively from 1 Dec 2018, not 1 April 2019."
+  },
+  {
+   "q": "Which of the following is NOT correct with reference to the service sector of Indian economy?  \n*[UGC NET June 2019 S1 · Q.129]*",
+   "options": [
+    "Service sector has the largest share in the GDP",
+    "Service sector has the largest share in employment",
+    "Service sector's growth has been higher than growth of agriculture sector",
+    "Productivity per worker in service sector is highest"
+   ],
+   "answer": 1,
+   "explanation": "Agriculture, not services, has the largest employment share."
+  },
+  {
+   "q": "Assertion (A) : The share of the non-commodity sector in the national income has been  \nincreasing in India.  \nReason (R) : Industry and Agriculture have been growing at a relatively slower pace in India.  \nChoose the correct answer from the options given below :  \n*[UGC NET June 2019 S1 · Q.133]*",
+   "options": [
+    "Both (A) and (R) are true and (R) explains (A)",
+    "Both (A) and (R) are true but (R) does not explain (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "explanation": "Faster services growth raises the non-commodity share."
+  },
+  {
+   "q": "The phenomenon of 'demographic dividend' is related to which of the following?  \n*[UGC NET December 2019 \nS1 · Q.85]*",
+   "options": [
+    "An increase in the sex ratio",
+    "An increase in the share of female population",
+    "A decline in the TFR",
+    "An increase in the share of working age population"
+   ],
+   "answer": 3,
+   "explanation": "Rising working-age share."
+  },
+  {
+   "q": "Who among the following is not associated with the Optimum Theory of Population?  \n*[UGC NET December \n2019 S1 · Q.86]*",
+   "options": [
+    "T.R. Malthus",
+    "H. Dalton",
+    "E. Cannon",
+    "Carr-Saunders"
+   ],
+   "answer": 0,
+   "explanation": "Malthus is not an optimum-theory economist."
+  },
+  {
+   "q": "Consider the following statements about the correct order of the stages of demographic  \ntransition associated with economic development:  \n(a) Low birth rate with low death rate  \n(b) High birth rate with high death rate  \n(c) High birth rate with low death rate  \nChoose the correct option:  \n*[UGC NET December 2019 S1 · Q.108]*",
+   "options": [
+    "(b), (c), (a)",
+    "(c), (b), (a)",
+    "(a), (b), (c)",
+    "(c), (a), (b)"
+   ],
+   "answer": 0,
+   "explanation": "High–high → high birth/low death → low–low."
+  },
+  {
+   "q": "Consider the following statements:  \n(a) The main objective of the National Agricultural Insurance Scheme (NAIS) is to protect the  \nfarmers against losses suffered by them due to crop failure on account of national calamities  \n(b) The National Agricultural Insurance Scheme (NAIS) is available to all the farmers both loanee  \nand non-loanee irrespective of their size of holding  \nWhich of the statements given above is/are correct?  \n*[UGC NET December 2019 S1 · Q.110]*",
+   "options": [
+    "Only (a)",
+    "Only (b)",
+    "Both (a) and (b)",
+    "Neither (a) nor (b)"
+   ],
+   "answer": 2,
+   "explanation": "NAIS covered losses from natural calamities for all farmers."
+  },
+  {
+   "q": "Match the following List-I with List-II:  \nList - I List - II  \n(a) CAPART (i) Agricultural marketing  \n(b) SIDO (ii) Quality Guarantee  \n(c) NAFED (iii) Small Industries  \n(d) AGMARK (iv) Rural Technology  \nChoose the correct option from those given below:  \n*[UGC NET December 2019 S1 · Q.120]*",
+   "options": [
+    "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+    "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+    "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+    "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+   ],
+   "answer": 1,
+   "explanation": "CAPART: rural technology; SIDO: small industries (option 2 as keyed)."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Karl Marx Theory of Population growth (I) Static interpretation  \n(B) Blacker's Theory of Population growth (II) Three stages  \n(C) Landry's Theory of Population growth (III) Four stages  \n(D) Prof. Sidgwick's Optimum Population Theory (IV) Five stages  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.122]*",
+   "options": [
+    "A - II, B - III, C - IV, D - I",
+    "A - I, B - II, C - III, D - IV",
+    "A - III, B - IV, C - II, D - I",
+    "A - IV, B - II, C - I, D - III"
+   ],
+   "answer": 2,
+   "explanation": "Blacker: five stages; Landry: three stages; Sidgwick's optimum: static."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Kerala (I) Least urbanized  \n(B) Punjab (II) Highest percentage of S.C's in their  \npopulation  \n(C) Himachal Pradesh (III) Highest percentage of S.T's in their  \npopulation  \n(D) Madhya Pradesh (IV) Highest sex ratio  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.123]*",
+   "options": [
+    "A - IV, B - II, C - I, D - III",
+    "A - I, B - III, C - II, D - IV",
+    "A - II, B - I, C - III, D - IV",
+    "A - IV, B - I, C - III, D - II"
+   ],
+   "answer": 0,
+   "explanation": "Kerala: sex ratio; Punjab: SC share; HP: least urbanised; MP: largest ST population."
+  },
+  {
+   "q": "Population Density refers to  \n*[UGC NET June 2020 S2 · Q.124]*",
+   "options": [
+    "Number of male persons per square kilometer",
+    "Number of persons per cubic kilometer",
+    "Number of persons per square kilometer",
+    "Number of persons per 10 kilometers"
+   ],
+   "answer": 2,
+   "explanation": "Persons per sq km."
+  },
+  {
+   "q": "Growth rate of population is  \n*[UGC NET June 2020 S2 · Q.127]*",
+   "options": [
+    "Rate at which population increases per 1000 per annum",
+    "Rate at which birth rate increases per 1000 per annum",
+    "Rate at which population increases per 10,000 per annum",
+    "Rate at which fertility rate increases per annum"
+   ],
+   "answer": 0,
+   "explanation": "Increase per 1000 per year."
+  },
+  {
+   "q": "According to the last Census (2011), which Indian state has the minimum sex ratio?  \n*[UGC NET June 2020 \nS2 · Q.129]*",
+   "options": [
+    "Punjab",
+    "Delhi",
+    "Bihar",
+    "Haryana"
+   ],
+   "answer": 3,
+   "explanation": "Haryana (879)."
+  },
+  {
+   "q": "The share of the service sector in the Gross Value Added of India at current prices, during  \n2018-19 is between  \n*[UGC NET June 2020 S2 · Q.133]*",
+   "options": [
+    "45 to 47 percent",
+    "50 to 52 percent",
+    "53 to 55 percent",
+    "60 to 62 percent"
+   ],
+   "answer": 2,
+   "explanation": "About 54% in 2018-19."
+  },
+  {
+   "q": "White revolution refers to boost in the production of  \n*[UGC NET June 2020 S2 · Q.134]*",
+   "options": [
+    "Rice",
+    "Milk",
+    "Eggs",
+    "Honey"
+   ],
+   "answer": 1,
+   "explanation": "Milk (Operation Flood)."
+  },
+  {
+   "q": "The number of districts initially selected from states under the Intensive Area Development  \nProgramme (1960)  \n*[UGC NET June 2020 S2 · Q.135]*",
+   "options": [
+    "One district from each state",
+    "Three districts from three states",
+    "Five districts from five states",
+    "Seven districts from seven states"
+   ],
+   "answer": 3,
+   "explanation": "Seven districts in seven states."
+  },
+  {
+   "q": "Which one of the following Committee's has been constituted for doubling farmer's income  \nby 2022?  \n*[UGC NET June 2020 S2 · Q.136]*",
+   "options": [
+    "Ashok Mehta Committee",
+    "Naresh Chandra Committee",
+    "Rajeev Kumar Committee",
+    "Ashok Dalwai Committee"
+   ],
+   "answer": 3,
+   "explanation": "Ashok Dalwai Committee."
+  },
+  {
+   "q": "Which one of the following statements is WRONG?  \n*[UGC NET June 2020 S2 · Q.137]*",
+   "options": [
+    "67% of Indian agriculturists are marginal landholders with less than 1 hectare",
+    "10% of agriculturists have 10 hectares or more",
+    "In the rural sector, land is the principal source of income",
+    "Due to the high growth of population, the average size of landholding is small"
+   ],
+   "answer": 1,
+   "explanation": "Large holdings (10+ ha) are under 1%, not 10%."
+  },
+  {
+   "q": "The total population of city 'X' in 2011 was 28 lakhs and the total number of live births was  \n50 thousand. Find out crude birth rate per 1000 population  \n*[UGC NET December 2020 · Q.34]*",
+   "options": [
+    "178.57",
+    "1.7857",
+    "17.857",
+    "0.17857"
+   ],
+   "answer": 2,
+   "explanation": "50,000/28,00,000 × 1000 = 17.86."
+  },
+  {
+   "q": "According to Census 2011, which one of the following states has the highest share of rural  \npopulation?  \n*[UGC NET December 2020 · Q.36]*",
+   "options": [
+    "Bihar",
+    "Odisha",
+    "Uttar Pradesh",
+    "Himachal Pradesh"
+   ],
+   "answer": 3,
+   "explanation": "Himachal Pradesh (about 90% rural)."
+  },
+  {
+   "q": "At present, for the estimation of GDP in India at constant prices, which one of the following  \nyears is used as the base year?  \n*[UGC NET December 2020 · Q.37]*",
+   "options": [
+    "2011-12",
+    "2010-11",
+    "2014-15",
+    "2000-01"
+   ],
+   "answer": 0,
+   "explanation": "2011-12."
+  },
+  {
+   "q": "Which of the following sectors of the economy registered highest growth rate in the second  \nquarter of 2020-21 as per estimate of NSO?  \n*[UGC NET December 2020 · Q.40]*",
+   "options": [
+    "Manufacturing",
+    "Electricity, Gas, Water supply and other Utility services",
+    "Agriculture and Allied sectors",
+    "General Administration"
+   ],
+   "answer": 1,
+   "explanation": "Electricity, gas, water supply grew fastest in Q2 2020-21."
+  },
+  {
+   "q": "In which of the following ways have there been structural changes in agricultural and rural  \nareas in India?  \n(A) Crop diversification within agriculture sector  \n(B) Diversification from livestock to crop husbandry  \n(C) Diversification from non-commercial crops to commercial crops  \n(D) Diversification from traditional inputs to modern inputs  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.53]*",
+   "options": [
+    "A, C and D only",
+    "A, B and C only",
+    "A, B and D only",
+    "B, C and D only"
+   ],
+   "answer": 0,
+   "explanation": "Diversification within crops, to commercial crops and to modern inputs."
+  },
+  {
+   "q": "Consider some of the schemes/programs introduced by the Government of India to enhance  \nagriculture productivity and farmer's income. Arrange them in chronological order of their  \nappearance.  \n(A) Soil Health Card Scheme  \n(B) Kisan Credit Card Scheme  \n(C) Pradhan Mantri Fasal Bima Yojana  \n(D) Doubling Farmers' income program  \nChoose the correct answer from the options given below  \n*[UGC NET December 2020 · Q.84]*",
+   "options": [
+    "A, B, C, D",
+    "B, A, C, D",
+    "B, C, A, D",
+    "B, A, D, C"
+   ],
+   "answer": 1,
+   "explanation": "KCC (1998) → Soil Health Card (2015) → PMFBY (2016) → doubling farmers' income."
+  },
+  {
+   "q": "Net migration refers to  \n*[UGC NET December 2021 · Q.33]*",
+   "options": [
+    "Overall level of population change resulting from total migrants and emigrants",
+    "is the difference between the number of immigrant workers and the number of emigrant workers",
+    "Does not include refugees and other lawful migrants",
+    "includes refugees only."
+   ],
+   "answer": 0,
+   "explanation": "Net change from immigrants minus emigrants."
+  },
+  {
+   "q": "A stationary population is that when population growth is  \n*[UGC NET December 2021 · Q.35]*",
+   "options": [
+    "increasing at an increasing rate",
+    "increasing at a decreasing rate",
+    "Grows at zero rate",
+    "100%"
+   ],
+   "answer": 2,
+   "explanation": "Zero growth."
+  },
+  {
+   "q": "Growth in total consumption in India in 2021 – 22 is likely to be  \n*[UGC NET December 2021 · Q.37]*",
+   "options": [
+    "5.0 Percent",
+    "6.0 Percent",
+    "7.0 Percent",
+    "8.0 Percent"
+   ],
+   "answer": 2,
+   "explanation": "About 7% (Economic Survey 2021-22)."
+  },
+  {
+   "q": "In which year, Gross Domestic saving rate was the highest?  \n*[UGC NET December 2021 · Q.39]*",
+   "options": [
+    "2004-05",
+    "2007-08",
+    "2011-12",
+    "2016-17"
+   ],
+   "answer": 1,
+   "explanation": "2007-08 (about 36.8%)."
+  },
+  {
+   "q": "In relation to considerations of demographic dividend there appears to be \"demographic  \ndualism\" exhibited by the Indian states. In this regard consider the following factors  \n(A) Total fertility rate  \n(B) Sex ratio  \n(C) Percapita income  \n(D) Urbanisation rate  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · \nQ.60]*",
+   "options": [
+    "Both (A) and (B)",
+    "Only (A)",
+    "Only (B) and (C)",
+    "Only (A), (B) and (D)"
+   ],
+   "answer": 1,
+   "explanation": "Demographic dualism shows mainly in TFR differences across states."
+  },
+  {
+   "q": "Here is given sex ratio for different states of India for 2011  \n(A) Gujarat : 942  \n(B) Madhya pradesh : 931  \n(C) Odisha : 979  \n(D) Tamil Nadu : 996  \n(E) Haryana : 862  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.61]*",
+   "options": [
+    "(B), (C) and (D) only",
+    "(A) and (B) only",
+    "(C) and (D) only",
+    "(C), (D) and (E) only"
+   ],
+   "answer": 0,
+   "explanation": "MP 931, Odisha 979, Tamil Nadu 996 are correct."
+  },
+  {
+   "q": "Match List I with List II :  \nList - I List - II  \n(A) Andhra Pradesh PCI in 2020-21 (I) Rs. 98,418  \n(B) Madhya Pradesh PCI in 2020-21 (II) Rs. 1,09,730  \n(C) Odisha PCI in 2020-21 (III) Rs. 1,21,267  \n(D) West Bengal PCI in 2020-21 (IV) Rs. 1,70,215  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.75]*",
+   "options": [
+    "(A)-(II), (B)-(I), (C)-(III), (D)-(IV)",
+    "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)",
+    "(A)-(IV), (B)-(II), (C)-(I), (D)-(III)",
+    "(A)-(III), (B)-(I), (C)-(II), (D)-(IV)"
+   ],
+   "answer": 1,
+   "explanation": "AP 1,70,215; MP 98,418; Odisha 1,09,730; WB 1,21,267."
+  },
+  {
+   "q": "Arrange the following in ascending order  \n(A) Growth rate of Gross National Income (at constant price) of India in 2015-16  \n(B) Growth rate of Gross National Income (at constant price) of India in 2016-17  \n(C) Growth rate of Gross National Income (at constant price) of India in 2017-18  \n(D) Growth rate of Gross National Income (at constant price) of India in 2018-19  \n(E) Growth rate of Gross National Income (at constant price) of India in 2019-20  \nChoose the correct answer from the options given below :  \n*[UGC NET December 2021 · Q.83]*",
+   "options": [
+    "(E), (A), (D), (C), (B)",
+    "(C), (E), (B), (D), (A)",
+    "(E), (D), (C), (A), (B)",
+    "(C), (D), (E), (B), (A)"
+   ],
+   "answer": 2,
+   "explanation": "GNI growth: 2019-20 < 2018-19 < 2017-18 < 2015-16 < 2016-17."
+  },
+  {
+   "q": "Which of the following is not true about the basic postulates of the Malthusian Perspective on  \npopulation?  \n*[UGC NET December 2022 S1 · Q.34]*",
+   "options": [
+    "The human population will invariably grow where the means of subsistence increase",
+    "The total amount of land available for agriculture is immutably fixed",
+    "Factor substitutions and technological advances can alleviate resource scarcities",
+    "The growth of population is limited by the amount of food available for subsistence"
+   ],
+   "answer": 2,
+   "explanation": "Malthus did not allow technology to ease scarcity."
+  },
+  {
+   "q": "Which of the following trends conform to the population projections for India based on the  \nCensus of India 2011, as carried out by the Technical Group on Population Projections under the  \naegis of National Commission on Population.  \n(A) The infant mortality rate is expected to decline in all states during 2011-2035.  \n(B) The average age of Indians is expected to be higher in 2036 compared to 2011.  \n(C) The crude birth rate is expected to increase due to increasing level of total fertility.  \n(D) The crude death rate is expected to decrease owing to the changing age structure of the  \npopulation.  \n(E) As per the projected sex ratio, the population in 2036 is expected to be more feminine  \ncompared to the population in 2011.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.62]*",
+   "options": [
+    "A, B and C only",
+    "A, B and E only",
+    "A, D and E only",
+    "B, C and E only"
+   ],
+   "answer": 1,
+   "explanation": "IMR falls, median age rises, population becomes more feminine."
+  },
+  {
+   "q": "Arrange the percentage share of nominal GVA (RE), 2019-20 for the following sectors in  \ndescending order  \n(A) Agriculture and Allied  \n(B) Manufacturing  \n(C) Construction  \n(D) Finance, Real estate and Professional services  \n(E) Mining and Quarrying  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.76]*",
+   "options": [
+    "D, A, B, C, E",
+    "A, D, B, C, E",
+    "D, B, A, C, E",
+    "B, A, D, E, C"
+   ],
+   "answer": 0,
+   "explanation": "Finance and real estate > agriculture > manufacturing > construction > mining."
+  },
+  {
+   "q": "Zamindari Tenure was introduced by :  \n*[UGC NET December 2022 S2 · Q.24]*",
+   "options": [
+    "Thomas Munro",
+    "Lord Cornwallis",
+    "H. Venkatasubbiah",
+    "G. Myrdal"
+   ],
+   "answer": 1,
+   "explanation": "Lord Cornwallis (Permanent Settlement, 1793)."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Rajasthan (I) 91,276  \n(B) Tamil Nadu (II) 68,548  \n(C) West Bengal (III) 72,627  \n(D) Madhya Pradesh (IV) 72,147  \n(List I: States; List II: 2011 Population (in thousands))  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.74]*",
+   "options": [
+    "A-II, B-IV, C-I, D-III",
+    "A-IV, B-II, C-I, D-III",
+    "A-II, B-I, C-IV, D-III",
+    "A-III, B-I, C-IV, D-II"
+   ],
+   "answer": 0,
+   "explanation": "Rajasthan 68,548; TN 72,147; WB 91,276; MP 72,627 (thousand)."
+  },
+  {
+   "q": "The Intensive Agriculture District Programme (IADP) was launched in the year  \n*[UGC NET June 2023 · Q.87]*",
+   "options": [
+    "1960-61",
+    "1961-62",
+    "1962-63",
+    "1963-64"
+   ],
+   "answer": 0,
+   "explanation": "1960-61."
+  },
+  {
+   "q": "Allocation of budget for Ministry of Agriculture and Farmers' Welfare in the Union Budget  \n2023-24 is  \n*[UGC NET June 2023 · Q.88]*",
+   "options": [
+    "2.25 lakh crores",
+    "1.25 lakh crores",
+    "1.78 lakh crores",
+    "1.68 lakh crores"
+   ],
+   "answer": 1,
+   "explanation": "About ₹1.25 lakh crore."
+  },
+  {
+   "q": "Match List I with List II  \nLIST I (States) ; LIST II (Food grain production (2021-22) Thousand Tonnes)  \nList - I List - II  \n(A) Telangana (I) 11266.0  \n(B) Jharkhand (II) 4984.2  \n(C) Chhattisgarh (III) 8897.0  \n(D) Andhra Pradesh (IV) 15095.4  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2023 · Q.120]*",
+   "options": [
+    "A-I, B-II, C-III, D-IV",
+    "A-IV, B-III, C-II, D-I",
+    "A-I, B-III, C-IV, D-II",
+    "A-IV, B-II, C-III, D-I"
+   ],
+   "answer": 3,
+   "explanation": "Telangana 15,095; Jharkhand 4,984; Chhattisgarh 8,897; AP 11,266."
+  },
+  {
+   "q": "Match List I with List II  \nLIST I (Type of India's population growth rate) ; LIST II (Period)  \nList - I List - II  \n(A) Rapid High Growth (I) 1981-2011  \n(B) Stagnant Population (II) 1921-1951  \n(C) High growth with definite signs of slowing (III) 1951-1981  \ndown  \n(D) Steady Growth (IV) 1891-1921  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2023 · Q.122]*",
+   "options": [
+    "A-IV, B-II, C-III, D-I",
+    "A-III, B-IV, C-I, D-II",
+    "A-III, B-IV, C-II, D-I",
+    "A-IV, B-III, C-II, D-I"
+   ],
+   "answer": 1,
+   "explanation": "1951–81 rapid high; 1891–1921 stagnant; 1981–2011 high but slowing; 1921–51 steady."
+  },
+  {
+   "q": "Match List I with List II  \nLIST I (Policy) ; LIST II (Year)  \nList - I List - II  \n(A) National Forest Policy (I) 2000  \n(B) Marine Fishing Policy (II) 1994  \n(C) New Mineral Policy (III) 2004  \n(D) National Population Policy (IV) 1988  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2023 · Q.123]*",
+   "options": [
+    "A-IV, B-III, C-II, D-I",
+    "A-IV, B-II, C-III, D-I",
+    "A-II, B-IV, C-III, D-I",
+    "A-II, B-III, C-IV, D-I"
+   ],
+   "answer": 0,
+   "explanation": "Forest 1988; Marine Fishing 2004; Mineral 1994; NPP 2000."
+  },
+  {
+   "q": "According to the Census, 2011 arrange the states in the descending order based on the  \nliteracy rate (aged group 7 year and above) :  \n(A) Nagaland  \n(B) Tripura  \n(C) Sikkim  \n(D) Manipur  \n(E) Meghalaya  \nChoose the correct answer from the option given below :  \n*[UGC NET June 2023 · Q.135]*",
+   "options": [
+    "D, C, B, E, A",
+    "C, B, D, A, E",
+    "B, C, A, D, E",
+    "A, C, B, E, D"
+   ],
+   "answer": 2,
+   "explanation": "Tripura > Sikkim > Nagaland > Manipur > Meghalaya."
+  },
+  {
+   "q": "According to the Census 2011, which major Indian state is the most urbanized ?  \n*[UGC NET December 2023 \nS1 · Q.82]*",
+   "options": [
+    "Maharashtra",
+    "Punjab",
+    "Karnataka",
+    "Tamil Nadu"
+   ],
+   "answer": 3,
+   "explanation": "Tamil Nadu (48.4%)."
+  },
+  {
+   "q": "Read the following statements regarding demography across India's major states.  \n(A) Kerala pioneered fertility transition in India.  \n(B) Bihar has high IMR, as well as low reporting of morbidity.  \n(C) Orissa records the highest share of immunized children as per NFHS-5 round.  \n(D) Tamil Nadu has the highest share of old age population as per Census 2011.  \n(E) Madhya Pradesh has the highest share of stunted children as per NFHS-5  \nChoose the correct answer from the options given below :  \n*[UGC NET December \n2023 S1 · Q.109]*",
+   "options": [
+    "(A), (D) Only",
+    "(A), (B), (E) Only",
+    "(A), (D), (E) Only",
+    "(A), (B), (C) Only"
+   ],
+   "answer": 3,
+   "explanation": "Kerala's fertility transition; Bihar's high IMR; Odisha's high immunisation."
+  },
+  {
+   "q": "Given below are two statements :  \nStatement (I) : Agricultural GDP constitutes less than 16% of aggregate GDP at 2011-12  \nconstant prices and less than 20% of the aggregate GDP at current prices in 2022-23 (PE) in  \nIndia.  \nStatement (II) : Service sector GDP constitutes less than 16% of aggregate GDP at 2011-12  \nconstant prices and less than 20% of the aggregate GDP at current prices in 2022-23 (PE) in  \nIndia.  \nIn the light of the above statements, choose the most appropriate answer from the options  \ngiven below :  \n*[UGC NET December 2023 S1 · Q.136]*",
+   "options": [
+    "Both Statement I and Statement II are correct",
+    "Both Statement I and Statement II are incorrect",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct Passage / data for Q.146-150 (December 2023 S1) According to the NSO, MOSPI press release dated 31st May 2023, the revised estimate of GDP at the current price for the year 2021-22 was Rs. 2,34,71,012 crores and that for 2020-21 was Rs. 1,98,29,927 crores. The GDP at 2011-12 constant prices for the year 2020-21 and 2021-22 were Rs. 1,36,87,118 crores and Rs. 1,49,25,840 crores respectively. At the current prices, the net taxes on products was Rs. 20,32,128 crores in 2021-22(RE). The PFCE, GFCE, GFCF in 2021-22 were Rs. 1,43,44,336 crores, Rs. 26,25,361 crores and Rs. 67,86,391 crores respectively. Change in stocks(CIS), valuables and discrepancies in 2021-22 were Rs. 1,63,438 crores, Rs. 3,79,112 crores and Rs. (−) 208,247 crores (negative) respectively in current prices."
+   ],
+   "answer": 2,
+   "explanation": "Agriculture is about 15% (constant) and 18% (current); services are far above 16%."
+  },
+  {
+   "q": "The current account deficit to GDP ratio (both at current prices) in 2021-22 for India was :  \n*[UGC NET December 2023 S1 · Q.147]*",
+   "options": [
+    "1.75%",
+    "3.53%",
+    "4.06%",
+    "2.64%"
+   ],
+   "answer": 3,
+   "explanation": "Net exports = GDP − (C + G + I + stocks + valuables + discrepancy) = −6,19,378 ≈ −2.64% of GDP."
+  },
+  {
+   "q": "The Gross Value Added (GVA) at basic prices in 2021-22 was :  \n*[UGC NET December 2023 S1 · Q.148]*",
+   "options": [
+    "Rs. 2,55,03,140 crore",
+    "Rs. 2,14,38,884 crore",
+    "Rs. 2,34,71,012 crore",
+    "Rs. 1,49,37,569 crore"
+   ],
+   "answer": 1,
+   "explanation": "GVA = GDP − net product taxes = 2,14,38,884 crore."
+  },
+  {
+   "q": "In 2021-22, the investment GDP ratio in India was :  \n*[UGC NET December 2023 S1 · Q.149]*",
+   "options": [
+    "31.2%",
+    "90%",
+    "40.1%",
+    "42.4%"
+   ],
+   "answer": 0,
+   "explanation": "(GFCF + CIS + valuables)/GDP ≈ 31.2%."
+  },
+  {
+   "q": "If the value of exports in 2021-22 at current price be Rs. 50,49,645 crores, the import in  \n2021-22 at current price in India was :  \n*[UGC NET December 2023 S1 · Q.150]*",
+   "options": [
+    "Rs. 56,69,024 crores",
+    "Rs. 6,19,378 crores",
+    "Rs. 1,17,18,975 crores",
+    "Rs. 94,11,752 crores"
+   ],
+   "answer": 0,
+   "explanation": "Imports = exports + 6,19,378 = 56,69,023 crore."
+  },
+  {
+   "q": "As per National Health Survey-5, what was the number of females per 1000 males during  \nsurvey period 2019-21?  \n*[UGC NET August 2024 S1 · Q.55]*",
+   "options": [
+    "975",
+    "991",
+    "1003",
+    "1020"
+   ],
+   "answer": 3,
+   "explanation": "1020."
+  },
+  {
+   "q": "During how many first completed days of life, the death of a baby is defined as the Neonatal  \ndeath?  \n*[UGC NET August 2024 S1 · Q.56]*",
+   "options": [
+    "First 7 completed days of life",
+    "First 14 completed days of life",
+    "First 21 completed days of life",
+    "First 28 completed days of life"
+   ],
+   "answer": 3,
+   "explanation": "First 28 days."
+  },
+  {
+   "q": "In which agriculture year, India's first Agriculture Census was carried out?  \n*[UGC NET August 2024 S1 · Q.58]*",
+   "options": [
+    "1950-51",
+    "1960-61",
+    "1970-71",
+    "1980-81"
+   ],
+   "answer": 2,
+   "explanation": "1970-71."
+  },
+  {
+   "q": "Which of the following values indicates that each woman is being replaced by one daughter,  \nleading to a stable population over time?  \n*[UGC NET August 2024 S1 · Q.61]*",
+   "options": [
+    "GFR=1",
+    "NRR=1",
+    "TFR=1",
+    "GRR=1"
+   ],
+   "answer": 1,
+   "explanation": "NRR = 1."
+  },
+  {
+   "q": "Arrange the following initiatives launched by the government in order of their starting year  \nfrom the oldest:  \n(A) Antyodaya Anna Yojana  \n(B) Mid-day Meal Scheme  \n(C) National Food Security Act  \n(D) Revised Public Distribution System  \n(E) Targeted Public Distribution System  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.91]*",
+   "options": [
+    "(D), (B), (E), (A), (C)",
+    "(A), (B), (D), (E), (C)",
+    "(E), (D), (B), (A), (C)",
+    "(B), (A), (D), (E), (C)"
+   ],
+   "answer": 0,
+   "explanation": "RPDS (1992) → mid-day meal (1995) → TPDS (1997) → AAY (2000) → NFSA (2013)."
+  },
+  {
+   "q": "Match LIST-I with LIST-II  \nList - I List - II  \n(A) Crude Birth Rate (I) (B/P) × 1000  \n(B) Age Specific Fertility Rate (II) (B/P_F) × 1000  \n(C) Total Fertility Rate (III) (B_i/P_iF) × 1000  \n(D) General Fertility Rate (IV) Σ (B_i/P_iF) × 1000  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.52]*",
+   "options": [
+    "A-II, B-III, C-I, D-IV",
+    "A-I, B-III, C-II, D-IV",
+    "A-IV, B-I, C-II, D-III",
+    "A-I, B-III, C-IV, D-II"
+   ],
+   "answer": 3,
+   "explanation": "CBR = B/P; ASFR = Bi/PiF; TFR = Σ ASFR; GFR = B/PF."
+  },
+  {
+   "q": "Which of the following agencies is responsible for computing the National Income statistics in  \nIndia?  \n*[UGC NET December 2024 · Q.71]*",
+   "options": [
+    "Reserve Bank of India",
+    "Ministry of Finance",
+    "NITI Aayog",
+    "Central Statistical Organization"
+   ],
+   "answer": 3,
+   "explanation": "CSO (now NSO, MoSPI)."
+  },
+  {
+   "q": "'Demographic Dividend' relates to which aspect of population?  \n*[UGC NET December 2024 · Q.74]*",
+   "options": [
+    "An increase of life expectancy",
+    "An increase in sex ratio",
+    "A decline in total Fertility Rate",
+    "An increase in the share of working age population."
+   ],
+   "answer": 3,
+   "explanation": "Rising working-age share."
+  },
+  {
+   "q": "In a Life Table which one of the following does not fit :  \n*[UGC NET December 2024 · Q.89]*",
+   "options": [
+    "There are eight columns in a Life Table",
+    "It tells the age specific mortality rate",
+    "Age specific birth rate can be derived from a Life Table",
+    "Age specific Life expectancy can be calculated."
+   ],
+   "answer": 2,
+   "explanation": "A life table gives mortality, not birth rates."
+  },
+  {
+   "q": "Arrange the following demographic phases as per C. R. Blacker's theory of population.  \n(A) Low mortality and death exceeding birth  \n(B) Falling birth rates, but decreasing mortality  \n(C) High birth rate and high death rate  \n(D) Low birth rate balanced by equally low mortality  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.93]*",
+   "options": [
+    "C, B, A, D",
+    "C, B, D, A",
+    "A, C, B, D",
+    "B, C, D, A"
+   ],
+   "answer": 1,
+   "explanation": "High stationary → late expanding → low stationary → declining."
+  },
+  {
+   "q": "Match List - I with List - II  \nList - I List - II  \nList-I (renewable energy sources) List-II (% of total energy production as on  \nNov 2024 as per Economic Survey 2024-25)  \n(A) Solar energy (I) 10.50%  \n(B) Hydro energy (II) 20.60%  \n(C) Nuclear energy (III) 10.30%  \n(D) Wind energy (IV) 1.80%  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.140]*",
+   "options": [
+    "A-II, B-III, C-IV, D-I",
+    "A-III, B-I, C-IV, D-II",
+    "A-II, B-III, C-I, D-IV",
+    "A-II, B-I, C-III, D-IV"
+   ],
+   "answer": 0,
+   "explanation": "Solar about 20.6%, nuclear about 1.8% (option 1 as keyed)."
+  },
+  {
+   "q": "Given below are two statements:  \nStatement (I): Green Revolution led to increase in the production of fine cereals. High incentives  \nand application of high yielding varieties of seeds, fertilisers and chemicals made this a good  \nsuccess.  \nStatement (II): Green revolution led to decline in the production of coarse cereals and area  \nunder coarse cereals shifted to other crops.  \nIn the light of the above statements, choose the most appropriate answer from the options  \ngiven below:  \n*[UGC NET December 2025 · Q.85]*",
+   "options": [
+    "Both Statement I and Statement II are correct",
+    "Both Statement I and Statement II are incorrect",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct"
+   ],
+   "answer": 0,
+   "explanation": "Green Revolution raised fine cereals; coarse cereal area shifted away."
+  },
+  {
+   "q": "Which of the following is not correct in case of Rural Infrastructure Development Fund  \n(RIDF)?  \n*[UGC NET December 2025 · Q.106]*",
+   "options": [
+    "Providing funds to state governments and state owned corporations to rural infrastructure projects",
+    "Scheduled commercial banks contribute funds to RIDF",
+    "Creation of RIDF in 1995-96 in NABARD with a corpus of Rs. 2000 Crore",
+    "Now RIDF scheme is merged with Kisan Credit Card (RCC)"
+   ],
+   "answer": 3,
+   "explanation": "RIDF was not merged with KCC."
+  },
+  {
+   "q": "As per Dalton's optimum population formula defined as M = (A − O)/O (where M is degree of  \nmal-adjustment, A is actual population and O is the level of optimum population), a country is said  \nto have optimum population if:  \n*[UGC NET December 2025 · Q.117]*",
+   "options": [
+    "M is positive",
+    "M is negative",
+    "M is zero",
+    "O is zero"
+   ],
+   "answer": 2,
+   "explanation": "M = 0 at the optimum."
+  },
+  {
+   "q": "NSSO and CSO come under:  \n*[UGC NET December 2025 · Q.118]*",
+   "options": [
+    "Ministry of Home Affairs",
+    "Ministry of Finance",
+    "Ministry of Industry and Commerce",
+    "Ministry of Statistics and Programme Implementation (MoSPI)"
+   ],
+   "answer": 3,
+   "explanation": "MoSPI."
+  },
+  {
+   "q": "\"Economic Dependency Burden\" of a country implies:  \n(A) The non-productive members of the country must be supported by the country's labour  \nforce.  \n(B) The outstanding loan of the country.  \n(C) Children below the age of 15 and people above the age of 70.  \n(D) The people working in private sector  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.122]*",
+   "options": [
+    "A and D Only",
+    "A and C Only",
+    "C and D Only",
+    "B and C Only"
+   ],
+   "answer": 1,
+   "explanation": "Workers must support dependants (children and the elderly)."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Targeted Public Distribution System (TPDS) (I) 1992  \n(B) Revamped Public Distribution System (II) 2009  \n(RPDS)  \n(C) Right to Education Act (RTE Act) (III) 1997  \n(D) National Food Security Act (NFSA Act) (IV) 2013  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.129]*",
+   "options": [
+    "A-I, B-III, C-IV, D-II",
+    "A-IV, B-III, C-I, D-II",
+    "A-III, B-I, C-II, D-IV",
+    "A-II, B-IV, C-I, D-III"
+   ],
+   "answer": 2,
+   "explanation": "TPDS 1997; RPDS 1992; RTE 2009; NFSA 2013."
+  }
+ ]
+}
