@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="hi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>मेरी Photos</title>
+<link rel="icon" href="/static/photo.svg">
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">📸 मेरी Photos</div>
+  <nav class="tabs">
+    <button data-tab="library" class="active">🖼️ सभी Photos/Videos</button>
+    <button data-tab="people">👤 लोग (चेहरे)</button>
+    <button data-tab="dupes">🗂️ Duplicate</button>
+    <button data-tab="settings">⚙️ Settings</button>
+  </nav>
+  <div class="scanbox">
+    <span id="stats" class="muted"></span>
+    <button id="scanBtn" class="primary">🔄 Scan करें</button>
+  </div>
+</header>
+<div id="progress" class="progress hidden">
+  <div class="bar"><div id="progressFill"></div></div>
+  <span id="progressText"></span>
+  <button id="stopBtn" class="small">रोकें</button>
+</div>
+
+<!-- ============ LIBRARY ============ -->
+<section id="tab-library" class="tab">
+  <div class="filters">
+    <input id="f-q" type="search" placeholder="🔍 नाम या folder से खोजें…">
+    <select id="f-kind">
+      <option value="">Photos + Videos</option>
+      <option value="photo">सिर्फ़ Photos</option>
+      <option value="video">सिर्फ़ Videos</option>
+    </select>
+    <select id="f-year"><option value="">सभी साल</option></select>
+    <select id="f-month">
+      <option value="">सभी महीने</option>
+      <option value="01">जनवरी</option><option value="02">फ़रवरी</option><option value="03">मार्च</option>
+      <option value="04">अप्रैल</option><option value="05">मई</option><option value="06">जून</option>
+      <option value="07">जुलाई</option><option value="08">अगस्त</option><option value="09">सितंबर</option>
+      <option value="10">अक्टूबर</option><option value="11">नवंबर</option><option value="12">दिसंबर</option>
+    </select>
+    <label>से <input id="f-from" type="date"></label>
+    <label>तक <input id="f-to" type="date"></label>
+    <label>Size (MB) <input id="f-min" type="number" min="0" step="0.1" placeholder="कम से कम" class="num">
+      – <input id="f-max" type="number" min="0" step="0.1" placeholder="ज़्यादा से ज़्यादा" class="num"></label>
+    <select id="f-orient">
+      <option value="">कोई भी shape</option>
+      <option value="landscape">आड़ी (landscape)</option>
+      <option value="portrait">खड़ी (portrait)</option>
+    </select>
+    <select id="f-faces">
+      <option value="">चेहरे हों या न हों</option>
+      <option value="yes">जिनमें चेहरा है</option>
+      <option value="no">बिना चेहरे वाली</option>
+    </select>
+    <select id="f-folder"><option value="">सभी folders</option></select>
+    <select id="f-sort">
+      <option value="new">नई पहले</option>
+      <option value="old">पुरानी पहले</option>
+      <option value="big">बड़ी size पहले</option>
+      <option value="small">छोटी size पहले</option>
+      <option value="name">नाम से</option>
+    </select>
+    <button id="f-reset" class="small">साफ़ करें</button>
+  </div>
+  <div id="personChips" class="chips"></div>
+  <div class="resultbar">
+    <span id="resultInfo" class="muted"></span>
+    <span class="spacer"></span>
+    <label class="small"><input type="checkbox" id="selectMode"> चुनकर delete करें</label>
+    <button id="selAll" class="small hidden">सब चुनें</button>
+    <button id="delSel" class="danger small hidden">🗑️ चुनी हुई delete (<span id="selCount">0</span>)</button>
+  </div>
+  <div id="grid" class="grid"></div>
+  <div id="more" class="muted center"></div>
+  <div id="emptyLib" class="empty hidden">
+    <p>अभी कोई photo नहीं दिखी।</p>
+    <p>ऊपर <b>🔄 Scan करें</b> दबाइए। पहली बार में थोड़ा समय लगेगा।</p>
+  </div>
+</section>
+
+<!-- ============ PEOPLE ============ -->
+<section id="tab-people" class="tab hidden">
+  <div class="resultbar">
+    <span id="peopleInfo" class="muted"></span>
+    <span class="spacer"></span>
+    <label class="small"><input type="checkbox" id="peopleAll"> एक photo वाले चेहरे भी दिखाएँ</label>
+    <label class="small"><input type="checkbox" id="mergeMode"> एक ही इंसान को जोड़ें (merge)</label>
+    <button id="mergeBtn" class="primary small hidden">✅ चुने हुए को एक करें</button>
+  </div>
+  <p class="hint">किसी चेहरे के नीचे नाम लिखिए और Enter दबाइए। दो जगह एक ही इंसान दिखे तो उसे भी वही नाम दे दीजिए, दोनों अपने आप जुड़ जाएँगे। Photo पर click करके उस इंसान की सारी photos देखिए।</p>
+  <div id="people" class="people"></div>
+</section>
+
+<!-- ============ DUPLICATES ============ -->
+<section id="tab-dupes" class="tab hidden">
+  <div class="resultbar">
+    <div class="seg">
+      <button data-mode="exact" class="active">बिल्कुल एक जैसी (copy)</button>
+      <button data-mode="similar">मिलती-जुलती photos</button>
+    </div>
+    <label id="thrBox" class="small hidden">कितनी मिलती हो:
+      <input id="thr" type="range" min="0" max="12" value="4"> <span id="thrVal">4</span>
+      <span class="muted">(कम = ज़्यादा मिलती)</span></label>
+    <span class="spacer"></span>
+    <span id="dupeInfo" class="muted"></span>
+    <button id="dupeDel" class="danger small">🗑️ ✔ लगी हुई delete करें</button>
+  </div>
+  <p class="hint">हर group में सबसे अच्छी copy (सबसे बड़ी resolution) पर <b>रखें</b> लिखा है, बाकी पर ✔ लगा है। ✔ बदलकर अपनी मर्ज़ी से चुनिए। Delete की हुई files Recycle Bin में जाती हैं, ज़रूरत हो तो वहाँ से वापस ला सकते हैं।</p>
+  <div id="dupes"></div>
+</section>
+
+<!-- ============ SETTINGS ============ -->
+<section id="tab-settings" class="tab hidden">
+  <div class="card">
+    <h3>📁 Photos का folder</h3>
+    <p class="muted">इसी folder और इसके अंदर के सारे folders की photos/videos दिखेंगी। Files वहीं रहती हैं, कहीं upload नहीं होतीं।</p>
+    <div class="row">
+      <input id="cfgFolder" type="text" class="wide" placeholder="D:\00">
+      <button id="cfgSave" class="primary">Save</button>
+    </div>
+    <p id="cfgMsg" class="muted"></p>
+    <h3>👤 चेहरे पहचानना</h3>
+    <label><input type="checkbox" id="cfgFaces"> Scan करते समय चेहरे पहचानें (पहली बार ~40 MB का model download होगा)</label>
+  </div>
+  <div class="card">
+    <h3>ℹ️ कैसे काम करता है</h3>
+    <ul>
+      <li>सब कुछ आपके laptop पर ही चलता है। Internet सिर्फ़ पहली बार face model download करने के लिए चाहिए।</li>
+      <li>नई photos डालने के बाद <b>🔄 Scan करें</b> दबाइए। सिर्फ़ नई/बदली files पढ़ी जाती हैं।</li>
+      <li>Date: photo के अंदर की camera date (EXIF), फिर file के नाम की date (जैसे IMG_20230105), नहीं तो file की date।</li>
+      <li>Delete की हुई files Windows के Recycle Bin में जाती हैं।</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============ VIEWER ============ -->
+<div id="viewer" class="viewer hidden">
+  <button class="vclose" id="vClose" title="बंद (Esc)">✕</button>
+  <button class="vnav prev" id="vPrev" title="पिछली (←)">‹</button>
+  <div class="vmain" id="vMain"></div>
+  <button class="vnav next" id="vNext" title="अगली (→)">›</button>
+  <aside class="vinfo" id="vInfo"></aside>
+</div>
+
+<div id="toast" class="toast hidden"></div>
+<script src="/static/app.js"></script>
+</body>
+</html>

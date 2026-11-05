@@ -23,6 +23,10 @@ Every save becomes a commit in this repo. The live site updates 1–2 minutes la
 
 `tools/windows-sync/` watches your Downloads folder and puts new PDFs (for example from ChatGPT or Gemini scheduled actions) on the site by itself. It's free. See [tools/windows-sync/README.md](tools/windows-sync/README.md) (in Hindi) for setup.
 
+## Photo Manager for your laptop
+
+`tools/photo-manager/` is a separate, offline website that runs only on your laptop. It indexes the photos and videos in `D:\00` and lets you search them by face, date, size and name, find duplicate copies and delete them to the Recycle Bin. Double-click `start.bat`. See [tools/photo-manager/README.md](tools/photo-manager/README.md) (in Hindi).
+
 ## Where things live
 
 | Path | What it is |
