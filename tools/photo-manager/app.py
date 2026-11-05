@@ -4,6 +4,8 @@ Run:  python app.py      then open http://127.0.0.1:8765
 """
 import io
 import os
+import re
+import shutil
 import subprocess
 import sys
 import threading
@@ -86,9 +88,32 @@ def config():
             cfg["folder"] = folder
         if "faces" in body:
             cfg["faces"] = bool(body["faces"])
+        if "export_folder" in body:
+            dest = str(body["export_folder"]).strip().strip('"')
+            if dest and _inside(cfg["folder"], dest):
+                return jsonify(ok=False, error="Save वाला folder, photos वाले folder के अंदर नहीं हो सकता "
+                                               "(वरना हर copy duplicate दिखेगी)। कोई दूसरा folder चुनिए।"), 400
+            cfg["export_folder"] = dest
         ix.save_config(cfg)
     cfg["folder_exists"] = os.path.isdir(cfg["folder"])
+    cfg["export_folder"] = export_folder(cfg)
     return jsonify(cfg)
+
+
+def export_folder(cfg):
+    if cfg.get("export_folder"):
+        return cfg["export_folder"]
+    root = os.path.normpath(cfg["folder"])
+    return os.path.join(os.path.dirname(root), os.path.basename(root) + "-sorted")
+
+
+def _inside(root, path):
+    root = os.path.normcase(os.path.abspath(root))
+    path = os.path.normcase(os.path.abspath(path))
+    try:
+        return os.path.commonpath([root, path]) == root
+    except ValueError:  # different drives on Windows
+        return False
 
 
 @app.route("/api/scan", methods=["POST"])
@@ -295,13 +320,69 @@ def people():
     for r in rows:
         if r["hidden"] and not show_all:
             continue
-        best = con.execute("SELECT id FROM faces WHERE person_id=? ORDER BY w*h*score DESC LIMIT 1",
-                           (r["id"],)).fetchone()
         out.append({"id": r["id"], "name": r["name"], "count": r["n"], "hidden": r["hidden"],
-                    "face_id": best["id"] if best else r["face_id"]})
+                    "face_id": _cover(con, r["id"]) or r["face_id"]})
     total_faces = con.execute("SELECT COUNT(*) FROM faces").fetchone()[0]
     con.close()
     return jsonify(people=out, total_faces=total_faces)
+
+
+def _cover(con, pid):
+    """The clearest (biggest, most certain) face of a person."""
+    best = con.execute("SELECT id FROM faces WHERE person_id=? ORDER BY w*h*score DESC LIMIT 1",
+                       (pid,)).fetchone()
+    return best["id"] if best else None
+
+
+@app.route("/api/people/<int:pid>")
+def person_one(pid):
+    con = ix.db()
+    p = con.execute("SELECT id, name, hidden FROM persons WHERE id=?", (pid,)).fetchone()
+    if not p:
+        con.close()
+        abort(404)
+    n = con.execute("SELECT COUNT(DISTINCT media_id) FROM faces WHERE person_id=?", (pid,)).fetchone()[0]
+    out = dict(p) | {"count": n, "face_id": _cover(con, pid)}
+    con.close()
+    return jsonify(out)
+
+
+def _centroids(con):
+    """Average face of every person (normalised), for 'is this the same person?' suggestions."""
+    acc = {}
+    for r in con.execute("SELECT person_id, emb FROM faces WHERE person_id IS NOT NULL AND emb IS NOT NULL"):
+        e = np.frombuffer(r["emb"], dtype=np.float32)
+        if r["person_id"] in acc:
+            acc[r["person_id"]] += e
+        else:
+            acc[r["person_id"]] = e.copy()
+    ids = list(acc)
+    if not ids:
+        return ids, np.zeros((0, 128), np.float32)
+    mat = np.stack([acc[i] for i in ids])
+    return ids, mat / np.linalg.norm(mat, axis=1, keepdims=True)
+
+
+@app.route("/api/people/<int:pid>/suggest")
+def person_suggest(pid):
+    """Other groups that probably are the same person (face got split into several groups)."""
+    con = ix.db()
+    ids, mat = _centroids(con)
+    if pid not in ids:
+        con.close()
+        return jsonify(people=[])
+    sims = mat @ mat[ids.index(pid)]
+    out = []
+    for j in np.argsort(-sims):
+        other = ids[j]
+        if other == pid or sims[j] < 0.25 or len(out) >= 18:
+            continue
+        p = con.execute("SELECT name FROM persons WHERE id=?", (other,)).fetchone()
+        n = con.execute("SELECT COUNT(DISTINCT media_id) FROM faces WHERE person_id=?", (other,)).fetchone()[0]
+        out.append({"id": other, "name": p["name"] if p else None, "count": n,
+                    "face_id": _cover(con, other), "sim": round(float(sims[j]), 2)})
+    con.close()
+    return jsonify(people=out)
 
 
 @app.route("/api/people/<int:pid>", methods=["POST"])
@@ -329,13 +410,15 @@ def person_update(pid):
 
 @app.route("/api/people/merge", methods=["POST"])
 def people_merge():
-    ids = [int(i) for i in (request.get_json(force=True) or {}).get("ids", [])]
+    body = request.get_json(force=True) or {}
+    ids = list(dict.fromkeys(int(i) for i in body.get("ids", [])))
     if len(ids) < 2:
         return jsonify(ok=False, error="कम से कम 2 लोग चुनिए"), 400
     con = ix.db()
+    # keep the group that already has a name (else the one asked for, else the first)
     named = con.execute(f"SELECT id FROM persons WHERE id IN ({','.join('?'*len(ids))}) AND name IS NOT NULL "
                         "ORDER BY id LIMIT 1", ids).fetchone()
-    into = named["id"] if named else ids[0]
+    into = named["id"] if named else int(body.get("into") or ids[0])
     for pid in ids:
         if pid != into:
             con.execute("UPDATE faces SET person_id=? WHERE person_id=?", (into, pid))
@@ -369,22 +452,119 @@ def face_update(fid):
     return jsonify(ok=True, person_id=target)
 
 
-@app.route("/api/similar-face/<int:fid>")
-def similar_face(fid):
-    """Faces that look like this one (for finding a person that got split)."""
+# ---------------------------------------------------------------- save into folders
+BAD_CHARS = re.compile(r'[<>:"/\\|?*\x00-\x1f]')
+
+
+def _safe_name(name):
+    name = BAD_CHARS.sub("_", name or "").strip(" .")
+    return name[:80] or "बिना नाम"
+
+
+def _export_plan(con, by, person_id):
+    """List of (source path, sub-folder, size) to copy."""
+    plan = []
+    if by in ("people", "person"):
+        sql = """SELECT DISTINCT m.path, m.size, p.name, p.id pid FROM faces f
+                 JOIN persons p ON p.id=f.person_id JOIN media m ON m.id=f.media_id"""
+        if by == "person":
+            rows = con.execute(sql + " WHERE p.id=?", (person_id,)).fetchall()
+        else:
+            rows = con.execute(sql + " WHERE p.name IS NOT NULL").fetchall()
+        for r in rows:
+            who = _safe_name(r["name"]) if r["name"] else f"इंसान-{r['pid']}"
+            plan.append((r["path"], os.path.join("लोग", who), r["size"]))
+    elif by == "date":
+        months = ["01-जनवरी", "02-फ़रवरी", "03-मार्च", "04-अप्रैल", "05-मई", "06-जून", "07-जुलाई",
+                  "08-अगस्त", "09-सितंबर", "10-अक्टूबर", "11-नवंबर", "12-दिसंबर"]
+        for r in con.execute("SELECT path, size, taken FROM media"):
+            t = r["taken"] or ""
+            sub = os.path.join("तारीख से", t[:4], months[int(t[5:7]) - 1]) if len(t) >= 7 else \
+                os.path.join("तारीख से", "बिना तारीख")
+            plan.append((r["path"], sub, r["size"]))
+    return plan
+
+
+def _free_space(path):
+    while path and not os.path.exists(path):
+        parent = os.path.dirname(path)
+        if parent == path:
+            break
+        path = parent
+    try:
+        return shutil.disk_usage(path).free
+    except OSError:
+        return None
+
+
+@app.route("/api/export", methods=["POST"])
+def export():
+    """Copy photos into neat folders: one folder per person, or Year/Month.
+    Originals are never moved or changed."""
+    body = request.get_json(force=True) or {}
+    by = body.get("by")
+    if by not in ("people", "person", "date"):
+        abort(400)
+    cfg = ix.load_config()
+    dest = export_folder(cfg)
+    if _inside(cfg["folder"], dest):
+        return jsonify(ok=False, error="Save वाला folder, photos वाले folder के अंदर नहीं हो सकता। "
+                                       "Settings में दूसरा folder चुनिए।"), 400
     con = ix.db()
-    me = con.execute("SELECT emb, person_id FROM faces WHERE id=?", (fid,)).fetchone()
-    if not me:
-        abort(404)
-    rows = con.execute("SELECT id, media_id, person_id, emb FROM faces WHERE emb IS NOT NULL").fetchall()
+    plan = _export_plan(con, by, int(body.get("person_id") or 0))
     con.close()
-    e = np.frombuffer(me["emb"], dtype=np.float32)
-    mat = np.stack([np.frombuffer(r["emb"], dtype=np.float32) for r in rows])
-    sims = mat @ e
-    order = np.argsort(-sims)[:100]
-    return jsonify(faces=[{"id": rows[i]["id"], "media_id": rows[i]["media_id"],
-                           "person_id": rows[i]["person_id"], "sim": float(sims[i])}
-                          for i in order if sims[i] > 0.3])
+    if not plan:
+        msg = ("पहले 👤 लोग tab में चेहरों को नाम दीजिए। सिर्फ़ नाम वाले लोगों के folder बनते हैं।"
+               if by == "people" else "Save करने के लिए कुछ नहीं मिला।")
+        return jsonify(ok=False, error=msg), 400
+    need = sum(p[2] or 0 for p in plan)
+    free = _free_space(dest)
+    if body.get("check"):
+        return jsonify(ok=True, files=len(plan), bytes=need, free=free, dest=dest)
+    if free is not None and need > free:
+        return jsonify(ok=False, error="Disk में इतनी जगह नहीं है।"), 400
+
+    def job(s):
+        copied = skipped = failed = 0
+        s.set(total=len(plan), message=f"{dest} में save हो रहा है…")
+        for n, (src, sub, size) in enumerate(plan):
+            if s.stopping:
+                break
+            try:
+                folder = os.path.join(dest, sub)
+                os.makedirs(folder, exist_ok=True)
+                base, ext = os.path.splitext(os.path.basename(src))
+                target, k = os.path.join(folder, base + ext), 1
+                while os.path.exists(target):
+                    if os.path.getsize(target) == size:  # already saved earlier
+                        break
+                    target, k = os.path.join(folder, f"{base}_{k}{ext}"), k + 1
+                if os.path.exists(target):
+                    skipped += 1
+                else:
+                    shutil.copy2(src, target)
+                    copied += 1
+            except OSError:
+                failed += 1
+            if n % 10 == 0:
+                s.set(done=n + 1)
+        s.set(done=len(plan), message=f"✅ Save हो गया: {copied} नई files copy हुईं"
+              + (f", {skipped} पहले से थीं" if skipped else "")
+              + (f", {failed} नहीं हो पाईं" if failed else "") + f" — {dest}")
+
+    started = scanner.start_job(job, "export", "Save शुरू हो रहा है…")
+    if not started:
+        return jsonify(ok=False, error="अभी Scan या Save चल रहा है, उसके ख़त्म होने का इंतज़ार कीजिए।"), 409
+    return jsonify(ok=True, dest=dest, files=len(plan))
+
+
+@app.route("/api/open-export", methods=["POST"])
+def open_export():
+    dest = export_folder(ix.load_config())
+    if not os.path.isdir(dest):
+        return jsonify(ok=False, error="अभी तक कुछ save नहीं हुआ है।"), 404
+    _open(dest)
+    return jsonify(ok=True)
 
 
 # ---------------------------------------------------------------- duplicates

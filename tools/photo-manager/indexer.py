@@ -421,18 +421,29 @@ class Scanner:
         self._stop = True
 
     def start(self):
+        return self.start_job(lambda s: s._scan(), "start", "शुरू हो रहा है…")
+
+    def start_job(self, fn, phase, message):
+        """Run fn(self) in the background; only one job (scan/export) at a time."""
         with self.lock:
             if self.status["running"]:
                 return False
-            self.status.update(running=True, phase="start", done=0, total=0,
-                               message="शुरू हो रहा है…", error=None)
+            self.status.update(running=True, phase=phase, done=0, total=0,
+                               message=message, error=None)
         self._stop = False
-        threading.Thread(target=self._run, daemon=True).start()
+        threading.Thread(target=self._run, args=(fn,), daemon=True).start()
         return True
 
-    def _run(self):
+    @property
+    def stopping(self):
+        return self._stop
+
+    def set(self, **kw):
+        self._set(**kw)
+
+    def _run(self, fn):
         try:
-            self._scan()
+            fn(self)
         except Exception as e:  # pragma: no cover
             self._set(error=str(e), message=f"गड़बड़: {e}")
         finally:

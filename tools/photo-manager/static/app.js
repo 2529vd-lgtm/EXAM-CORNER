@@ -71,7 +71,7 @@ async function poll() {
     box.classList.remove("hidden");
     const pct = s.total ? Math.round(s.done / s.total * 100) : 0;
     $("#progressFill").style.width = pct + "%";
-    const phase = { list: "Files गिन रहे हैं", read: "Photos पढ़ रहे हैं", hash: "Duplicate check" }[s.phase] || "";
+    const phase = { list: "Files गिन रहे हैं", read: "Photos पढ़ रहे हैं", hash: "Duplicate check", export: "Folder में save हो रहा है" }[s.phase] || "";
     $("#progressText").textContent = `${phase} ${s.total ? `${s.done}/${s.total} (${pct}%)` : ""} — ${s.message}`;
     $("#scanBtn").disabled = true;
     wasRunning = true;
@@ -312,21 +312,32 @@ document.addEventListener("keydown", e => {
 
 /* ---------------- people ---------------- */
 const mergePick = new Set();
+let merging = false;
 async function loadPeople() {
   const r = await api("/api/people" + ($("#peopleAll").checked ? "?all=1" : ""));
   $("#peopleInfo").textContent = r.people.length
     ? `${r.people.length} लोग मिले (${r.total_faces} चेहरे)`
     : (r.total_faces ? "" : "अभी कोई चेहरा नहीं मिला। Scan पूरा होने दीजिए (Settings में चेहरे पहचानना चालू हो)।");
+  $("#people").classList.toggle("merging", merging);
   $("#people").innerHTML = r.people.map(p => `
     <div class="person ${mergePick.has(p.id) ? "picked" : ""}" data-id="${p.id}">
+      <span class="tick">✓</span>
       <button class="hide small" title="इस इंसान को list से छुपाएँ">${p.hidden ? "दिखाएँ" : "छुपाएँ"}</button>
       <img src="/face/${p.face_id}" alt="" loading="lazy">
       <div><input value="${esc(p.name || "")}" placeholder="नाम लिखें…"></div>
       <div class="cnt">${p.count} photos</div>
     </div>`).join("");
 }
+function setMerging(on) {
+  merging = on; mergePick.clear();
+  $("#mergeBar").classList.toggle("hidden", !on);
+  $("#mergeToggle").classList.toggle("primary", on);
+  $("#mergeCount").textContent = 0;
+  loadPeople();
+}
 $("#peopleAll").onchange = loadPeople;
-$("#mergeMode").onchange = e => { mergePick.clear(); $("#mergeBtn").classList.toggle("hidden", !e.target.checked); loadPeople(); };
+$("#mergeToggle").onclick = () => setMerging(!merging);
+$("#mergeCancel").onclick = () => setMerging(false);
 $("#people").addEventListener("click", async e => {
   const card = e.target.closest(".person"); if (!card) return;
   const id = +card.dataset.id;
@@ -334,34 +345,113 @@ $("#people").addEventListener("click", async e => {
     await api(`/api/people/${id}`, { method: "POST", body: { hidden: e.target.textContent === "छुपाएँ" } });
     return loadPeople();
   }
-  if (e.target.tagName !== "IMG") return;
-  if ($("#mergeMode").checked) {
+  if (e.target.tagName === "INPUT") return;
+  if (merging) {
     mergePick.has(id) ? mergePick.delete(id) : mergePick.add(id);
-    card.classList.toggle("picked");
-    $("#mergeBtn").textContent = `✅ चुने हुए ${mergePick.size} को एक करें`;
+    card.classList.toggle("picked", mergePick.has(id));
+    $("#mergeCount").textContent = mergePick.size;
     return;
   }
-  selectedPeople = new Set([id]);
-  showTab("library"); loadPersonChips(); loadMedia(true);
+  openPerson(id);
 });
 $("#people").addEventListener("keydown", async e => {
   if (e.key !== "Enter" || e.target.tagName !== "INPUT") return;
   const id = +e.target.closest(".person").dataset.id;
-  const r = await api(`/api/people/${id}`, { method: "POST", body: { name: e.target.value } });
-  toast(r.merged_into ? "इसी नाम का इंसान पहले से था, दोनों जोड़ दिए ✅" : "नाम save हो गया ✅");
-  e.target.blur(); loadPeople(); loadPersonChips();
+  await saveName(id, e.target.value);
+  e.target.blur(); loadPeople();
 });
 $("#people").addEventListener("focusout", async e => {
   if (e.target.tagName !== "INPUT" || e.target.defaultValue === e.target.value) return;
   const id = +e.target.closest(".person").dataset.id;
-  await api(`/api/people/${id}`, { method: "POST", body: { name: e.target.value } });
-  e.target.defaultValue = e.target.value; loadPersonChips();
+  await saveName(id, e.target.value);
+  e.target.defaultValue = e.target.value;
 });
+async function saveName(id, name) {
+  const r = await api(`/api/people/${id}`, { method: "POST", body: { name } });
+  toast(r.merged_into ? "इसी नाम का इंसान पहले से था, दोनों जोड़ दिए ✅" : "नाम save हो गया ✅");
+  loadPersonChips();
+  return r;
+}
 $("#mergeBtn").onclick = async () => {
   if (mergePick.size < 2) return toast("कम से कम 2 चेहरे चुनिए");
   await api("/api/people/merge", { method: "POST", body: { ids: [...mergePick] } });
-  toast("एक कर दिए ✅"); mergePick.clear(); loadPeople(); loadPersonChips();
+  toast(`${mergePick.size} groups एक कर दिए ✅`); setMerging(false); loadPersonChips();
 };
+
+/* person panel: name, photos, "is this the same person?", wrong faces */
+let ppId = null;
+async function openPerson(id) {
+  ppId = id;
+  const p = await api(`/api/people/${id}`);
+  $("#personPanel").classList.remove("hidden");
+  $("#ppFace").src = `/face/${p.face_id}`;
+  $("#ppName").value = p.name || "";
+  $("#ppCount").textContent = `${p.count} photos`;
+  $("#ppSuggest").innerHTML = `<span class="muted">ढूँढ रहे हैं…</span>`;
+  const [sg, fc] = await Promise.all([api(`/api/people/${id}/suggest`), api(`/api/people/${id}/faces`)]);
+  if (ppId !== id) return;
+  $("#ppSuggest").innerHTML = sg.people.length ? sg.people.map(o => `
+    <div data-id="${o.id}">
+      <img src="/face/${o.face_id}" alt="" loading="lazy"><br>
+      ${esc(o.name || "बिना नाम")} · ${o.count}<br>
+      <span class="muted">${Math.round(Math.max(0, o.sim) * 100)}% मिलता</span><br>
+      <button class="primary small">✅ जोड़ें</button>
+    </div>`).join("") : `<span class="muted">कोई मिलता-जुलता group नहीं मिला।</span>`;
+  $("#ppFaces").innerHTML = fc.faces.slice(0, 120).map(f => `
+    <div data-f="${f.id}" data-m="${f.media_id}"><img src="/face/${f.id}" loading="lazy" title="photo देखें"><button title="ये इनका चेहरा नहीं है">✕</button></div>`).join("");
+}
+function closePerson() { $("#personPanel").classList.add("hidden"); ppId = null; loadPeople(); }
+$("#ppClose").onclick = closePerson;
+$("#personPanel").addEventListener("click", e => { if (e.target.id === "personPanel") closePerson(); });
+document.addEventListener("keydown", e => {  // capture: runs before the viewer's own Esc
+  if (e.key === "Escape" && !$("#personPanel").classList.contains("hidden") && $("#viewer").classList.contains("hidden")) closePerson();
+}, true);
+$("#ppName").addEventListener("keydown", async e => {
+  if (e.key !== "Enter") return;
+  const r = await saveName(ppId, e.target.value);
+  openPerson(r.merged_into || ppId);
+});
+$("#ppSuggest").addEventListener("click", async e => {
+  if (e.target.tagName !== "BUTTON") return;
+  const other = +e.target.closest("[data-id]").dataset.id;
+  const r = await api("/api/people/merge", { method: "POST", body: { ids: [ppId, other], into: ppId } });
+  toast("जोड़ दिया ✅"); loadPersonChips();
+  openPerson(r.into);
+});
+$("#ppFaces").addEventListener("click", async e => {
+  const box = e.target.closest("[data-f]"); if (!box) return;
+  if (e.target.tagName === "BUTTON") {
+    await api(`/api/faces/${box.dataset.f}`, { method: "POST", body: { person_id: null } });
+    box.remove(); toast("हटा दिया");
+    return;
+  }
+  const m = await api(`/api/media/${box.dataset.m}`);
+  openViewer(0, [m]);
+});
+$("#ppPhotos").onclick = () => {
+  const id = ppId; closePerson();
+  selectedPeople = new Set([id]); showTab("library"); loadPersonChips(); loadMedia(true);
+};
+$("#ppExport").onclick = () => exportPhotos("person", ppId);
+
+/* ---------------- save into folders ---------------- */
+async function exportPhotos(by, personId) {
+  let c;
+  try { c = await api("/api/export", { method: "POST", body: { by, person_id: personId, check: true } }); }
+  catch (e) { return alert(e.message); }
+  const what = { people: "हर नाम वाले इंसान का अलग folder बनेगा", person: "इस इंसान का folder बनेगा", date: "साल/महीने के folders बनेंगे" }[by];
+  const free = c.free != null ? `\nDisk में खाली जगह: ${size(c.free)}` : "";
+  if (!confirm(`${what}:\n${c.dest}\n\n${c.files} files की copy (${size(c.bytes)}) बनेगी। पहले से save files दोबारा copy नहीं होंगी।${free}\n\nआपकी original photos वहीं रहेंगी। आगे बढ़ें?`)) return;
+  try {
+    await api("/api/export", { method: "POST", body: { by, person_id: personId } });
+    $("#stopBtn").classList.remove("hidden");
+    startPolling();
+  } catch (e) { alert(e.message); }
+}
+$("#exportPeople").onclick = () => exportPhotos("people");
+$("#exportPeople2").onclick = () => exportPhotos("people");
+$("#exportDate").onclick = () => exportPhotos("date");
+$("#openExport").onclick = () => api("/api/open-export", { method: "POST" }).catch(e => toast(e.message));
 
 /* ---------------- duplicates ---------------- */
 let dupeMode = "exact", dupeGroups = [];
@@ -417,6 +507,8 @@ async function loadConfig() {
   const c = await api("/api/config");
   $("#cfgFolder").value = c.folder;
   $("#cfgFaces").checked = c.faces;
+  $("#cfgExport").value = c.export_folder;
+  $("#cfgRootShow").textContent = c.folder;
   $("#cfgMsg").textContent = c.folder_exists ? "✅ Folder मिल गया" : "⚠️ यह folder अभी नहीं मिला। सही path लिखें, जैसे D:\\00";
   return c;
 }
@@ -425,6 +517,12 @@ $("#cfgSave").onclick = async () => {
     await api("/api/config", { method: "POST", body: { folder: $("#cfgFolder").value } });
     toast("Save हो गया। अब 🔄 Scan करें दबाइए।"); loadConfig();
   } catch (e) { $("#cfgMsg").textContent = "⚠️ " + e.message; }
+};
+$("#cfgExportSave").onclick = async () => {
+  try {
+    await api("/api/config", { method: "POST", body: { export_folder: $("#cfgExport").value } });
+    toast("Save हो गया ✅"); loadConfig();
+  } catch (e) { alert(e.message); }
 };
 $("#cfgFaces").onchange = e => api("/api/config", { method: "POST", body: { faces: e.target.checked } });
 

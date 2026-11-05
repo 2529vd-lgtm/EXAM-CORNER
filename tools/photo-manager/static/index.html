@@ -90,12 +90,41 @@
     <span id="peopleInfo" class="muted"></span>
     <span class="spacer"></span>
     <label class="small"><input type="checkbox" id="peopleAll"> एक photo वाले चेहरे भी दिखाएँ</label>
-    <label class="small"><input type="checkbox" id="mergeMode"> एक ही इंसान को जोड़ें (merge)</label>
-    <button id="mergeBtn" class="primary small hidden">✅ चुने हुए को एक करें</button>
+    <button id="mergeToggle" class="small">🔗 एक ही इंसान के अलग-अलग चेहरे जोड़ें</button>
+    <button id="exportPeople" class="small">📁 सबको नाम वाले folder में save करें</button>
   </div>
-  <p class="hint">किसी चेहरे के नीचे नाम लिखिए और Enter दबाइए। दो जगह एक ही इंसान दिखे तो उसे भी वही नाम दे दीजिए, दोनों अपने आप जुड़ जाएँगे। Photo पर click करके उस इंसान की सारी photos देखिए।</p>
+  <div id="mergeBar" class="mergebar hidden">
+    <b>जोड़ने का तरीका:</b> नीचे वो सारे चेहरे चुनिए जो <b>एक ही इंसान</b> के हैं, फिर
+    <button id="mergeBtn" class="primary small">✅ इन्हें एक करें (<span id="mergeCount">0</span>)</button>
+    <button id="mergeCancel" class="small">रद्द करें</button>
+  </div>
+  <p class="hint">चेहरे पर click करें: उस इंसान का नाम लिखिए, उसकी photos देखिए, और "क्या ये भी यही हैं?" में उसके दूसरे groups एक click में जोड़िए। दो groups को एक ही नाम देने से भी वो अपने आप जुड़ जाते हैं। नाम और जोड़े गए चेहरे आपके laptop में save रहते हैं।</p>
   <div id="people" class="people"></div>
 </section>
+
+<!-- ============ PERSON PANEL ============ -->
+<div id="personPanel" class="modal hidden">
+  <div class="mbox">
+    <button class="mclose" id="ppClose" title="बंद (Esc)">✕</button>
+    <div class="pphead">
+      <img id="ppFace" alt="">
+      <div>
+        <input id="ppName" placeholder="नाम लिखें और Enter दबाएँ…">
+        <div id="ppCount" class="muted"></div>
+        <div class="row" style="margin-top:8px">
+          <button id="ppPhotos" class="primary small">🖼️ इनकी सारी photos देखें</button>
+          <button id="ppExport" class="small">📁 इनकी photos folder में save करें</button>
+        </div>
+      </div>
+    </div>
+    <h4>🤔 क्या ये भी यही इंसान हैं?</h4>
+    <p class="muted small">हाँ हो तो <b>✅ जोड़ें</b> दबाइए। ऊपर वाले ज़्यादा मिलते-जुलते हैं।</p>
+    <div id="ppSuggest" class="suggest"></div>
+    <h4>इनके चेहरे</h4>
+    <p class="muted small">कोई चेहरा इनका नहीं है तो उस पर <b>✕</b> दबाइए, वो इस group से हट जाएगा।</p>
+    <div id="ppFaces" class="facegrid"></div>
+  </div>
+</div>
 
 <!-- ============ DUPLICATES ============ -->
 <section id="tab-dupes" class="tab hidden">
@@ -129,12 +158,28 @@
     <label><input type="checkbox" id="cfgFaces"> Scan करते समय चेहरे पहचानें (पहली बार ~40 MB का model download होगा)</label>
   </div>
   <div class="card">
+    <h3>💾 Laptop में folder बनाकर save करें</h3>
+    <p class="muted">Photos की <b>copy</b> साफ़-सुथरे folders में बन जाती है। आपकी original files जहाँ हैं वहीं रहती हैं, कुछ नहीं हटता। दोबारा save करने पर सिर्फ़ नई photos copy होती हैं।</p>
+    <div class="row">
+      <input id="cfgExport" type="text" class="wide" placeholder="D:\00-sorted">
+      <button id="cfgExportSave">Save</button>
+    </div>
+    <p class="muted small">यह folder, photos वाले folder (<span id="cfgRootShow"></span>) के अंदर नहीं होना चाहिए।</p>
+    <div class="row" style="margin-top:10px">
+      <button id="exportPeople2" class="primary">👤 हर इंसान का अलग folder बनाएँ</button>
+      <button id="exportDate" class="primary">📅 साल / महीने के folder बनाएँ</button>
+      <button id="openExport">📂 वो folder खोलें</button>
+    </div>
+    <p class="muted small">उदाहरण: <code>लोग\राहुल\IMG_1234.jpg</code> और <code>तारीख से\2023\03-मार्च\IMG_1234.jpg</code>। जिस photo में दो लोग हैं, वो दोनों के folder में जाएगी। सिर्फ़ उन्हीं लोगों के folder बनते हैं जिन्हें आपने नाम दिया है।</p>
+  </div>
+  <div class="card">
     <h3>ℹ️ कैसे काम करता है</h3>
     <ul>
       <li>सब कुछ आपके laptop पर ही चलता है। Internet सिर्फ़ पहली बार face model download करने के लिए चाहिए।</li>
       <li>नई photos डालने के बाद <b>🔄 Scan करें</b> दबाइए। सिर्फ़ नई/बदली files पढ़ी जाती हैं।</li>
       <li>Date: photo के अंदर की camera date (EXIF), फिर file के नाम की date (जैसे IMG_20230105), नहीं तो file की date।</li>
       <li>Delete की हुई files Windows के Recycle Bin में जाती हैं।</li>
+      <li>लोगों के नाम, जोड़े गए चेहरे और settings इसी app के <code>data</code> folder में save रहते हैं। Laptop बंद करने के बाद भी सब वैसा ही मिलेगा।</li>
     </ul>
   </div>
 </section>
