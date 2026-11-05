@@ -83,7 +83,7 @@ function logout() {
 function showTab(tab) {
   currentTab = tab;
   document.querySelectorAll("#admin-tabs .tab[data-tab]").forEach((t) => t.classList.toggle("active", t.dataset.tab === tab));
-  ({ exams: examList, items: itemList, settings: settingsForm })[tab]();
+  ({ exams: examList, items: itemList, settings: settingsForm, youtube: youtubeTab })[tab]();
 }
 
 // ---------- Rich text editor (Markdown with toolbar + preview + uploads) ----------

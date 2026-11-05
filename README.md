@@ -14,6 +14,7 @@ Open **`/admin.html`** on the live site (or use the "Admin" link in the footer) 
 
 - **🎯 Exams:** add an exam with its date (shown as a countdown), syllabus and subjects.
 - **📚 Study Material:** add Long Notes, Short Notes, Mind Maps, PYQs or Mock Tests to any exam subject. You can paste many mock-test questions at once.
+- **▶️ YouTube से notes:** paste a YouTube class link; Google Gemini (free API key, kept only in your browser) makes notes, short notes, a mind map and an MCQ test, picks the exam and subject, and saves them after you check.
 - **🔗 Social & Settings:** add your social media links (each shows its logo on the site), your photo and your About text.
 
 Every save becomes a commit in this repo. The live site updates 1–2 minutes later.
