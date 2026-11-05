@@ -1,0 +1,171 @@
+{
+ "duration": 15,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "The Constitution was adopted on:",
+   "options": [
+    "9 Dec 1946",
+    "26 Jan 1950",
+    "15 Aug 1947",
+    "26 Nov 1949"
+   ],
+   "answer": 3,
+   "explanation": "In force on 26 Jan 1950."
+  },
+  {
+   "q": "'Socialist' and 'secular' were added to the Preamble by the:",
+   "options": [
+    "52nd Amendment",
+    "24th Amendment",
+    "44th Amendment",
+    "42nd Amendment"
+   ],
+   "answer": 3,
+   "explanation": "1976, along with 'integrity'."
+  },
+  {
+   "q": "Right to property is now a:",
+   "options": [
+    "Fundamental right",
+    "Fundamental duty",
+    "Constitutional right under Art. 300A",
+    "Directive principle"
+   ],
+   "answer": 2,
+   "explanation": "Removed from Part III by the 44th Amendment (1978)."
+  },
+  {
+   "q": "Which Article is called the 'heart and soul' of the Constitution?",
+   "options": [
+    "Art. 21",
+    "Art. 368",
+    "Art. 32",
+    "Art. 14"
+   ],
+   "answer": 2,
+   "explanation": "Right to constitutional remedies (Ambedkar)."
+  },
+  {
+   "q": "Fundamental Duties are in:",
+   "options": [
+    "Art. 21A",
+    "Art. 50",
+    "Art. 39A",
+    "Art. 51A"
+   ],
+   "answer": 3,
+   "explanation": "Added by the 42nd Amendment; now 11 duties."
+  },
+  {
+   "q": "A Money Bill is defined in Article:",
+   "options": [
+    "112",
+    "108",
+    "123",
+    "110"
+   ],
+   "answer": 3,
+   "explanation": "Joint sitting (108) cannot be held for Money Bills."
+  },
+  {
+   "q": "How many Lok Sabha seats does Uttar Pradesh have?",
+   "options": [
+    "85",
+    "80",
+    "71",
+    "90"
+   ],
+   "answer": 1,
+   "explanation": "And 31 Rajya Sabha seats."
+  },
+  {
+   "q": "The basic structure doctrine was laid down in:",
+   "options": [
+    "Minerva Mills",
+    "Golaknath",
+    "Maneka Gandhi",
+    "Kesavananda Bharati"
+   ],
+   "answer": 3,
+   "explanation": "1973."
+  },
+  {
+   "q": "Panchayati Raj got constitutional status by the:",
+   "options": [
+    "73rd Amendment",
+    "61st Amendment",
+    "74th Amendment",
+    "72nd Amendment"
+   ],
+   "answer": 0,
+   "explanation": "1992; in force 24 April 1993."
+  },
+  {
+   "q": "Voting age was reduced from 21 to 18 by the:",
+   "options": [
+    "52nd Amendment",
+    "61st Amendment",
+    "73rd Amendment",
+    "86th Amendment"
+   ],
+   "answer": 1,
+   "explanation": "1989."
+  },
+  {
+   "q": "Which of these is a constitutional body?",
+   "options": [
+    "NHRC",
+    "NITI Aayog",
+    "CBI",
+    "Election Commission"
+   ],
+   "answer": 3,
+   "explanation": "Article 324."
+  },
+  {
+   "q": "Directive Principles were borrowed from:",
+   "options": [
+    "USA",
+    "Australia",
+    "Ireland",
+    "Canada"
+   ],
+   "answer": 2,
+   "explanation": "Irish Constitution."
+  },
+  {
+   "q": "The President of India is elected by:",
+   "options": [
+    "Lok Sabha only",
+    "People directly",
+    "Elected members of Parliament and state assemblies",
+    "All MPs and MLAs"
+   ],
+   "answer": 2,
+   "explanation": "Nominated members do not vote."
+  },
+  {
+   "q": "Article 356 relates to:",
+   "options": [
+    "National emergency",
+    "President's Rule in a state",
+    "Financial emergency",
+    "Amendment"
+   ],
+   "answer": 1,
+   "explanation": "S.R. Bommai (1994) set limits."
+  },
+  {
+   "q": "The 106th Amendment (2023) provides:",
+   "options": [
+    "Women's reservation in Lok Sabha and assemblies",
+    "Right to education",
+    "EWS reservation",
+    "GST"
+   ],
+   "answer": 0,
+   "explanation": "One-third seats, after the next delimitation."
+  }
+ ]
+}

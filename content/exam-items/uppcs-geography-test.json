@@ -1,0 +1,171 @@
+{
+ "duration": 15,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "India's standard meridian (82°30'E) passes near:",
+   "options": [
+    "Lucknow",
+    "Mirzapur",
+    "Agra",
+    "Kanpur"
+   ],
+   "answer": 1,
+   "explanation": "It passes through Mirzapur district (near Prayagraj)."
+  },
+  {
+   "q": "Which of these states is NOT crossed by the Tropic of Cancer?",
+   "options": [
+    "Tripura",
+    "Jharkhand",
+    "Uttar Pradesh",
+    "Mizoram"
+   ],
+   "answer": 2,
+   "explanation": "It passes through 8 states, not UP or Bihar."
+  },
+  {
+   "q": "The Ganga and Yamuna meet at:",
+   "options": [
+    "Prayagraj",
+    "Devprayag",
+    "Haridwar",
+    "Varanasi"
+   ],
+   "answer": 0,
+   "explanation": "Bhagirathi and Alaknanda meet at Devprayag."
+  },
+  {
+   "q": "The longest peninsular river is:",
+   "options": [
+    "Kaveri",
+    "Narmada",
+    "Krishna",
+    "Godavari"
+   ],
+   "answer": 3,
+   "explanation": "Called 'Dakshin Ganga'."
+  },
+  {
+   "q": "Which river flows west through a rift valley?",
+   "options": [
+    "Mahanadi",
+    "Godavari",
+    "Narmada",
+    "Krishna"
+   ],
+   "answer": 2,
+   "explanation": "Narmada and Tapi."
+  },
+  {
+   "q": "The Mohorovičić discontinuity separates:",
+   "options": [
+    "Upper and lower crust",
+    "Outer and inner core",
+    "Crust and mantle",
+    "Mantle and core"
+   ],
+   "answer": 2,
+   "explanation": "Gutenberg separates mantle and core."
+  },
+  {
+   "q": "Uttar Pradesh has how many districts?",
+   "options": [
+    "71",
+    "75",
+    "73",
+    "78"
+   ],
+   "answer": 1,
+   "explanation": "And 18 divisions."
+  },
+  {
+   "q": "Rihand dam (Govind Ballabh Pant Sagar) is in:",
+   "options": [
+    "Jhansi",
+    "Mirzapur",
+    "Sonbhadra",
+    "Lalitpur"
+   ],
+   "answer": 2,
+   "explanation": "On the Rihand river, a tributary of the Son."
+  },
+  {
+   "q": "The coldest layer of the atmosphere is:",
+   "options": [
+    "Thermosphere",
+    "Stratosphere",
+    "Troposphere",
+    "Mesosphere"
+   ],
+   "answer": 3,
+   "explanation": "Temperature falls to about −90°C at the mesopause."
+  },
+  {
+   "q": "El Niño refers to:",
+   "options": [
+    "Cold current off Peru",
+    "Indian Ocean low",
+    "Arctic winds",
+    "Warming of the eastern Pacific"
+   ],
+   "answer": 3,
+   "explanation": "It usually weakens the Indian monsoon."
+  },
+  {
+   "q": "India's only active volcano is on:",
+   "options": [
+    "Barren Island",
+    "Narcondam Island",
+    "Car Nicobar",
+    "Lakshadweep"
+   ],
+   "answer": 0,
+   "explanation": "In the Andaman Sea."
+  },
+  {
+   "q": "Which state is the largest producer of wheat?",
+   "options": [
+    "Madhya Pradesh",
+    "Haryana",
+    "Punjab",
+    "Uttar Pradesh"
+   ],
+   "answer": 3,
+   "explanation": "UP also leads in sugarcane, potato and milk."
+  },
+  {
+   "q": "Strait of Hormuz connects:",
+   "options": [
+    "Red Sea and Gulf of Aden",
+    "Mediterranean and Atlantic",
+    "Persian Gulf and Gulf of Oman",
+    "Andaman Sea and South China Sea"
+   ],
+   "answer": 2,
+   "explanation": "Key oil transit route."
+  },
+  {
+   "q": "Ranipur Tiger Reserve is in:",
+   "options": [
+    "Lalitpur",
+    "Chitrakoot",
+    "Bahraich",
+    "Pilibhit"
+   ],
+   "answer": 1,
+   "explanation": "UP's fourth tiger reserve (2022)."
+  },
+  {
+   "q": "Highest rainfall in India is received at:",
+   "options": [
+    "Agumbe",
+    "Mahabaleshwar",
+    "Mawsynram",
+    "Cherrapunji"
+   ],
+   "answer": 2,
+   "explanation": "Meghalaya."
+  }
+ ]
+}

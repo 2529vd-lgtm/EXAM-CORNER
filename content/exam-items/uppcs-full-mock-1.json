@@ -1,0 +1,776 @@
+{
+ "duration": 70,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "Article 356 relates to:",
+   "options": [
+    "National emergency",
+    "President's Rule in a state",
+    "Financial emergency",
+    "Amendment"
+   ],
+   "answer": 1,
+   "explanation": "[Polity] S.R. Bommai (1994) set limits."
+  },
+  {
+   "q": "Buddha gave his first sermon at:",
+   "options": [
+    "Sarnath",
+    "Shravasti",
+    "Bodh Gaya",
+    "Kushinagar"
+   ],
+   "answer": 0,
+   "explanation": "[Indian History] Dharmachakra Pravartana at Sarnath (Varanasi)."
+  },
+  {
+   "q": "A price rises 20% and then falls 20%. Net change:",
+   "options": [
+    "0%",
+    "2% decrease",
+    "4% increase",
+    "4% decrease"
+   ],
+   "answer": 3,
+   "explanation": "[CSAT] 20 − 20 − (20×20)/100 = −4%."
+  },
+  {
+   "q": "Which expressway connects Meerut and Prayagraj?",
+   "options": [
+    "Bundelkhand",
+    "Purvanchal",
+    "Yamuna",
+    "Ganga"
+   ],
+   "answer": 3,
+   "explanation": "[Uttar Pradesh Special] About 594 km, the longest in UP."
+  },
+  {
+   "q": "Who founded the Muhammadan Anglo-Oriental College at Aligarh?",
+   "options": [
+    "Shaukat Ali",
+    "Syed Ahmad Khan",
+    "Maulana Azad",
+    "Mohammad Ali Jinnah"
+   ],
+   "answer": 1,
+   "explanation": "[Indian History] Founded 1875; became AMU in 1920."
+  },
+  {
+   "q": "Agra was founded by:",
+   "options": [
+    "Sikandar Lodi",
+    "Akbar",
+    "Ibrahim Lodi",
+    "Babur"
+   ],
+   "answer": 0,
+   "explanation": "[Indian History] Sikandar Lodi, 1504."
+  },
+  {
+   "q": "Angle between the clock hands at 3:40 is:",
+   "options": [
+    "120°",
+    "150°",
+    "140°",
+    "130°"
+   ],
+   "answer": 3,
+   "explanation": "[CSAT] |30×3 − 5.5×40| = 130."
+  },
+  {
+   "q": "The sky appears blue because of:",
+   "options": [
+    "Reflection",
+    "Refraction",
+    "Dispersion",
+    "Scattering"
+   ],
+   "answer": 3,
+   "explanation": "[Science & Environment] Rayleigh scattering of shorter wavelengths."
+  },
+  {
+   "q": "Myopia is corrected using a:",
+   "options": [
+    "Concave lens",
+    "Cylindrical lens",
+    "Bifocal lens",
+    "Convex lens"
+   ],
+   "answer": 0,
+   "explanation": "[Science & Environment] Hypermetropia uses a convex lens."
+  },
+  {
+   "q": "अपादान कारक का चिह्न है:",
+   "options": [
+    "से (अलग होने के अर्थ में)",
+    "ने",
+    "को",
+    "में"
+   ],
+   "answer": 0,
+   "explanation": "[सामान्य हिन्दी] जैसे: पेड़ से पत्ता गिरा।"
+  },
+  {
+   "q": "Average speed for equal distances at 40 and 60 km/h is:",
+   "options": [
+    "45",
+    "52",
+    "50",
+    "48"
+   ],
+   "answer": 3,
+   "explanation": "[CSAT] 2×40×60/100 = 48."
+  },
+  {
+   "q": "Which river flows west through a rift valley?",
+   "options": [
+    "Mahanadi",
+    "Godavari",
+    "Narmada",
+    "Krishna"
+   ],
+   "answer": 2,
+   "explanation": "[Geography] Narmada and Tapi."
+  },
+  {
+   "q": "The Prayag Prashasti describing Samudragupta's victories was composed by:",
+   "options": [
+    "Ravikirti",
+    "Banabhatta",
+    "Kalidasa",
+    "Harishena"
+   ],
+   "answer": 3,
+   "explanation": "[Indian History] It is engraved on the Ashokan pillar at Allahabad."
+  },
+  {
+   "q": "The Allahabad High Court was established in:",
+   "options": [
+    "1886",
+    "1916",
+    "1866",
+    "1950"
+   ],
+   "answer": 2,
+   "explanation": "[Uttar Pradesh Special] Originally at Agra; moved to Allahabad in 1869; bench at Lucknow."
+  },
+  {
+   "q": "54 km/h equals:",
+   "options": [
+    "18 m/s",
+    "15 m/s",
+    "10 m/s",
+    "20 m/s"
+   ],
+   "answer": 1,
+   "explanation": "[CSAT] × 5/18."
+  },
+  {
+   "q": "Uttarakhand was separated from UP on:",
+   "options": [
+    "9 Nov 2000",
+    "15 Nov 2000",
+    "26 Jan 2001",
+    "1 Nov 2000"
+   ],
+   "answer": 0,
+   "explanation": "[Uttar Pradesh Special] Jharkhand was formed on 15 Nov 2000."
+  },
+  {
+   "q": "Which gas is mainly present in CNG?",
+   "options": [
+    "Propane",
+    "Ethane",
+    "Butane",
+    "Methane"
+   ],
+   "answer": 3,
+   "explanation": "[Science & Environment] LPG is mainly butane and propane."
+  },
+  {
+   "q": "Battle of Buxar was fought in:",
+   "options": [
+    "1757",
+    "1764",
+    "1765",
+    "1782"
+   ],
+   "answer": 1,
+   "explanation": "[Indian History] The Treaty of Allahabad followed in 1765."
+  },
+  {
+   "q": "India's only active volcano is on:",
+   "options": [
+    "Barren Island",
+    "Narcondam Island",
+    "Car Nicobar",
+    "Lakshadweep"
+   ],
+   "answer": 0,
+   "explanation": "[Geography] In the Andaman Sea."
+  },
+  {
+   "q": "HCF of two numbers is 6 and LCM is 72. If one number is 18, the other is:",
+   "options": [
+    "12",
+    "24",
+    "48",
+    "36"
+   ],
+   "answer": 1,
+   "explanation": "[CSAT] 6 × 72 / 18 = 24."
+  },
+  {
+   "q": "'Socialist' and 'secular' were added to the Preamble by the:",
+   "options": [
+    "52nd Amendment",
+    "24th Amendment",
+    "44th Amendment",
+    "42nd Amendment"
+   ],
+   "answer": 3,
+   "explanation": "[Polity] 1976, along with 'integrity'."
+  },
+  {
+   "q": "Which number is divisible by 11?",
+   "options": [
+    "2453",
+    "3355",
+    "4642",
+    "5281"
+   ],
+   "answer": 0,
+   "explanation": "[CSAT] 2453: (3+4) − (5+2) = 0 → divisible."
+  },
+  {
+   "q": "Voting age was reduced from 21 to 18 by the:",
+   "options": [
+    "52nd Amendment",
+    "61st Amendment",
+    "73rd Amendment",
+    "86th Amendment"
+   ],
+   "answer": 1,
+   "explanation": "[Polity] 1989."
+  },
+  {
+   "q": "If CAT is coded as 3120, then DOG is:",
+   "options": [
+    "41510",
+    "4157",
+    "3157",
+    "4158"
+   ],
+   "answer": 1,
+   "explanation": "[CSAT] Letter positions: D=4, O=15, G=7."
+  },
+  {
+   "q": "The 106th Amendment (2023) provides:",
+   "options": [
+    "Women's reservation in Lok Sabha and assemblies",
+    "Right to education",
+    "EWS reservation",
+    "GST"
+   ],
+   "answer": 0,
+   "explanation": "[Polity] One-third seats, after the next delimitation."
+  },
+  {
+   "q": "Facing north, you turn right, then right again, then left. You now face:",
+   "options": [
+    "North",
+    "West",
+    "South",
+    "East"
+   ],
+   "answer": 3,
+   "explanation": "[CSAT] North → East → South → (left) East."
+  },
+  {
+   "q": "Uttar Pradesh got its present name on:",
+   "options": [
+    "1 Nov 1956",
+    "24 Jan 1950",
+    "26 Jan 1950",
+    "15 Aug 1947"
+   ],
+   "answer": 1,
+   "explanation": "[Uttar Pradesh Special] UP Diwas is celebrated on 24 January."
+  },
+  {
+   "q": "Malaria is caused by a:",
+   "options": [
+    "Protozoan",
+    "Bacterium",
+    "Fungus",
+    "Virus"
+   ],
+   "answer": 0,
+   "explanation": "[Science & Environment] Plasmodium, spread by female Anopheles."
+  },
+  {
+   "q": "A Money Bill is defined in Article:",
+   "options": [
+    "112",
+    "108",
+    "123",
+    "110"
+   ],
+   "answer": 3,
+   "explanation": "[Polity] Joint sitting (108) cannot be held for Money Bills."
+  },
+  {
+   "q": "Chikankari is famous in:",
+   "options": [
+    "Varanasi",
+    "Lucknow",
+    "Moradabad",
+    "Agra"
+   ],
+   "answer": 1,
+   "explanation": "[Uttar Pradesh Special] Lucknow chikan embroidery has a GI tag."
+  },
+  {
+   "q": "'कृतज्ञ' का विलोम है:",
+   "options": [
+    "अकृत",
+    "कृपण",
+    "अज्ञ",
+    "कृतघ्न"
+   ],
+   "answer": 3,
+   "explanation": "[सामान्य हिन्दी]"
+  },
+  {
+   "q": "How many divisions does UP have?",
+   "options": [
+    "20",
+    "17",
+    "18",
+    "15"
+   ],
+   "answer": 2,
+   "explanation": "[Uttar Pradesh Special] 75 districts."
+  },
+  {
+   "q": "Which state is the largest producer of wheat?",
+   "options": [
+    "Madhya Pradesh",
+    "Haryana",
+    "Punjab",
+    "Uttar Pradesh"
+   ],
+   "answer": 3,
+   "explanation": "[Geography] UP also leads in sugarcane, potato and milk."
+  },
+  {
+   "q": "The Mohorovičić discontinuity separates:",
+   "options": [
+    "Upper and lower crust",
+    "Outer and inner core",
+    "Crust and mantle",
+    "Mantle and core"
+   ],
+   "answer": 2,
+   "explanation": "[Geography] Gutenberg separates mantle and core."
+  },
+  {
+   "q": "Ranipur Tiger Reserve is in:",
+   "options": [
+    "Lalitpur",
+    "Chitrakoot",
+    "Bahraich",
+    "Pilibhit"
+   ],
+   "answer": 1,
+   "explanation": "[Geography] UP's fourth tiger reserve (2022)."
+  },
+  {
+   "q": "'रामचरितमानस' की भाषा है:",
+   "options": [
+    "ब्रज",
+    "खड़ी बोली",
+    "भोजपुरी",
+    "अवधी"
+   ],
+   "answer": 3,
+   "explanation": "[सामान्य हिन्दी] सूरसागर ब्रज में है।"
+  },
+  {
+   "q": "The longest peninsular river is:",
+   "options": [
+    "Kaveri",
+    "Narmada",
+    "Krishna",
+    "Godavari"
+   ],
+   "answer": 3,
+   "explanation": "[Geography] Called 'Dakshin Ganga'."
+  },
+  {
+   "q": "Right to property is now a:",
+   "options": [
+    "Fundamental right",
+    "Fundamental duty",
+    "Constitutional right under Art. 300A",
+    "Directive principle"
+   ],
+   "answer": 2,
+   "explanation": "[Polity] Removed from Part III by the 44th Amendment (1978)."
+  },
+  {
+   "q": "The Constitution was adopted on:",
+   "options": [
+    "9 Dec 1946",
+    "26 Jan 1950",
+    "15 Aug 1947",
+    "26 Nov 1949"
+   ],
+   "answer": 3,
+   "explanation": "[Polity] In force on 26 Jan 1950."
+  },
+  {
+   "q": "'कामायनी' किसकी रचना है?",
+   "options": [
+    "प्रसाद",
+    "महादेवी",
+    "निराला",
+    "पन्त"
+   ],
+   "answer": 0,
+   "explanation": "[सामान्य हिन्दी] छायावाद की श्रेष्ठ रचना।"
+  },
+  {
+   "q": "'गोदान' के लेखक हैं:",
+   "options": [
+    "जयशंकर प्रसाद",
+    "यशपाल",
+    "प्रेमचन्द",
+    "निराला"
+   ],
+   "answer": 2,
+   "explanation": "[सामान्य हिन्दी] 1936।"
+  },
+  {
+   "q": "Kumbh Mela was inscribed on UNESCO's intangible heritage list in:",
+   "options": [
+    "2021",
+    "2019",
+    "2017",
+    "2013"
+   ],
+   "answer": 2,
+   "explanation": "[Uttar Pradesh Special] Prayagraj hosted Maha Kumbh in 2025."
+  },
+  {
+   "q": "Japanese encephalitis is spread by:",
+   "options": [
+    "Culex mosquito",
+    "Housefly",
+    "Sandfly",
+    "Anopheles mosquito"
+   ],
+   "answer": 0,
+   "explanation": "[Science & Environment] A serious problem in the Gorakhpur region."
+  },
+  {
+   "q": "Universal blood donor group is:",
+   "options": [
+    "A",
+    "B",
+    "O",
+    "AB"
+   ],
+   "answer": 2,
+   "explanation": "[Science & Environment] AB is the universal recipient."
+  },
+  {
+   "q": "The Lucknow Pact between Congress and Muslim League was signed in:",
+   "options": [
+    "1916",
+    "1919",
+    "1906",
+    "1929"
+   ],
+   "answer": 0,
+   "explanation": "[Indian History] December 1916."
+  },
+  {
+   "q": "Chemical formula of baking soda is:",
+   "options": [
+    "NaHCO₃",
+    "Na₂CO₃",
+    "CaCO₃",
+    "NaCl"
+   ],
+   "answer": 0,
+   "explanation": "[Science & Environment] Sodium bicarbonate."
+  },
+  {
+   "q": "'दशानन' में समास है:",
+   "options": [
+    "बहुव्रीहि",
+    "कर्मधारय",
+    "तत्पुरुष",
+    "द्विगु"
+   ],
+   "answer": 0,
+   "explanation": "[सामान्य हिन्दी] दस हैं आनन जिसके: रावण।"
+  },
+  {
+   "q": "Narora atomic power station is in:",
+   "options": [
+    "Etah",
+    "Moradabad",
+    "Aligarh",
+    "Bulandshahr"
+   ],
+   "answer": 3,
+   "explanation": "[Science & Environment] On the Ganga."
+  },
+  {
+   "q": "The President of India is elected by:",
+   "options": [
+    "Lok Sabha only",
+    "People directly",
+    "Elected members of Parliament and state assemblies",
+    "All MPs and MLAs"
+   ],
+   "answer": 2,
+   "explanation": "[Polity] Nominated members do not vote."
+  },
+  {
+   "q": "'जो कम बोलता हो' के लिए एक शब्द:",
+   "options": [
+    "मितव्ययी",
+    "मितभाषी",
+    "अल्पज्ञ",
+    "मूक"
+   ],
+   "answer": 1,
+   "explanation": "[सामान्य हिन्दी] मितव्ययी = कम खर्च करने वाला।"
+  },
+  {
+   "q": "The UP Defence Industrial Corridor has how many nodes?",
+   "options": [
+    "8",
+    "6",
+    "4",
+    "5"
+   ],
+   "answer": 1,
+   "explanation": "[Uttar Pradesh Special] Agra, Aligarh, Chitrakoot, Jhansi, Kanpur, Lucknow."
+  },
+  {
+   "q": "The coldest layer of the atmosphere is:",
+   "options": [
+    "Thermosphere",
+    "Stratosphere",
+    "Troposphere",
+    "Mesosphere"
+   ],
+   "answer": 3,
+   "explanation": "[Geography] Temperature falls to about −90°C at the mesopause."
+  },
+  {
+   "q": "'जलज' कैसा शब्द है?",
+   "options": [
+    "यौगिक",
+    "देशज",
+    "योगरूढ़",
+    "रूढ़"
+   ],
+   "answer": 2,
+   "explanation": "[सामान्य हिन्दी] जल में जन्मा, पर अर्थ केवल कमल।"
+  },
+  {
+   "q": "UP Budget 2026-27 is about:",
+   "options": [
+    "₹7.36 lakh crore",
+    "₹10.5 lakh crore",
+    "₹8.08 lakh crore",
+    "₹9.12 lakh crore"
+   ],
+   "answer": 3,
+   "explanation": "[Uttar Pradesh Special] ₹9,12,696.35 crore, presented on 11 Feb 2026."
+  },
+  {
+   "q": "Uttar Pradesh has how many districts?",
+   "options": [
+    "71",
+    "75",
+    "73",
+    "78"
+   ],
+   "answer": 1,
+   "explanation": "[Geography] And 18 divisions."
+  },
+  {
+   "q": "Rihand dam (Govind Ballabh Pant Sagar) is in:",
+   "options": [
+    "Jhansi",
+    "Mirzapur",
+    "Sonbhadra",
+    "Lalitpur"
+   ],
+   "answer": 2,
+   "explanation": "[Geography] On the Rihand river, a tributary of the Son."
+  },
+  {
+   "q": "Treaty of Allahabad (1765) gave the East India Company:",
+   "options": [
+    "Punjab",
+    "Diwani of Bengal, Bihar and Orissa",
+    "Control of Awadh",
+    "Delhi"
+   ],
+   "answer": 1,
+   "explanation": "[Indian History] Signed by Clive with Shah Alam II."
+  },
+  {
+   "q": "India's first woman Chief Minister was:",
+   "options": [
+    "Sucheta Kripalani",
+    "Mayawati",
+    "Indira Gandhi",
+    "Sarojini Naidu"
+   ],
+   "answer": 0,
+   "explanation": "[Uttar Pradesh Special] UP, 1963."
+  },
+  {
+   "q": "Deficiency of vitamin C causes:",
+   "options": [
+    "Night blindness",
+    "Scurvy",
+    "Beriberi",
+    "Rickets"
+   ],
+   "answer": 1,
+   "explanation": "[Science & Environment] Rickets: vitamin D; beriberi: B1; night blindness: A."
+  },
+  {
+   "q": "Next term: 2, 6, 12, 20, 30, ?",
+   "options": [
+    "40",
+    "36",
+    "44",
+    "42"
+   ],
+   "answer": 3,
+   "explanation": "[CSAT] Differences 4, 6, 8, 10, 12."
+  },
+  {
+   "q": "Highest rainfall in India is received at:",
+   "options": [
+    "Agumbe",
+    "Mahabaleshwar",
+    "Mawsynram",
+    "Cherrapunji"
+   ],
+   "answer": 2,
+   "explanation": "[Geography] Meghalaya."
+  },
+  {
+   "q": "How many Lok Sabha seats does Uttar Pradesh have?",
+   "options": [
+    "85",
+    "80",
+    "71",
+    "90"
+   ],
+   "answer": 1,
+   "explanation": "[Polity] And 31 Rajya Sabha seats."
+  },
+  {
+   "q": "Chandrashekhar Azad died at Alfred Park, Allahabad, in:",
+   "options": [
+    "1935",
+    "1928",
+    "1942",
+    "1931"
+   ],
+   "answer": 3,
+   "explanation": "[Indian History] 27 February 1931."
+  },
+  {
+   "q": "Directive Principles were borrowed from:",
+   "options": [
+    "USA",
+    "Australia",
+    "Ireland",
+    "Canada"
+   ],
+   "answer": 2,
+   "explanation": "[Polity] Irish Constitution."
+  },
+  {
+   "q": "Harshavardhana's capital was:",
+   "options": [
+    "Kannauj",
+    "Pataliputra",
+    "Thanesar only",
+    "Ujjain"
+   ],
+   "answer": 0,
+   "explanation": "[Indian History] He moved the capital from Thanesar to Kannauj."
+  },
+  {
+   "q": "A is B's sister. C is B's mother. D is C's father. How is A related to D?",
+   "options": [
+    "Daughter",
+    "Grandmother",
+    "Granddaughter",
+    "Niece"
+   ],
+   "answer": 2,
+   "explanation": "[CSAT] A is C's daughter, so D's granddaughter."
+  },
+  {
+   "q": "शुद्ध वर्तनी चुनिए:",
+   "options": [
+    "उजज्वल",
+    "उज्जवल",
+    "उज्वल",
+    "उज्ज्वल"
+   ],
+   "answer": 3,
+   "explanation": "[सामान्य हिन्दी]"
+  },
+  {
+   "q": "SI unit of power is:",
+   "options": [
+    "Watt",
+    "Joule",
+    "Newton",
+    "Pascal"
+   ],
+   "answer": 0,
+   "explanation": "[Science & Environment] 1 horsepower = 746 W."
+  },
+  {
+   "q": "'विद्यालय' का सन्धि-विच्छेद है:",
+   "options": [
+    "विद् + आलय",
+    "विद्या + लय",
+    "विद्या + आलय",
+    "विद्य + आलय"
+   ],
+   "answer": 2,
+   "explanation": "[सामान्य हिन्दी] दीर्घ सन्धि।"
+  },
+  {
+   "q": "Who led the revolt of 1857 at Lucknow?",
+   "options": [
+    "Rani Lakshmibai",
+    "Begum Hazrat Mahal",
+    "Nana Saheb",
+    "Khan Bahadur Khan"
+   ],
+   "answer": 1,
+   "explanation": "[Indian History] Kanpur: Nana Saheb; Jhansi: Lakshmibai; Bareilly: Khan Bahadur Khan."
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "duration": 15,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "Uttar Pradesh got its present name on:",
+   "options": [
+    "1 Nov 1956",
+    "24 Jan 1950",
+    "26 Jan 1950",
+    "15 Aug 1947"
+   ],
+   "answer": 1,
+   "explanation": "UP Diwas is celebrated on 24 January."
+  },
+  {
+   "q": "State bird of Uttar Pradesh is:",
+   "options": [
+    "Sarus crane",
+    "Peacock",
+    "Koel",
+    "Myna"
+   ],
+   "answer": 0,
+   "explanation": "State animal: barasingha."
+  },
+  {
+   "q": "India's first woman Chief Minister was:",
+   "options": [
+    "Sucheta Kripalani",
+    "Mayawati",
+    "Indira Gandhi",
+    "Sarojini Naidu"
+   ],
+   "answer": 0,
+   "explanation": "UP, 1963."
+  },
+  {
+   "q": "Kumbh Mela was inscribed on UNESCO's intangible heritage list in:",
+   "options": [
+    "2021",
+    "2019",
+    "2017",
+    "2013"
+   ],
+   "answer": 2,
+   "explanation": "Prayagraj hosted Maha Kumbh in 2025."
+  },
+  {
+   "q": "ODOP scheme of UP was launched on:",
+   "options": [
+    "2 Oct 2018",
+    "15 Aug 2017",
+    "24 Jan 2018",
+    "1 Apr 2019"
+   ],
+   "answer": 2,
+   "explanation": "UP Diwas, 2018."
+  },
+  {
+   "q": "Uttarakhand was separated from UP on:",
+   "options": [
+    "9 Nov 2000",
+    "15 Nov 2000",
+    "26 Jan 2001",
+    "1 Nov 2000"
+   ],
+   "answer": 0,
+   "explanation": "Jharkhand was formed on 15 Nov 2000."
+  },
+  {
+   "q": "UP Budget 2026-27 is about:",
+   "options": [
+    "₹7.36 lakh crore",
+    "₹10.5 lakh crore",
+    "₹8.08 lakh crore",
+    "₹9.12 lakh crore"
+   ],
+   "answer": 3,
+   "explanation": "₹9,12,696.35 crore, presented on 11 Feb 2026."
+  },
+  {
+   "q": "The Allahabad High Court was established in:",
+   "options": [
+    "1886",
+    "1916",
+    "1866",
+    "1950"
+   ],
+   "answer": 2,
+   "explanation": "Originally at Agra; moved to Allahabad in 1869; bench at Lucknow."
+  },
+  {
+   "q": "Chikankari is famous in:",
+   "options": [
+    "Varanasi",
+    "Lucknow",
+    "Moradabad",
+    "Agra"
+   ],
+   "answer": 1,
+   "explanation": "Lucknow chikan embroidery has a GI tag."
+  },
+  {
+   "q": "Which expressway connects Meerut and Prayagraj?",
+   "options": [
+    "Bundelkhand",
+    "Purvanchal",
+    "Yamuna",
+    "Ganga"
+   ],
+   "answer": 3,
+   "explanation": "About 594 km, the longest in UP."
+  },
+  {
+   "q": "The ceremony at Ram Mandir, Ayodhya, was held on:",
+   "options": [
+    "9 Nov 2019",
+    "5 Aug 2020",
+    "26 Jan 2024",
+    "22 Jan 2024"
+   ],
+   "answer": 3,
+   "explanation": "Pran pratishtha; foundation ceremony was 5 Aug 2020."
+  },
+  {
+   "q": "Firozabad is famous for:",
+   "options": [
+    "Brassware",
+    "Carpets",
+    "Glass bangles",
+    "Leather"
+   ],
+   "answer": 2,
+   "explanation": "Moradabad: brass; Bhadohi: carpets; Kanpur: leather."
+  },
+  {
+   "q": "Who founded Banaras Hindu University (1916)?",
+   "options": [
+    "Madan Mohan Malaviya",
+    "Annie Besant only",
+    "Rabindranath Tagore",
+    "Syed Ahmad Khan"
+   ],
+   "answer": 0,
+   "explanation": "With support from Annie Besant and others."
+  },
+  {
+   "q": "How many divisions does UP have?",
+   "options": [
+    "20",
+    "17",
+    "18",
+    "15"
+   ],
+   "answer": 2,
+   "explanation": "75 districts."
+  },
+  {
+   "q": "The UP Defence Industrial Corridor has how many nodes?",
+   "options": [
+    "8",
+    "6",
+    "4",
+    "5"
+   ],
+   "answer": 1,
+   "explanation": "Agra, Aligarh, Chitrakoot, Jhansi, Kanpur, Lucknow."
+  }
+ ]
+}

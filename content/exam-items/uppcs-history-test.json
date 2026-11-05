@@ -1,0 +1,171 @@
+{
+ "duration": 15,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "The easternmost Harappan site, Alamgirpur, is in which district?",
+   "options": [
+    "Baghpat",
+    "Saharanpur",
+    "Agra",
+    "Meerut"
+   ],
+   "answer": 3,
+   "explanation": "Alamgirpur is on the Hindon in Meerut district."
+  },
+  {
+   "q": "Buddha gave his first sermon at:",
+   "options": [
+    "Sarnath",
+    "Shravasti",
+    "Bodh Gaya",
+    "Kushinagar"
+   ],
+   "answer": 0,
+   "explanation": "Dharmachakra Pravartana at Sarnath (Varanasi)."
+  },
+  {
+   "q": "The Prayag Prashasti describing Samudragupta's victories was composed by:",
+   "options": [
+    "Ravikirti",
+    "Banabhatta",
+    "Kalidasa",
+    "Harishena"
+   ],
+   "answer": 3,
+   "explanation": "It is engraved on the Ashokan pillar at Allahabad."
+  },
+  {
+   "q": "Battle of Buxar was fought in:",
+   "options": [
+    "1757",
+    "1764",
+    "1765",
+    "1782"
+   ],
+   "answer": 1,
+   "explanation": "The Treaty of Allahabad followed in 1765."
+  },
+  {
+   "q": "Who led the revolt of 1857 at Lucknow?",
+   "options": [
+    "Rani Lakshmibai",
+    "Begum Hazrat Mahal",
+    "Nana Saheb",
+    "Khan Bahadur Khan"
+   ],
+   "answer": 1,
+   "explanation": "Kanpur: Nana Saheb; Jhansi: Lakshmibai; Bareilly: Khan Bahadur Khan."
+  },
+  {
+   "q": "The Chauri Chaura incident (1922) took place in:",
+   "options": [
+    "Gorakhpur",
+    "Ballia",
+    "Deoria",
+    "Azamgarh"
+   ],
+   "answer": 0,
+   "explanation": "Gandhi withdrew the Non-Cooperation Movement after it."
+  },
+  {
+   "q": "The Kakori train action took place in:",
+   "options": [
+    "1931",
+    "1925",
+    "1928",
+    "1922"
+   ],
+   "answer": 1,
+   "explanation": "9 August 1925, near Lucknow; Bismil and Ashfaqulla Khan were hanged."
+  },
+  {
+   "q": "Agra was founded by:",
+   "options": [
+    "Sikandar Lodi",
+    "Akbar",
+    "Ibrahim Lodi",
+    "Babur"
+   ],
+   "answer": 0,
+   "explanation": "Sikandar Lodi, 1504."
+  },
+  {
+   "q": "Harshavardhana's capital was:",
+   "options": [
+    "Kannauj",
+    "Pataliputra",
+    "Thanesar only",
+    "Ujjain"
+   ],
+   "answer": 0,
+   "explanation": "He moved the capital from Thanesar to Kannauj."
+  },
+  {
+   "q": "Who wrote Ramcharitmanas?",
+   "options": [
+    "Kabir",
+    "Tulsidas",
+    "Surdas",
+    "Raidas"
+   ],
+   "answer": 1,
+   "explanation": "Composed in Awadhi, mostly at Varanasi and Ayodhya."
+  },
+  {
+   "q": "The Lucknow Pact between Congress and Muslim League was signed in:",
+   "options": [
+    "1916",
+    "1919",
+    "1906",
+    "1929"
+   ],
+   "answer": 0,
+   "explanation": "December 1916."
+  },
+  {
+   "q": "Chandrashekhar Azad died at Alfred Park, Allahabad, in:",
+   "options": [
+    "1935",
+    "1928",
+    "1942",
+    "1931"
+   ],
+   "answer": 3,
+   "explanation": "27 February 1931."
+  },
+  {
+   "q": "Who founded the Muhammadan Anglo-Oriental College at Aligarh?",
+   "options": [
+    "Shaukat Ali",
+    "Syed Ahmad Khan",
+    "Maulana Azad",
+    "Mohammad Ali Jinnah"
+   ],
+   "answer": 1,
+   "explanation": "Founded 1875; became AMU in 1920."
+  },
+  {
+   "q": "Bhitargaon brick temple of the Gupta period is in:",
+   "options": [
+    "Mathura",
+    "Jhansi",
+    "Kanpur",
+    "Lalitpur"
+   ],
+   "answer": 2,
+   "explanation": "Dashavatara temple is at Deogarh, Lalitpur."
+  },
+  {
+   "q": "Treaty of Allahabad (1765) gave the East India Company:",
+   "options": [
+    "Punjab",
+    "Diwani of Bengal, Bihar and Orissa",
+    "Control of Awadh",
+    "Delhi"
+   ],
+   "answer": 1,
+   "explanation": "Signed by Clive with Shah Alam II."
+  }
+ ]
+}

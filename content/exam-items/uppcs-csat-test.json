@@ -1,0 +1,171 @@
+{
+ "duration": 15,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "Unit digit of 7^95 is:",
+   "options": [
+    "1",
+    "7",
+    "9",
+    "3"
+   ],
+   "answer": 3,
+   "explanation": "Cycle 7, 9, 3, 1; 95 leaves remainder 3 → 3."
+  },
+  {
+   "q": "A price rises 20% and then falls 20%. Net change:",
+   "options": [
+    "0%",
+    "2% decrease",
+    "4% increase",
+    "4% decrease"
+   ],
+   "answer": 3,
+   "explanation": "20 − 20 − (20×20)/100 = −4%."
+  },
+  {
+   "q": "A finishes a job in 10 days and B in 15 days. Together they take:",
+   "options": [
+    "8 days",
+    "6 days",
+    "5 days",
+    "12.5 days"
+   ],
+   "answer": 1,
+   "explanation": "ab/(a+b) = 150/25 = 6."
+  },
+  {
+   "q": "54 km/h equals:",
+   "options": [
+    "18 m/s",
+    "15 m/s",
+    "10 m/s",
+    "20 m/s"
+   ],
+   "answer": 1,
+   "explanation": "× 5/18."
+  },
+  {
+   "q": "CI − SI on ₹10,000 at 10% for 2 years is:",
+   "options": [
+    "₹1,000",
+    "₹100",
+    "₹50",
+    "₹200"
+   ],
+   "answer": 1,
+   "explanation": "P(R/100)² = 100."
+  },
+  {
+   "q": "Next term: 2, 6, 12, 20, 30, ?",
+   "options": [
+    "40",
+    "36",
+    "44",
+    "42"
+   ],
+   "answer": 3,
+   "explanation": "Differences 4, 6, 8, 10, 12."
+  },
+  {
+   "q": "Angle between the clock hands at 3:40 is:",
+   "options": [
+    "120°",
+    "150°",
+    "140°",
+    "130°"
+   ],
+   "answer": 3,
+   "explanation": "|30×3 − 5.5×40| = 130."
+  },
+  {
+   "q": "HCF of two numbers is 6 and LCM is 72. If one number is 18, the other is:",
+   "options": [
+    "12",
+    "24",
+    "48",
+    "36"
+   ],
+   "answer": 1,
+   "explanation": "6 × 72 / 18 = 24."
+  },
+  {
+   "q": "Average speed for equal distances at 40 and 60 km/h is:",
+   "options": [
+    "45",
+    "52",
+    "50",
+    "48"
+   ],
+   "answer": 3,
+   "explanation": "2×40×60/100 = 48."
+  },
+  {
+   "q": "If CAT is coded as 3120, then DOG is:",
+   "options": [
+    "41510",
+    "4157",
+    "3157",
+    "4158"
+   ],
+   "answer": 1,
+   "explanation": "Letter positions: D=4, O=15, G=7."
+  },
+  {
+   "q": "The average of 5 numbers is 20. If 30 is replaced by 10, the new average is:",
+   "options": [
+    "14",
+    "18",
+    "15",
+    "16"
+   ],
+   "answer": 3,
+   "explanation": "Sum falls by 20 → average falls by 4."
+  },
+  {
+   "q": "15 August 1947 was a:",
+   "options": [
+    "Thursday",
+    "Saturday",
+    "Sunday",
+    "Friday"
+   ],
+   "answer": 3,
+   "explanation": ""
+  },
+  {
+   "q": "Facing north, you turn right, then right again, then left. You now face:",
+   "options": [
+    "North",
+    "West",
+    "South",
+    "East"
+   ],
+   "answer": 3,
+   "explanation": "North → East → South → (left) East."
+  },
+  {
+   "q": "A is B's sister. C is B's mother. D is C's father. How is A related to D?",
+   "options": [
+    "Daughter",
+    "Grandmother",
+    "Granddaughter",
+    "Niece"
+   ],
+   "answer": 2,
+   "explanation": "A is C's daughter, so D's granddaughter."
+  },
+  {
+   "q": "Which number is divisible by 11?",
+   "options": [
+    "2453",
+    "3355",
+    "4642",
+    "5281"
+   ],
+   "answer": 0,
+   "explanation": "2453: (3+4) − (5+2) = 0 → divisible."
+  }
+ ]
+}

@@ -55,13 +55,50 @@
     },
     {
       "id": "uppcs-prelims-muzmgozu",
-      "name": "UPPCS PRELIMS",
-      "fullName": "UP PCS",
+      "name": "UPPCS + RO/ARO",
+      "fullName": "UPPSC PCS 2026 (about 500 posts) and RO/ARO 2026 (501 posts)",
       "date": "2026-12-06",
       "time": "",
-      "description": "",
-      "syllabus": "",
-      "subjects": []
+      "description": "**UPPCS 2026** (prelims **6 Dec 2026**, about 500 posts) and **RO/ARO 2026** (501 posts; apply by **26 Nov 2026**) in one place.\n\nStart with **Overview → UPPCS 2026: start here**. Every GS subject has notes from basic to advanced and a solved test; there is also a full mock.\n\n⏳ Countdown: UPPCS prelims (6 Dec 2026, as reported). Confirm on [uppsc.up.nic.in](https://uppsc.up.nic.in).",
+      "syllabus": "## UPPCS Prelims\n| Paper | Questions | Marks | Status |\n|---|---|---|---|\n| GS I | 150 | 200 | merit |\n| GS II (CSAT) | 100 | 200 | qualifying 33% |\n\nGS I: history and national movement, Indian and world geography, polity and governance, economic and social development, environment, general science, current events, **Uttar Pradesh special**.\n\n## UPPCS Mains (1,500 marks + interview 100)\nGeneral Hindi 150 · Essay 150 · GS I–IV 200 each · **GS V and VI (UP special)** 200 each.\n\n---\n\n## RO/ARO Prelims (200 marks, 3 hours)\n\n- General Studies: 140 questions\n- General Hindi: 60 questions\n\n## RO/ARO Mains (last cycle's pattern)\n\n- Paper 1: General Studies (objective, 120 marks, 2 hours)\n- Paper 2: General Hindi and drafting (descriptive, 100 marks)\n- Paper 3: Hindi essay (descriptive, 120 marks)\n\n## RO/ARO typing test\n\nARO posts: Hindi typing 25 wpm (qualifying).\n\n> Confirm in the official advertisement on [uppsc.up.nic.in](https://uppsc.up.nic.in).",
+      "subjects": [
+        {
+          "id": "overview",
+          "name": "Overview (start here)"
+        },
+        {
+          "id": "history",
+          "name": "History"
+        },
+        {
+          "id": "geography",
+          "name": "Geography"
+        },
+        {
+          "id": "polity",
+          "name": "Polity"
+        },
+        {
+          "id": "economy",
+          "name": "Economy"
+        },
+        {
+          "id": "science",
+          "name": "Science & Environment"
+        },
+        {
+          "id": "up",
+          "name": "UP Special"
+        },
+        {
+          "id": "csat",
+          "name": "CSAT (Maths & Reasoning)"
+        },
+        {
+          "id": "hindi",
+          "name": "General Hindi"
+        }
+      ]
     },
     {
       "id": "asst-prof-economics",
@@ -186,33 +223,6 @@
         {
           "id": "mental-ability",
           "name": "Prelims: Mental Ability"
-        }
-      ]
-    },
-    {
-      "id": "uppsc-ro-aro-2026",
-      "name": "UPPSC RO/ARO 2026",
-      "fullName": "Review Officer / Assistant Review Officer, Advt. A-4/E-1/2026 (501 posts)",
-      "date": "2026-11-26",
-      "time": "23:59",
-      "description": "**501 posts**: Review Officer 129 + Assistant Review Officer 372. Notification 26 Oct 2026.\n\n⏳ **The countdown shows the last date to apply (26 Nov 2026).** The prelims date is not announced yet; update it from Admin when UPPSC announces it.\n\nOpen **Study Material → Overview** for eligibility, fees, pattern and syllabus.",
-      "syllabus": "## Prelims (200 marks, 3 hours)\n\n- General Studies: 140 questions\n- General Hindi: 60 questions\n\n## Mains (last cycle's pattern)\n\n- Paper 1: General Studies (objective, 120 marks, 2 hours)\n- Paper 2: General Hindi and drafting (descriptive, 100 marks)\n- Paper 3: Hindi essay (descriptive, 120 marks)\n\n## Typing test\n\nARO posts: Hindi typing 25 wpm (qualifying).\n\n> Confirm in the official advertisement on [uppsc.up.nic.in](https://uppsc.up.nic.in).",
-      "subjects": [
-        {
-          "id": "overview",
-          "name": "Overview"
-        },
-        {
-          "id": "gs",
-          "name": "General Studies"
-        },
-        {
-          "id": "hindi",
-          "name": "General Hindi"
-        },
-        {
-          "id": "up",
-          "name": "UP Special"
         }
       ]
     }

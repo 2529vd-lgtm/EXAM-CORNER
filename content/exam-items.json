@@ -1,12 +1,165 @@
 {
   "items": [
     {
+      "id": "uppcs-overview",
+      "exam": "uppcs-prelims-muzmgozu",
+      "subject": "overview",
+      "type": "long",
+      "title": "UPPCS 2026: pattern, dates, how to study (start here)",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
       "id": "roaro-2026-overview",
-      "exam": "uppsc-ro-aro-2026",
+      "exam": "uppcs-prelims-muzmgozu",
       "subject": "overview",
       "type": "long",
       "title": "UPPSC RO/ARO 2026: vacancy, eligibility, fees, pattern, syllabus",
-      "summary": "501 posts (RO 129, ARO 372); apply till 26 Nov 2026.",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "uppcs-full-mock-1",
+      "exam": "uppcs-prelims-muzmgozu",
+      "subject": "overview",
+      "type": "mock",
+      "title": "Full mock 1: 70 questions from all subjects (UPPCS + RO/ARO)",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "uppcs-history",
+      "exam": "uppcs-prelims-muzmgozu",
+      "subject": "history",
+      "type": "long",
+      "title": "Indian History: notes (basic to advanced)",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "uppcs-history-test",
+      "exam": "uppcs-prelims-muzmgozu",
+      "subject": "history",
+      "type": "mock",
+      "title": "Indian History: 15 solved MCQs",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "uppcs-geography",
+      "exam": "uppcs-prelims-muzmgozu",
+      "subject": "geography",
+      "type": "long",
+      "title": "Geography: notes (basic to advanced)",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "uppcs-geography-test",
+      "exam": "uppcs-prelims-muzmgozu",
+      "subject": "geography",
+      "type": "mock",
+      "title": "Geography: 15 solved MCQs",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "uppcs-polity",
+      "exam": "uppcs-prelims-muzmgozu",
+      "subject": "polity",
+      "type": "long",
+      "title": "Polity: notes (basic to advanced)",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "uppcs-polity-test",
+      "exam": "uppcs-prelims-muzmgozu",
+      "subject": "polity",
+      "type": "mock",
+      "title": "Polity: 15 solved MCQs",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "uppcs-science",
+      "exam": "uppcs-prelims-muzmgozu",
+      "subject": "science",
+      "type": "long",
+      "title": "Science & Environment: notes (basic to advanced)",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "uppcs-science-test",
+      "exam": "uppcs-prelims-muzmgozu",
+      "subject": "science",
+      "type": "mock",
+      "title": "Science & Environment: 15 solved MCQs",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "uppcs-up-special",
+      "exam": "uppcs-prelims-muzmgozu",
+      "subject": "up",
+      "type": "long",
+      "title": "Uttar Pradesh Special: notes (basic to advanced)",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "uppcs-up-special-test",
+      "exam": "uppcs-prelims-muzmgozu",
+      "subject": "up",
+      "type": "mock",
+      "title": "Uttar Pradesh Special: 15 solved MCQs",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "uppcs-hindi",
+      "exam": "uppcs-prelims-muzmgozu",
+      "subject": "hindi",
+      "type": "long",
+      "title": "सामान्य हिन्दी: व्याकरण, साहित्य, आलेखन (RO/ARO + UPPCS)",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "uppcs-hindi-test",
+      "exam": "uppcs-prelims-muzmgozu",
+      "subject": "hindi",
+      "type": "mock",
+      "title": "सामान्य हिन्दी: 15 solved MCQs",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "uppcs-csat",
+      "exam": "uppcs-prelims-muzmgozu",
+      "subject": "csat",
+      "type": "long",
+      "title": "CSAT: notes (basic to advanced)",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "uppcs-csat-test",
+      "exam": "uppcs-prelims-muzmgozu",
+      "subject": "csat",
+      "type": "mock",
+      "title": "CSAT: 15 solved MCQs",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "uppcs-economy-links",
+      "exam": "uppcs-prelims-muzmgozu",
+      "subject": "economy",
+      "type": "long",
+      "title": "Economy: what to read (links to full notes)",
+      "summary": "",
       "date": "2026-11-05"
     },
     {
