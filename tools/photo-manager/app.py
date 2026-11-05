@@ -28,6 +28,37 @@ app = Flask(__name__, static_folder="static", static_url_path="/static")
 scanner = ix.Scanner()
 ix.init_db()
 
+ALLOWED_HOSTS = {f"127.0.0.1:{PORT}", f"localhost:{PORT}"}
+ALLOWED_ORIGINS = {f"http://{h}" for h in ALLOWED_HOSTS}
+
+
+@app.before_request
+def only_this_laptop():
+    """Block other websites open in the browser from reaching this app.
+
+    - Host check stops "DNS rebinding" (a web page pretending to be 127.0.0.1 to read photos).
+    - Changes (POST) must come from this app's own page with a JSON body, so a
+      different website can't trigger delete/scan/settings in the background.
+    """
+    if request.remote_addr not in ("127.0.0.1", "::1"):
+        abort(403)
+    if request.host not in ALLOWED_HOSTS:
+        abort(403)
+    if request.method != "GET":
+        origin = request.headers.get("Origin")
+        if origin and origin not in ALLOWED_ORIGINS:
+            abort(403)
+        if request.mimetype != "application/json":
+            abort(403)
+
+
+@app.after_request
+def no_framing(resp):
+    resp.headers["X-Frame-Options"] = "DENY"
+    resp.headers["X-Content-Type-Options"] = "nosniff"
+    resp.headers["Cross-Origin-Resource-Policy"] = "same-origin"
+    return resp
+
 
 def media_out(r):
     return {"id": r["id"], "name": r["name"], "folder": r["folder"], "kind": r["kind"],

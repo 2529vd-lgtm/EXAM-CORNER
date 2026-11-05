@@ -2,8 +2,9 @@
 const $ = (s, el = document) => el.querySelector(s);
 const $$ = (s, el = document) => [...el.querySelectorAll(s)];
 const api = async (url, opts = {}) => {
-  if (opts.body && typeof opts.body !== "string") {
-    opts.body = JSON.stringify(opts.body);
+  if (opts.method && opts.method !== "GET") {
+    // the server only accepts changes sent as JSON from this page
+    opts.body = JSON.stringify(opts.body || {});
     opts.headers = { "Content-Type": "application/json" };
   }
   const r = await fetch(url, opts);
