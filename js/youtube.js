@@ -4,7 +4,7 @@
 
 const YT_KEY = "geminiKey";
 const YT_MODEL = "geminiModel";
-const YT_DEFAULT_MODEL = "gemini-2.5-flash";
+const YT_DEFAULT_MODEL = "gemini-3.8-flash"; // used only until "Key जाँचें" picks the newest model for this key
 const GEMINI_API = "https://generativelanguage.googleapis.com/v1beta";
 let ytResult = null; // last Gemini answer plus the request details
 
@@ -67,24 +67,35 @@ function youtubeTab() {
   $("yt-go").onclick = () => ytGenerate();
 }
 
+// Lists the Flash models this key can use and returns them newest first.
+async function ytListFlash(key) {
+  const res = await fetch(`${GEMINI_API}/models?pageSize=200`, { headers: { "x-goog-api-key": key } });
+  const data = await res.json().catch(() => ({}));
+  if (!res.ok) {
+    const err = new Error(`Key काम नहीं कर रही (${data.error?.message || res.status})`);
+    err.status = res.status;
+    throw err;
+  }
+  const ver = (m) => parseFloat((m.match(/^gemini-([\d.]+)/) || [])[1] || 0);
+  return (data.models || [])
+    .filter((m) => (m.supportedGenerationMethods || []).includes("generateContent") && /flash/.test(m.name) && !/(image|tts|audio|live|lite|exp)/.test(m.name))
+    .map((m) => m.name.replace(/^models\//, ""))
+    .sort((a, b) => ver(b) - ver(a) || (/preview/.test(a) - /preview/.test(b)));
+}
+
+// Newest stable "gemini-X.Y-flash", else the newest Flash of any kind.
+function ytBestModel(list) {
+  return list.find((m) => /^gemini-[\d.]+-flash$/.test(m)) || list[0] || "";
+}
+
 async function ytCheckKey() {
   const key = $("yt-key").value.trim();
   if (!key) return status("⚠️ पहले Gemini API key paste करें।", "err");
   busy($("yt-check"), "जाँच रहे हैं…", async () => {
-    const res = await fetch(`${GEMINI_API}/models?pageSize=200`, { headers: { "x-goog-api-key": key } });
-    const data = await res.json().catch(() => ({}));
-    if (!res.ok) throw new Error(`Key काम नहीं कर रही (${data.error?.message || res.status})`);
-    const flash = (data.models || [])
-      .filter((m) => (m.supportedGenerationMethods || []).includes("generateContent") && /flash/.test(m.name) && !/(image|tts|audio|live|lite|exp)/.test(m.name))
-      .map((m) => m.name.replace(/^models\//, ""));
+    const flash = await ytListFlash(key);
     $("yt-models").innerHTML = flash.map((m) => `<option value="${esc(m)}">`).join("");
-    let model = $("yt-model").value.trim();
-    if (flash.length && !flash.includes(model)) {
-      // pick the newest stable "gemini-X.Y-flash"
-      const stable = flash.filter((m) => /^gemini-[\d.]+-flash$/.test(m)).sort((a, b) => parseFloat(b.slice(7)) - parseFloat(a.slice(7)));
-      model = stable[0] || flash[0];
-      $("yt-model").value = model;
-    }
+    const model = ytBestModel(flash) || $("yt-model").value.trim() || YT_DEFAULT_MODEL;
+    $("yt-model").value = model;
     ytSet(YT_KEY, key);
     ytSet(YT_MODEL, model);
     status(`✅ Key सही है और save हो गई। Model: <b>${esc(model)}</b>`, "ok");
@@ -162,12 +173,27 @@ async function ytGenerate() {
   status("⏳ Gemini video देख रहा है और notes बना रहा है। लंबी class में 1–3 मिनट लगते हैं, page बंद न करें।");
   $("yt-out").innerHTML = "";
   try {
+    const run = async (m) => {
+      try {
+        return await ytCallGemini(key, m, cleanUrl, prompt, true);
+      } catch (e) {
+        if (e.status !== 400 || ytRetiredModel(e)) throw e;
+        return await ytCallGemini(key, m, cleanUrl, prompt, false); // some models don't accept the low-resolution setting
+      }
+    };
     let out;
     try {
-      out = await ytCallGemini(key, model, cleanUrl, prompt, true);
+      out = await run(model);
     } catch (e) {
-      if (e.status !== 400) throw e;
-      out = await ytCallGemini(key, model, cleanUrl, prompt, false); // some models don't accept the low-resolution setting
+      if (!ytRetiredModel(e)) throw e;
+      // The model was retired: switch to the one Gemini suggests, or the newest available, and try once more.
+      const named = ((e.message.match(/use (?:models\/)?(gemini-[\w.-]+)/i) || [])[1] || "").replace(/[.-]+$/, "");
+      const next = named && named !== model ? named : ytBestModel(await ytListFlash(key));
+      if (!next || next === model) throw e;
+      status(`⏳ Model <b>${esc(model)}</b> बंद हो गया है, अब <b>${esc(next)}</b> से बना रहे हैं…`);
+      ytSet(YT_MODEL, next);
+      if ($("yt-model")) $("yt-model").value = next;
+      out = await run(next);
     }
     if (out.ok === false) throw new Error(`यह video पढ़ाई वाली class नहीं लगती: ${out.reason || ""}`);
     ytResult = { out, url: cleanUrl, parts, nMcq };
@@ -186,6 +212,11 @@ async function ytGenerate() {
     btn.disabled = false;
     btn.textContent = old;
   }
+}
+
+// True when Gemini says the chosen model is retired or unknown.
+function ytRetiredModel(e) {
+  return e.status === 404 || /no longer available|not found|is not supported|deprecated|update your code to use/i.test(e.message || "");
 }
 
 function ytValidMcqs(list) {
