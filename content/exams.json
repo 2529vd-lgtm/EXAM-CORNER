@@ -93,16 +93,6 @@
       "subjects": []
     },
     {
-      "id": "bpsc-auditor-mains-muzmbvuh",
-      "name": "BPSC AUDITOR MAINS",
-      "fullName": "BPSC",
-      "date": "2027-01-16",
-      "time": "",
-      "description": "",
-      "syllabus": "",
-      "subjects": []
-    },
-    {
       "id": "uppcs-prelims-muzmgozu",
       "name": "UPPCS PRELIMS",
       "fullName": "UP PCS",
@@ -177,11 +167,11 @@
     },
     {
       "id": "bpsc-mains-economics",
-      "name": "BPSC Mains (with Economics)",
+      "name": "BPSC Mains + Auditor (with Economics)",
       "fullName": "BPSC Auditor, DSO, FAO and CCE Mains with Economics",
-      "date": "2027-04-25",
+      "date": "2027-01-16",
       "time": "",
-      "description": "Everything for **BPSC Mains** where **Economics** is a paper: **Auditor, District Statistical Officer (DSO), Financial Administrative Officer (FAO)** (Economics 300 marks, counted in merit) and **CCE** (optional). Includes Economics (theory notes + Bihar Economy), GS-I, GS-II, Essay and General Hindi.\n\nStart with **\"Start Here\"** for the pattern and answer-writing rules.\n\n⚠️ The countdown date is a placeholder. Update it from Admin when BPSC announces the next Mains date.",
+      "description": "Everything for **BPSC Mains** where **Economics** is a paper: **Auditor, District Statistical Officer (DSO), Financial Administrative Officer (FAO)** (Economics 300 marks, counted in merit) and **CCE** (optional). Includes Economics (theory notes + Bihar Economy), GS-I, GS-II, Essay and General Hindi.\n\nStart with **\"Start Here\"** for the pattern and answer-writing rules.\n\n⏳ The countdown shows the **BPSC Auditor Mains** date (16 Jan 2027). Confirm it on [bpsc.bihar.gov.in](https://bpsc.bihar.gov.in).",
       "syllabus": "## Auditor / DSO / FAO Mains\n\n| Paper | Marks | Status |\n|---|---|---|\n| General Hindi | 100 | qualifying |\n| General Studies I | 300 | merit |\n| General Studies II | 300 | merit |\n| **Economics** (or Commerce / Mathematics / Statistics) | **300** | **merit** |\n\n## BPSC Mains (CCE): papers\n\n| Paper | Marks | Status |\n|---|---|---|\n| General Hindi | 100 | qualifying |\n| General Studies I | 300 | merit |\n| General Studies II | 300 | merit |\n| Essay | 300 | merit |\n| Optional (Economics) | 100 (recent CCE cycles) | qualifying |\n| Interview | 120 | merit |\n\n### GS-I\n1. Indian culture (with Bihar)\n2. Modern history of India (with Bihar)\n3. Current events of national and international importance\n4. Statistical analysis, graphs and diagrams\n\n### GS-II\n1. Indian polity\n2. Indian economy and geography of India (with Bihar)\n3. Role and impact of science and technology in the development of India (and Bihar)\n\n### Economics paper (300 marks in Auditor, DSO, FAO)\nPart I: economic theory (national income, consumer and producer behaviour, markets, income and employment, distribution, money and banking, international trade, public finance). Part II: Indian economy and **Bihar economy** (planning, agriculture, industry, poverty, unemployment).\n\n> ⚠️ Pattern details are collected from coaching sites (Nov 2026) and differ between sources. Confirm in the official notification on [bpsc.bihar.gov.in](https://bpsc.bihar.gov.in).",
       "subjects": [
         {
