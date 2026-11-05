@@ -188,6 +188,33 @@
           "name": "Prelims: Mental Ability"
         }
       ]
+    },
+    {
+      "id": "uppsc-ro-aro-2026",
+      "name": "UPPSC RO/ARO 2026",
+      "fullName": "Review Officer / Assistant Review Officer, Advt. A-4/E-1/2026 (501 posts)",
+      "date": "2026-11-26",
+      "time": "23:59",
+      "description": "**501 posts**: Review Officer 129 + Assistant Review Officer 372. Notification 26 Oct 2026.\n\n⏳ **The countdown shows the last date to apply (26 Nov 2026).** The prelims date is not announced yet; update it from Admin when UPPSC announces it.\n\nOpen **Study Material → Overview** for eligibility, fees, pattern and syllabus.",
+      "syllabus": "## Prelims (200 marks, 3 hours)\n\n- General Studies: 140 questions\n- General Hindi: 60 questions\n\n## Mains (last cycle's pattern)\n\n- Paper 1: General Studies (objective, 120 marks, 2 hours)\n- Paper 2: General Hindi and drafting (descriptive, 100 marks)\n- Paper 3: Hindi essay (descriptive, 120 marks)\n\n## Typing test\n\nARO posts: Hindi typing 25 wpm (qualifying).\n\n> Confirm in the official advertisement on [uppsc.up.nic.in](https://uppsc.up.nic.in).",
+      "subjects": [
+        {
+          "id": "overview",
+          "name": "Overview"
+        },
+        {
+          "id": "gs",
+          "name": "General Studies"
+        },
+        {
+          "id": "hindi",
+          "name": "General Hindi"
+        },
+        {
+          "id": "up",
+          "name": "UP Special"
+        }
+      ]
     }
   ]
 }

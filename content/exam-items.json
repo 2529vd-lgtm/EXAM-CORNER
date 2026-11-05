@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "roaro-2026-overview",
+      "exam": "uppsc-ro-aro-2026",
+      "subject": "overview",
+      "type": "long",
+      "title": "UPPSC RO/ARO 2026: vacancy, eligibility, fees, pattern, syllabus",
+      "summary": "501 posts (RO 129, ARO 372); apply till 26 Nov 2026.",
+      "date": "2026-11-05"
+    },
+    {
       "id": "bm-start-pattern",
       "exam": "bpsc-mains-economics",
       "subject": "start",
