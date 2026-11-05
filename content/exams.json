@@ -1,45 +1,6 @@
 {
   "exams": [
     {
-      "id": "bpsc-prelims",
-      "name": "BPSC CCE Prelims",
-      "fullName": "Bihar Public Service Commission, Combined Competitive Examination",
-      "date": "2026-12-13",
-      "time": "12:00",
-      "description": "⚠️ **Sample date.** Update it from Admin → Exams once the official date is announced.",
-      "syllabus": "## BPSC CCE Prelims: General Studies (1 paper)\n\n- **Questions:** 150 objective (MCQ)\n- **Time:** 2 hours\n- Prelims is a **screening test**; its marks are not added to the final merit.\n\n### Topics\n\n1. General Science\n2. Current events of national and international importance\n3. History of India and salient features of the history of Bihar\n4. General Geography and geographical divisions of Bihar, and its major river systems\n5. Indian Polity and Economy, including the economy of Bihar after independence\n6. Indian National Movement and Bihar's role in it\n7. General Mental Ability\n\n> ⚠️ This is a sample syllabus. Always check BPSC's official notification before the exam.\n",
-      "subjects": [
-        {
-          "id": "history",
-          "name": "History"
-        },
-        {
-          "id": "geography",
-          "name": "Geography"
-        },
-        {
-          "id": "polity",
-          "name": "Polity"
-        },
-        {
-          "id": "economy",
-          "name": "Economy"
-        },
-        {
-          "id": "science",
-          "name": "General Science"
-        },
-        {
-          "id": "current-affairs",
-          "name": "Current Affairs"
-        },
-        {
-          "id": "mental-ability",
-          "name": "Mental Ability"
-        }
-      ]
-    },
-    {
       "id": "upsc-cse-prelims-2027",
       "name": "UPSC CSE Prelims 2027",
       "fullName": "Union Public Service Commission, Civil Services Examination",
@@ -167,12 +128,12 @@
     },
     {
       "id": "bpsc-mains-economics",
-      "name": "BPSC Mains + Auditor (with Economics)",
-      "fullName": "BPSC Auditor, DSO, FAO and CCE Mains with Economics",
+      "name": "BPSC: CCE + Auditor (Prelims & Mains)",
+      "fullName": "BPSC CCE Prelims & Mains, Auditor, DSO and FAO Mains with Economics",
       "date": "2027-01-16",
       "time": "",
-      "description": "Everything for **BPSC Mains** where **Economics** is a paper: **Auditor, District Statistical Officer (DSO), Financial Administrative Officer (FAO)** (Economics 300 marks, counted in merit) and **CCE** (optional). Includes Economics (theory notes + Bihar Economy), GS-I, GS-II, Essay and General Hindi.\n\nStart with **\"Start Here\"** for the pattern and answer-writing rules.\n\n⏳ The countdown shows the **BPSC Auditor Mains** date (16 Jan 2027). Confirm it on [bpsc.bihar.gov.in](https://bpsc.bihar.gov.in).",
-      "syllabus": "## Auditor / DSO / FAO Mains\n\n| Paper | Marks | Status |\n|---|---|---|\n| General Hindi | 100 | qualifying |\n| General Studies I | 300 | merit |\n| General Studies II | 300 | merit |\n| **Economics** (or Commerce / Mathematics / Statistics) | **300** | **merit** |\n\n## BPSC Mains (CCE): papers\n\n| Paper | Marks | Status |\n|---|---|---|\n| General Hindi | 100 | qualifying |\n| General Studies I | 300 | merit |\n| General Studies II | 300 | merit |\n| Essay | 300 | merit |\n| Optional (Economics) | 100 (recent CCE cycles) | qualifying |\n| Interview | 120 | merit |\n\n### GS-I\n1. Indian culture (with Bihar)\n2. Modern history of India (with Bihar)\n3. Current events of national and international importance\n4. Statistical analysis, graphs and diagrams\n\n### GS-II\n1. Indian polity\n2. Indian economy and geography of India (with Bihar)\n3. Role and impact of science and technology in the development of India (and Bihar)\n\n### Economics paper (300 marks in Auditor, DSO, FAO)\nPart I: economic theory (national income, consumer and producer behaviour, markets, income and employment, distribution, money and banking, international trade, public finance). Part II: Indian economy and **Bihar economy** (planning, agriculture, industry, poverty, unemployment).\n\n> ⚠️ Pattern details are collected from coaching sites (Nov 2026) and differ between sources. Confirm in the official notification on [bpsc.bihar.gov.in](https://bpsc.bihar.gov.in).",
+      "description": "Everything for **BPSC CCE Prelims** and **BPSC Mains** where **Economics** is a paper: **Auditor, District Statistical Officer (DSO), Financial Administrative Officer (FAO)** (Economics 300 marks, counted in merit) and **CCE** (optional). Includes Economics (theory notes + Bihar Economy), GS-I, GS-II, Essay and General Hindi.\n\nStart with **\"Start Here\"** for the pattern and answer-writing rules.\n\n⏳ The countdown shows the **BPSC Auditor Mains** date (16 Jan 2027). Confirm it on [bpsc.bihar.gov.in](https://bpsc.bihar.gov.in).\n\n📅 **CCE Prelims:** 13 Dec 2026 is a sample date. Update it when BPSC announces the official date.",
+      "syllabus": "## BPSC CCE Prelims: General Studies (1 paper)\n\n- **Questions:** 150 objective (MCQ)\n- **Time:** 2 hours\n- Prelims is a **screening test**; its marks are not added to the final merit.\n\n### Topics\n\n1. General Science\n2. Current events of national and international importance\n3. History of India and salient features of the history of Bihar\n4. General Geography and geographical divisions of Bihar, and its major river systems\n5. Indian Polity and Economy, including the economy of Bihar after independence\n6. Indian National Movement and Bihar's role in it\n7. General Mental Ability\n\n> ⚠️ This is a sample syllabus. Always check BPSC's official notification before the exam.\n\n---\n\n## Auditor / DSO / FAO Mains\n\n| Paper | Marks | Status |\n|---|---|---|\n| General Hindi | 100 | qualifying |\n| General Studies I | 300 | merit |\n| General Studies II | 300 | merit |\n| **Economics** (or Commerce / Mathematics / Statistics) | **300** | **merit** |\n\n## BPSC Mains (CCE): papers\n\n| Paper | Marks | Status |\n|---|---|---|\n| General Hindi | 100 | qualifying |\n| General Studies I | 300 | merit |\n| General Studies II | 300 | merit |\n| Essay | 300 | merit |\n| Optional (Economics) | 100 (recent CCE cycles) | qualifying |\n| Interview | 120 | merit |\n\n### GS-I\n1. Indian culture (with Bihar)\n2. Modern history of India (with Bihar)\n3. Current events of national and international importance\n4. Statistical analysis, graphs and diagrams\n\n### GS-II\n1. Indian polity\n2. Indian economy and geography of India (with Bihar)\n3. Role and impact of science and technology in the development of India (and Bihar)\n\n### Economics paper (300 marks in Auditor, DSO, FAO)\nPart I: economic theory (national income, consumer and producer behaviour, markets, income and employment, distribution, money and banking, international trade, public finance). Part II: Indian economy and **Bihar economy** (planning, agriculture, industry, poverty, unemployment).\n\n> ⚠️ Pattern details are collected from coaching sites (Nov 2026) and differ between sources. Confirm in the official notification on [bpsc.bihar.gov.in](https://bpsc.bihar.gov.in).",
       "subjects": [
         {
           "id": "start",
@@ -197,6 +158,34 @@
         {
           "id": "hindi",
           "name": "General Hindi"
+        },
+        {
+          "id": "history",
+          "name": "Prelims: History"
+        },
+        {
+          "id": "geography",
+          "name": "Prelims: Geography"
+        },
+        {
+          "id": "polity",
+          "name": "Prelims: Polity"
+        },
+        {
+          "id": "economy",
+          "name": "Prelims: Economy"
+        },
+        {
+          "id": "science",
+          "name": "Prelims: General Science"
+        },
+        {
+          "id": "current-affairs",
+          "name": "Prelims: Current Affairs"
+        },
+        {
+          "id": "mental-ability",
+          "name": "Prelims: Mental Ability"
         }
       ]
     }
