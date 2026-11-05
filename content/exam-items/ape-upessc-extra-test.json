@@ -1,0 +1,171 @@
+{
+ "duration": 15,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "Sales revenue maximisation subject to a minimum profit constraint is the theory of:",
+   "options": [
+    "Cyert and March",
+    "Marris",
+    "Baumol",
+    "Williamson"
+   ],
+   "answer": 2,
+   "explanation": "Baumol (1959)."
+  },
+  {
+   "q": "Sylos-Labini's postulate is associated with:",
+   "options": [
+    "Price leadership",
+    "Limit pricing",
+    "Kinked demand",
+    "Cobweb model"
+   ],
+   "answer": 1,
+   "explanation": "Entrants expect incumbents to keep output unchanged."
+  },
+  {
+   "q": "A purely monetary theory of the trade cycle was given by:",
+   "options": [
+    "Kaldor",
+    "Samuelson",
+    "Hicks",
+    "Hawtrey"
+   ],
+   "answer": 3,
+   "explanation": "Bank credit drives the cycle."
+  },
+  {
+   "q": "Ceiling and floor in a trade cycle model were introduced by:",
+   "options": [
+    "Kaldor",
+    "Hicks",
+    "Samuelson",
+    "Schumpeter"
+   ],
+   "answer": 1,
+   "explanation": "Hicks (1950)."
+  },
+  {
+   "q": "Backwash and spread effects are concepts of:",
+   "options": [
+    "Hirschman",
+    "Myrdal",
+    "Nurkse",
+    "Lewis"
+   ],
+   "answer": 1,
+   "explanation": "Circular cumulative causation (1957)."
+  },
+  {
+   "q": "In Schumpeter's theory, the agent of development is the:",
+   "options": [
+    "State",
+    "Entrepreneur (innovator)",
+    "Worker",
+    "Capitalist"
+   ],
+   "answer": 1,
+   "explanation": "Innovation disturbs the circular flow."
+  },
+  {
+   "q": "The marginal per capita reinvestment quotient criterion was given by:",
+   "options": [
+    "Amartya Sen",
+    "Galenson and Leibenstein",
+    "Kahn and Chenery",
+    "Polak"
+   ],
+   "answer": 1,
+   "explanation": "Favours techniques that create surplus for reinvestment."
+  },
+  {
+   "q": "Social marginal productivity criterion was given by:",
+   "options": [
+    "Dobb",
+    "Little and Mirrlees",
+    "Schumacher",
+    "Kahn and Chenery"
+   ],
+   "answer": 3,
+   "explanation": "Kahn (1951), Chenery (1953)."
+  },
+  {
+   "q": "'Small is Beautiful' (appropriate technology) was written by:",
+   "options": [
+    "W.W. Rostow",
+    "Gunnar Myrdal",
+    "E.F. Schumacher",
+    "Amartya Sen"
+   ],
+   "answer": 2,
+   "explanation": "1973."
+  },
+  {
+   "q": "Tax buoyancy differs from tax elasticity because buoyancy:",
+   "options": [
+    "Uses nominal GDP only",
+    "Excludes discretionary changes",
+    "Includes discretionary changes",
+    "Uses only direct taxes"
+   ],
+   "answer": 2,
+   "explanation": "Elasticity excludes discretionary changes."
+  },
+  {
+   "q": "Functional finance was propounded by:",
+   "options": [
+    "Abba Lerner",
+    "Hansen",
+    "Musgrave",
+    "Dalton"
+   ],
+   "answer": 0,
+   "explanation": "1943."
+  },
+  {
+   "q": "Zero-base budgeting was developed by:",
+   "options": [
+    "Hugh Dalton",
+    "Musgrave",
+    "Wagner",
+    "Peter Pyhrr"
+   ],
+   "answer": 3,
+   "explanation": "Texas Instruments, 1970."
+  },
+  {
+   "q": "Gender budgeting was introduced in India's Union Budget in:",
+   "options": [
+    "2017-18",
+    "2014-15",
+    "1991-92",
+    "2005-06"
+   ],
+   "answer": 3,
+   "explanation": ""
+  },
+  {
+   "q": "Which currency was added to the SDR basket in 2016?",
+   "options": [
+    "Russian rouble",
+    "Indian rupee",
+    "Swiss franc",
+    "Chinese renminbi"
+   ],
+   "answer": 3,
+   "explanation": "Basket: USD, EUR, CNY, JPY, GBP."
+  },
+  {
+   "q": "Opportunity cost theory of international trade was given by:",
+   "options": [
+    "Haberler",
+    "Mill",
+    "Ricardo",
+    "Ohlin"
+   ],
+   "answer": 0,
+   "explanation": "1936, using the production possibility curve."
+  }
+ ]
+}

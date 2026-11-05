@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "id": "ape-upessc-full-mock",
+      "exam": "asst-prof-economics",
+      "subject": "start",
+      "type": "mock",
+      "title": "UPESSC full mock: 120 questions (30 GK + 90 Economics), exam pattern",
+      "summary": "3 marks per right answer, −1 per wrong (shown as +1 / −0.33).",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "ape-gk-current",
+      "exam": "asst-prof-economics",
+      "subject": "gk",
+      "type": "long",
+      "title": "GK Unit 1: current affairs 2025–26 (who is who, Nobel 2026, sports, economy)",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "ape-gk-teaching-research-ict",
+      "exam": "asst-prof-economics",
+      "subject": "gk",
+      "type": "long",
+      "title": "GK Units 2–3: teaching aptitude, research aptitude, ICT",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "ape-gk-env-history-polity",
+      "exam": "asst-prof-economics",
+      "subject": "gk",
+      "type": "long",
+      "title": "GK Units 4–6: environment, history & geography, Constitution & economy",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "ape-gk-test",
+      "exam": "asst-prof-economics",
+      "subject": "gk",
+      "type": "mock",
+      "title": "GK: 30 solved MCQs (UPESSC GK section)",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "ape-upessc-extra",
+      "exam": "asst-prof-economics",
+      "subject": "upessc",
+      "type": "long",
+      "title": "UPESSC Economics: extra topics for all 10 units (detailed)",
+      "summary": "Managerial theories, limit price, trade cycles, investment criteria, budget process, buoyancy, functional finance, SDR, MSME, FDI and more.",
+      "date": "2026-11-05"
+    },
+    {
+      "id": "ape-upessc-extra-test",
+      "exam": "asst-prof-economics",
+      "subject": "upessc",
+      "type": "mock",
+      "title": "UPESSC extra topics: 15 solved MCQs",
+      "summary": "",
+      "date": "2026-11-05"
+    },
+    {
       "id": "uppcs-overview",
       "exam": "uppcs-prelims-muzmgozu",
       "subject": "overview",

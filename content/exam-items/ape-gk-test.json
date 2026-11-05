@@ -1,0 +1,336 @@
+{
+ "duration": 30,
+ "negative": 0.33,
+ "questions": [
+  {
+   "q": "The Nobel Prize in Economic Sciences 2026 was awarded to:",
+   "options": [
+    "Acemoglu, Johnson and Robinson",
+    "Claudia Goldin",
+    "Mokyr, Aghion and Howitt",
+    "Robert Hall and Michael Woodford"
+   ],
+   "answer": 3,
+   "explanation": "For microeconomic foundations of macroeconomic stabilisation; 2025 went to Mokyr, Aghion and Howitt."
+  },
+  {
+   "q": "Who won the ICC Men's T20 World Cup 2026?",
+   "options": [
+    "India",
+    "England",
+    "New Zealand",
+    "Australia"
+   ],
+   "answer": 0,
+   "explanation": "India beat New Zealand by 96 runs in Ahmedabad on 8 March 2026."
+  },
+  {
+   "q": "The 53rd Chief Justice of India is:",
+   "options": [
+    "Sanjiv Khanna",
+    "Surya Kant",
+    "D.Y. Chandrachud",
+    "B.R. Gavai"
+   ],
+   "answer": 1,
+   "explanation": "From 24 November 2025."
+  },
+  {
+   "q": "Who is the Governor of the RBI (2026)?",
+   "options": [
+    "Sanjay Malhotra",
+    "Shaktikanta Das",
+    "Michael Patra",
+    "Urjit Patel"
+   ],
+   "answer": 0,
+   "explanation": "26th Governor, from 11 Dec 2024."
+  },
+  {
+   "q": "The Nobel Peace Prize 2026 was awarded to:",
+   "options": [
+    "Nihon Hidankyo",
+    "Malala Yousafzai",
+    "Narges Mohammadi",
+    "Navi Pillay"
+   ],
+   "answer": 3,
+   "explanation": "South African jurist; peace and international law."
+  },
+  {
+   "q": "Which law replaced MGNREGA from 1 July 2026?",
+   "options": [
+    "NFSA",
+    "VB-G RAM G Act",
+    "PM-KISAN Act",
+    "Code on Wages"
+   ],
+   "answer": 1,
+   "explanation": "Guarantee raised to 125 days."
+  },
+  {
+   "q": "Revised Bloom's taxonomy places at the top of the cognitive domain:",
+   "options": [
+    "Apply",
+    "Evaluate",
+    "Analyse",
+    "Create"
+   ],
+   "answer": 3,
+   "explanation": "Anderson and Krathwohl, 2001."
+  },
+  {
+   "q": "The reflective level of teaching was proposed by:",
+   "options": [
+    "Bloom",
+    "Herbart",
+    "Hunt",
+    "Morrison"
+   ],
+   "answer": 2,
+   "explanation": "Memory level: Herbart; understanding level: Morrison."
+  },
+  {
+   "q": "Andragogy refers to:",
+   "options": [
+    "Teaching of adults",
+    "Teaching through games",
+    "Teaching of children",
+    "Online teaching"
+   ],
+   "answer": 0,
+   "explanation": "Malcolm Knowles."
+  },
+  {
+   "q": "Which is an example of formative evaluation?",
+   "options": [
+    "Weekly class quiz",
+    "Entrance test",
+    "Final viva",
+    "End-semester exam"
+   ],
+   "answer": 0,
+   "explanation": "Formative evaluation happens during learning."
+  },
+  {
+   "q": "SWAYAM's four quadrants do NOT include:",
+   "options": [
+    "Video lectures",
+    "Self-assessment",
+    "e-Text",
+    "Classroom attendance"
+   ],
+   "answer": 3,
+   "explanation": "Fourth quadrant is the discussion forum."
+  },
+  {
+   "q": "Research done by a teacher to solve a classroom problem is:",
+   "options": [
+    "Fundamental research",
+    "Historical research",
+    "Action research",
+    "Ex post facto research"
+   ],
+   "answer": 2,
+   "explanation": "Associated with Stephen Corey."
+  },
+  {
+   "q": "Snowball sampling is a type of:",
+   "options": [
+    "Non-probability sampling",
+    "Stratified sampling",
+    "Cluster sampling",
+    "Probability sampling"
+   ],
+   "answer": 0,
+   "explanation": "Used for hidden populations."
+  },
+  {
+   "q": "The h-index was proposed by:",
+   "options": [
+    "Eugene Garfield",
+    "Derek de Solla Price",
+    "Jorge Hirsch",
+    "S.R. Ranganathan"
+   ],
+   "answer": 2,
+   "explanation": "2005; Garfield created the impact factor."
+  },
+  {
+   "q": "Under UGC plagiarism regulations (2018), similarity up to what level is 'minor'?",
+   "options": [
+    "20%",
+    "40%",
+    "5%",
+    "10%"
+   ],
+   "answer": 3,
+   "explanation": "Above 10% penalties start (levels 1–3)."
+  },
+  {
+   "q": "APA referencing style is mainly used in:",
+   "options": [
+    "Humanities",
+    "Social sciences and psychology",
+    "Engineering patents",
+    "Law"
+   ],
+   "answer": 1,
+   "explanation": "MLA is common in humanities."
+  },
+  {
+   "q": "1 kilobyte equals:",
+   "options": [
+    "1,000 bytes",
+    "1,024 bits",
+    "1,024 bytes",
+    "8 bits"
+   ],
+   "answer": 2,
+   "explanation": "In the binary convention."
+  },
+  {
+   "q": "Binary 1010 equals decimal:",
+   "options": [
+    "8",
+    "12",
+    "10",
+    "5"
+   ],
+   "answer": 2,
+   "explanation": "8 + 2 = 10."
+  },
+  {
+   "q": "Which memory is volatile?",
+   "options": [
+    "ROM",
+    "Hard disk",
+    "RAM",
+    "SSD"
+   ],
+   "answer": 2,
+   "explanation": "RAM loses data when power is off."
+  },
+  {
+   "q": "The World Wide Web was invented by:",
+   "options": [
+    "Bill Gates",
+    "Charles Babbage",
+    "Tim Berners-Lee",
+    "Vint Cerf"
+   ],
+   "answer": 2,
+   "explanation": "In 1989 at CERN."
+  },
+  {
+   "q": "DNS is used to:",
+   "options": [
+    "Send emails",
+    "Encrypt websites",
+    "Store files",
+    "Convert domain names to IP addresses"
+   ],
+   "answer": 3,
+   "explanation": ""
+  },
+  {
+   "q": "Shodhganga, the repository of Indian theses, is maintained by:",
+   "options": [
+    "INFLIBNET",
+    "AICTE",
+    "NAAC",
+    "NCERT"
+   ],
+   "answer": 0,
+   "explanation": "INFLIBNET Centre, Gandhinagar."
+  },
+  {
+   "q": "Higher BOD in water indicates:",
+   "options": [
+    "Higher pH",
+    "More organic pollution",
+    "More fluoride",
+    "Cleaner water"
+   ],
+   "answer": 1,
+   "explanation": "Biochemical oxygen demand."
+  },
+  {
+   "q": "The International Solar Alliance has its headquarters at:",
+   "options": [
+    "Bengaluru",
+    "New Delhi",
+    "Paris",
+    "Gurugram"
+   ],
+   "answer": 3,
+   "explanation": "Launched in 2015."
+  },
+  {
+   "q": "The National Green Tribunal was set up under an Act of:",
+   "options": [
+    "2010",
+    "1974",
+    "1986",
+    "2002"
+   ],
+   "answer": 0,
+   "explanation": "NGT Act 2010."
+  },
+  {
+   "q": "The Sendai Framework relates to:",
+   "options": [
+    "Disaster risk reduction",
+    "Ozone",
+    "Biodiversity",
+    "Climate finance"
+   ],
+   "answer": 0,
+   "explanation": "2015–2030."
+  },
+  {
+   "q": "Which Harappan site is in Uttar Pradesh?",
+   "options": [
+    "Kalibangan",
+    "Alamgirpur",
+    "Lothal",
+    "Dholavira"
+   ],
+   "answer": 1,
+   "explanation": "Meerut district."
+  },
+  {
+   "q": "Education was moved to the Concurrent List by the:",
+   "options": [
+    "44th Amendment",
+    "73rd Amendment",
+    "86th Amendment",
+    "42nd Amendment"
+   ],
+   "answer": 3,
+   "explanation": "1976."
+  },
+  {
+   "q": "Which Article provides for the Finance Commission?",
+   "options": [
+    "Art. 110",
+    "Art. 356",
+    "Art. 324",
+    "Art. 280"
+   ],
+   "answer": 3,
+   "explanation": ""
+  },
+  {
+   "q": "NAAC is located at:",
+   "options": [
+    "Pune",
+    "Bengaluru",
+    "New Delhi",
+    "Hyderabad"
+   ],
+   "answer": 1,
+   "explanation": "Set up in 1994 by UGC."
+  }
+ ]
+}
