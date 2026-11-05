@@ -1,6 +1,222 @@
 {
   "items": [
     {
+      "id": "ape-pyqsolved-micro",
+      "exam": "asst-prof-economics",
+      "subject": "micro",
+      "type": "pyq",
+      "title": "Micro Economics: UGC NET PYQs 2018–2025, solved (222 Qs)",
+      "summary": "All 235 questions from the PDF with answers and explanations.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pyqsolved-micro-test",
+      "exam": "asst-prof-economics",
+      "subject": "micro",
+      "type": "mock",
+      "title": "Micro Economics: solved PYQ test (222 Qs)",
+      "summary": "Real UGC NET questions, timed, with explanations after submitting.",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-day01-unit1-handwritten-notes",
+      "exam": "asst-prof-economics",
+      "subject": "micro",
+      "type": "short",
+      "title": "Day 1: Micro Economics handwritten notes (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-day02-unit2-macro-handwritten-notes",
+      "exam": "asst-prof-economics",
+      "subject": "macro",
+      "type": "short",
+      "title": "Day 2: Macro Economics handwritten notes (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-day03-unit3-handwritten-notes",
+      "exam": "asst-prof-economics",
+      "subject": "growth",
+      "type": "short",
+      "title": "Day 3: Development & Planning handwritten notes (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-day04-growth-economics-notes",
+      "exam": "asst-prof-economics",
+      "subject": "growth",
+      "type": "short",
+      "title": "Day 4: Growth Economics notes (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-day05-money-and-banking-handwritten-notes",
+      "exam": "asst-prof-economics",
+      "subject": "money",
+      "type": "short",
+      "title": "Day 5: Money & Banking handwritten notes (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-day06-public-finance-notes",
+      "exam": "asst-prof-economics",
+      "subject": "public",
+      "type": "short",
+      "title": "Day 6: Public Finance notes (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-day07-unit7-international-economics-notes",
+      "exam": "asst-prof-economics",
+      "subject": "intl",
+      "type": "short",
+      "title": "Day 7: International Economics notes (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-day08-unit8-handwritten-notes",
+      "exam": "asst-prof-economics",
+      "subject": "indian",
+      "type": "short",
+      "title": "Day 8: Indian Economy I handwritten notes (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-day09-unit9-indian-economy-ii-notes",
+      "exam": "asst-prof-economics",
+      "subject": "indian",
+      "type": "short",
+      "title": "Day 9: Indian Economy II notes (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-day10-statistical-methods-notes",
+      "exam": "asst-prof-economics",
+      "subject": "stats",
+      "type": "short",
+      "title": "Day 10: Statistical Methods notes (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-unit2-macroeconomics-notes",
+      "exam": "asst-prof-economics",
+      "subject": "macro",
+      "type": "short",
+      "title": "Macroeconomics: unit notes (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-unit3-growth-development-notes",
+      "exam": "asst-prof-economics",
+      "subject": "growth",
+      "type": "short",
+      "title": "Growth & Development: unit notes (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-unit4-development-planning-notes",
+      "exam": "asst-prof-economics",
+      "subject": "growth",
+      "type": "short",
+      "title": "Development & Planning: unit notes (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-unit5-public-finance-notes",
+      "exam": "asst-prof-economics",
+      "subject": "public",
+      "type": "short",
+      "title": "Public Finance: unit notes (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-unit6-money-banking-notes",
+      "exam": "asst-prof-economics",
+      "subject": "money",
+      "type": "short",
+      "title": "Money & Banking: unit notes (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-unit7-international-economics-1",
+      "exam": "asst-prof-economics",
+      "subject": "intl",
+      "type": "short",
+      "title": "International Economics: unit notes (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-unit8-indian-economy",
+      "exam": "asst-prof-economics",
+      "subject": "indian",
+      "type": "short",
+      "title": "Indian Economy: unit notes (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-unit9-statistical-methods",
+      "exam": "asst-prof-economics",
+      "subject": "stats",
+      "type": "short",
+      "title": "Statistical Methods: unit notes (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-unit10-economy-mp",
+      "exam": "asst-prof-economics",
+      "subject": "indian",
+      "type": "short",
+      "title": "Economy of Madhya Pradesh: MPPSC AP unit 10 notes (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-economics-51-key-concepts",
+      "exam": "asst-prof-economics",
+      "subject": "start",
+      "type": "short",
+      "title": "51 key concepts in Economics (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-economics-books-authors-years-master",
+      "exam": "asst-prof-economics",
+      "subject": "start",
+      "type": "short",
+      "title": "Economics books, authors and years: master list (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "ape-pdf-economics-diagram-atlas",
+      "exam": "asst-prof-economics",
+      "subject": "start",
+      "type": "short",
+      "title": "Economics diagram atlas: Micro, Macro, International, Development (PDF)",
+      "summary": "",
+      "date": "2026-11-06"
+    },
+    {
       "id": "ape-upessc-full-mock",
       "exam": "asst-prof-economics",
       "subject": "start",

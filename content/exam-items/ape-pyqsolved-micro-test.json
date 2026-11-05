@@ -1,0 +1,2448 @@
+{
+ "duration": 266,
+ "negative": 0,
+ "questions": [
+  {
+   "q": "Who among the following has been awarded the Nobel Prize in Economics \"for analysis of  \nmarkets with asymmetric information\"?  \n*[UGC NET December 2018 · Q.51]*",
+   "options": [
+    "Richard Thaler",
+    "Paul Krugman",
+    "George A. Akerlof",
+    "Robert A. Mundell"
+   ],
+   "answer": 2,
+   "explanation": "Akerlof shared the 2001 Nobel with Spence and Stiglitz for markets with asymmetric information."
+  },
+  {
+   "q": "The price elasticity of a linear supply curve through the origin is  \n*[UGC NET December 2018 · Q.52]*",
+   "options": [
+    "Zero",
+    "Unity",
+    "Infinite",
+    "Less than unity"
+   ],
+   "answer": 1,
+   "explanation": "A straight-line supply curve through the origin always has elasticity = 1."
+  },
+  {
+   "q": "Consider the following statements about the Average Fixed Cost of a firm:  \n(i) Its slope is always negative.  \n(ii) Its slope is always greater than one.  \n(iii) Its slope is always equal to one.  \n(iv) Elasticity with respect to output is equal to one.  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.53]*",
+   "options": [
+    "Only (i)",
+    "(ii) and (iii)",
+    "(i) and (iv)",
+    "Only (iii)"
+   ],
+   "answer": 2,
+   "explanation": "AFC = TFC/Q is a rectangular hyperbola: slope always negative, output elasticity = −1 (unity in magnitude)."
+  },
+  {
+   "q": "If for the constant elasticity of substitution production function, the value of the substitution  \nparameter (ρ) is = −1, the elasticity of substitution will be  \n*[UGC NET December 2018 · Q.55]*",
+   "options": [
+    "Zero",
+    "Infinite",
+    "Unity",
+    "Indeterminate"
+   ],
+   "answer": 1,
+   "explanation": "σ = 1/(1+ρ); with ρ = −1, σ = 1/0 → infinite (perfect substitutes)."
+  },
+  {
+   "q": "The problem of adverse selection arises due to  \n*[UGC NET December 2018 · Q.56]*",
+   "options": [
+    "Asymmetric information",
+    "No information",
+    "Full information",
+    "Wrong information"
+   ],
+   "answer": 0,
+   "explanation": "Adverse selection comes from hidden information (asymmetric information) before a deal."
+  },
+  {
+   "q": "Consider the following statements about the law of variable proportions:  \n(i) Input ratio remains unchanged.  \n(ii) Ultimately the marginal and average product of variable input becomes negative.  \n(iii) Effect of technological change is visible on output.  \nChoose the correct answer from the code given below:  \n*[UGC NET December 2018 · Q.57]*",
+   "options": [
+    "(i) and (ii) are correct",
+    "Only (ii) is correct",
+    "(ii) and (iii) are correct",
+    "None of the above statements is correct"
+   ],
+   "answer": 3,
+   "explanation": "Input ratio changes, AP never turns negative, and technology is held constant: all three statements are wrong."
+  },
+  {
+   "q": "The Inada conditions are applicable to  \n*[UGC NET December 2018 · Q.58]*",
+   "options": [
+    "A well-behaved investment function",
+    "A well-behaved consumption function",
+    "A well-behaved production function",
+    "A well-behaved technical progress function"
+   ],
+   "answer": 2,
+   "explanation": "Inada conditions (MP → ∞ as input → 0, MP → 0 as input → ∞) describe a well-behaved production function."
+  },
+  {
+   "q": "Which of the following statements is/are correct about normal profit?  \n*[UGC NET December 2018 · Q.59]*",
+   "options": [
+    "It is earned in the long period only.",
+    "It is earned in the short period only.",
+    "It is earned in both the long period and the short period.",
+    "It is earned only in perfect competition."
+   ],
+   "answer": 2,
+   "explanation": "Normal profit is part of cost and is earned in both the short and the long period."
+  },
+  {
+   "q": "Which one of the statements about Pareto optimality is incorrect?  \n*[UGC NET December 2018 · Q.60]*",
+   "options": [
+    "Consumers maximise their satisfaction.",
+    "All the factors are used in production of all the commodities.",
+    "There is perfect competition in the factor and commodity markets.",
+    "Consumers have cardinal utility functions."
+   ],
+   "answer": 3,
+   "explanation": "Pareto optimality needs only ordinal utility, not cardinal utility functions."
+  },
+  {
+   "q": "An economic region of production consists of  \n*[UGC NET December 2018 · Q.61]*",
+   "options": [
+    "The positively sloped portions of all isoquants",
+    "The negatively sloped portions of all isoquants",
+    "The middle of all isoquants",
+    "The highest points of all isoquants"
+   ],
+   "answer": 1,
+   "explanation": "The economic region lies between the ridge lines, where isoquants slope downward."
+  },
+  {
+   "q": "The frequent farm loan waivers in India may give rise to the problem of  \n*[UGC NET December 2018 · Q.114]*",
+   "options": [
+    "Debt Overhang",
+    "Adverse Selection",
+    "Risk Aversion",
+    "Moral Hazard"
+   ],
+   "answer": 3,
+   "explanation": "Expecting waivers, borrowers repay less carefully: moral hazard."
+  },
+  {
+   "q": "Given below are two statements, one labelled as Assertion (A) and the other labelled as  \nReason (R). Read the statements and choose the correct answer using the code given below.  \nAssertion (A): In an oligopolistic market, there is price rigidity.  \nReason (R): Rival firms match price decrease but not price increase.  \n*[UGC NET December 2018 · Q.135]*",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+    "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+    "(A) is true, but (R) is false.",
+    "(A) is false, but (R) is true."
+   ],
+   "answer": 0,
+   "explanation": "Sweezy's kinked demand: rivals match cuts, not increases, so price stays rigid."
+  },
+  {
+   "q": "If demand for a consumer is given by the function p = 27 − 3x − x² (where x = quantity  \ndemanded, p = price), the consumer's surplus at x = 3 is  \n*[UGC NET December 2018 · Q.138]*",
+   "options": [
+    "31.5",
+    "32.5",
+    "49.5",
+    "50.5"
+   ],
+   "answer": 0,
+   "explanation": "At x = 3, p = 9. CS = ∫₀³(27 − 3x − x²)dx − 27 = 58.5 − 27 = 31.5."
+  },
+  {
+   "q": "A monopolist faces a linear demand curve p = 100 − 4q, while his cost function is C = 50 +  \n20q. The profit maximising output for this monopolist is  \n*[UGC NET December 2018 · Q.139]*",
+   "options": [
+    "40",
+    "20",
+    "10",
+    "5"
+   ],
+   "answer": 2,
+   "explanation": "MR = 100 − 8q = MC = 20 → q = 10."
+  },
+  {
+   "q": "The price elasticity of demand for a good with the demand function q = k·p−r (here p is price,  \nq is quantity demanded and k and r are positive constants) is  \n*[UGC NET December 2018 · Q.141]*",
+   "options": [
+    "1",
+    "r",
+    "1/r",
+    "Not constant as the function is non-linear"
+   ],
+   "answer": 1,
+   "explanation": "q = k·p^(−r) has constant elasticity r (in absolute value)."
+  },
+  {
+   "q": "Match List-I with List-II:  \nList - I List - II  \n(a) Various combinations that a consumer can (i) Indifference map  \npurchase  \n(b) Various combinations of two commodities (ii) Indifference curve  \nproviding equal satisfaction to consumer  \n(c) A set of indifference curves (iii) Budget line  \n(d) Point of tangency of a budget line on an (iv) Consumer's equilibrium  \nindifference curve  \nChoose the correct option from those given below:  \n*[UGC NET June 2019 S1 · Q.51]*",
+   "options": [
+    "(a)-(i); (b)-(ii); (c)-(iv); (d)-(iii)",
+    "(a)-(iv); (b)-(iii); (c)-(i); (d)-(ii)",
+    "(a)-(ii); (b)-(iii); (c)-(iv); (d)-(i)",
+    "(a)-(iii); (b)-(ii); (c)-(i); (d)-(iv)"
+   ],
+   "answer": 3,
+   "explanation": "Budget line, indifference curve, indifference map, consumer's equilibrium."
+  },
+  {
+   "q": "Which of the following statements are true regarding Cobb-Douglas production function?  \n(a) It is long period production function  \n(b) It is short period production function  \n(c) It is based on increasing returns to scale  \n(d) Output elasticities with respect to factors are constant  \nSelect the correct option:  \n*[UGC NET June \n2019 S1 · Q.52]*",
+   "options": [
+    "(a) and (c)",
+    "(a) and (d)",
+    "(b) and (c)",
+    "(c) and (d)"
+   ],
+   "answer": 1,
+   "explanation": "Cobb–Douglas is a long-run function with constant output elasticities (α, β); returns to scale can be any."
+  },
+  {
+   "q": "Which of the following methods of selecting a strategy is consistent with risk averting  \nbehaviour?  \n*[UGC NET June 2019 S1 · Q.53]*",
+   "options": [
+    "If two strategies have the same expected profit, select the one with smaller standard deviation",
+    "If two strategies have the same standard deviation, select the one with smaller expected profit",
+    "If two strategies have the same standard deviation, select the strategy with larger coefficient of variation",
+    "If two strategies have different expected profits, select the one with the larger standard deviation"
+   ],
+   "answer": 0,
+   "explanation": "A risk-averse person prefers the lower standard deviation when expected profits are equal."
+  },
+  {
+   "q": "Under non-cooperative games, it is  \n*[UGC NET June 2019 S1 · Q.54]*",
+   "options": [
+    "essential to understand one's opponent's point of view",
+    "not essential to understand one's opponent's point of view",
+    "essential to understand one's opponent's point of view and to deduce his likely responses accordingly",
+    "essential to understand one's opponent's likely responses Passage / data for Q.55-57 (June 2019 S1) Direction: Go through the following paragraph and diagram and answer the questions given below: Monopoly charges a price above marginal cost, not all consumers who value the good at more than its cost, buy it. Thus, the quantity produced and sold by a monopoly is below the socially efficient level. The deadweight loss represented by the area of the triangle between the demand curve and the marginal cost curve."
+   ],
+   "answer": 2,
+   "explanation": "In non-cooperative games you must understand the rival's view and deduce his likely responses (Pindyck)."
+  },
+  {
+   "q": "The firms are competitive and profit maximizing; the demand curve for labour is determined  \nby  \n*[UGC NET June 2019 S1 · Q.58]*",
+   "options": [
+    "the opportunity cost of workers' time",
+    "the value of marginal product of labour",
+    "offsetting income and substitution effect",
+    "the value of marginal product of capital"
+   ],
+   "answer": 1,
+   "explanation": "A competitive firm hires labour up to VMP_L = wage, so labour demand = VMP_L curve."
+  },
+  {
+   "q": "General equilibrium analysis determines  \n*[UGC NET June 2019 S1 · Q.59]*",
+   "options": [
+    "prices and quantities in all markets simultaneously",
+    "prices and quantities in all markets simultaneously and explicitly takes feedback effects into account",
+    "feedback effects",
+    "prices in all markets"
+   ],
+   "answer": 1,
+   "explanation": "General equilibrium finds all prices and quantities simultaneously and includes feedback effects."
+  },
+  {
+   "q": "Pareto's marginal condition for efficiency in composition of output (product-mix) requires  \n*[UGC NET June \n2019 S1 · Q.60]*",
+   "options": [
+    "MRTS(X)L,K = MRTS(Y)L,K = MRTS(Z)L,K",
+    "MRS(A)X,Y = MRS(A)X,Z = MRS(B)X,Z",
+    "MRTP(X,Y) = MRS(A)X,Y = MRS(B)X,Y",
+    "MRTS(Y)L,K = MRS(A)X,Y = MRS(Z)X,Y"
+   ],
+   "answer": 2,
+   "explanation": "Product-mix efficiency: MRT(X,Y) = MRS of every consumer."
+  },
+  {
+   "q": "The inconsistency of which one of the following criteria is labelled as Scitovsky Paradox?  \n*[UGC NET June \n2019 S1 · Q.61]*",
+   "options": [
+    "Little criterion",
+    "Pareto criterion",
+    "Bergson criterion",
+    "Kaldor-Hicks criterion"
+   ],
+   "answer": 3,
+   "explanation": "Scitovsky showed the Kaldor–Hicks criterion can give contradictory (reversal) results."
+  },
+  {
+   "q": "Why do individuals act in riskier ways after being insured?  \n*[UGC NET June 2019 S1 · Q.62]*",
+   "options": [
+    "Due to the problem of adverse selection",
+    "Due to the problem of false confidence",
+    "Due to the problem of moral hazard",
+    "Due to the problem of screening costs"
+   ],
+   "answer": 2,
+   "explanation": "Insurance reduces the cost of carelessness: moral hazard."
+  },
+  {
+   "q": "Which of the following factors is NOT the cause for 'market failure'?  \n*[UGC NET June 2019 S1 · Q.85]*",
+   "options": [
+    "Asymmetric information",
+    "Public goods",
+    "Externality",
+    "Lack of demand"
+   ],
+   "answer": 3,
+   "explanation": "Lack of demand is not a source of market failure."
+  },
+  {
+   "q": "\"Under some conditions, it makes no difference to efficiency whether the polluter has a right  \nto pollute or the victim has a right to clean air.\" This statement is related to the work of:  \n*[UGC NET June 2019 S1 \n· Q.118]*",
+   "options": [
+    "G. Hardin",
+    "R. Coase",
+    "N. Kaldor",
+    "Julian Simon"
+   ],
+   "answer": 1,
+   "explanation": "Coase theorem: with zero transaction costs, the assignment of rights does not affect efficiency."
+  },
+  {
+   "q": "If AR = 15 and MR = 5, the price elasticity of demand is  \n*[UGC NET June 2019 S1 · Q.144]*",
+   "options": [
+    "2.3",
+    "1.5",
+    "1.75",
+    "1"
+   ],
+   "answer": 1,
+   "explanation": "e = AR/(AR − MR) = 15/10 = 1.5."
+  },
+  {
+   "q": "The cost function of a monopolist is C = 40 + 12X. Write his demand function as P = 60 − 3X.  \nWhat is his profit maximising output level?  \n*[UGC NET June 2019 S1 · Q.149]*",
+   "options": [
+    "12",
+    "11",
+    "8",
+    "9"
+   ],
+   "answer": 2,
+   "explanation": "MR = 60 − 6X = MC = 12 → X = 8."
+  },
+  {
+   "q": "Arrange in chronological order the following economists in relation to their contribution to the  \nTheory of Consumer Behaviour. Choose the correct answer:  \n*[UGC NET December 2019 S1 · Q.51]*",
+   "options": [
+    "A. Marshall, R. Stone, P. Samuelson, J.R. Hicks and R.G.D. Allen",
+    "R. Stone, P. Samuelson, J.R. Hicks and R.G.D. Allen and A. Marshall",
+    "P. Samuelson, J.R. Hicks and R.G.D. Allen, R. Stone, and A. Marshall",
+    "A. Marshall, J.R. Hicks, R.G.D. Allen, P. Samuelson and R. Stone"
+   ],
+   "answer": 3,
+   "explanation": "Marshall (1890) → Hicks & Allen (1934) → Samuelson (1938) → Stone (1954, LES)."
+  },
+  {
+   "q": "Among normal cost curves which one of the following curve does not have a minimum point?  \n*[UGC NET December 2019 S1 · Q.52]*",
+   "options": [
+    "Average cost",
+    "Marginal cost",
+    "Average variable cost",
+    "Average fixed cost"
+   ],
+   "answer": 3,
+   "explanation": "AFC keeps falling; it has no minimum."
+  },
+  {
+   "q": "The 'Compensation Criterion' which says that state A is socially preferable to state B, if those  \nwho gain from the change can compensate the losers and yet end up with surplus welfare gain is  \nattributed to:  \n*[UGC NET December 2019 S1 · Q.53]*",
+   "options": [
+    "W. Pareto",
+    "N. Kaldor",
+    "T. Scitovsky",
+    "Bergson"
+   ],
+   "answer": 1,
+   "explanation": "The compensation test (gainers can compensate losers) is Kaldor's (1939)."
+  },
+  {
+   "q": "The total cost function of a firm is C = (1/10)q³ − 3q² + 50q + 300 where C = total cost, q =  \noutput. Marginal cost at q = 10 is:  \n*[UGC NET December 2019 S1 · Q.65]*",
+   "options": [
+    "20",
+    "10",
+    "30",
+    "50"
+   ],
+   "answer": 0,
+   "explanation": "MC = 0.3q² − 6q + 50 = 30 − 60 + 50 = 20 at q = 10."
+  },
+  {
+   "q": "For a Cobb-Douglas production function Q = 100·L0.7·K0.3, which of the following is not true?  \n*[UGC NET December 2019 S1 · Q.66]*",
+   "options": [
+    "It is Linear Homogenous function",
+    "It is characterized by constant returns to scale",
+    "It is having zero elasticity of factor substitution",
+    "It is characterized by unit elasticity of substitution"
+   ],
+   "answer": 2,
+   "explanation": "Cobb–Douglas has σ = 1, not zero; it is linearly homogeneous here (0.7 + 0.3 = 1)."
+  },
+  {
+   "q": "Which one of the following is an example of a positive externality?  \n*[UGC NET December 2019 S1 · Q.71]*",
+   "options": [
+    "Public immunizations",
+    "Increase of corporate taxes",
+    "Issuing extra permits for pollutions",
+    "Monitoring the hazards caused by industries"
+   ],
+   "answer": 0,
+   "explanation": "Immunisation protects others too: positive externality."
+  },
+  {
+   "q": "Which amongst the following market form leads to most efficient allocation of resources?  \n*[UGC NET December 2019 S1 · Q.72]*",
+   "options": [
+    "Monopolistic Competition",
+    "Monopoly",
+    "Oligopoly",
+    "Perfect Competition"
+   ],
+   "answer": 3,
+   "explanation": "Perfect competition gives P = MC: allocative efficiency."
+  },
+  {
+   "q": "The elasticity of substitution (σ) of the production function which admits of both Hicks and  \nHarrod neutral technical progress would be:  \n*[UGC NET December 2019 S1 · Q.79]*",
+   "options": [
+    "σ = 0",
+    "σ = 1",
+    "σ = ∞",
+    "0 < σ < 1"
+   ],
+   "answer": 1,
+   "explanation": "Only the Cobb–Douglas form (σ = 1) admits both Hicks- and Harrod-neutral progress."
+  },
+  {
+   "q": "Which of the following is not an example of 'market failure'?  \n*[UGC NET December 2019 S1 · Q.83]*",
+   "options": [
+    "Monopolies",
+    "Asymmetric information",
+    "Economies of scale",
+    "Externalities"
+   ],
+   "answer": 2,
+   "explanation": "Economies of scale are a cost feature, not by themselves a market failure."
+  },
+  {
+   "q": "Choose the correct option for which the allocation of inputs is technically efficient?  \n(a) Output of one good can not be decreased without increasing the output of the other good  \n(b) Consumption of one good can not be increased without decreasing the consumption of  \nanother good  \n(c) Consumer attains maximum satisfaction  \n*[UGC NET December \n2019 S1 · Q.91]*",
+   "options": [
+    "(b) only",
+    "(a) only",
+    "Both (a) and (c)",
+    "Both (b) and (c)"
+   ],
+   "answer": 1,
+   "explanation": "Technical (production) efficiency concerns outputs: one cannot rise without the other falling."
+  },
+  {
+   "q": "Consider the following statements:  \n(I) Preferring of a certain income to a risky income with the same level of expected value lead to  \na risk averse behaviour  \n(II) Being indifferent between a certain income and uncertain income with the same level of  \nexpected value leads to risk averse behaviour  \nWhich of the above statement is/are true? Choose the correct option given below:  \n*[UGC NET December 2019 S1 · Q.92]*",
+   "options": [
+    "Both (I) and (II) are true",
+    "Neither (I) nor (II) is true",
+    "Only (I) is true",
+    "Only (II) is true"
+   ],
+   "answer": 2,
+   "explanation": "Preferring certainty to an equal-expected-value gamble is risk aversion; indifference is risk neutrality."
+  },
+  {
+   "q": "Match List A and List B and choose the correct answer from the code given below:  \nList - I List - II  \n(a) Quasi Rent (i) A.P. Lerner  \n(b) Planned Sales Curve (ii) P.A. Samuelson  \n(c) Monopoly Power (iii) A. Marshall  \n(d) Strong Ordering of Preferences (iv) F. Chamberlin  \n*[UGC NET December \n2019 S1 · Q.111]*",
+   "options": [
+    "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+    "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+    "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+    "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+   ],
+   "answer": 0,
+   "explanation": "Quasi-rent: Marshall; planned sales curve: Chamberlin; monopoly power index: Lerner; strong ordering: Samuelson."
+  },
+  {
+   "q": "Arrange in chronological order the following contributions of economists in theory of  \nconsumer. Choose the correct answer:  \n*[UGC NET December 2019 S1 · Q.121]*",
+   "options": [
+    "Linear Expenditure System, Revealed preference Theory, Cardinal Theory, Ordinal Theory",
+    "Cardinal Theory, Ordinal Theory, Revealed Preference Theory, Linear Expenditure System",
+    "Cardinal Theory, Revealed Preference Theory, Ordinal Theory, Linear Expenditure System",
+    "Revealed Preference Theory, Cardinal Theory, Linear Expenditure System, Ordinal Theory"
+   ],
+   "answer": 1,
+   "explanation": "Cardinal → ordinal (1934) → revealed preference (1938) → linear expenditure system (Stone, 1954)."
+  },
+  {
+   "q": "Given below are two statements — one is labelled as Assertion (A) and the other is labelled  \nas Reason (R):  \nAssertion (A): For certain goods, the expenditure by the consumers decreases.  \nReason (R): For such goods, the income elasticity of demand is high.  \nIn the light of the above two statements choose the correct option:  \n*[UGC NET December 2019 S1 · Q.131]*",
+   "options": [
+    "Both (A) and (R) are true and (R) is correct explanation of (A)",
+    "Both (A) and (R) are true and (R) is not correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 2,
+   "explanation": "Spending falls on inferior goods as income rises, but their income elasticity is negative, not high."
+  },
+  {
+   "q": "Given below are two statements — one is labelled as Assertion (A) and the other is labelled  \nas Reason (R):  \nAssertion (A): CES production function covers large class of production functions  \nReason (R): CES production function has the property of constancy of elasticity of factor  \nsubstitution  \nIn the light of the above two statements choose the correct option:  \n*[UGC NET December 2019 S1 · Q.134]*",
+   "options": [
+    "Both (A) and (R) are true and (R) is correct explanation of (A)",
+    "Both (A) and (R) are true and (R) is not correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "explanation": "Because σ is a constant that can take any value, CES includes Cobb–Douglas, Leontief and linear forms."
+  },
+  {
+   "q": "Given below are two statements — one is labelled as Assertion (A) and the other is labelled  \nas Reason (R):  \nAssertion (A): Parties to a dispute over property rights will be able to negotiate an economically  \noptimal solution  \nReason (R): There are efficient, competitive markets and there are no transaction costs  \nIn the light of the above two statements choose the correct option:  \n*[UGC NET December 2019 S1 · Q.139]*",
+   "options": [
+    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are true and (R) is not the correct explanation of (A)",
+    "(A) is true but (R) is false",
+    "(A) is false but (R) is true"
+   ],
+   "answer": 0,
+   "explanation": "Coase: with competitive markets and no transaction costs, bargaining reaches the optimum."
+  },
+  {
+   "q": "Given below are two statements  \nStatement I: Learning curve effect is related to a firm's long-run average cost curve  \nStatement II: A swapped allocation is one that is Pareto efficient as well as an equitable  \nallocation  \nIn light of the above statements, choose the correct answer from the options given below  \n*[UGC NET June 2020 S2 · Q.51]*",
+   "options": [
+    "Both Statement I and Statement II are true",
+    "Both Statement I and Statement II are false",
+    "Statement I is correct but Statement II is false",
+    "Statement I is incorrect but Statement II is true"
+   ],
+   "answer": 2,
+   "explanation": "Learning effects lower long-run average cost; an efficient and equitable allocation is a 'fair' allocation, not a 'swapped' one."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Effectiveness of private market in dealing (I) Laffer curve  \nwith externalities  \n(B) Relationship between increase in tax rate (II) Deadweight Loss  \nand tax revenue  \n(C) Dominant strategy (III) Coase Theorem  \n(D) Controlling prices through effective price (IV) Game Theory  \nceiling and a price floor  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.53]*",
+   "options": [
+    "A - III, B - I, C - IV, D - II",
+    "A - IV, B - I, C - II, D - III",
+    "A - I, B - III, C - II, D - IV",
+    "A - III, B - I, C - II, D - IV"
+   ],
+   "answer": 0,
+   "explanation": "Coase theorem, Laffer curve, game theory, deadweight loss."
+  },
+  {
+   "q": "For the production function, Q = A·Lα·Kβ:  \n(A) The Coefficient A shows managerial efficiency  \n(B) If α + β > 1 then the production function exhibits increasing returns to scale  \n(C) Marginal Rate of Technical Substitution of L for K is given by βK/αL  \n(D) The Marginal Product of Capital is given by β(Q/K)  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.54]*",
+   "options": [
+    "A, B and C only",
+    "A, B and D only",
+    "A, C and D only",
+    "A, B, C and D only"
+   ],
+   "answer": 1,
+   "explanation": "MRTS(L for K) = MPL/MPK = αK/βL, so C is wrong; A, B, D are right."
+  },
+  {
+   "q": "Presence of asymmetric information in the market causes which of the following?  \n(A) Adverse selection  \n(B) Marginal benefits of an additional unit of resources diminish with an increasing number of  \nunit of resources  \n(C) Efficiency wages  \n(D) Principal-Agent problem  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · \nQ.55]*",
+   "options": [
+    "A, B and D only",
+    "B, C and D only",
+    "A and D only",
+    "A and C only"
+   ],
+   "answer": 2,
+   "explanation": "Adverse selection and principal–agent problems come from asymmetric information (efficiency wages also, but no option has A, C and D)."
+  },
+  {
+   "q": "The solution of the following game is given by:  \nPlayer A \\ Player B B1 B2 B3  \nA1 2 4 2  \nA2 1 −5 −4  \nA3 2 6 −2  \n*[UGC NET June 2020 S2 · Q.56]*",
+   "options": [
+    "Value of game = 2. Best strategy for Players A and B are (A1, B1) respectively",
+    "Value of game = 2. Best strategy for Players A and B are (A1, B1) or (A3, B1) or (A1, B3) respectively",
+    "Value of game = 2. Best strategy for Players A and B are (A3, B1) respectively",
+    "Value of game = 2. Best strategy for Players A and B are (A1, B3) respectively"
+   ],
+   "answer": 0,
+   "explanation": "Row minima 2, −5, −2 → maximin 2 (A1); column maxima 2, 6, 2 → minimax 2. Saddle point at (A1, B1) (A1, B3 is also a saddle)."
+  },
+  {
+   "q": "Market failure is caused due to the presence of  \n(A) Poverty  \n(B) Externalities  \n(C) Market power  \n(D) Private goods  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.57]*",
+   "options": [
+    "A and B only",
+    "B and C only",
+    "B, C and D only",
+    "B and C only"
+   ],
+   "answer": 1,
+   "explanation": "Externalities and market power cause market failure (options 2 and 4 are identical in the paper)."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Chamberlin (I) Small group model  \n(B) Sweezy (II) Kinked demand curve  \n(C) Stackelberg (III) Price leadership model  \n(D) Fellner (IV) Reaction curves  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.58]*",
+   "options": [
+    "A - I, B - III, C - IV, D - II",
+    "A - II, B - I, C - III, D - IV",
+    "A - II, B - I, C - IV, D - III",
+    "A - I, B - II, C - IV, D - III"
+   ],
+   "answer": 3,
+   "explanation": "Chamberlin: small group; Sweezy: kinked demand; Stackelberg: reaction curves; Fellner: price leadership."
+  },
+  {
+   "q": "Maximum Social Welfare is guaranteed where a competitive firm exhibits the following  \ncondition [where MRPTxy is Marginal Rate of Product Transformation of x for y]  \n*[UGC NET June 2020 S2 · Q.59]*",
+   "options": [
+    "MRPTxy = Px/Py = Marginal Cost of x (MCx) / Marginal Cost of y (MCy)",
+    "MRPTxy = Px/Py = Total Cost of x / Total Cost of y",
+    "MRPTxy = Px/Py = Average Variable Cost of x / Average Variable Cost of y",
+    "MRPTxy = Px/Py = Total variable Cost of x / Total variable Cost of y"
+   ],
+   "answer": 0,
+   "explanation": "Welfare maximum: MRPT = price ratio = ratio of marginal costs."
+  },
+  {
+   "q": "Given below are two statements, one is labelled as Assertion A and the other is labelled as  \nReason R  \nAssertion A: Compared to a certain point on the Contract curve, a point above the Contract  \ncurve is more efficient  \nReason R: The Contract curve represents the locus of points where the marginal rate of  \nsubstitution between two goods is the same for both individuals  \nIn light of the above statements, choose the most appropriate answer from the options given  \nbelow  \n*[UGC NET June 2020 S2 · Q.60]*",
+   "options": [
+    "Both A and R are correct and R is the correct explanation of A",
+    "Both A and R are correct but R is NOT the correct explanation of A",
+    "A is correct but R is not correct",
+    "A is not correct but R is correct"
+   ],
+   "answer": 3,
+   "explanation": "Points off the contract curve are inefficient, so A is wrong; R correctly defines the contract curve."
+  },
+  {
+   "q": "A leftward shift in labour demand curve is caused by  \n*[UGC NET June 2020 S2 · Q.61]*",
+   "options": [
+    "Increase in wage rate",
+    "Decrease in wage rate",
+    "Increase in marginal productivity of labour",
+    "Decrease in marginal productivity of labour"
+   ],
+   "answer": 3,
+   "explanation": "Labour demand = MRP_L; lower productivity shifts it left. Wage changes move along the curve."
+  },
+  {
+   "q": "Cross elasticity of demand of metro rides is 0.8 and total ridership per day is 1.5 Lakh. If  \nprice of bus rides rises by 5%, the change in total metro rides will be  \n*[UGC NET June 2020 S2 · Q.62]*",
+   "options": [
+    "4000",
+    "5000",
+    "6000",
+    "7500"
+   ],
+   "answer": 2,
+   "explanation": "%ΔQ = 0.8 × 5% = 4%; 4% of 1,50,000 = 6,000."
+  },
+  {
+   "q": "Given the Total Revenue function, TR = 1400Q − 6Q² and Total Cost function, TC = 1500 +  \n80Q, at Q = 100 units (where Q is the amount of output), which one of the following responses is  \ncorrect?  \n(A) MR > MC  \n(B) MC = 80  \n(C) MR < MC  \n(D) MR = MC  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.86]*",
+   "options": [
+    "A and B are true only",
+    "B and C are true only",
+    "B and D are true only",
+    "Can't be defined"
+   ],
+   "answer": 0,
+   "explanation": "MR = 1400 − 12Q = 200 at Q = 100; MC = 80, so MR > MC."
+  },
+  {
+   "q": "Given the production function, Q = 10·L0.8·K0.2, the Marginal Product of Labour (MPL) and  \nCapital (MPK), respectively are given by  \n(A) MPL = 8(K/L)0.2  \n(B) MPL = 8(L/K)0.2  \n(C) MPK = 2(L/K)0.8  \n(D) MPK = 2(K/L)0.8  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2020 S2 · Q.87]*",
+   "options": [
+    "A and D are true only",
+    "A and C are true only",
+    "B and C are true only",
+    "B and D are true only"
+   ],
+   "answer": 1,
+   "explanation": "MPL = 8L^−0.2K^0.2 = 8(K/L)^0.2; MPK = 2L^0.8K^−0.8 = 2(L/K)^0.8."
+  },
+  {
+   "q": "Given the Total Cost, TC = Q³ − 10Q² + 60Q, what will be the Minimum average cost? At  \nwhat level of output will the minimum cost occur? (Q is the level of output)  \n*[UGC NET June 2020 S2 · Q.89]*",
+   "options": [
+    "Minimum average cost is AC(min) = 35 at Q = 5",
+    "Minimum average cost is AC(min) = 175 at Q = 5",
+    "Minimum average cost is AC(min) = 170 at Q = 1",
+    "Minimum average cost is AC(min) = 45 at Q = 1 Nov 2021)"
+   ],
+   "answer": 0,
+   "explanation": "AC = Q² − 10Q + 60, minimum at Q = 5: AC = 35."
+  },
+  {
+   "q": "In case of indifference curve of two goods X and Y, as consumption of X increases:  \n*[UGC NET December \n2020 · Q.1]*",
+   "options": [
+    "MRSxy increases",
+    "MRSxy decreases",
+    "MRSxy remains the same",
+    "First MRSxy increases but later on MRSxy decreases"
+   ],
+   "answer": 1,
+   "explanation": "Diminishing MRS along a convex indifference curve."
+  },
+  {
+   "q": "General Economic Equilibrium is NOT related to which one of the following problems?  \n*[UGC NET December 2020 · Q.2]*",
+   "options": [
+    "Uniqueness problem",
+    "Existence problem",
+    "Stability problem",
+    "Moral Hazard problem"
+   ],
+   "answer": 3,
+   "explanation": "GE deals with existence, uniqueness and stability; moral hazard is an information problem."
+  },
+  {
+   "q": "In the short-run production function, which one of the following is CORRECT?  \n*[UGC NET December 2020 · \nQ.3]*",
+   "options": [
+    "Technology is assumed to change as labour input changes",
+    "Technology is assumed to change as capital stock changes",
+    "Technology is assumed to change positively until diminishing returns set in",
+    "Technology is assumed to be constant for a given production function relationship"
+   ],
+   "answer": 3,
+   "explanation": "Technology is held constant along a production function."
+  },
+  {
+   "q": "As output expands, LAC curve falls. This is due to:  \n*[UGC NET December 2020 · Q.4]*",
+   "options": [
+    "Law of variable proportions",
+    "Law of diminishing returns",
+    "Economies of scale",
+    "Diseconomies of scale"
+   ],
+   "answer": 2,
+   "explanation": "LAC falls because of economies of scale."
+  },
+  {
+   "q": "In a situation of decision under uncertainty, if a consumer faces equal expected income from  \ntwo alternatives, then s/he will take decision on the basis of  \n*[UGC NET December 2020 · Q.5]*",
+   "options": [
+    "Expected utility of both the alternatives",
+    "Probability of risk attached with each alternative",
+    "Variation of risk attached with each alternative",
+    "Mean of risk of each alternative"
+   ],
+   "answer": 0,
+   "explanation": "Under uncertainty choices follow expected utility, which accounts for the risk in each alternative."
+  },
+  {
+   "q": "Which method can help in obtaining a welfare improvement, if externalities exist?  \n*[UGC NET December \n2020 · Q.24]*",
+   "options": [
+    "Pigovian taxes",
+    "Regulation",
+    "Assigning property rights and permitting bargaining",
+    "All of the above"
+   ],
+   "answer": 3,
+   "explanation": "Pigovian taxes, regulation and Coasian bargaining can all improve welfare."
+  },
+  {
+   "q": "The incidence of which of the following will entirely be on the monopolist?  \n*[UGC NET December 2020 · Q.26]*",
+   "options": [
+    "Lump-sum tax",
+    "Specific tax",
+    "Regulated monopoly pricing",
+    "None of these"
+   ],
+   "answer": 0,
+   "explanation": "A lump-sum tax does not change MC or MR, so price and output are unchanged; the monopolist bears it."
+  },
+  {
+   "q": "If a production function admits both Harrod and Hicks neutral technical progress, the  \nelasticity of substitution should be  \n*[UGC NET December 2020 · Q.33]*",
+   "options": [
+    "equal to one",
+    "equal to zero",
+    "equal to infinity",
+    "equal to one divided by two"
+   ],
+   "answer": 0,
+   "explanation": "Both neutralities together require σ = 1 (Cobb–Douglas)."
+  },
+  {
+   "q": "According to Ronald Coase, which of the following statements is CORRECT for pollution  \ncontrol?  \n*[UGC NET December 2020 · Q.35]*",
+   "options": [
+    "Providing property rights to the state",
+    "Providing property rights to the legal institutions",
+    "Providing property rights to polluters and pollutees",
+    "Providing property rights to Trade Unions"
+   ],
+   "answer": 2,
+   "explanation": "Coase: assign property rights to polluters or victims and let them bargain."
+  },
+  {
+   "q": "Which of the following measures are used by a risk-averse person to minimize risk?  \n(A) Diversification of resources  \n(B) Insurance of risk event  \n(C) Total cost of resources  \n(D) Value of information of risk event  \nChoose the correct answer from the options given below:  \n*[UGC NET December \n2020 · Q.41]*",
+   "options": [
+    "A, B and C only",
+    "A, B and D only",
+    "B, C and D only",
+    "A, C and D only"
+   ],
+   "answer": 1,
+   "explanation": "Diversification, insurance and buying information reduce risk (Pindyck)."
+  },
+  {
+   "q": "Which of the following statements are CORRECT for welfare economics?  \n(A) Any competitive equilibrium leads to a Pareto efficient allocation of resources  \n(B) Competitive equilibrium does not lead to Pareto efficient allocation of resources  \n(C) Any efficient allocation can be attained by a competitive equilibrium given the market  \nmechanism leading to redistribution  \n(D) There will be no Pareto efficient allocation of resources in the society  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.42]*",
+   "options": [
+    "A, B and C only",
+    "A and C only",
+    "B and C only",
+    "C and D only"
+   ],
+   "answer": 1,
+   "explanation": "First and second fundamental theorems of welfare economics."
+  },
+  {
+   "q": "Which of the following conditions hold true for factor pricing when factor market is perfectly  \ncompetitive and product market is monopolistic?  \n(A) VMP > MRP  \n(B) Both VMP and MRP decreasing  \n(C) VMP < MRP  \n(D) MRPL = W  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.43]*",
+   "options": [
+    "A, B and C only",
+    "B, C and D only",
+    "A, B and D only",
+    "A, C and D only"
+   ],
+   "answer": 2,
+   "explanation": "Under product monopoly VMP > MRP, both slope down, and the firm hires where MRP = W."
+  },
+  {
+   "q": "Which of the following are a source of market failure?  \n(A) The existence of public goods  \n(B) The presence of externalities  \n(C) The fact that some goods are rivals in consumption  \n(D) The existence of monopolies  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.48]*",
+   "options": [
+    "A, B and D only",
+    "A, B and C only",
+    "B, C and D only",
+    "A, C and D only"
+   ],
+   "answer": 0,
+   "explanation": "Public goods, externalities and monopolies cause market failure; rivalry is normal for private goods."
+  },
+  {
+   "q": "Which of the following are NOT properties of Cobb-Douglas production function?  \n(A) Cobb-Douglas production function is a homogeneous production function  \n(B) Curves representing average and marginal productivity of inputs are not downward sloping  \n(C) Marginal productivity of labour and capital in Cobb-Douglas production function are  \nfunctions of the capital-labour ratio  \n(D) Iso-quants of Cobb-Douglas production functions are positively sloped  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 \n· Q.59]*",
+   "options": [
+    "A and B only",
+    "B and D only",
+    "B and C only",
+    "C and D only"
+   ],
+   "answer": 1,
+   "explanation": "AP and MP curves slope downward and isoquants slope negatively, so B and D are not properties."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Perfect competition (I) Many real or perceived differences in  \nproducts  \n(B) Monopoly (II) Little or no difference in products  \n(C) Monopolistic competition (III) Identical products  \n(D) Oligopoly (IV) Product without close substitutes  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2020 · Q.66]*",
+   "options": [
+    "A - III, B - IV, C - I, D - II",
+    "A - III, B - I, C - II, D - IV",
+    "A - II, B - IV, C - I, D - III",
+    "A - III, B - IV, C - II, D - I"
+   ],
+   "answer": 0,
+   "explanation": "Identical (PC), no close substitutes (monopoly), many differences (MC), little difference (oligopoly)."
+  },
+  {
+   "q": "Arrange the following concepts of consumer behaviour in chronological order  \n(A) Law of diminishing marginal utility  \n(B) Law of demand  \n(C) Revealed Preference Analysis  \n(D) Indifference Curve Analysis  \nChoose the correct answer from the options given below  \n*[UGC NET December 2020 · \nQ.76]*",
+   "options": [
+    "A, B, D, C",
+    "B, A, D, C",
+    "B, A, C, D",
+    "A, B, C, D"
+   ],
+   "answer": 0,
+   "explanation": "Law of DMU → law of demand (Marshall) → indifference curves (1934) → revealed preference (1938)."
+  },
+  {
+   "q": "Given below are two statements, one is labelled as Assertion A and the other is labelled as  \nReason R  \nAssertion A: A lumpsum tax imposed on a monopolist cannot be shifted to the consumers.  \nReason R: The lumpsum tax becomes a part of his fixed cost and it does not affect the marginal  \ncost of production.  \nIn light of the above statements, choose the most appropriate answer from the options given  \nbelow  \n*[UGC NET December 2020 · Q.86]*",
+   "options": [
+    "Both A and R are correct and R is the correct explanation of A",
+    "Both A and R are correct but R is NOT the correct explanation of A",
+    "A is correct but R is not correct",
+    "A is not correct but R is correct"
+   ],
+   "answer": 0,
+   "explanation": "A lump-sum tax adds to fixed cost only, so MC and optimum output are unchanged."
+  },
+  {
+   "q": "Given below are two statements:  \nStatement I: Social Welfare Function (SWF) is a sort of social indifference map consisting of the  \nSocial Indifference Curves (SICs) which shows the various combination of utilities that gives the  \nsame level of social welfare (SW).  \nStatement II: Social Indifference Curves (SICs) may not be convex or concave to the origin  \nIn light of the above statements, choose the most appropriate answer from the options given  \nbelow  \n*[UGC NET December 2020 · Q.89]*",
+   "options": [
+    "Both Statement I and Statement II are correct",
+    "Both Statement I and Statement II are incorrect",
+    "Statement I is correct but Statement II is incorrect",
+    "Statement I is incorrect but Statement II is correct 2022)"
+   ],
+   "answer": 2,
+   "explanation": "A social welfare function is a map of social indifference curves; SICs are normally convex to the origin."
+  },
+  {
+   "q": "If the income effect for a good is in the opposite direction as the substitution effect, but the  \nsubstitution effect dominates then the good is  \n*[UGC NET December 2021 · Q.1]*",
+   "options": [
+    "Normal",
+    "Inferior but not giffen",
+    "Giffen",
+    "None of the above"
+   ],
+   "answer": 1,
+   "explanation": "Opposite but weaker income effect: inferior, not Giffen."
+  },
+  {
+   "q": "Two factors of production, say A and B have the same price. The least cost combination of A  \nand B for producing given level of output will be achieved at a point where the Iso-quant has slope  \nequal to  \n*[UGC NET December 2021 · Q.2]*",
+   "options": [
+    "0",
+    "1",
+    "−1",
+    "2"
+   ],
+   "answer": 2,
+   "explanation": "Least cost: isoquant slope = −wA/wB = −1 when prices are equal."
+  },
+  {
+   "q": "Suppose a profit maximising monopolist is producing 800 units of output and is charging a  \nprice of Rs. 40 per unit. If the elasticity of demand for the product is −2, marginal cost of the last  \nunit produced is ________.  \n*[UGC NET December 2021 · Q.3]*",
+   "options": [
+    "10",
+    "−400",
+    "−2",
+    "20"
+   ],
+   "answer": 3,
+   "explanation": "MR = P(1 − 1/|e|) = 40 × 0.5 = 20 = MC."
+  },
+  {
+   "q": "Which of the followings is not a marginal condition of pareto optimality criteria?  \n*[UGC NET December 2021 · \nQ.4]*",
+   "options": [
+    "MRS(A)x,y = MRS(B)x,y = Px/Py",
+    "MRTS(x)L,K = MRTS(y)L,K = w/r",
+    "MRS(A)x,y = MRS(B)x,y = MRPTx,y",
+    "MRPT(K)x,y = MRPT(L)x,y = w/r"
+   ],
+   "answer": 3,
+   "explanation": "MRPT between two goods cannot differ by factor; option 4 is not a Pareto condition."
+  },
+  {
+   "q": "The strategy of choosing the policy which has the best possible outcome is known as  \n________.  \n*[UGC NET December 2021 · Q.5]*",
+   "options": [
+    "Dominant strategy",
+    "Maxi max",
+    "Mini max",
+    "Maxi min"
+   ],
+   "answer": 1,
+   "explanation": "Choosing the best of the best outcomes is the maximax strategy."
+  },
+  {
+   "q": "If the demand function is P = 35 − 2x − x² and the demand x0 is 3, what will be the  \nconsumer's surplus?  \n*[UGC NET December 2021 · Q.15]*",
+   "options": [
+    "27",
+    "25",
+    "60",
+    "20"
+   ],
+   "answer": 0,
+   "explanation": "P(3) = 20. CS = ∫₀³(35 − 2x − x²)dx − 60 = 87 − 60 = 27."
+  },
+  {
+   "q": "The total revenue (R) and total cost (C) function of a firm are given by R = 30Q − Q², C = 20  \n+ 4Q, where Q is output. Find the equilibrium output of the firm.  \n*[UGC NET December 2021 · Q.16]*",
+   "options": [
+    "4",
+    "13",
+    "15",
+    "10"
+   ],
+   "answer": 1,
+   "explanation": "MR = 30 − 2Q = MC = 4 → Q = 13."
+  },
+  {
+   "q": "Which of the following conditions are satisfied for a rational firm to achieve its equilibrium by  \nmaximising Q = f(L, K) subject to C = wL + rK.  \n(A) (∂Q/∂L) / (∂Q/∂K) = w/r  \n(B) ∂²Q/∂L² > 0, ∂²Q/∂K² > 0  \n(C) ∂²Q/∂L² < 0 and ∂²Q/∂K² > 0  \n(D) ∂²Q/∂L² < 0 and ∂²Q/∂K² < 0  \n(E) (∂²Q/∂L²)(∂²Q/∂K²) > (∂²Q/∂L∂K)²  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2021 · Q.41]*",
+   "options": [
+    "(A), (B) and (E) only",
+    "(A), (D) and (E) only",
+    "(A) and (E) only",
+    "(A) and (B) only"
+   ],
+   "answer": 1,
+   "explanation": "First-order condition (A) plus concavity: Q_LL < 0, Q_KK < 0 and Q_LL·Q_KK > Q_LK²."
+  },
+  {
+   "q": "Which of the followings are correct?  \n(A) The market is a system that works with price mechanism  \n(B) Market failure refers to the divergence of market equilibrium from pareto optimality  \n(C) Market fails to efficiently supply public goods and the same makes a case for govt  \nintervention  \n(D) Market efficiently works in the presence of positive externalities  \n(E) Market efficiently works in the presence of negative externalities  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2021 · Q.51]*",
+   "options": [
+    "(A), (B), (C) and (D) only",
+    "(A), (B) and (C) only",
+    "(C), (D) and (E) only",
+    "(B) and (E) only"
+   ],
+   "answer": 1,
+   "explanation": "Markets fail with externalities (positive or negative); A, B, C are correct."
+  },
+  {
+   "q": "Which of the followings are assumptions of ordinal utility analysis?  \n(A) Consumers are consistent in their preferences  \n(B) Consumer can measure the total utility received from any given basket of goods  \n(C) Consumer preferences follow transitivity  \n(D) Consumers are non-satiated with respect to goods they confront  \n(E) Consumers are irrational  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2021 · Q.52]*",
+   "options": [
+    "(B), (C), (D) only",
+    "(C), (D), (E) only",
+    "(A), (C), (D) only",
+    "(A), (B), (C) only"
+   ],
+   "answer": 2,
+   "explanation": "Ordinal theory assumes consistency, transitivity and non-satiation, not measurable utility."
+  },
+  {
+   "q": "Which of the followings conditions prevail in the long run equilibrium of industry for achieving  \noptimal resource allocation  \n(A) The output is produced at the minimum feasible cost  \n(B) Consumer pays the minimum possible price which just covers the marginal cost of the  \nproduct  \n(C) Plants are used at full capacity in long run  \n(D) Firms earn supernormal profits  \n(E) Perfect competitive firms and price mechanism operates  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2021 · Q.59]*",
+   "options": [
+    "(A), (B), (C) and (E) only",
+    "(C), (D) and (E) only",
+    "(B), (D) and (E) only",
+    "(A), (B) and (E) only"
+   ],
+   "answer": 0,
+   "explanation": "Long-run competitive equilibrium: minimum cost, P = MC, full-capacity plants, competitive pricing; only normal profit."
+  },
+  {
+   "q": "Match List I with List II:  \nList - I List - II  \n(A) The greatest good for the greater number (I) Lerner's index  \n(B) Stability of general equilibrium (II) Bentham's criterion  \n(C) Degree of monopoly power (III) Tâtonnement  \n(D) Third degree price-discrimination (IV) Pigou  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2021 · Q.66]*",
+   "options": [
+    "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)",
+    "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+    "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)",
+    "(A)-(II), (B)-(III), (C)-(I), (D)-(IV)"
+   ],
+   "answer": 3,
+   "explanation": "Bentham, tâtonnement (Walras), Lerner index, Pigou's degrees of discrimination."
+  },
+  {
+   "q": "Which of the following is not true in case of Indifference curves?  \n*[UGC NET December 2022 S1 · Q.1]*",
+   "options": [
+    "The Indifference curves are usually convex or bowed inward.",
+    "Indifference curve for two goods that are perfect compliments is shaped as right angles.",
+    "Indifference curve for two goods that are perfect substitutes is a downward sloping straight line.",
+    "Indifference curve for two normal goods is a downward sloping straight line."
+   ],
+   "answer": 3,
+   "explanation": "Indifference curves between two normal goods are convex, not straight lines."
+  },
+  {
+   "q": "Which one of the following is not true in case of producer's equilibrium?  \n*[UGC NET December 2022 S1 · Q.2]*",
+   "options": [
+    "MPL/MPK = w/r",
+    "MRTS(LK) = MPL/MPK = w/r",
+    "MPL/w = MPK/r",
+    "MRTS(LK) = r/w"
+   ],
+   "answer": 3,
+   "explanation": "Equilibrium: MRTS(L,K) = w/r, not r/w."
+  },
+  {
+   "q": "A game in which the gains or losses of one player or firm do not come at the expenses of or  \nprovide equal benefit to the other player or firm, is known as ________.  \n*[UGC NET December 2022 S1 · Q.3]*",
+   "options": [
+    "Zero-Sum game",
+    "Non-Zero Sum game",
+    "Mixed game",
+    "Balanced game"
+   ],
+   "answer": 1,
+   "explanation": "When one's gain is not the other's loss, the game is non-zero-sum."
+  },
+  {
+   "q": "The condition of preferring a risky income to a certain income with the same expected value  \nis referred as:  \n*[UGC NET December 2022 S1 · Q.4]*",
+   "options": [
+    "Risk averse",
+    "Risk loving",
+    "Risk neutral",
+    "Risk premium"
+   ],
+   "answer": 1,
+   "explanation": "Preferring the risky option with the same expected value = risk loving."
+  },
+  {
+   "q": "________ arises when the firm can produce any combination of the two outputs more cheaply  \nthan could two independent firms that each produced a single output.  \n*[UGC NET December 2022 S1 · Q.5]*",
+   "options": [
+    "Learner's curve",
+    "Economies of scale",
+    "Dis-economies of scale",
+    "Economies of scope"
+   ],
+   "answer": 3,
+   "explanation": "Cheaper joint production of two outputs = economies of scope."
+  },
+  {
+   "q": "In which oligopoly model, firms produce homogenous goods and each firm treats the price of  \nits competitors as fixed and all firms decide simultaneously, what price to change?  \n*[UGC NET December 2022 S1 · \nQ.6]*",
+   "options": [
+    "Bertrand model",
+    "Cournot model",
+    "Stackelberg model",
+    "Sweezy model"
+   ],
+   "answer": 0,
+   "explanation": "Bertrand: homogeneous goods, price competition, rivals' prices taken as given."
+  },
+  {
+   "q": "If the demand for labour increases, then  \n*[UGC NET December 2022 S1 · Q.9]*",
+   "options": [
+    "Real wage rises",
+    "The amount of labour employed increases",
+    "Both 1 and 2 happen",
+    "None of the above"
+   ],
+   "answer": 2,
+   "explanation": "Higher labour demand raises both the real wage and employment (upward-sloping supply)."
+  },
+  {
+   "q": "If the demand and supply functions are given Pd = 20 − 5x and Ps = 4x + 8; obtain  \nProducer's surplus.  \n*[UGC NET December 2022 S1 · Q.14]*",
+   "options": [
+    "31/9",
+    "32/9",
+    "129/9",
+    "29/9"
+   ],
+   "answer": 1,
+   "explanation": "Equilibrium x = 4/3, P = 40/3. PS = 160/9 − ∫₀^(4/3)(4x + 8)dx = 160/9 − 128/9 = 32/9."
+  },
+  {
+   "q": "The demand function for Good A is given by QA = 100 − 2PA + 0.2Y + 0.3PB. Find the  \ncross-price elasticity of demand at PA = 6, Y = 500, PB = 10.  \n*[UGC NET December 2022 S1 · Q.15]*",
+   "options": [
+    "0.06",
+    "0.016",
+    "0.52",
+    "−0.06"
+   ],
+   "answer": 1,
+   "explanation": "QA = 191. Cross elasticity = 0.3 × 10/191 ≈ 0.016."
+  },
+  {
+   "q": "Find the Elasticity of Substitution (σ) of Constant elasticity of substitution (CES) Production  \nfunction, when the substitution parameter (ρ) lies between 0 < ρ < ∞.  \n*[UGC NET December 2022 S1 · Q.18]*",
+   "options": [
+    "σ > 1",
+    "σ < 1",
+    "σ = ∞",
+    "σ = 1"
+   ],
+   "answer": 1,
+   "explanation": "σ = 1/(1 + ρ) < 1 when ρ > 0."
+  },
+  {
+   "q": "Which of the following is true in the case of externality?  \n*[UGC NET December 2022 S1 · Q.36]*",
+   "options": [
+    "It is not related to human interactions",
+    "It is not tied to consumer sovereignty",
+    "It is based on higher order judgements of right and wrong",
+    "It is an amoral concept"
+   ],
+   "answer": 3,
+   "explanation": "An externality is a positive (amoral) economic concept, not a moral judgement."
+  },
+  {
+   "q": "Nash equilibrium represents  \n(A) The outcome each time the game is played  \n(B) Long-run equilibrium  \n(C) A situation in which one player will not deviate, given the strategy of other player  \n(D) Best response of the first mover  \n(E) The pair of dominated strategies  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.41]*",
+   "options": [
+    "A, B and C only",
+    "B and D only",
+    "B and C only",
+    "A, C and D only"
+   ],
+   "answer": 2,
+   "explanation": "Nash equilibrium: no player deviates given the other's strategy; a stable (long-run) outcome."
+  },
+  {
+   "q": "Which of the following are correct assumptions of Arrow's conditions of Social Welfare?  \n(A) Responsiveness to individual preferences  \n(B) Impositions  \n(C) Dictatorship  \n(D) Transitivity or consistency  \n(E) Independent of irrelevant alternatives  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.43]*",
+   "options": [
+    "A, B and D only",
+    "B, D and E only",
+    "B, C and D only",
+    "A, D and E only"
+   ],
+   "answer": 3,
+   "explanation": "Arrow's conditions include responsiveness, transitivity and independence of irrelevant alternatives (plus non-imposition, non-dictatorship)."
+  },
+  {
+   "q": "Which of the following are true for an oligopolistic market?  \n(A) The demand curve of oligopolistic market is indeterminate.  \n(B) There is a possibility of only two sellers.  \n(C) The product may be homogenous or differentiated.  \n(D) There is free entry into and free exit out of the market.  \n(E) There is an importance of advertisement cost.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.61]*",
+   "options": [
+    "A, B, C and D only",
+    "B, C and D only",
+    "A, B, C and E only",
+    "B, C, D and E only"
+   ],
+   "answer": 2,
+   "explanation": "Oligopoly: indeterminate demand, possibly two sellers, homogeneous or differentiated goods, heavy advertising; entry is restricted."
+  },
+  {
+   "q": "Consider a competitive polluting industry with identical firms and free entry. If the regulator  \nsets an emission cap for each firm equal to the socially optimal long run level per firm, which of the  \nfollowing will characterize the long run impact of such an environmental policy on this competitive  \nindustry?  \n(A) The industry size will be larger than the social optimum.  \n(B) The output produced by each firm will be less than socially optimal.  \n(C) The industry size will be smaller than the social optimum.  \n(D) The output produced by each firm will be larger than socially optimal.  \n(E) Total output and total pollution are greater than the social optimum.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.63]*",
+   "options": [
+    "A, D and E only",
+    "B, C and E only",
+    "C, D and E only",
+    "A, B and E only"
+   ],
+   "answer": 3,
+   "explanation": "Per-firm caps leave firms profitable, so too many firms enter: industry too large, total output and pollution above optimum. (Answer key may vary; check the official key.)"
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Extra risk that an investor must incur to (I) Risky Asset  \nenjoy a higher expected return.  \n(B) Tendency of individuals to value an item (II) Moral Hazard  \nmore when they own it than when they do not.  \n(C) Provides an uncertain flow of money or (III) Price of Risk  \nservices to its owner.  \n(D) When a party whose actions are (IV) Endowment effect  \nunobserved can affect the probability of  \npayment associated with an event.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S1 · Q.66]*",
+   "options": [
+    "A - I, B - IV, C - III, D - II",
+    "A - III, B - IV, C - I, D - II",
+    "A - III, B - IV, C - II, D - I",
+    "A - I, B - II, C - III, D - IV"
+   ],
+   "answer": 1,
+   "explanation": "Price of risk, endowment effect, risky asset, moral hazard (Pindyck)."
+  },
+  {
+   "q": "Given below are two statements:  \nStatement I: Every point on the Contract curve is Pareto efficient because one person could not  \nbe made better off without making someone else worse off.  \nStatement II: Every point on the Contract curve necessarily indicates equal level of economic  \nwelfare for the society.  \nIn light of the above statements, choose the most appropriate answer from the options given  \nbelow:  \n*[UGC NET December 2022 S1 · Q.86]*",
+   "options": [
+    "Both Statement I and Statement II are correct.",
+    "Both Statement I and Statement II are incorrect.",
+    "Statement I is correct but Statement II is incorrect.",
+    "Statement I is incorrect but Statement II is correct."
+   ],
+   "answer": 2,
+   "explanation": "All contract-curve points are efficient, but they differ in distribution and welfare."
+  },
+  {
+   "q": "In case of two goods for which the MRS is zero or infinite, then the nature of goods is:  \n*[UGC NET December 2022 S2 · Q.1]*",
+   "options": [
+    "Perfect substitutes",
+    "Normal goods",
+    "Perfect compliments",
+    "Close substitutes"
+   ],
+   "answer": 2,
+   "explanation": "MRS of 0 or ∞ at the kink: L-shaped curves of perfect complements."
+  },
+  {
+   "q": "Which of the following is not true?  \n*[UGC NET December 2022 S2 · Q.2]*",
+   "options": [
+    "Total effect of price change on consumption of a good is a combination of income effect and substitution effect",
+    "For inferior goods, income effect is always larger than substitution effect, in absolute terms.",
+    "For corner solution MRSxy ≠ Px/Py",
+    "For a normal good both the income and substitution effect hold"
+   ],
+   "answer": 1,
+   "explanation": "Only for Giffen goods does the income effect exceed the substitution effect."
+  },
+  {
+   "q": "The negative network externality in which a consumer wishes to own an exclusive or unique  \ngood such as specially designed sports car is:  \n*[UGC NET December 2022 S2 · Q.3]*",
+   "options": [
+    "Bandwagon effect",
+    "Tequila effect",
+    "Snob effect",
+    "Pigou effect"
+   ],
+   "answer": 2,
+   "explanation": "Wanting an exclusive good: snob effect (Leibenstein)."
+  },
+  {
+   "q": "When each player has chosen his or her optimal strategy given the strategy chosen by  \nother player, the situation is referred to as:  \n*[UGC NET December 2022 S2 · Q.4]*",
+   "options": [
+    "Nash Equilibrium",
+    "Wicksell's Equilibrium",
+    "Prisoner's dilemma",
+    "Co-operative Game"
+   ],
+   "answer": 0,
+   "explanation": "Each player's strategy is optimal given the other's: Nash equilibrium."
+  },
+  {
+   "q": "A firm has the following total cost and demand functions: C = (1/3)Q³ − 7Q² + 111Q + 50, Q  \n= 100 − P, then find the profit maximizing level of output (Q*) and maximum profit of the firm.  \n*[UGC NET December 2022 S2 · Q.5]*",
+   "options": [
+    "50 and 100",
+    "111 and 2150",
+    "11 and 111⅓",
+    "7 and 84"
+   ],
+   "answer": 2,
+   "explanation": "MR = 100 − 2Q = MC = Q² − 14Q + 111 → Q = 11; π = 979 − 867.67 = 111⅓."
+  },
+  {
+   "q": "The condition of preferring a certain income to a risky income with same expected value is  \nreferred to as:  \n*[UGC NET December 2022 S2 · Q.6]*",
+   "options": [
+    "Risk neutral",
+    "Risk loving",
+    "Risk averse",
+    "Risk Premium"
+   ],
+   "answer": 2,
+   "explanation": "Preferring certainty with the same expected value = risk averse."
+  },
+  {
+   "q": "Find the producer's surplus when Pd = 3x² − 20x + 5 and Ps = 15 + 9x (x is the quantity)  \n*[UGC NET December 2022 S2 · Q.13]*",
+   "options": [
+    "400",
+    "350",
+    "450",
+    "500"
+   ],
+   "answer": 2,
+   "explanation": "3x² − 29x − 10 = 0 → x = 10, P = 105. PS = 1050 − ∫₀¹⁰(15 + 9x)dx = 1050 − 600 = 450."
+  },
+  {
+   "q": "The demand function for good A is given by QA = 100 − 2PA + 0.2Y + 0.3PB. Find the  \nincome elasticity of demand at PA = 6, Y = 500, PB = 10.  \n*[UGC NET December 2022 S2 · Q.14]*",
+   "options": [
+    "0.06",
+    "0.02",
+    "0.52",
+    "−0.06"
+   ],
+   "answer": 2,
+   "explanation": "Income elasticity = 0.2 × 500/191 ≈ 0.52."
+  },
+  {
+   "q": "Find the substitution parameter ρ (rho) of constant elasticity of substitution (CES)  \nproduction function when the elasticity of substitution (σ) is greater than one.  \n*[UGC NET December 2022 S2 · Q.15]*",
+   "options": [
+    "ρ = 0",
+    "ρ = 1",
+    "−1 < ρ < 0",
+    "0 < ρ < ∞"
+   ],
+   "answer": 2,
+   "explanation": "σ = 1/(1 + ρ) > 1 when −1 < ρ < 0."
+  },
+  {
+   "q": "Suppose 'X' places Rs. 8 value on one bread packet and 'Y' places Rs. 6 value on it. If there  \nis no tax on bread, then price of bread packet is Rs. 5, so both X and Y choose to buy one packet  \neach. Now suppose government levies a tax of Rs. 2 per unit, the price of bread rises to Rs. 7. Then  \nthe deadweight loss and tax revenue collected respectively are:  \n*[UGC NET December 2022 S2 · Q.26]*",
+   "options": [
+    "Rs. 1 and Rs. 2",
+    "Rs. 2 and Rs. 4",
+    "Rs. 2 and Rs. 2",
+    "Rs. 1 and Rs. 4"
+   ],
+   "answer": 0,
+   "explanation": "At ₹7 only X buys: revenue ₹2; Y's lost surplus (6 − 5) = ₹1 is the deadweight loss."
+  },
+  {
+   "q": "Which of the following is not true in the case of externality?  \n*[UGC NET December 2022 S2 · Q.33]*",
+   "options": [
+    "It is related to human interactions",
+    "It is tied to consumer sovereignty",
+    "It is based on higher order judgements of right and wrong",
+    "It is an amoral concept"
+   ],
+   "answer": 2,
+   "explanation": "Externality is an amoral, positive concept; it is not based on judgements of right and wrong."
+  },
+  {
+   "q": "Compensating variation for a price decrease of a good can be interpreted as:  \n*[UGC NET December 2022 \nS2 · Q.34]*",
+   "options": [
+    "Willingness to pay",
+    "Willingness to accept",
+    "Both 1 and 2",
+    "None"
+   ],
+   "answer": 0,
+   "explanation": "CV for a price fall = maximum the consumer would pay to get the fall: willingness to pay."
+  },
+  {
+   "q": "Equivalent variation for a price increase of a good can be interpreted as:  \n*[UGC NET December 2022 S2 · \nQ.36]*",
+   "options": [
+    "Willingness to pay",
+    "Willingness to accept",
+    "Both 1 and 2",
+    "None"
+   ],
+   "answer": 0,
+   "explanation": "EV for a price rise = what the consumer would pay to avoid it: willingness to pay."
+  },
+  {
+   "q": "Which of the followings are true for ridge lines?  \n(A) They separate the relevant from the irrelevant portions of the isoquants  \n(B) Along the ridge lines, the slope of the isoquants is either zero or infinite  \n(C) The relevant segment of the isoquants enclosed pertains to the stage II of production for  \nlabour and capital  \n(D) Producers will never want to operate outside the region enclosed within the ridge lines.  \n(E) The marginal product of both inputs-labour and capital is positive but declines for the portion  \nof the isoquants within the ridge lines.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.41]*",
+   "options": [
+    "A, C and D only",
+    "B, C and E only",
+    "A, C, D and E only",
+    "A, B, C, D and E only"
+   ],
+   "answer": 3,
+   "explanation": "All five are properties of ridge lines (Stage II region, MPs positive and falling)."
+  },
+  {
+   "q": "Which of the followings are true about a fair game or fair bet?  \n(A) The entry of a fair bet is zero  \n(B) The person who accepts fair bet is said to be risk lover  \n(C) Expected value of income from the bet is equal to the same amount of income with certainty  \n(D) The person who refuses a fair bet is said to be risk neutral  \n(E) The person who refuses a fair bet is said to be risk averse.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.42]*",
+   "options": [
+    "A and C only",
+    "B and E only",
+    "C and D only",
+    "C and E only"
+   ],
+   "answer": 3,
+   "explanation": "A fair bet has expected value equal to the certain income; a risk-averse person refuses it."
+  },
+  {
+   "q": "According to the modern theory of rent  \n(A) All the factors may earn rent  \n(B) Rent can only be earned in long-run  \n(C) Transfer earning of an unused factor is zero  \n(D) Only land can earn rent  \n(E) Entire earning of an unused factor is economic rent.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.43]*",
+   "options": [
+    "A, B and C only",
+    "A, C and E only",
+    "B, C and E only",
+    "A, C and D only"
+   ],
+   "answer": 1,
+   "explanation": "Modern theory: any factor can earn rent; an unused (no alternative use) factor's transfer earning is zero, so its whole earning is rent."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) One firm sets its output before other firms (I) Cournot Model  \ndo.  \n(B) Each firm correctly assumes how much its (II) Bertrand Model  \ncompetitor will produce and sets its own  \nproduction level  \n(C) Firms are reluctant to change price even if (III) Stackelberg Model  \ncosts or demand change  \n(D) Each firm treats the price of its competitors (IV) Sweezy Model  \nas fixed and all firms decide simultaneously  \nwhat price to change.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.66]*",
+   "options": [
+    "A-III, B-II, C-IV, D-I",
+    "A-II, B-III, C-IV, D-I",
+    "A-III, B-I, C-IV, D-II",
+    "A-II, B-IV, C-III, D-I"
+   ],
+   "answer": 2,
+   "explanation": "Stackelberg (leader), Cournot (output), Sweezy (rigid prices), Bertrand (price)."
+  },
+  {
+   "q": "Match List I with List II  \nList - I List - II  \n(A) Principal agent problem (I) Use of resources are more than desirable  \n(B) Moral Hazard Problem (II) One's actions are unobserved but it can  \naffect the magnitude of payment  \n(C) Tragedy of commons (III) An individual pursue his/her own goal  \nrather than the goal of the employer  \n(D) Problem of Lemons (IV) Sellers have better information about  \nthe product quality than buyers.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2022 S2 · Q.71]*",
+   "options": [
+    "A-III, B-II, C-I, D-IV",
+    "A-III, B-II, C-IV, D-I",
+    "A-IV, B-III, C-I, D-II",
+    "A-I, B-II, C-IV, D-III"
+   ],
+   "answer": 0,
+   "explanation": "Principal–agent, moral hazard, tragedy of the commons, lemons."
+  },
+  {
+   "q": "Given below are two statements: One is labelled as Assertion A and the other is labelled as  \nReason R.  \nAssertion A: A form of market failure results when products of different qualities are sold at a  \nsingle price.  \nReason R: A buyer and a seller possess different information about the product transacted.  \nIn the light of the above statements, choose the most appropriate answer from the options  \ngiven below:  \n*[UGC NET December 2022 S2 · Q.86]*",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0,
+   "explanation": "Asymmetric information leads to a single price for different qualities (lemons)."
+  },
+  {
+   "q": "Suppose good 1 is taken on horizontal axis and good 2 on vertical axis, then what happens  \nto the budget line if the price of good 1 doubles and price of good 2 triples?  \n*[UGC NET June 2023 · Q.51]*",
+   "options": [
+    "The budget line becomes steeper",
+    "The budget line becomes flatter",
+    "The budget line become vertical",
+    "The budget line remains unchanged"
+   ],
+   "answer": 1,
+   "explanation": "Slope = −P1/P2 becomes −2P1/3P2: smaller in magnitude, so flatter."
+  },
+  {
+   "q": "Which one of the following is not a characteristic of market structure?  \n*[UGC NET June 2023 · Q.53]*",
+   "options": [
+    "Degree of buyers' concentration",
+    "Degree of Sellers' concentration",
+    "Conditions of entry",
+    "Vertical integration"
+   ],
+   "answer": 3,
+   "explanation": "Market structure is described by seller and buyer concentration, product differentiation and entry; vertical integration is a firm strategy. (Answer key may vary.)"
+  },
+  {
+   "q": "Which of the following is not true in the case of second theorem of welfare economics?  \n*[UGC NET June \n2023 · Q.54]*",
+   "options": [
+    "If consumers exhibit convex preferences, every pareto efficient allocation is a possible competitive equilibrium in a pure exchange economy.",
+    "In an economy involving production, the convexity of production sets ensures that a pareto efficient allocation can be achieved as a market equilibrium.",
+    "It holds when there are increasing returns to scale.",
+    "It implies that in the market system, the allocative role and the distributive role can be separated from each other."
+   ],
+   "answer": 2,
+   "explanation": "The second welfare theorem needs convexity; it fails with increasing returns."
+  },
+  {
+   "q": "The utility function of a consumer is given by U = f(q1, q2) = q1·q2. Suppose the price of q1  \nis Pq1 = 1 and price of q2 is Pq2 = 2. The consumer wants to spend amount of k units only; what  \nwill be his demand for q1 and q2?  \n*[UGC NET June 2023 · Q.67]*",
+   "options": [
+    "(q1, q2) = (k, k/2)",
+    "(q1, q2) = (k/4, k/6)",
+    "(q1, q2) = (k/2, k/4)",
+    "(q1, q2) = (k/2, k/3)"
+   ],
+   "answer": 2,
+   "explanation": "Cobb–Douglas: half the budget on each good → q1 = k/2, q2 = (k/2)/2 = k/4."
+  },
+  {
+   "q": "Why subsidies are not an effective policy instrument in the long run for internalizing  \nexternalities under competitive output markets?  \n*[UGC NET June 2023 · Q.85]*",
+   "options": [
+    "A subsidy that is equal to marginal damages translates to a de facto decrease in firm's fixed costs.",
+    "Subsidy payments are available to all firms and can induce excessive market entry.",
+    "The level of industrial production in the sector would exceed the socially desired level.",
+    "All of the above"
+   ],
+   "answer": 3,
+   "explanation": "Subsidies lower firms' costs, attract excess entry and raise industry output above the optimum."
+  },
+  {
+   "q": "Which of the following holds for Bertrand's Duopoly model?  \n(A) The reaction curves are derived from isoprofit maps which are convex to the axes.  \n(B) The point of intersection of the two reaction curves reflects a stable equilibrium.  \n(C) The reaction curves are derived from isoprofit maps which are concave to the axes.  \n(D) The point of intersection of the two reaction curves reflects an unstable equilibrium.  \n(E) Firm's behavioral pattern is such that they learn from past experience.  \nChoose the correct answer from the option given below:  \n*[UGC NET June 2023 · Q.91]*",
+   "options": [
+    "A and B only",
+    "C and D only",
+    "A, D and E only",
+    "B, C and E only"
+   ],
+   "answer": 0,
+   "explanation": "Koutsoyiannis: Bertrand's isoprofit curves are convex to the axes and the equilibrium is stable."
+  },
+  {
+   "q": "Which of the following is true for the Clark-Wicksteed-Walras product exhaustion theorem?  \n(A) The assumption of a homogeneous production function is necessary.  \n(B) It is an identity that holds for all values of the variables.  \n(C) The assumption of a homogeneous production function is not necessary.  \n(D) It is not an identity since it holds only for the values of the variables in the long-run  \nequilibrium.  \n(E) It holds for all types of production functions.  \nChoose the correct answer from the option given below:  \n*[UGC NET June 2023 · Q.92]*",
+   "options": [
+    "A and B only",
+    "A and D only",
+    "B, C and E only",
+    "C, D and E only"
+   ],
+   "answer": 1,
+   "explanation": "Product exhaustion needs linear homogeneity and holds only at long-run competitive equilibrium (Wicksell)."
+  },
+  {
+   "q": "Properties of expenditure function are (in the context of utility theory),  \n(A) Homogeneous of degree one in price, P  \n(B) Strictly increasing in utility, u and non-decreasing in price, P for any good i.  \n(C) Concave in P  \n(D) Continuous in P and u  \n(E) Strictly convex in P  \nChoose the correct answer from the option given below:  \n*[UGC NET June 2023 · Q.93]*",
+   "options": [
+    "A, C, D, E only",
+    "A, B, D, E only",
+    "A, B, C, D only",
+    "B, C, D, E only"
+   ],
+   "answer": 2,
+   "explanation": "Expenditure function: homogeneous of degree 1 in prices, increasing in u, non-decreasing in prices, concave and continuous."
+  },
+  {
+   "q": "Which of the following is/are correct about Walrasian demand function?  \n(A) The Walrasian demand function X(P, W) is homogenous of degree zero if X(αP, αW) = X(P,  \nW) for any P, W and α > 0.  \n(B) The Walrasian demand function X(P, W) is homogenous of degree one if X(αP, αW) = αX(P,  \nW) for any P, W and α > 0.  \n(C) The Walrasian demand function X(P, W) satisfies Walras' law if for every P ≫ 0 and W > 0,  \nwe have P·X = W for all X ∈ X(P, W).  \n(D) Walras' law says consumer fully expends his wealth.  \n(E) If price and wealth both change in same proportion, then individual consumption choice does  \nnot change.  \nChoose the correct answer from the option given below:  \n*[UGC NET June 2023 · Q.115]*",
+   "options": [
+    "A, B, C, D only",
+    "B, C, D, E only",
+    "A, B, C, E only",
+    "A, C, D, E only"
+   ],
+   "answer": 3,
+   "explanation": "Walrasian demand is homogeneous of degree 0 and satisfies Walras' law; B is wrong."
+  },
+  {
+   "q": "Given below are two statements:  \nStatement I: Under first degree price discrimination, monopolist sells different units of output for  \ndifferent prices and these prices may differ from person to person.  \nStatement II: Under third degree price discrimination, monopolist sells different units of output  \nfor different prices, but every individual who buys the same amount of the good pays the same  \nprice.  \nIn the light of the above statements, choose the correct answer from the options given below:  \n*[UGC NET June 2023 · Q.138]*",
+   "options": [
+    "Both Statement I and Statement II are true.",
+    "Both Statement I and Statement II are false.",
+    "Statement I is true but Statement II is false.",
+    "Statement I is false but Statement II is true."
+   ],
+   "answer": 2,
+   "explanation": "Statement II describes second-degree, not third-degree, price discrimination."
+  },
+  {
+   "q": "Consider a production function q = x + y, where x and y are the 2 inputs. If the respective  \ninput prices are wx and wy and assume wx > wy, then the cost function C(q) is:  \n*[UGC NET December 2023 S1 · \nQ.69]*",
+   "options": [
+    "C(q) = wx·q",
+    "C(q) = wy·q",
+    "C(q) = (wx + wy)·q",
+    "C(q) = min{wx, wy}·√q"
+   ],
+   "answer": 1,
+   "explanation": "Perfect substitutes: use only the cheaper input (y), so C = wy·q."
+  },
+  {
+   "q": "Suppose a cost function of producing q level of output is C(w, r, q) where C(w, r, q) = q(w/α  \n+ r/β), where w and r are the wage cost and rental cost of the 2 inputs capital (K) and labour (l)  \nrespectively. What would be the production function q of k and l?  \n*[UGC NET December 2023 S1 · Q.70]*",
+   "options": [
+    "q = αk + βl",
+    "q = [kα + lβ]r",
+    "q = min{αl, βk}",
+    "q = A(kα · lβ)"
+   ],
+   "answer": 2,
+   "explanation": "This cost function comes from fixed-proportions (Leontief) technology: q = min{αl, βk}."
+  },
+  {
+   "q": "If the Average Revenue function AR = 10 + 5q − q², then the Marginal Revenue function is  \na:  \n*[UGC NET December 2023 S1 · Q.72]*",
+   "options": [
+    "Convex function",
+    "Concave function",
+    "Can be both concave or convex function",
+    "Weakly concave function"
+   ],
+   "answer": 1,
+   "explanation": "TR = 10q + 5q² − q³, MR = 10 + 10q − 3q²; MR'' = −6 < 0, so MR is concave."
+  },
+  {
+   "q": "Suppose a consumer has a utility function u(x) = 10√x, where x is the money income of the  \nconsumer. Suppose the consumer's initial endowment is Rs 50. Suppose she may suffer a loss of  \nRs 25 with a probability of 0.5 for some random event. Suppose she pays p premium for an  \ninsurance policy that fully reimburses her if she suffers a loss. How much premium p would she be  \nwilling to pay to insure against the loss?  \n*[UGC NET December 2023 S1 · Q.73]*",
+   "options": [
+    "12.50",
+    "13.57",
+    "11.59",
+    "14.41"
+   ],
+   "answer": 1,
+   "explanation": "EU = 0.5(10√50) + 0.5(10√25) = 60.36 → certainty equivalent 36.43; premium = 50 − 36.43 = 13.57."
+  },
+  {
+   "q": "Consider a consumer's choice based on only 2 commodities i.e., X ∈ R²₊, where X is a set of  \nall commodity bundles which the consumer can conceive of. Suppose x and y are the 2 different  \ncommodity bundles and the budget set B of the consumer can be written as: B = {(x, y): p1x +  \np2y ≤ M; xi > 0, i = 1, 2}. Which of the following statements is true?  \n*[UGC NET December 2023 S1 · Q.75]*",
+   "options": [
+    "The budget set is an open, bounded and convex set",
+    "The budget set is not a bounded set",
+    "The budget set is a closed and non-convex set",
+    "The budget set is a closed, bounded and convex set"
+   ],
+   "answer": 3,
+   "explanation": "A competitive budget set is closed, bounded and convex."
+  },
+  {
+   "q": "Suppose the cost function C(w1, w2, y) = y(w1 + √(w1w2) + w2), where w1 and w2 are the  \nprices of 2 inputs which are used in production of y. Which of the following properties of the cost  \nfunction C(w1, w2, y) is correct?  \n*[UGC NET December 2023 S1 · Q.77]*",
+   "options": [
+    "Cost function C(w1, w2, y) is monotone, concave and continuous function in w1, w2.",
+    "Cost function C(w1, w2, y) is a non-monotone, convex and continuous function in w1, w2.",
+    "Cost function is continuous in w1 and w2 and discontinuous function in y.",
+    "Cost function is a continuous function and homogeneous function in degree 0."
+   ],
+   "answer": 0,
+   "explanation": "A cost function is non-decreasing (monotone), concave and continuous in input prices."
+  },
+  {
+   "q": "The demand and supply functions for cobweb model are given as: Qd(t) = 19 − 6Pt and  \nQs(t) = 6P(t−1) − 5. Choose the right answer related to intertemporal equilibrium price and the  \nnature of the equilibrium.  \n*[UGC NET December 2023 S1 · Q.78]*",
+   "options": [
+    "P̄ = 2, explosive oscillation",
+    "P̄ = 2, uniform oscillation",
+    "P̄ = 3, damped oscillation",
+    "P̄ = 3, uniform oscillation"
+   ],
+   "answer": 1,
+   "explanation": "19 − 6P = 6P − 5 → P = 2; equal slopes (6 and 6) give uniform (constant) oscillation."
+  },
+  {
+   "q": "Consider the pay offs of two players, who are close friends. They can either go for Diwali  \nshopping or they can watch World Cup Cricket match.  \nPlayer 2 \\ Player 1 Diwali Shopping World Cup Watching  \nDiwali Shopping (2, 1) (0, 0)  \nWorld Cup Watching (0, 0) (1, 2)  \nIdentify which of the following is true for them:  \n*[UGC NET December 2023 S1 · Q.79]*",
+   "options": [
+    "There is no Nash equilibrium for them.",
+    "There is only one Nash equilibrium where player 1 goes for Diwali shopping and player 2 goes for World Cup Match.",
+    "Any of the four combinations can be a Nash Equilibrium.",
+    "There are two Nash Equilibria."
+   ],
+   "answer": 3,
+   "explanation": "Battle of the sexes: two pure-strategy Nash equilibria (both shop, or both watch)."
+  },
+  {
+   "q": "In case of two perfect complement goods, which following statement is not true?  \n*[UGC NET December \n2023 S1 · Q.80]*",
+   "options": [
+    "The substitution effect is zero.",
+    "The indifference curves are straight lines.",
+    "The indifference curves are L shaped",
+    "The goods are always demanded in fixed proportions."
+   ],
+   "answer": 1,
+   "explanation": "Perfect complements have L-shaped, not straight-line, indifference curves."
+  },
+  {
+   "q": "In a market for labour's demand and supply, the equilibrium wage is w*. The government  \nfixes a minimum wage at w'. Which of the following statements is true?  \n*[UGC NET December 2023 S1 · Q.83]*",
+   "options": [
+    "There is a tendency of increased casualization of workers if w' > w*, where the workers would not receive lots of benefits.",
+    "The market will now tend towards a new equilibrium at w', with no other changes, if w' > w*.",
+    "If w' < w*, there will be a tendency of increased casualization of workers.",
+    "It will be impossible to administer such a legislation unless w' = w*."
+   ],
+   "answer": 0,
+   "explanation": "A minimum wage above equilibrium cuts formal jobs; employers shift to casual workers."
+  },
+  {
+   "q": "Let H = eQ where Q = A·xα·yβ. Consider the following statements.  \n(A) Q is a homogeneous function for all values of α and β  \n(B) H is a homothetic function for all values of α and β  \n(C) Q is a homogeneous function only if α + β = 1  \n(D) H is not a homogeneous function  \n(E) Q is not a homogeneous function  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2023 S1 · Q.105]*",
+   "options": [
+    "(A) and (B) Only",
+    "(A), (B) and (D) Only",
+    "(C) and (A) Only",
+    "(E) and (D) Only"
+   ],
+   "answer": 1,
+   "explanation": "Q is homogeneous of degree α + β for any α, β; H = e^Q is homothetic but not homogeneous."
+  },
+  {
+   "q": "The following are five statements about short run cost curves.  \n(A) The Marginal Cost (MC) curve cuts both short run Average Cost (AC) curve and Average  \nVariable Cost (AVC) curve at their lowest point.  \n(B) The MC curve cuts AC curve from below, but nothing can be said about AVC curve.  \n(C) The distance between Total Cost (TC) curve and Total Variable Cost (TVC) curve gets  \nreduced as quantity increases.  \n(D) The Average Fixed Cost (AFC) curve is asymptotic to the cost axis.  \n(E) The AC curve is u-shaped.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2023 S1 · Q.107]*",
+   "options": [
+    "(A), (C), (D), (E) Only",
+    "(B), (C), (E) Only",
+    "(A), (E) Only",
+    "(D), (E), (A) Only"
+   ],
+   "answer": 3,
+   "explanation": "MC cuts AC and AVC at their minima; AFC is asymptotic to the axes; AC is U-shaped. TC − TVC = TFC stays constant."
+  },
+  {
+   "q": "Suppose production function q = f(k, l), is a homogeneous function of degree 1. Consider  \nthe following statements.  \n(A) The marginal products of capital and labour (∂q/∂k and ∂q/∂l) are homogeneous of degree 1.  \n(B) The second order cross marginal products of k and l are equal (i.e., ∂²q/∂l∂k = ∂²q/∂k∂l).  \n(C) By Euler's Theorem: (∂q/∂k)·k + (∂q/∂l)·l = q  \n(D) By Euler's theorem: (∂²q/∂k²)·k + (∂²q/∂l²)·l = 0  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2023 S1 · Q.111]*",
+   "options": [
+    "(A) and (B) Only",
+    "(A), (B) and (C) Only",
+    "(A), (C) and (D) Only",
+    "(B), (C) and (D) Only"
+   ],
+   "answer": 3,
+   "explanation": "Cross partials are equal (Young) and Euler's theorem holds; MPs are homogeneous of degree 0, so A is wrong. (D is loosely stated; key likely 4.)"
+  },
+  {
+   "q": "Consider the following statements:  \n(A) If the 2 utility functions u(x) and b(x) are related by u(x) = V(b(x)), where V'(·) > 0, then V(x)  \nis a utility function representing the same preference as b(x).  \n(B) If the 2 utility functions represents the same preference, the solutions to the consumer's  \nutility maximization problem are the same with the 2 utility function but the indirect utility  \nfunctions are different.  \n(C) If the local non satiation assumption of preference is satisfied, any solution to the  \nconsumer's utility maximization problem satisfies the budget constraint with equality.  \n(D) If the indirect utility function of b(x) is homogenous of degree 0 then indirect utility function  \nof u(x) = V(b(x)), where V'(·) > 0, is a homogenous function of degree 1.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2023 S1 · Q.114]*",
+   "options": [
+    "(B) Only",
+    "(A), (B) and (D) Only",
+    "(A), (B) and (C) Only",
+    "(B), (C) and (D) Only"
+   ],
+   "answer": 2,
+   "explanation": "A monotone transform represents the same preference; demands are the same but indirect utility differs; LNS gives Walras' law."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Shephard's Lemma (I) Hidden types of agent  \n(B) Adverse Selection (II) Envelope theorem  \n(C) Hotelling Lemma (III) Indirect utility function  \n(D) Roy's Identity (IV) Profit function  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2023 S1 · Q.129]*",
+   "options": [
+    "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)",
+    "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+    "(A)-(II), (B)-(I), (C)-(III), (D)-(IV)",
+    "(A)-(II), (B)-(IV), (C)-(I), (D)-(III) Passage / data for Q.141-145 (December 2023 S1) Assume that there are 2 firms producing steel. There is a negative externality due to production causing pollution. Firm 1's output is q1 and firm 2's is q2. Assume that the market price for steel is Ps = 1. Now consider two scenarios: Scenario 1: Assume that firm 1's cost function is C1(q1) = q1² and firm 2's cost function is C2(q2, q1) = (q2 + 0.75q1)². In short, firm 1's production is not affected by firm 2 but firm 2's production is affected by firm 1, i.e., Firm 1's operation causes firm 2's costs to rise. Scenario 2: Assume that negative externality works both ways i.e. both the firms face the adverse impact. So assume C1(q1, q2) = (q1 + 0.75q2)² and C2(q1, q2) = (q2 + 0.75q1)², i.e., Firm 1's operation causes firm 2's costs to rise and vice versa."
+   ],
+   "answer": 1,
+   "explanation": "Shephard's lemma uses the envelope theorem; adverse selection = hidden types; Hotelling's lemma = profit function; Roy's identity = indirect utility."
+  },
+  {
+   "q": "What is the equilibrium profit of firm 2 (π2) in the short run, in Scenario 1?  \n*[UGC NET December 2023 S1 · \nQ.141]*",
+   "options": [
+    "π2 = 0.025",
+    "π2 = 0.125",
+    "π2 = −0.125",
+    "π2 = 0.75"
+   ],
+   "answer": 2,
+   "explanation": "Firm 1: q1 = 0.5. Firm 2: 2(q2 + 0.375) = 1 → q2 = 0.125; π2 = 0.125 − (0.5)² = −0.125."
+  },
+  {
+   "q": "What is the long run profit of firm 1 (π1), in Scenario 1?  \n*[UGC NET December 2023 S1 · Q.142]*",
+   "options": [
+    "π1 = 0.025",
+    "π1 = 0",
+    "π1 = 0.25",
+    "π1 = 0.125"
+   ],
+   "answer": 2,
+   "explanation": "Firm 1 is unaffected: π1 = 0.5 − 0.25 = 0.25."
+  },
+  {
+   "q": "What is the long run profit of firm 2 (π2), in Scenario 1?  \n*[UGC NET December 2023 S1 · Q.143]*",
+   "options": [
+    "π2 = 0.125",
+    "π2 = 0.120",
+    "π2 = 0.5",
+    "π2 = 0"
+   ],
+   "answer": 3,
+   "explanation": "Firm 2 makes losses, so in the long run it exits: π2 = 0."
+  },
+  {
+   "q": "What would be the market equilibrium profit of the 2 firms, in Scenario 2?  \n*[UGC NET December 2023 S1 · \nQ.144]*",
+   "options": [
+    "π1 = 1/28, π2 = 1/28",
+    "π1 = 2/7, π2 = 2/7",
+    "π1 = 1/14, π2 = 1/14",
+    "π1 = π2 = 0"
+   ],
+   "answer": 0,
+   "explanation": "Each firm sets 2(q + 0.75q) = 1 → q = 2/7; π = 2/7 − (0.5)² = 1/28."
+  },
+  {
+   "q": "Which of the following is not an assumption of Coase theorem related to externalities and  \nenvironmental problems?  \n*[UGC NET August 2024 S1 · Q.60]*",
+   "options": [
+    "Absence of transaction costs",
+    "Presence of income effect",
+    "Complete information",
+    "Complete property rights"
+   ],
+   "answer": 1,
+   "explanation": "Coase assumes no transaction costs, full information, clear property rights and no income effects."
+  },
+  {
+   "q": "The Nash equilibrium of the following game (Player P-1 chooses rows A1, A2, A3; Player P-2  \nchooses columns B1, B2, B3) is given by:  \nP-1 \\ P-2 B1 B2 B3  \nA1 4, 2 2, 1 5, 0  \nA2 3, 5 3, 2 3, 4  \nA3 5, 2 4, 4 3, 1  \n*[UGC NET August 2024 S1 · Q.67]*",
+   "options": [
+    "The strategy combination (A3, B2) with outcome (4, 4)",
+    "The strategy combination (A3, B1) with outcome (5, 2)",
+    "The strategy combination (A1, B2) with outcome (2, 1)",
+    "The strategy combination (A3, B2) with outcome (3, 1)"
+   ],
+   "answer": 0,
+   "explanation": "(A3, B2): A3 is P1's best reply to B2 (4 > 3 > 2) and B2 is P2's best reply to A3 (4 > 2 > 1)."
+  },
+  {
+   "q": "Suppose Q = 20/P and P ≤ 10, MC = 1, then profit maximising price and quantity will be:  \n*[UGC NET August 2024 S1 · Q.70]*",
+   "options": [
+    "P = 20, Q = 4",
+    "P = 5, Q = 4",
+    "P = 10, Q = 2",
+    "P = 4, Q = 5"
+   ],
+   "answer": 2,
+   "explanation": "Unit-elastic demand: revenue is fixed at 20, so the firm minimises cost by selling the least: P = 10, Q = 2."
+  },
+  {
+   "q": "For the demand function of good x, Qd = f(Px, Py, M), the sum of own price elasticity, cross  \nprice elasticity and income elasticity of demand would be:  \n*[UGC NET August 2024 S1 · Q.73]*",
+   "options": [
+    "one",
+    "zero",
+    "two",
+    "n, where n > 1"
+   ],
+   "answer": 1,
+   "explanation": "Demand is homogeneous of degree zero in prices and income, so the elasticities sum to zero (Euler)."
+  },
+  {
+   "q": "As per Walras' law the sum of excess demand for money, bonds and current output must be  \nequal to ________.  \n*[UGC NET August 2024 S1 · Q.74]*",
+   "options": [
+    "one",
+    "zero",
+    "more than one",
+    "less than one"
+   ],
+   "answer": 1,
+   "explanation": "Walras' law: the value of excess demands across all markets sums to zero."
+  },
+  {
+   "q": "The production function Q = LK/(L + K) is:  \n*[UGC NET August 2024 S1 · Q.78]*",
+   "options": [
+    "Homogenous of degree 1",
+    "Homogenous of degree 0",
+    "Homogenous of degree 2",
+    "Homogenous of degree 1/2"
+   ],
+   "answer": 0,
+   "explanation": "Doubling L and K doubles LK/(L + K): homogeneous of degree 1."
+  },
+  {
+   "q": "In the Cobb-Douglas production function q = A·Lα·Kβ, where A, α and β are all positive, the  \nparameters α and β measure:  \n*[UGC NET August 2024 S1 · Q.90]*",
+   "options": [
+    "Output elasticities of inputs",
+    "Elasticity of substitution",
+    "Input price of output",
+    "Technological condition"
+   ],
+   "answer": 0,
+   "explanation": "α and β are the output elasticities of labour and capital."
+  },
+  {
+   "q": "Arrange the following items in order of their construction starting from the first stage to the  \nlast stage:  \n(A) Budget  \n(B) Utility analysis  \n(C) Demand curve analysis  \n(D) Indifference curve analysis  \n(E) Consumer's equilibrium  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.101]*",
+   "options": [
+    "(D), (B), (A), (E), (C)",
+    "(A), (B), (C), (D), (E)",
+    "(B), (D), (E), (C), (A)",
+    "(B), (D), (A), (E), (C)"
+   ],
+   "answer": 3,
+   "explanation": "Utility analysis → indifference curves → budget → consumer equilibrium → demand curve."
+  },
+  {
+   "q": "Identify the correct statements from below:  \n(A) When price consumption curve (PCC) for a good is parallel to horizontal axis, the demand  \nfunction for the good is unitary elastic.  \n(B) Given log D = α + β log y + γ log p, then elasticity of log D with respect to log p is γ  \n(C) The condition for stability in simple Keynesian system is 0 < MPC < 1  \n(D) The fixed cost curve is a rectangular hyperbola  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.114]*",
+   "options": [
+    "(A), (C) only",
+    "(A), (C), (D) only",
+    "(A), (B), (C) only",
+    "(A), (B), (C), (D)"
+   ],
+   "answer": 2,
+   "explanation": "A, B and C are correct; the total fixed cost curve is horizontal (only AFC is a rectangular hyperbola)."
+  },
+  {
+   "q": "Consider the following statements:  \n(A) If a market generates a side effect or externality then the market solutions are inefficient.  \n(B) If a market is efficient, then the quantity produced in the market maximise both producer's  \nand consumer's surplus.  \n(C) Consumer's surplus is the buyer's WTP minus the seller's cost.  \n(D) Smith's invisible hand concept implies that competitive market outcome generates equity  \namong the members in the society.  \n(E) Competitive market equilibrium is Pareto efficient.  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.115]*",
+   "options": [
+    "(A), (B), (E) only",
+    "(A), (B), (D) only",
+    "(A), (E) only",
+    "(B), (D), (E) only"
+   ],
+   "answer": 0,
+   "explanation": "Externalities cause inefficiency; efficient output maximises total surplus; competitive equilibrium is Pareto efficient. CS is WTP minus price, and efficiency is not equity."
+  },
+  {
+   "q": "Consider the following statements:  \n(A) MC schedule is obtained by subtracting successive values of TC only  \n(B) MC schedule is obtained by subtracting successive values of either TC or TVC  \n(C) MC schedule is obtained by subtracting successive values of either TVC or TFC  \n(D) The area under the MC curve equals TC  \n(E) AVC equals AC minus AFC  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.124]*",
+   "options": [
+    "(B), (D), (E) only",
+    "(A), (D), (E) only",
+    "(A), (C), (D), (E) only",
+    "(A), (C), (D) only"
+   ],
+   "answer": 0,
+   "explanation": "MC comes from successive differences of TC or TVC; AVC = AC − AFC. (Strictly, the area under MC is TVC.)"
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Top beneficiary from Foreign exchange (I) John Von Neuman and Oscar Morgenstern  \ntrading  \n(B) Competitive equilibrium is Pareto efficient (II) General equilibrium analysis  \n(C) Walras (III) London  \n(D) Game Theory (IV) First theorem of welfare economics  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.127]*",
+   "options": [
+    "(A)-(II), (B)-(III), (C)-(I), (D)-(IV)",
+    "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+    "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+    "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)"
+   ],
+   "answer": 3,
+   "explanation": "London (forex hub), first welfare theorem, Walras (general equilibrium), von Neumann–Morgenstern (game theory)."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) Monopoly theory of distribution (I) Walker  \n(B) Theory of profit (II) Robinson  \n(C) Full cost pricing (III) Kalecki  \n(D) Modern theory of rent (IV) Hall and Hitch  \nChoose the correct answer from the options given below:  \n*[UGC NET August 2024 S1 · Q.135]*",
+   "options": [
+    "(A)-(II), (B)-(III), (C)-(I), (D)-(IV)",
+    "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)",
+    "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)",
+    "(A)-(IV), (B)-(III), (C)-(II), (D)-(I) Passage / data for Q.141-145 (August 2024 S1) Consider the following diagram: Social Costs of Monopoly Power Here (i) X-axis measures quantity; (ii) Y-axis measures price per unit (Rs/Q); (iii) Pc = competitive price; (iv) Pm = Monopoly price; (v) Qc = competitive output; (vi) Qm = monopoly output. Rectangle = A, Triangle = B, Triangle = C."
+   ],
+   "answer": 1,
+   "explanation": "Kalecki: degree of monopoly theory of distribution; Walker: profit theory; Hall and Hitch: full-cost pricing; Joan Robinson: modern rent theory."
+  },
+  {
+   "q": "Find out the consumer loss because of moving from competitive to monopoly price (from Pc  \nto Pm) from the following alternatives:  \n*[UGC NET August 2024 S1 · Q.141]*",
+   "options": [
+    "A and C",
+    "A and B",
+    "B and C",
+    "A only"
+   ],
+   "answer": 1,
+   "explanation": "Consumers lose rectangle A (transfer to the monopolist) and triangle B."
+  },
+  {
+   "q": "As a result of higher price, the producer gains and at the same time loses by amount  \nrespectively as shown below. Find out the correct answer from the following alternatives:  \n*[UGC NET August \n2024 S1 · Q.143]*",
+   "options": [
+    "B, A",
+    "B, C",
+    "A, C",
+    "A only"
+   ],
+   "answer": 2,
+   "explanation": "The producer gains rectangle A and loses triangle C."
+  },
+  {
+   "q": "Because of higher price (from Pc to Pm), find out the producer gains (producer surplus)  \nfrom the following alternatives:  \n*[UGC NET August 2024 S1 · Q.144]*",
+   "options": [
+    "A + C",
+    "A − C",
+    "A + B",
+    "B + C"
+   ],
+   "answer": 1,
+   "explanation": "Net gain in producer surplus = A − C."
+  },
+  {
+   "q": "Dead weight loss from the monopoly power is one of the following alternatives. Choose the  \ncorrect one:  \n*[UGC NET August 2024 S1 · Q.145]*",
+   "options": [
+    "A + B",
+    "A + C",
+    "A",
+    "B + C"
+   ],
+   "answer": 3,
+   "explanation": "Deadweight loss = B + C."
+  },
+  {
+   "q": "Find out the correct alternative - Scitovsky double criterion  \n*[UGC NET December 2024 · Q.55]*",
+   "options": [
+    "does not require the fulfilment of Kaldor - Hicks Welfare criterion test.",
+    "requires only the fulfilment of reversal test",
+    "does not require the fulfilment of reversal test",
+    "requires the fulfilment of Kaldor - Hicks test and reversal test"
+   ],
+   "answer": 3,
+   "explanation": "Scitovsky's double criterion requires both the Kaldor–Hicks test and the reversal test."
+  },
+  {
+   "q": "For the production function, Q = A·Kα·Lβ, where A, α, β > 0, which of the following  \nstatement(s) are correct?  \n(A) Degree of homogeneity is 1  \n(B) Output elasticity with respect to capital is α  \n(C) It exhibits constant returns to scale  \n(D) Marginal product of a factor = Average product of the factor  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.60]*",
+   "options": [
+    "A & B Only",
+    "B & C Only",
+    "B & D Only",
+    "B Only"
+   ],
+   "answer": 3,
+   "explanation": "Only 'output elasticity w.r.t. capital is α' always holds; the degree is α + β."
+  },
+  {
+   "q": "The basis of consumer surplus in Marshallian utility analysis is -  \n*[UGC NET December 2024 · Q.69]*",
+   "options": [
+    "Law of equi-marginal utility",
+    "Law of proportions",
+    "Law of diminishing marginal utility",
+    "Law of demand"
+   ],
+   "answer": 2,
+   "explanation": "Marshall's consumer surplus rests on diminishing marginal utility."
+  },
+  {
+   "q": "Consider the following statements:  \n(A) Price leadership equilibrium strategy is a Nash equilibrium strategy  \n(B) Bertrand equilibrium strategy is a Nash equilibrium strategy  \n(C) Stackelberg equilibrium strategy is a Nash equilibrium strategy  \n(D) Monopoly equilibrium strategy is a Nash equilibrium strategy  \n(E) Cournot's equilibrium strategy is a Nash equilibrium strategy  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.70]*",
+   "options": [
+    "A Only",
+    "B Only",
+    "A, B, C, E Only",
+    "D & E Only"
+   ],
+   "answer": 2,
+   "explanation": "Price-leadership, Bertrand, Stackelberg and Cournot outcomes are Nash equilibria of their games; monopoly is not a game."
+  },
+  {
+   "q": "Find out the correct answer about the 'Pigovian Tax'.  \n(A) Provides solution in order to internalise the total cost of an activity into the market.  \n(B) Provides solution to reduce the production of pollutants through public policy  \n(C) It helps in increasing the factor productivity in the real sector.  \n(D) It acts like a revenue tax  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.80]*",
+   "options": [
+    "A, B Only",
+    "C, D Only",
+    "A Only",
+    "A, B, D Only"
+   ],
+   "answer": 0,
+   "explanation": "A Pigovian tax internalises external cost and reduces pollution; revenue is a by-product, not its purpose."
+  },
+  {
+   "q": "Read the example given below and find out the correct choice compatible from among the  \nalternatives:  \nIf a professor assigns only letter grades to an exam, we know that a student who receives a  \ngrade of 'A' did better than a student who receives a 'B', but we cannot say how much better  \nfrom that ordinal scale. Nor can we tell whether the difference in preference between an 'A'  \nstudent and a 'B' student and a 'C' student.  \n*[UGC NET December 2024 · Q.84]*",
+   "options": [
+    "Marshallian utility analysis",
+    "Revealed preference analysis",
+    "Slutsky equation",
+    "Indifference curve analysis"
+   ],
+   "answer": 3,
+   "explanation": "Grades rank but don't measure: an ordinal scale, the basis of indifference-curve analysis."
+  },
+  {
+   "q": "In a market model with a 'lagged' supply function, lagging by one time period, the  \nconvergence of the time path of price towards the equilibrium price depends on  \n*[UGC NET December 2024 · Q.87]*",
+   "options": [
+    "Whether slope of supply function > slope of demand function",
+    "Whether slope of supply function < slope of demand function",
+    "Whether slope of supply function = slope of demand function",
+    "Has nothing to do with the slopes of demand and/or supply functions."
+   ],
+   "answer": 1,
+   "explanation": "Cobweb converges when the supply slope (price response) is smaller than the demand slope in absolute value."
+  },
+  {
+   "q": "Match LIST-I with LIST-II  \nList - I List - II  \n(A) von Neumann and Oscar Morgenstern (I) Tit-for-tat strategy  \n(B) Axelrod (II) Theory of Games and Economic  \nBehaviour  \n(C) Stackelberg leadership model (III) Nash equilibrium  \n(D) Single-shot game (IV) Cheating  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.91]*",
+   "options": [
+    "A-I, B-II, C-III, D-IV",
+    "A-II, B-I, C-IV, D-III",
+    "A-IV, B-III, C-II, D-I",
+    "A-II, B-I, C-III, D-IV"
+   ],
+   "answer": 3,
+   "explanation": "Theory of Games and Economic Behavior; Axelrod's tit-for-tat; Stackelberg equilibrium is a Nash (subgame-perfect) outcome; one-shot games invite cheating."
+  },
+  {
+   "q": "Choose the feature which does not fit with the features of monopolistic competition.  \n*[UGC NET December 2024 · Q.101]*",
+   "options": [
+    "Firms have little control over price",
+    "Perfect mobility of factors of production",
+    "Products are differentiated",
+    "Factor prices and technology are given"
+   ],
+   "answer": 1,
+   "explanation": "Perfect factor mobility is an assumption of perfect competition, not of monopolistic competition. (Answer key may vary.)"
+  },
+  {
+   "q": "Match LIST-I with LIST-II  \nList - I List - II  \n(A) Positive externality in consumption (I) Riding a noisy motor cycle at mid-night  \n(B) Positive externality in Production (II) Honey cultivation near a flower garden  \n(C) Negative externality in consumption (III) Paper mill dumping waste into river  \n(D) Negative externality in Production (IV) Sanitisation of a house  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.102]*",
+   "options": [
+    "A-IV, B-II, C-I, D-III",
+    "A-I, B-IV, C-II, D-III",
+    "A-I, B-IV, C-III, D-II",
+    "A-IV, B-III, C-II, D-I"
+   ],
+   "answer": 0,
+   "explanation": "Sanitising one's house, honey near flowers, noisy motorcycle, paper mill dumping waste."
+  },
+  {
+   "q": "A tangency point between non-linear isoquant and an isocost line identifies -  \n*[UGC NET December 2024 · \nQ.106]*",
+   "options": [
+    "the point of production efficiency where a firm can produce a derived output at the minimum possible cost.",
+    "the various levels of output that can be produced using a given level of inputs.",
+    "the various combinations of inputs that can be used to produce a given level of output.",
+    "the least costly combination of inputs required to produce various levels of output."
+   ],
+   "answer": 0,
+   "explanation": "Tangency of isoquant and isocost = least-cost (productively efficient) way to produce that output."
+  },
+  {
+   "q": "Match LIST-I with LIST-II  \nList - I List - II  \n(A) Perfectly Competitive Model (I) The producers first set the price of the  \nproduct and then produce the output  \ndemanded at that price  \n(B) Bertrand Model (II) It recognises the concept of  \ninterdependence among firms  \n(C) Stackelberg Model (III) Large number of buyers and sellers  \n(D) Oligopoly Model (IV) Few competing firms in the market  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.107]*",
+   "options": [
+    "A-III, B-I, C-II, D-IV",
+    "A-I, B-II, C-III, D-IV",
+    "A-II, B-I, C-III, D-IV",
+    "A-III, B-II, C-IV, D-I"
+   ],
+   "answer": 0,
+   "explanation": "Perfect competition: many buyers and sellers; Bertrand: set price first; Stackelberg: recognises interdependence; oligopoly: few firms."
+  },
+  {
+   "q": "Given the CES production function y = [a1·x1ρ + a2·x2ρ]ρ (as printed), the elasticity of  \nsubstitution between factors is  \n*[UGC NET December 2024 · Q.109]*",
+   "options": [
+    "1",
+    "ρ",
+    "1/ρ",
+    "1/(1 − ρ)"
+   ],
+   "answer": 3,
+   "explanation": "For CES of the form [a1x1^ρ + a2x2^ρ]^(1/ρ), σ = 1/(1 − ρ)."
+  },
+  {
+   "q": "Asymmetric information in the Lemons Market results in:  \n(A) Gradual fall of average price.  \n(B) Gradual withdrawal of better quality products.  \n(C) Adverse selection by one of the parties  \n(D) Gradual withdrawal of inferior quality products.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.118]*",
+   "options": [
+    "A Only",
+    "A, C Only",
+    "A, B, D Only",
+    "A, B, C Only"
+   ],
+   "answer": 3,
+   "explanation": "In the lemons market average price falls, good products withdraw, and adverse selection occurs."
+  },
+  {
+   "q": "The marginal revenue of a firm is Rs. 10 and the price it charges per unit is Rs. 30.  \nAssuming that the firm is a profit maximiser, what is the own price elasticity of demand for the firm  \nat that point of profit maximisation?  \n*[UGC NET December 2024 · Q.124]*",
+   "options": [
+    "1.5",
+    "−1.5",
+    "−0.66",
+    "0.66"
+   ],
+   "answer": 1,
+   "explanation": "10 = 30(1 − 1/|e|) → |e| = 1.5; own-price elasticity = −1.5."
+  },
+  {
+   "q": "Walras law states that if N − 1 markets are in equilibrium, then we can get equilibrium price  \n/ prices in:  \n*[UGC NET December 2024 · Q.128]*",
+   "options": [
+    "Nth market",
+    "2N markets",
+    "N − 3 markets",
+    "N − 4 markets"
+   ],
+   "answer": 0,
+   "explanation": "If N − 1 markets clear, Walras' law makes the Nth clear too."
+  },
+  {
+   "q": "In the presence of externality, Coase theorem argues:  \n*[UGC NET December 2024 · Q.132]*",
+   "options": [
+    "Social optimum can be attained only through government's intervention",
+    "Social optimum can also be attained by mutual agreement between the private parties",
+    "Income effect and transaction costs are to be considered always.",
+    "Property right cannot be assigned to any party"
+   ],
+   "answer": 1,
+   "explanation": "Private bargaining can reach the social optimum once property rights are clear."
+  },
+  {
+   "q": "Arrange the following from earlier to present  \n(A) John F. Nash  \n(B) Von Neumann and Oscar Morgenstern  \n(C) Robert Axelrod  \n(D) Paul Milgrom  \n(E) John Maynard Smith  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2024 · Q.134]*",
+   "options": [
+    "A, B, C, D, E",
+    "A, C, B, D, E",
+    "A, D, B, C, E",
+    "B, A, C, E, D Passage / data for Q.141-145 (December 2024) Consider the following Prisoners' Dilemma Games. Table: Safety Investment Game. Read the payoff matrix and answer the following."
+   ],
+   "answer": 3,
+   "explanation": "von Neumann–Morgenstern (1944) → Nash (1950) → Maynard Smith (1973) and Axelrod (1984) → Milgrom; option 4 is the closest order."
+  },
+  {
+   "q": "Find the correct alternative. In this game, the underinvestment problem can be avoided if -  \n*[UGC NET December 2024 · Q.143]*",
+   "options": [
+    "One firm invests and the other firm does not",
+    "the government sets safety standards that will force both the firms to invest",
+    "both invest",
+    "none invests"
+   ],
+   "answer": 1,
+   "explanation": "In a prisoners' dilemma, a binding rule (safety standards) moves both to the cooperative outcome."
+  },
+  {
+   "q": "Find the correct alternative. Investment by both firms  \n*[UGC NET December 2024 · Q.144]*",
+   "options": [
+    "is an equilibrium",
+    "is a partial equilibrium",
+    "is not an equilibrium",
+    "is a Nash equilibrium"
+   ],
+   "answer": 2,
+   "explanation": "Mutual investment is cooperative but not a Nash equilibrium: each firm gains by not investing."
+  },
+  {
+   "q": "If Q = f(K, L) is a homogeneous production function of degree one, which of the following  \nsatisfies Euler's theorem?  \n*[UGC NET June 2025 S2 · Q.51]*",
+   "options": [
+    "(∂Q/∂K) + (∂Q/∂L) = Q",
+    "(∂Q/∂K)·K + (∂Q/∂L)·L = Q",
+    "(∂Q/∂K)·K + (∂Q/∂L)·L > 1",
+    "(∂Q/∂K) + (∂Q/∂L) = 1"
+   ],
+   "answer": 1,
+   "explanation": "Euler: K·∂Q/∂K + L·∂Q/∂L = Q for linear homogeneity."
+  },
+  {
+   "q": "If the income effect is in the opposite direction as the substitution effect, but the  \nsubstitution effect dominates, then the good is ________.  \n*[UGC NET June 2025 S2 · Q.52]*",
+   "options": [
+    "Normal",
+    "Inferior but not giffen",
+    "Giffen",
+    "There is not enough information to answer"
+   ],
+   "answer": 1,
+   "explanation": "Opposite but weaker income effect: inferior, not Giffen."
+  },
+  {
+   "q": "If both input and output markets are competitive and firms are profit maximizing, then in  \nequilibrium each factor of production earns:  \n*[UGC NET June 2025 S2 · Q.53]*",
+   "options": [
+    "An amount equal to the price of output times total output.",
+    "The amount allocated by political process",
+    "An equal share of output.",
+    "The value of its marginal product."
+   ],
+   "answer": 3,
+   "explanation": "In competitive markets each factor earns its value of marginal product."
+  },
+  {
+   "q": "Which of the following game does not have any Nash Equilibrium?  \n*[UGC NET June 2025 S2 · Q.54]*",
+   "options": [
+    "BoS Game",
+    "Stag Hunt Game",
+    "Matching Pennies Game",
+    "Prisoner's Dilemma"
+   ],
+   "answer": 2,
+   "explanation": "Matching pennies has no pure-strategy Nash equilibrium."
+  },
+  {
+   "q": "Given U = (x + 2)(y + 1) and Px = 4 and Py = 6 and budget (B) = 130. Find the optimum  \nlevels of purchase of x* and y*.  \n*[UGC NET June 2025 S2 · Q.69]*",
+   "options": [
+    "x* = 11, y* = 16",
+    "x* = 15, y* = 28",
+    "x* = 18, y* = 8",
+    "x* = 16, y* = 11"
+   ],
+   "answer": 3,
+   "explanation": "MRS = (y + 1)/(x + 2) = 4/6 and 4x + 6y = 130 → y = 11, x = 16."
+  },
+  {
+   "q": "If the demand law is: P = √(9 − x) and the demand is fixed at x0 = 5. Find the consumer's  \nsurplus.  \n*[UGC NET June 2025 S2 · Q.70]*",
+   "options": [
+    "8/3",
+    "11/15",
+    "8/15",
+    "7/3"
+   ],
+   "answer": 0,
+   "explanation": "P(5) = 2. CS = ∫₀⁵√(9 − x)dx − 10 = (2/3)(27 − 8) − 10 = 38/3 − 10 = 8/3."
+  },
+  {
+   "q": "A company has examined its costs and revenue structure and has determined that C - total  \ncost, R - the total revenue and X - the number of units produced are related as: C = 100 + 0.015X²  \nand R = 3X. Find the product level X that will maximize profit for this company.  \n*[UGC NET June 2025 S2 · Q.73]*",
+   "options": [
+    "120",
+    "80",
+    "150",
+    "100"
+   ],
+   "answer": 3,
+   "explanation": "π = 3X − 100 − 0.015X²; dπ/dX = 3 − 0.03X = 0 → X = 100."
+  },
+  {
+   "q": "Lexicographic preference violates which of the following axioms of utility theory?  \n*[UGC NET June 2025 S2 \n· Q.89]*",
+   "options": [
+    "Transitivity Axiom",
+    "Convexity Axiom",
+    "Continuity Axiom",
+    "Independence Axiom"
+   ],
+   "answer": 2,
+   "explanation": "Lexicographic preferences cannot be represented by a continuous utility function."
+  },
+  {
+   "q": "Which of the followings are true pertaining to the problems of asymmetric information?  \n(A) Sellers can deal with the problem of asymmetric information by sending buyers signals  \nabout the quality of product.  \n(B) If a seller of a product has better information about its quality than buyer, then bad products  \ntend to drive good products out of the market.  \n(C) According to the efficiency wage theory, a wage lower than the competitive wage increases  \nworker productivity by discouraging workers from shirking on the job.  \n(D) Adverse selection arises because of asymmetric information in insurance market.  \n(E) Owners can avoid principal agent problem by designing contracts that give their agents  \nincentive to perform better.  \nChoose the correct answer from the options given below:  \n*[UGC NET June \n2025 S2 · Q.106]*",
+   "options": [
+    "A & B Only",
+    "A, B & C Only",
+    "B, C & D Only",
+    "A, B, D & E Only"
+   ],
+   "answer": 3,
+   "explanation": "Efficiency wages are above, not below, the market wage; the rest are true."
+  },
+  {
+   "q": "Which of the following conditions are required for the set of consumers to exhibit parallel,  \nstraight wealth expansion paths at any price vector P?  \n(A) Preferences admit indirect utility function of the Gorman form.  \n(B) Preferences are heterogeneous  \n(C) Wealth is equally distributed among all consumers.  \n(D) All consumers have identical preferences that are homothetic.  \n(E) All consumers have preferences that are quasilinear with respect to the same good.  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.107]*",
+   "options": [
+    "A, B & C Only",
+    "A, D & E Only",
+    "B, C & D Only",
+    "A, B & D Only"
+   ],
+   "answer": 1,
+   "explanation": "Gorman form, identical homothetic or quasilinear preferences give parallel straight expansion paths."
+  },
+  {
+   "q": "Which of the followings are true regarding the outcome of a consumer's optimization  \nprocess.  \n(A) The marginal utility per rupee spent on each good is the same.  \n(B) The marginal rate of substitution between goods is equal to the ratio of the prices between  \nthe goods.  \n(C) The consumer reaches the highest indifference curve in the indifference map.  \n(D) The consumer indifference curve is tangent to his/her budget line.  \n(E) From utility point of view, consumer is indifferent between any two points on his/her budget  \nline.  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.108]*",
+   "options": [
+    "A, C & E Only",
+    "A, D & E Only",
+    "A, B & D Only",
+    "A, B, D & E Only"
+   ],
+   "answer": 2,
+   "explanation": "At the optimum MU/P is equal, MRS = price ratio, and the IC is tangent to the budget line."
+  },
+  {
+   "q": "Consider the following payoff matrix (Player 1 chooses rows T, M, B; Player 2 chooses  \ncolumns L, R):  \nPlayer 1 \\ Player 2 L R  \nT 1, 5 0, 3  \nM 2, 6 1, 4  \nB 3, 7 2, 2  \nWhich of the following statements are true about the above payoff matrix?  \n(A) Player-1 has two strictly dominated strategies.  \n(B) None of the strategies of player-2 are weakly dominated.  \n(C) Strategy T weakly dominates strategy B.  \n(D) Strategy M of Player-1 will never be used in Nash-equilibrium.  \n(E) Strategy M strictly dominates strategy T.  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.113]*",
+   "options": [
+    "A, B, C & E Only",
+    "A, D & E Only",
+    "B, C & D Only",
+    "C, D & E Only"
+   ],
+   "answer": 1,
+   "explanation": "B strictly dominates T and M; M strictly dominates T; so M is never used in equilibrium."
+  },
+  {
+   "q": "Which of the followings are true in case of externality?  \n(A) In case of externality, all costs and benefits associated with the goods are not internalized  \nby households and firms involved in buying and productions.  \n(B) Presence of externality results either under production or over production of the good.  \n(C) Market based decision making yields an efficient outcome in the presence of externality.  \n(D) In case of negative externality, the marginal social cost is higher than marginal cost.  \n(E) Well defined property right can solve the problem of externality.  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.117]*",
+   "options": [
+    "A, B, & D Only",
+    "B, D & E Only",
+    "A, B, D & E Only",
+    "B, C, D & E Only"
+   ],
+   "answer": 2,
+   "explanation": "Externalities are not internalised, cause over- or under-production, MSC > MC for negative ones, and clear rights help."
+  },
+  {
+   "q": "Which of the followings statements correctly describe the concept of efficiency in  \nenvironmental economics?  \n(A) An allocation is pareto efficient if no one can be made better off without making someone  \nelse worse off.  \n(B) Efficiency ensures a fair and equitable distribution of resources among all individuals.  \n(C) Market allocations are efficient only in the absence of market failures such as externalities.  \n(D) Efficiency is a normative concept concerned with what should be done based on societal  \nvalue.  \n(E) Environmental policies that internalize externalities can improve efficiency.  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.122]*",
+   "options": [
+    "A, B & D Only",
+    "A, B & E Only",
+    "A, C & E Only",
+    "B, C & D Only"
+   ],
+   "answer": 2,
+   "explanation": "Pareto efficiency, efficiency of markets only without failures, and internalising policies improving efficiency."
+  },
+  {
+   "q": "According to Coase theorem, which of the following are possible outcomes of assigning  \nproperty rights?  \n(A) The polluter pays the victim to continue polluting.  \n(B) The victim pays the polluter to reduce pollution.  \n(C) The government must set pollution taxes to ensure efficiency.  \n(D) Market outcomes can achieve efficiency even if externalities exist.  \n(E) The polluter and victim always have equal bargaining power.  \nChoose the most appropriate answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.123]*",
+   "options": [
+    "A, B & C Only",
+    "A, B & D Only",
+    "B, C & D Only",
+    "C, D & E Only"
+   ],
+   "answer": 1,
+   "explanation": "Either party may pay the other, and bargaining can be efficient despite externalities."
+  },
+  {
+   "q": "Match List-I with List-II:  \nList - I List - II  \n(A) Playing each strategy with probability (I) Nash equilibrium  \n(B) Maximum payoff given the strategy of other (II) Grim trigger strategy  \n(C) Long-run behavior (III) Best response function  \n(D) Period of punishment is infinite (IV) Mixed strategy  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.126]*",
+   "options": [
+    "A-II, B-III, C-IV, D-I",
+    "A-I, B-IV, C-III, D-II",
+    "A-III, B-II, C-IV, D-I",
+    "A-IV, B-III, C-I, D-II"
+   ],
+   "answer": 3,
+   "explanation": "Mixed strategy, best response, Nash equilibrium (long-run behaviour), grim trigger (infinite punishment)."
+  },
+  {
+   "q": "Match List-I with List-II:  \nList - I List - II  \n(A) Income elasticity greater than one (I) Substitute goods  \n(B) Positive cross price elasticity (II) Inferior goods  \n(C) Downward sloping price consumption curve (III) Luxurious goods  \n(PCC)  \n(D) Negative income effect (IV) Relative elastic demand  \nChoose the correct answer from the options given below:  \n*[UGC NET June 2025 S2 · Q.127]*",
+   "options": [
+    "A-IV, B-II, C-I, D-III",
+    "A-III, B-II, C-I, D-IV",
+    "A-IV, B-II, C-III, D-I",
+    "A-III, B-I, C-IV, D-II"
+   ],
+   "answer": 3,
+   "explanation": "Luxury goods, substitutes, elastic demand (falling PCC), inferior goods."
+  },
+  {
+   "q": "Which one of the following holds true at equilibrium level of demand for labour by a  \nperfectly competitive firm?  \n*[UGC NET December 2025 · Q.64]*",
+   "options": [
+    "VMPL < MRPL",
+    "VMPL = MRPL",
+    "VMPL > MRPL",
+    "VMPL + MRPL = W"
+   ],
+   "answer": 1,
+   "explanation": "With competitive product and factor markets VMP_L = MRP_L = wage."
+  },
+  {
+   "q": "Given the demand function Q = 100 − P − P², the elasticity of demand (ed) at price P = 5 is:  \n*[UGC NET December 2025 · Q.65]*",
+   "options": [
+    "elastic",
+    "inelastic",
+    "unitary elastic",
+    "infinitely elastic"
+   ],
+   "answer": 1,
+   "explanation": "Q = 70, dQ/dP = −11; e = −11 × 5/70 ≈ −0.79: inelastic."
+  },
+  {
+   "q": "For Cobb-Douglas production function with two inputs, Q = A·Kα·Lβ where A > 0, α and β are  \n> 0, the marginal products are:  \n(A) MPK = (α/K)·Q  \n(B) MPK = (β/K)·Q  \n(C) MPL = (α/L)·Q  \n(D) MPL = (β/L)·Q  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.68]*",
+   "options": [
+    "A and C only",
+    "A and D only",
+    "B and C only",
+    "B and D only"
+   ],
+   "answer": 1,
+   "explanation": "MPK = αQ/K and MPL = βQ/L."
+  },
+  {
+   "q": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as  \nReason (R).  \nAssertion (A): When everyone trades in the competitive market place, all mutually beneficial  \ntrades are completed and the resulting equilibrium allocation of resources are economically  \nefficient.  \nReason (R): Even if a trade from an inefficient allocation makes everyone better off, the new  \nallocation is not necessarily efficient.  \nIn the light of the above statements, choose the most appropriate answer from the options  \ngiven below:  \n*[UGC NET December 2025 · Q.80]*",
+   "options": [
+    "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+    "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+    "(A) is correct but (R) is not correct",
+    "(A) is not correct but (R) is correct"
+   ],
+   "answer": 1,
+   "explanation": "Competitive trade exhausts gains (first welfare theorem); R is true but is not the reason for A."
+  },
+  {
+   "q": "A natural monopoly occurs when:  \n*[UGC NET December 2025 · Q.92]*",
+   "options": [
+    "Average cost keeps on rising with increase in output over the relevant range of output.",
+    "Average cost remains constant with increase in output over the relevant range of output.",
+    "Average cost first decreases and then rises with increase in output over the relevant range of output.",
+    "Average cost keeps on decreasing with increase in output over the relevant range of output."
+   ],
+   "answer": 3,
+   "explanation": "Natural monopoly: AC falls over the whole relevant output range."
+  },
+  {
+   "q": "Given the demand function P = 80 − 3Q and cost function TC = 120 + 8Q:  \n(A) Maximum Revenue occurs at Q = 12  \n(B) Maximum Revenue occurs at Q = 3  \n(C) Maximum Revenue is 528  \n(D) Maximum Revenue is 213  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · \nQ.94]*",
+   "options": [
+    "A and C only",
+    "A and D only",
+    "B and C only",
+    "B and D only"
+   ],
+   "answer": 0,
+   "explanation": "At Q = 12 (where MR = MC = 8) revenue = 80×12 − 3×144 = 528; the key pairs A and C."
+  },
+  {
+   "q": "The Coasian Bargaining Approach will work when:  \n(A) The rights of the bargaining parties are transferable  \n(B) The bargaining parties are equally informed  \n(C) The property rights are legally established  \n(D) The resources are universally owned  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.96]*",
+   "options": [
+    "A and D only",
+    "B and D only",
+    "B and C only",
+    "A and C only"
+   ],
+   "answer": 3,
+   "explanation": "Coasian bargaining needs legally established and transferable property rights."
+  },
+  {
+   "q": "Welfare criterion based on compensation payments is known as:  \n*[UGC NET December 2025 · Q.108]*",
+   "options": [
+    "Dalton-Friedman Compensation Criterion",
+    "Amartya Sen Compensation Criterion",
+    "Pareto-Bains Compensation Criterion",
+    "Kaldor-Hicks Compensation Criterion"
+   ],
+   "answer": 3,
+   "explanation": "Compensation-based welfare criterion: Kaldor–Hicks."
+  },
+  {
+   "q": "Arrange the following theories in a chronological order.  \n(A) Theory of limit pricing (Bain's Model)  \n(B) Logical ordering theory of demand given by J.R. Hicks  \n(C) Cardinal utility theory of demand  \n(D) Walras theory of general equilibrium  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.123]*",
+   "options": [
+    "D, C, A, B",
+    "B, C, A, D",
+    "A, B, D, C",
+    "D, B, C, A"
+   ],
+   "answer": 0,
+   "explanation": "Walras (1874) → cardinal (Marshall, 1890) → Bain's limit pricing (1949) → Hicks's logical ordering (1956)."
+  },
+  {
+   "q": "In a situation of decline in price of a Giffen Commodity, we find:  \n*[UGC NET December 2025 · Q.128]*",
+   "options": [
+    "positive substitution effect is less than negative income effect",
+    "positive substitution effect is more than negative income effect",
+    "negative substitution effect is more than positive income effect",
+    "negative substitution effect is less than positive income effect"
+   ],
+   "answer": 0,
+   "explanation": "For a Giffen good the (perverse) income effect outweighs the substitution effect."
+  },
+  {
+   "q": "Kinked-Demand model of oligopoly was developed by which of the following?  \n*[UGC NET December 2025 · \nQ.130]*",
+   "options": [
+    "Chamberlin",
+    "Bertrand",
+    "Stackelberg",
+    "Sweezy"
+   ],
+   "answer": 3,
+   "explanation": "Paul Sweezy (1939)."
+  },
+  {
+   "q": "Match List - I with List - II.  \nList - I List - II  \n(A) ed  \n(B) es for supply function S = −25 + 5P, at P = (II) 4  \n10  \n(C) The value of MR when P = 8 and ed = 4 (III) 3  \n(D) The value of MPPL when VMPL = 12 and P = (IV) 2  \n3  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.132]*",
+   "options": [
+    "A-III, B-IV, C-I, D-II",
+    "A-II, B-III, C-I, D-IV",
+    "A-I, B-IV, C-II, D-III",
+    "A-III, B-I, C-IV, D-II"
+   ],
+   "answer": 0,
+   "explanation": "es = 5 × 10/25 = 2; MPPL = VMPL/P = 12/3 = 4; matches option 1."
+  },
+  {
+   "q": "Which one of the following production function exhibits decreasing returns to scale?  \n*[UGC NET December 2025 · Q.134]*",
+   "options": [
+    "A·K1/4·√L",
+    "A·Kα·L1−α",
+    "A(3K + 5L)",
+    "A·√(K·L³)"
+   ],
+   "answer": 0,
+   "explanation": "Exponents 1/4 + 1/2 = 3/4 < 1: decreasing returns."
+  },
+  {
+   "q": "For analysing effective rent control in the housing sector:  \n(A) The shortage of housing is small in the short run compared to the long run.  \n(B) The shortage of housing is large in the short run compared to the long run.  \n(C) The effective rent control exists when a government places an effective price floor on rent.  \n(D) The effective rent control exists when a government places an effective price ceiling on rent.  \nChoose the correct answer from the options given below:  \n*[UGC NET December 2025 · Q.138]*",
+   "options": [
+    "A and C only",
+    "B and C only",
+    "A and D only",
+    "B and D only"
+   ],
+   "answer": 2,
+   "explanation": "Rent control is a price ceiling; shortages grow in the long run as supply becomes more elastic."
+  },
+  {
+   "q": "Monopoly Power is explained by which of the following?  \n*[UGC NET December 2025 · Q.139]*",
+   "options": [
+    "(P − MC)/P",
+    "(P + MC)/P",
+    "(P − AC)/P",
+    "(P + AC)/P"
+   ],
+   "answer": 0,
+   "explanation": "Lerner's index (P − MC)/P measures monopoly power."
+  }
+ ]
+}
